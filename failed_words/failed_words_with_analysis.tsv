@@ -1,0 +1,1183 @@
+failed_word	gold_line	gold_pattern	predicted_pattern	morphological_analysis	lemma	pos
+Ἰ_ησοῦς	Ὁ μὲν σωτὴρ καὶ κύ_ρι^ος ἡμῶν Ἰ_ησοῦς Χριστὸς	LHHHHHLLHHHHHHH	LHHHHHLLHHLHH-H	Case=Nom|Gender=Masc|Number=Sing	ἰησοῦς	PROPN
+Χριστὸς	Ὁ μὲν σωτὴρ καὶ κύ_ρι^ος ἡμῶν Ἰ_ησοῦς Χριστὸς	LHHHHHLLHHHHHHH	LHHHHHLLHHLHH-H	Case=Nom|Gender=Masc|Number=Sing	χριστός	ADJ
+ἀ^πεκρί_νετο,	οὐδὲν ἀ^πεκρί_νετο, πειθόμενος πά^ντα^ τὸν βί^ον ἑαυτοῦ	HLLHHLLHLLHHLHLLLHH	HLL-HLLHLLHLLHLLLHH	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἀπεκρίνω	VERB
+πά^ντα^	οὐδὲν ἀ^πεκρί_νετο, πειθόμενος πά^ντα^ τὸν βί^ον ἑαυτοῦ	HLLHHLLHLLHHLHLLLHH	HLL-HLLHLLHLLHLLLHH	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+Ἰ_ουδαίοις	καὶ τὰ_ς ἐν Ἰ_ουδαίοις πράξεις κρείττους γεγονέναι φωνῆς	HHLHHHHHHHHLLLHHH	HHLLHHHHHHHLLLHHH	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἰουδαῖος	ADJ
+κα^τὰ^	οἶδ' ὅπως πρὸς τὰ_ς Κέλσου κα^τὰ^ Χρι_στι^α_νῶν ἐν συγγράμμα^σι^	HLHHHHHLHHLHHHHHLL	HLHHHHHLL--HHHHHLL		κατά	ADP
+Χρι_στι^α_νῶν	οἶδ' ὅπως πρὸς τὰ_ς Κέλσου κα^τὰ^ Χρι_στι^α_νῶν ἐν συγγράμμα^σι^	HLHHHHHLHHLHHHHHLL	HLHHHHHLL--HHHHHLL	Case=Gen|Gender=Masc|Number=Plur	Χριστιανός	NOUN
+Χρι_στι^α_νῶν	οἶδ' ὅπως πρὸς τὰ_ς Κέλσου κα^τὰ^ Χρι_στι^α_νῶν ἐν συγγράμμα^σι^	HLHHHHHLHHLHHHHHLL	HLHHHHHLL--HHHHHLL	Case=Gen|Gender=Masc|Number=Plur	Χριστιανός	NOUN
+πίστεως	ψευδομαρτυ^ρί^α_ς καὶ τῆς πίστεως τῶν ἐκκλησι^ῶν ἐν βιβλί^ῳ	HLHLLHHHHLHHHHLHHHLH	HLHLLHHH-LHHHHLHHLLH	Case=Gen|Gender=Fem|Number=Sing	πίστις	NOUN
+βιβλί^ῳ	ψευδομαρτυ^ρί^α_ς καὶ τῆς πίστεως τῶν ἐκκλησι^ῶν ἐν βιβλί^ῳ	HLHLLHHHHLHHHHLHHHLH	HLHLLHHH-LHHHHLHHLLH	Case=Dat|Gender=Neut|Number=Sing	βιβλίον	NOUN
+γρα^μμά^των	ἐναργοῦς ἐλέγχου ἐν τοῖς πρά_γμα^σι^ καὶ πάντων γρα^μμά^των  	LHHLHHHHHLLHHHHLH	LHHLHHHHHLLHHHLLH	Case=Gen|Gender=Neut|Number=Plur	γράμμα	NOUN
+πι^θα^νότητα^	καὶ ταῖς κα^τηγορί^αις μηδὲ πι^θα^νότητα^ εἰς τὸ δύ^να^σθαί τι^	HHLHLLHHLLLLHLHLLHHL	HHLHLLHHL-LLHLHLLLHL	Case=Acc|Gender=Fem|Number=Sing	πιθανότης	NOUN
+δύ^να^σθαί	καὶ ταῖς κα^τηγορί^αις μηδὲ πι^θα^νότητα^ εἰς τὸ δύ^να^σθαί τι^	HHLHLLHHLLLLHLHLLHHL	HHLHLLHHL-LLHLHLLLHL	Tense=Pres|VerbForm=Inf|Voice=Mid	δύναμαί	VERB
+ἐνδιδόντος.	αὐτὰ_ς ἐνδιδόντος. Περὶ^ δὲ τοῦ Ἰησοῦ ὅτι^ ἐσι^ώπα_	HHHHHHLLLHHHHLLLLHH	HHH-HHLLLHLHHLLLLHH	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἐνδίδωμι	VERB
+Ἰησοῦ	αὐτὰ_ς ἐνδιδόντος. Περὶ^ δὲ τοῦ Ἰησοῦ ὅτι^ ἐσι^ώπα_	HHHHHHLLLHHHHLLLLHH	HHH-HHLLLHLHHLLLLHH	Case=Gen|Gender=Masc|Number=Sing	ἰησοῦς	PROPN
+ἰ_σοδυ^να^μοῦντα^	πα^ρα^θέσθαι· τὰ^ γὰ^ρ ἰ_σοδυ^να^μοῦντα^ αὐτῷ ὁ Μάρκος ἔγραψεν.	LLHHLLHLLLHLHHLHLHHH	LLHHLLLLLLHLHHLHL-HH	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἰσοδυναμόω	VERB
+ἔγραψεν.	πα^ρα^θέσθαι· τὰ^ γὰ^ρ ἰ_σοδυ^να^μοῦντα^ αὐτῷ ὁ Μάρκος ἔγραψεν.	LLHHLLHLLLHLHHLHLHHH	LLHHLLLLLLHLHHLHL-HH	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	γράφω	VERB
+λέξι^ς·	Ἔχει δ' οὕτως ἡ τοῦ Ματθαίου λέξι^ς· Ὁ δὲ ἀρχι^ερεὺς	LHHHHHHHHHHLLHLLH	LHHHHHHHHHLLLH-LH	Case=Nom|Gender=Fem|Number=Sing	λέξις	NOUN
+ἀρχι^ερεὺς	Ἔχει δ' οὕτως ἡ τοῦ Ματθαίου λέξι^ς· Ὁ δὲ ἀρχι^ερεὺς	LHHHHHHHHHHLLHLLH	LHHHHHHHHHLLLH-LH	Case=Nom|Gender=Masc|Number=Sing	ἀρχιερεύς	NOUN
+συ^νέδρι^ον	καὶ τὸ συ^νέδρι^ον ἐζήτουν ψευδομαρτυ^ρί^α_ν κα^τὰ^ τοῦ Ἰησοῦ,	HLLHLLHHHHLHLLHLLHHHH	HLL--LHHHHLHLLHLLHLHH	Case=Nom|Gender=Neut|Number=Sing	συνέδριον	NOUN
+συ^νέδρι^ον	καὶ τὸ συ^νέδρι^ον ἐζήτουν ψευδομαρτυ^ρί^α_ν κα^τὰ^ τοῦ Ἰησοῦ,	HLLHLLHHHHLHLLHLLHHHH	HLL--LHHHHLHLLHLLHLHH	Case=Nom|Gender=Neut|Number=Sing	συνέδριον	NOUN
+Ἰησοῦ,	καὶ τὸ συ^νέδρι^ον ἐζήτουν ψευδομαρτυ^ρί^α_ν κα^τὰ^ τοῦ Ἰησοῦ,	HLLHLLHHHHLHLLHLLHHHH	HLL--LHHHHLHLLHLLHLHH	Case=Gen|Gender=Masc|Number=Sing	ἰησοῦς	PROPN
+σι^δήρῳ	σι^δήρῳ καὶ ἀ^πα^θὴς τὸ σῶμα^ πλασσόμενος, εἶτα^	LHHHLLHLHHHLLLHL	-HHHLLHLLL-LLLHL	Case=Dat|Gender=Neut|Number=Sing	σίδηρον	NOUN
+σῶμα^	σι^δήρῳ καὶ ἀ^πα^θὴς τὸ σῶμα^ πλασσόμενος, εἶτα^	LHHHLLHLHHHLLLHL	-HHHLLHLLL-LLLHL	Case=Nom|Gender=Neut|Number=Sing	σῶμα	NOUN
+σῶμα^	σι^δήρῳ καὶ ἀ^πα^θὴς τὸ σῶμα^ πλασσόμενος, εἶτα^	LHHHLLHLHHHLLLHL	-HHHLLHLLL-LLLHL	Case=Nom|Gender=Neut|Number=Sing	σῶμα	NOUN
+πλασσόμενος,	σι^δήρῳ καὶ ἀ^πα^θὴς τὸ σῶμα^ πλασσόμενος, εἶτα^	LHHHLLHLHHHLLLHL	-HHHLLHLLL-LLLHL	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Mid	πλασσόμενος	VERB
+ἄτρωτος	κα^τα^δὺ_ς ἄτρωτος ὑ^πὸ γῆν 'σχί^σα^ς ὀρθῷ ποδὶ^ γᾶν·	LLHHHLLLHLLHHLLH	LLH-HLLLHLHHHLLH	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	ἄτρωτος	ADJ
+'σχί^σα^ς	κα^τα^δὺ_ς ἄτρωτος ὑ^πὸ γῆν 'σχί^σα^ς ὀρθῷ ποδὶ^ γᾶν·	LLHHHLLLHLLHHLLH	LLH-HLLLHLHHHLLH		'	INTJ
+ὑ^π'	ὁ δὲ Στωϊ^κὸς Λα^πί^θης, ὥσπερ ἐξ ἀ^δα^μαντί^νης ὕ_λης ὑ^π'	LHHLHLLHHLHLLHLHHHH	LHHLHLLHHLHLLHLHHHL		ὑπό	ADP
+ἄτρωτός	αὐτῶν τῆς ἀ^πα^θεία_ς κεχαλκευμένος, οὐκ ἄτρωτός ἐστι^ν	HHHLLHHLHHLLHHHLHH	HHHLLHHLHHLLH-HLHL	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	ἄτρωτός	ADJ
+ἐστι^ν	αὐτῶν τῆς ἀ^πα^θεία_ς κεχαλκευμένος, οὐκ ἄτρωτός ἐστι^ν	HHHLLHHLHHLLHHHLHH	HHHLLHHLHHLLH-HLHL	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	AUX
+ἀ^να^γκά^ζεται	οὐκ ἀ^να^γκά^ζεται καὶ στρεβλούμενος οὐ 	HLHHLHHHHLLH	HLLLLHH-HLLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀναγκάζω	VERB
+ἀ^να^γκά^ζεται	οὐκ ἀ^να^γκά^ζεται καὶ στρεβλούμενος οὐ 	HLHHLHHHHLLH	HLLLLHH-HLLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀναγκάζω	VERB
+στρεβλούμενος	οὐκ ἀ^να^γκά^ζεται καὶ στρεβλούμενος οὐ 	HLHHLHHHHLLH	HLLLLHH-HLLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	στρεβλέω	VERB
+περι^τειχι^ζόμενος	πα^λαίειν ἀ^ήττητός ἐστι^ καὶ περι^τειχι^ζόμενος ἀ^πολι^όρκητος 	LHHLHHLHLHLLHHLLLLLLHHH	LHHLHHLHLHLLHLLLLLL-HHH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	περιτειχίζω	VERB
+ἀ^πολι^όρκητος	πα^λαίειν ἀ^ήττητός ἐστι^ καὶ περι^τειχι^ζόμενος ἀ^πολι^όρκητος 	LHHLHHLHLHLLHHLLLLLLHHH	LHHLHHLHLHLLHLLLLLL-HHH	Case=Nom|Gender=Masc|Number=Sing	ἀπολιόρκης	NOUN
+ἀ^νά^λωτος,	καὶ πωλούμενος ὑ^πὸ τῶν πολεμί^ων ἀ^νά^λωτος, οὐθὲν	HHHLLLLHLLLHLLHLHH	HHHLLLLHLLLHLHHLHH	Case=Nom|Gender=Masc|Number=Sing	ἀνάλωτος	ADJ
+ἐπι^γέγρα^πται	τῶν πλοίων δι^α^φέρων, οἷς ἐπι^γέγρα^πται μὲν Εὔπλοια^ καὶ	HHHLLLHHLLHHHLHHLH	HHHLLLHHLL-LHLHHLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	ἐπιγράφω	VERB
+ἐπι^γέγρα^πται	τῶν πλοίων δι^α^φέρων, οἷς ἐπι^γέγρα^πται μὲν Εὔπλοια^ καὶ	HHHLLLHHLLHHHLHHLH	HHHLLLHHLL-LHLHHLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	ἐπιγράφω	VERB
+συ^ντρί_βεται	συ^ντρί_βεται καὶ ἀ^να^τρέπεται.	HHLHHLHLLH	LHLHHLLLLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	συντρίβω	VERB
+ἀ^να^τρέπεται.	συ^ντρί_βεται καὶ ἀ^να^τρέπεται.	HHLHHLHLLH	LHLHHLLLLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀνατρέπεμι	VERB
+Εὐρι_πί^δου	Ὁ Εὐρι_πί^δου Ἰ^όλα_ος ἐξ ἀ^δρα^νοῦς καὶ πα^ρήλι^κος εὐχῇ	LHHLHLLHLHHLHHLHLLHH	LH-LHLLLLH-LHHLHLLHH	Case=Gen|Gender=Masc|Number=Sing	Εὐριπίδου	PROPN
+Ἰ^όλα_ος	Ὁ Εὐρι_πί^δου Ἰ^όλα_ος ἐξ ἀ^δρα^νοῦς καὶ πα^ρήλι^κος εὐχῇ	LHHLHLLHLHHLHHLHLLHH	LH-LHLLLLH-LHHLHLLHH	Case=Nom|Gender=Masc|Number=Sing	ἰόλαος	NOUN
+ἀ^δρα^νοῦς	Ὁ Εὐρι_πί^δου Ἰ^όλα_ος ἐξ ἀ^δρα^νοῦς καὶ πα^ρήλι^κος εὐχῇ	LHHLHLLHLHHLHHLHLLHH	LH-LHLLLLH-LHHLHLLHH	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἀδρανοῦς	ADJ
+κά^κι^στος,	ἅ^μα^ καὶ κά^κι^στος, τήμερον δ' ἄ^φνω μετα^βέβληκεν εἰς	LLHLHHHLHHHLLHHLH	LLHLLHHLH-HLL-HLH	Case=Nom|Gender=Masc|Number=Sing	κακός	ADJ
+μετα^βέβληκεν	ἅ^μα^ καὶ κά^κι^στος, τήμερον δ' ἄ^φνω μετα^βέβληκεν εἰς	LLHLHHHLHHHLLHHLH	LLHLLHHLH-HLL-HLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	μεταβέβληκεν	VERB
+ἐκ	ἀ^ρετὴν καὶ γέγονεν ἐκ ῥυ_σοῦ καὶ ὠχροῦ καὶ κα^τ' Αἰσχύ^λον	LLHHLLLHHHHHHHHHLH	LLHHLLL-HHHHHHLHLH		ἐκ	ADP
+κα^τ'	ἀ^ρετὴν καὶ γέγονεν ἐκ ῥυ_σοῦ καὶ ὠχροῦ καὶ κα^τ' Αἰσχύ^λον	LLHHLLLHHHHHHHHHLH	LLHHLLL-HHHHHHLHLH		κατά	ADP
+προφρόνως	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH	Degree=Pos	πρόφρων	ADV
+ἀρθέντ'	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἀρθέντ	VERB
+ἀ^πὸ	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH		ἀπό	ADP
+ἀ^πὸ	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH		ἀπό	ADP
+προστομί^ων	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH	Case=Gen|Gender=Neut|Number=Plur	προστόμιον	NOUN
+προστομί^ων	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH	Case=Gen|Gender=Neut|Number=Plur	προστόμιον	NOUN
+προστομί^ων	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH	Case=Gen|Gender=Neut|Number=Plur	προστόμιον	NOUN
+λεπτοψα^μά^θων	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH	Case=Gen|Gender=Fem|Number=Plur	λεπτοψάμαθος	NOUN
+λεπτοψα^μά^θων	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH	Case=Gen|Gender=Fem|Number=Plur	λεπτοψάμαθος	NOUN
+δὲ	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH		δέ	ADV
+λι^ποῦσαι	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	λιπέω	VERB
+φυξα_νορί^αν,	ἀλλ' αὐτογενεῖ φυξα_νορί^αν, γά^μον Αἰγύπτου παίδων ἀ^σεβῆ τ' ὀνοταζόμεναι δι^ά^νοια^ν.	HHLLHHHLLHLLHHHHHLLHLLHLLHLLHH	HHLLHHLLLHLLHHHHHLLHLLHLLHLLHL	Case=Acc|Gender=Fem|Number=Sing	φυξανορία	NOUN
+δι^ά^νοια^ν.	ἀλλ' αὐτογενεῖ φυξα_νορί^αν, γά^μον Αἰγύπτου παίδων ἀ^σεβῆ τ' ὀνοταζόμεναι δι^ά^νοια^ν.	HHLLHHHLLHLLHHHHHLLHLLHLLHLLHH	HHLLHHLLLHLLHHHHHLLHLLHLLHLLHL	Case=Acc|Gender=Fem|Number=Sing	διάνοια	NOUN
+θεά_,	εἰπέ, θεά_, Κρονί^δα_ο δι^άκτορον αἴθοπος αὐγῆς,	HLLHLLHLLHLLHLLHH	HLL-LLLL-HLLHLLHH	Case=Voc|Gender=Fem|Number=Sing	θεά	NOUN
+Κρονί^δα_ο	εἰπέ, θεά_, Κρονί^δα_ο δι^άκτορον αἴθοπος αὐγῆς,	HLLHLLHLLHLLHLLHH	HLL-LLLL-HLLHLLHH	Case=Gen|Gender=Masc|Number=Sing	Κρονίδης	NOUN
+δι^άκτορον	εἰπέ, θεά_, Κρονί^δα_ο δι^άκτορον αἴθοπος αὐγῆς,	HLLHLLHLLHLLHLLHH	HLL-LLLL-HLLHLLHH	Case=Acc|Gender=Masc|Number=Sing	διάκτορος	NOUN
+δισσοτόκοιο,	Βάκχου δισσοτόκοιο, τὸν ἐκ πυ^ρὸς ὑγρὸν ἀ^είρα_ς	HHHLLHLLHLLHLLHH	HH-LLHLLHHL-LLHH	Case=Gen|Gender=Masc|Number=Sing	δισσοτόκος	ADJ
+πυ^ρὸς	Βάκχου δισσοτόκοιο, τὸν ἐκ πυ^ρὸς ὑγρὸν ἀ^είρα_ς	HHHLLHLLHLLHLLHH	HH-LLHLLHHL-LLHH	Case=Gen|Gender=Neut|Number=Sing	πῦρ	NOUN
+ὑγρὸν	Βάκχου δισσοτόκοιο, τὸν ἐκ πυ^ρὸς ὑγρὸν ἀ^είρα_ς	HHHLLHLLHLLHLLHH	HH-LLHLLHHL-LLHH	Case=Acc|Gender=Neut|Number=Sing	ὑγρός	ADJ
+χα^ρά^ξα_ς,	φειδομέναις πα^λά^μῃσι^ τομὴν μηροῖο χα^ρά^ξα_ς,	HLLHLLHLLHHHLLHH	HLLHLLHLLHHHLLLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	χαράσσω	VERB
+ἄ^ρσενι^	ἄ^ρσενι^ γαστρὶ^ λόχευσε, πα^τὴρ καὶ πότνι^α^ μήτηρ,	HLLHLLHLLHHHLLHH	LLL-LLHLLHH--LHH	Case=Nom|Gender=Masc|Number=Plur	ἄρσενς	ADJ
+γαστρὶ^	ἄ^ρσενι^ γαστρὶ^ λόχευσε, πα^τὴρ καὶ πότνι^α^ μήτηρ,	HLLHLLHLLHHHLLHH	LLL-LLHLLHH--LHH	Case=Dat|Gender=Fem|Number=Sing	γαστήρ	NOUN
+πότνι^α^	ἄ^ρσενι^ γαστρὶ^ λόχευσε, πα^τὴρ καὶ πότνι^α^ μήτηρ,	HLLHLLHLLHHHLLHH	LLL-LLHLLHH--LHH	Case=Nom|Gender=Fem|Number=Sing	πότνια	NOUN
+πότνι^α^	ἄ^ρσενι^ γαστρὶ^ λόχευσε, πα^τὴρ καὶ πότνι^α^ μήτηρ,	HLLHLLHLLHHHLLHH	LLL-LLHLLHH--LHH	Case=Nom|Gender=Fem|Number=Sing	πότνια	NOUN
+ἄσπορον	ἄσπορον ὄγκον ἄ^πι^στον ἔχων ἐγκύ_μονι^ κόρσῃ,	HLLHLLHLLHHHLLHH	-LLHLLLLLHHLLLHH	Case=Acc|Degree=Pos|Number=Sing	ἄσπορος	ADJ
+ἄ^πι^στον	ἄσπορον ὄγκον ἄ^πι^στον ἔχων ἐγκύ_μονι^ κόρσῃ,	HLLHLLHLLHHHLLHH	-LLHLLLLLHHLLLHH	Case=Acc|Gender=Masc|Number=Sing	ἄπιστος	ADJ
+ἐγκύ_μονι^	ἄσπορον ὄγκον ἄ^πι^στον ἔχων ἐγκύ_μονι^ κόρσῃ,	HLLHLLHLLHHHLLHH	-LLHLLLLLHHLLLHH	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	ἐγκύμων	ADJ
+ἄ^ξα^τέ	ἄ^ξα^τέ μοι νάρθηκα^, τι^νάξα^τε κύ^μβα^λα^, Μοῦσαι,	HLLHHHLLHLLHLLHH	LLLHHHL-HLLLLLHH	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἄξατέ	VERB
+τι^νάξα^τε	ἄ^ξα^τέ μοι νάρθηκα^, τι^νάξα^τε κύ^μβα^λα^, Μοῦσαι,	HLLHHHLLHLLHLLHH	LLLHHHL-HLLLLLHH	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	τινάσσω	VERB
+κύ^μβα^λα^,	ἄ^ξα^τέ μοι νάρθηκα^, τι^νάξα^τε κύ^μβα^λα^, Μοῦσαι,	HLLHHHLLHLLHLLHH	LLLHHHL-HLLLLLHH	Case=Voc|Gender=Neut|Number=Plur	κύμβαλον	NOUN
+Δι^ονύ_σου:	καὶ πα^λά^μῃ δότε θύρσον ἀ^ειδομένου Δι^ονύ_σου:	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLH-LLH	Case=Gen|Gender=Fem|Number=Sing	διόνυσος	NOUN
+Δι^ονύ_σου:	καὶ πα^λά^μῃ δότε θύρσον ἀ^ειδομένου Δι^ονύ_σου:	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLH-LLH	Case=Gen|Gender=Fem|Number=Sing	διόνυσος	NOUN
+ἀ^ρά^σσω:	ποικί^λον εἶδος ἔχων, ὅτι^ ποικί^λον ὕμνον ἀ^ρά^σσω:	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLLH	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	ἀράω	VERB
+ἐδα^ΐ^ζετο	φρικτὰ^ δρα^κοντοκόμων ἐδα^ΐ^ζετο φῦλα^ Γι^γά^ντων:	HLLHLLHLLHLLHLLHH	HLLHLLHLLLLLHL-HH	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	δαίζω	VERB
+Γι^γά^ντων:	φρικτὰ^ δρα^κοντοκόμων ἐδα^ΐ^ζετο φῦλα^ Γι^γά^ντων:	HLLHLLHLLHLLHLLHH	HLLHLLHLLLLLHL-HH	Case=Gen|Gender=Fem|Number=Plur	γίγας	NOUN
+Κρα^τύ_λος	Κρα^τύ_λος φησὶ^ν ὅδε, ὦ Σώκρα^τες, ὀνόμα^τος ὀρθότητα^ εἶναι ἑκάστῳ τῶν ὄντων φύ^σει πεφυ_κυῖα^ν, καὶ οὐ τοῦτο εἶναι ὄνομα^ ὃ ἄ^ν τι^νες συ^νθέμενοι κα^λεῖν κα^λῶσι^, τῆς αὑτῶν φωνῆς μόρι^ον ἐπι^φθεγγόμενοι, ἀλλὰ^ ὀρθότητά^ τι^να^ τῶν ὀνομά^των πεφυ_κέναι καὶ Ἕλλησι^ καὶ βα^ρβά^ροις τὴν αὐτὴν ἅ^πα_σι^ν.	LHHHLLLHHLLLLLHHLHLHHLHHHHHLHLHHHHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHHLHHHHLHH	LLHHLLLHHLLLLLLHLHLHHL-HHHHLHLHHLHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHLLHHHHLHL	Case=Nom|Gender=Masc|Number=Sing	Κρατύλος	ADJ
+ὀνόμα^τος	Κρα^τύ_λος φησὶ^ν ὅδε, ὦ Σώκρα^τες, ὀνόμα^τος ὀρθότητα^ εἶναι ἑκάστῳ τῶν ὄντων φύ^σει πεφυ_κυῖα^ν, καὶ οὐ τοῦτο εἶναι ὄνομα^ ὃ ἄ^ν τι^νες συ^νθέμενοι κα^λεῖν κα^λῶσι^, τῆς αὑτῶν φωνῆς μόρι^ον ἐπι^φθεγγόμενοι, ἀλλὰ^ ὀρθότητά^ τι^να^ τῶν ὀνομά^των πεφυ_κέναι καὶ Ἕλλησι^ καὶ βα^ρβά^ροις τὴν αὐτὴν ἅ^πα_σι^ν.	LHHHLLLHHLLLLLHHLHLHHLHHHHHLHLHHHHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHHLHHHHLHH	LLHHLLLHHLLLLLLHLHLHHL-HHHHLHLHHLHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHLLHHHHLHL	Case=Gen|Gender=Neut|Number=Sing	ὄνομα	NOUN
+ἑκάστῳ	Κρα^τύ_λος φησὶ^ν ὅδε, ὦ Σώκρα^τες, ὀνόμα^τος ὀρθότητα^ εἶναι ἑκάστῳ τῶν ὄντων φύ^σει πεφυ_κυῖα^ν, καὶ οὐ τοῦτο εἶναι ὄνομα^ ὃ ἄ^ν τι^νες συ^νθέμενοι κα^λεῖν κα^λῶσι^, τῆς αὑτῶν φωνῆς μόρι^ον ἐπι^φθεγγόμενοι, ἀλλὰ^ ὀρθότητά^ τι^να^ τῶν ὀνομά^των πεφυ_κέναι καὶ Ἕλλησι^ καὶ βα^ρβά^ροις τὴν αὐτὴν ἅ^πα_σι^ν.	LHHHLLLHHLLLLLHHLHLHHLHHHHHLHLHHHHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHHLHHHHLHH	LLHHLLLHHLLLLLLHLHLHHL-HHHHLHLHHLHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHLLHHHHLHL	Case=Dat|Gender=Masc|Number=Sing	ἕκαστος	ADJ
+πεφυ_κυῖα^ν,	Κρα^τύ_λος φησὶ^ν ὅδε, ὦ Σώκρα^τες, ὀνόμα^τος ὀρθότητα^ εἶναι ἑκάστῳ τῶν ὄντων φύ^σει πεφυ_κυῖα^ν, καὶ οὐ τοῦτο εἶναι ὄνομα^ ὃ ἄ^ν τι^νες συ^νθέμενοι κα^λεῖν κα^λῶσι^, τῆς αὑτῶν φωνῆς μόρι^ον ἐπι^φθεγγόμενοι, ἀλλὰ^ ὀρθότητά^ τι^να^ τῶν ὀνομά^των πεφυ_κέναι καὶ Ἕλλησι^ καὶ βα^ρβά^ροις τὴν αὐτὴν ἅ^πα_σι^ν.	LHHHLLLHHLLLLLHHLHLHHLHHHHHLHLHHHHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHHLHHHHLHH	LLHHLLLHHLLLLLLHLHLHHL-HHHHLHLHHLHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHLLHHHHLHL	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	πέφυκα	VERB
+βα^ρβά^ροις	Κρα^τύ_λος φησὶ^ν ὅδε, ὦ Σώκρα^τες, ὀνόμα^τος ὀρθότητα^ εἶναι ἑκάστῳ τῶν ὄντων φύ^σει πεφυ_κυῖα^ν, καὶ οὐ τοῦτο εἶναι ὄνομα^ ὃ ἄ^ν τι^νες συ^νθέμενοι κα^λεῖν κα^λῶσι^, τῆς αὑτῶν φωνῆς μόρι^ον ἐπι^φθεγγόμενοι, ἀλλὰ^ ὀρθότητά^ τι^να^ τῶν ὀνομά^των πεφυ_κέναι καὶ Ἕλλησι^ καὶ βα^ρβά^ροις τὴν αὐτὴν ἅ^πα_σι^ν.	LHHHLLLHHLLLLLHHLHLHHLHHHHHLHLHHHHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHHLHHHHLHH	LLHHLLLHHLLLLLLHLHLHHL-HHHHLHLHHLHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHLLHHHHLHL	Case=Dat|Gender=Masc|Number=Plur	βάρβαρος	NOUN
+ἅ^πα_σι^ν.	Κρα^τύ_λος φησὶ^ν ὅδε, ὦ Σώκρα^τες, ὀνόμα^τος ὀρθότητα^ εἶναι ἑκάστῳ τῶν ὄντων φύ^σει πεφυ_κυῖα^ν, καὶ οὐ τοῦτο εἶναι ὄνομα^ ὃ ἄ^ν τι^νες συ^νθέμενοι κα^λεῖν κα^λῶσι^, τῆς αὑτῶν φωνῆς μόρι^ον ἐπι^φθεγγόμενοι, ἀλλὰ^ ὀρθότητά^ τι^να^ τῶν ὀνομά^των πεφυ_κέναι καὶ Ἕλλησι^ καὶ βα^ρβά^ροις τὴν αὐτὴν ἅ^πα_σι^ν.	LHHHLLLHHLLLLLHHLHLHHLHHHHHLHLHHHHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHHLHHHHLHH	LLHHLLLHHLLLLLLHLHLHHL-HHHHLHLHHLHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHLLHHHHLHL	Case=Dat|Gender=Masc|Number=Plur	ἅπας	ADJ
+Κρα^τύ_λος	ἐρωτῶ οὖν αὐτὸν ἐγὼ εἰ αὐτῷ Κρα^τύ_λος τῇ ἀ^ληθείᾳ ὄνομα^ ἐστὶ^ν ἢ οὔ· ὁ δὲ ὁμολογεῖ. 	LHHHHLLHHHHLHHHLHHHLLLHLHHLLLLLH	LHHHHLLHHHHLLHHLHHHLLLHLHHLLLLLH	Case=Nom|Gender=Masc|Number=Sing	Κρατύλος	ADJ
+ἕκαστον,	“Οὐκοῦν καὶ τοῖς ἄλλοις ἀνθρώποις πᾶσι^ν, ὅπερ κα^λοῦμεν ὄνομα^ ἕκαστον, τοῦτό ἐστι^ν ἑκάστῳ ὄνομα^;” ὁ δέ, “Οὔκουν σοί γε,” ἦ δ' ὅς, “ὄνομα^ Ἑρμογένης, οὐδὲ ἂ^ν πάντες κα^λῶσι^ν ἄνθρωποι.”	HHHHHHHHHHLLHLHLLLLLHHHLHLLHHLLHLLHHHHHHLLLHLLHHLHHHLHLHHH	HHHHHHHHHHLLHLHLLLLL-HHLHLL-HLLLLLHHHLHLLLLHLLHHLHHHLHLHHH	Case=Acc|Gender=Masc|Number=Sing	ἕκαστος	ADJ
+ἑκάστῳ	“Οὐκοῦν καὶ τοῖς ἄλλοις ἀνθρώποις πᾶσι^ν, ὅπερ κα^λοῦμεν ὄνομα^ ἕκαστον, τοῦτό ἐστι^ν ἑκάστῳ ὄνομα^;” ὁ δέ, “Οὔκουν σοί γε,” ἦ δ' ὅς, “ὄνομα^ Ἑρμογένης, οὐδὲ ἂ^ν πάντες κα^λῶσι^ν ἄνθρωποι.”	HHHHHHHHHHLLHLHLLLLLHHHLHLLHHLLHLLHHHHHHLLLHLLHHLHHHLHLHHH	HHHHHHHHHHLLHLHLLLLL-HHLHLL-HLLLLLHHHLHLLLLHLLHHLHHHLHLHHH	Case=Dat|Gender=Masc|Number=Sing	ἕκαστος	ADJ
+ὄνομα^;”	“Οὐκοῦν καὶ τοῖς ἄλλοις ἀνθρώποις πᾶσι^ν, ὅπερ κα^λοῦμεν ὄνομα^ ἕκαστον, τοῦτό ἐστι^ν ἑκάστῳ ὄνομα^;” ὁ δέ, “Οὔκουν σοί γε,” ἦ δ' ὅς, “ὄνομα^ Ἑρμογένης, οὐδὲ ἂ^ν πάντες κα^λῶσι^ν ἄνθρωποι.”	HHHHHHHHHHLLHLHLLLLLHHHLHLLHHLLHLLHHHHHHLLLHLLHHLHHHLHLHHH	HHHHHHHHHHLLHLHLLLLL-HHLHLL-HLLLLLHHHLHLLLLHLLHHLHHHLHLHHH	Case=Nom|Gender=Neut|Number=Sing	ὄνομα	NOUN
+γε,”	“Οὐκοῦν καὶ τοῖς ἄλλοις ἀνθρώποις πᾶσι^ν, ὅπερ κα^λοῦμεν ὄνομα^ ἕκαστον, τοῦτό ἐστι^ν ἑκάστῳ ὄνομα^;” ὁ δέ, “Οὔκουν σοί γε,” ἦ δ' ὅς, “ὄνομα^ Ἑρμογένης, οὐδὲ ἂ^ν πάντες κα^λῶσι^ν ἄνθρωποι.”	HHHHHHHHHHLLHLHLLLLLHHHLHLLHHLLHLLHHHHHHLLLHLLHHLHHHLHLHHH	HHHHHHHHHHLLHLHLLLLL-HHLHLL-HLLLLLHHHLHLLLLHLLHHLHHHLHLHHH		γε	PART
+τε	καὶ ἐμοῦ ἐρωτῶντος καὶ προθυ_μουμένου εἰδέναι ὅτι^ ποτὲ λέγει, οὔτε ἀ^ποσα^φεῖ οὐδὲν εἰρωνεύεταί τε πρός με, προσποιούμενός τι^ αὐτὸς ἐν ἑαυτῷ δι^α^νοεῖσθαι ὡς εἰδὼς περὶ^ αὐτοῦ, ὃ εἰ βούλοιτο σα^φῶς εἰπεῖν, ποιήσειεν ἂ^ν καὶ ἐμὲ ὁμολογεῖν καὶ λέγειν ἅ_περ αὐτὸς λέγει. 	HLHLHHHHLHHLHHLHLLLLLHHLLLLHHLHHHLHHHHHHHLHLHLLLHHLLLHHHHHLLHHLHHHLLHHHHHHLHHLLLLLHHLHHLHHLH	HLHLHHHHLHHLHHLHLLLLLHHLLLLHHLHHHLH-H-HHHLHLHLLLHHLLLHHHHHLLHHLHHHLLHHHHHHLLHLLLLLHHLHHLHHLH		τε	PART
+με,	καὶ ἐμοῦ ἐρωτῶντος καὶ προθυ_μουμένου εἰδέναι ὅτι^ ποτὲ λέγει, οὔτε ἀ^ποσα^φεῖ οὐδὲν εἰρωνεύεταί τε πρός με, προσποιούμενός τι^ αὐτὸς ἐν ἑαυτῷ δι^α^νοεῖσθαι ὡς εἰδὼς περὶ^ αὐτοῦ, ὃ εἰ βούλοιτο σα^φῶς εἰπεῖν, ποιήσειεν ἂ^ν καὶ ἐμὲ ὁμολογεῖν καὶ λέγειν ἅ_περ αὐτὸς λέγει. 	HLHLHHHHLHHLHHLHLLLLLHHLLLLHHLHHHLHHHHHHHLHLHLLLHHLLLHHHHHLLHHLHHHLLHHHHHHLHHLLLLLHHLHHLHHLH	HLHLHHHHLHHLHHLHLLLLLHHLLLLHHLHHHLH-H-HHHLHLHLLLHHLLLHHHHHLLHHLHHHLLHHHHHHLLHLLLLLHHLHHLHHLH	Case=Acc|Gender=Masc|Number=Sing	ἐγώ	PRON
+ἂ^ν	καὶ ἐμοῦ ἐρωτῶντος καὶ προθυ_μουμένου εἰδέναι ὅτι^ ποτὲ λέγει, οὔτε ἀ^ποσα^φεῖ οὐδὲν εἰρωνεύεταί τε πρός με, προσποιούμενός τι^ αὐτὸς ἐν ἑαυτῷ δι^α^νοεῖσθαι ὡς εἰδὼς περὶ^ αὐτοῦ, ὃ εἰ βούλοιτο σα^φῶς εἰπεῖν, ποιήσειεν ἂ^ν καὶ ἐμὲ ὁμολογεῖν καὶ λέγειν ἅ_περ αὐτὸς λέγει. 	HLHLHHHHLHHLHHLHLLLLLHHLLLLHHLHHHLHHHHHHHLHLHLLLHHLLLHHHHHLLHHLHHHLLHHHHHHLHHLLLLLHHLHHLHHLH	HLHLHHHHLHHLHHLHLLLLLHHLLLLHHLHHHLH-H-HHHLHLHLLLHHLLLHHHHHLLHHLHHHLLHHHHHHLLHLLLLLHHLHHLHHLH		ἄν	PART
+συ^μβα^λεῖν	εἰ οὖν πῃ ἔχεις συ^μβα^λεῖν τὴν Κρα^τύ_λου μα^ντεία_ν, ἡδέως ἂ^ν ἀ^κούσαιμι^·	HHHLHHLHHLHHHHHHLHLLHHL	HHHLHLLHHLLHLHHHLHLLHHL	Tense=Past|VerbForm=Inf|Voice=Act	συμβάλλω	VERB
+Κρα^τύ_λου	εἰ οὖν πῃ ἔχεις συ^μβα^λεῖν τὴν Κρα^τύ_λου μα^ντεία_ν, ἡδέως ἂ^ν ἀ^κούσαιμι^·	HHHLHHLHHLHHHHHHLHLLHHL	HHHLHLLHHLLHLHHHLHLLHHL	Case=Gen|Gender=Masc|Number=Sing	Κρατύλω	ADJ
+μα^ντεία_ν,	εἰ οὖν πῃ ἔχεις συ^μβα^λεῖν τὴν Κρα^τύ_λου μα^ντεία_ν, ἡδέως ἂ^ν ἀ^κούσαιμι^·	HHHLHHLHHLHHHHHHLHLLHHL	HHHLHLLHHLLHLHHHLHLLHHL	Case=Acc|Gender=Fem|Number=Sing	μαντεία	NOUN
+καὶ	καί ἑ πυ^ρὴ κα^τέδαψε καὶ ὀστέα^ γαῖα^ κεκεύθει,	HLLHLLHLLHLLHLLHH	HLLHLLHLHHLLHLLHH		καί	CCONJ
+τότε	δὴ τότε Τρῶες ἔμιμνον ἀ^νὰ^ Πρι^ά^μοιο πόληα^	HLLHLLHLLHLLHLLHL	HL-HLLHLLL-LHLLHL		τότε	ADV
+ἀ^νὰ^	δὴ τότε Τρῶες ἔμιμνον ἀ^νὰ^ Πρι^ά^μοιο πόληα^	HLLHLLHLLHLLHLLHL	HL-HLLHLLL-LHLLHL		ἀνά	ADP
+Πρι^ά^μοιο	δὴ τότε Τρῶες ἔμιμνον ἀ^νὰ^ Πρι^ά^μοιο πόληα^	HLLHLLHLLHLLHLLHL	HL-HLLHLLL-LHLLHL	Case=Gen|Gender=Masc|Number=Sing	πρίαμος	NOUN
+ἠῢ^	δειδι^ότες μένος ἠῢ^ θρα^σύφρονος Αἰα^κί^δα_ο:	HLLHLLHLLHLLHLLHL	HLLHLLH-H-LLHLLLL	Polarity=Neg	ἐύς	ADV
+θρα^σύφρονος	δειδι^ότες μένος ἠῢ^ θρα^σύφρονος Αἰα^κί^δα_ο:	HLLHLLHLLHLLHLLHL	HLLHLLH-H-LLHLLLL	Case=Gen|Gender=Masc|Number=Sing	θρασύφρων	ADJ
+θρα^σύφρονος	δειδι^ότες μένος ἠῢ^ θρα^σύφρονος Αἰα^κί^δα_ο:	HLLHLLHLLHLLHLLHL	HLLHLLH-H-LLHLLLL	Case=Gen|Gender=Masc|Number=Sing	θρασύφρων	ADJ
+Αἰα^κί^δα_ο:	δειδι^ότες μένος ἠῢ^ θρα^σύφρονος Αἰα^κί^δα_ο:	HLLHLLHLLHLLHLLHL	HLLHLLH-H-LLHLLLL	Case=Gen|Gender=Masc|Number=Sing	αἰακίδης	NOUN
+ἐνὶ^	ἠΰ^τ᾽ ἐνὶ^ ξυ^λοχοισι^ βόες βλοσυ^ροῖο λέοντος	HLLHLLHLLHLLHLLHH	HLLLLLHLLHLLHLLHH	Case=Dat|Gender=Masc|Number=Sing	εἷς	NUM
+ἐνα^ντί^αι,	ἐλθέμεν οὐκ ἐθέλουσι^ν ἐνα^ντί^αι, ἀλλὰ^ φέβουται	HLLHLLHLLHLLHLLHH	HLLHLLHLLLLHHLLHH	Case=Nom|Gender=Fem|Number=Plur	ἐναντίος	ADJ
+ἐνα^ντί^αι,	ἐλθέμεν οὐκ ἐθέλουσι^ν ἐνα^ντί^αι, ἀλλὰ^ φέβουται	HLLHLLHLLHLLHLLHH	HLLHLLHLLLLHHLLHH	Case=Nom|Gender=Fem|Number=Plur	ἐναντίος	ADJ
+πτώσσουσαι	ἰ_ληδὸν πτώσσουσαι ἀ^νὰ^ ῥωπήι^α^ πυκνά^:	HHHHHLLHHHLLHL	HHHHHHLLHHL-L	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	πτώσσω	VERB
+ἀ^νὰ^	ἰ_ληδὸν πτώσσουσαι ἀ^νὰ^ ῥωπήι^α^ πυκνά^:	HHHHHLLHHHLLHL	HHHHHHLLHHL-L		ἀνά	ADP
+πυκνά^:	ἰ_ληδὸν πτώσσουσαι ἀ^νὰ^ ῥωπήι^α^ πυκνά^:	HHHHHLLHHHLLHL	HHHHHHLLHHL-L	Case=Nom|Gender=Neut|Number=Plur	πυκνός	ADJ
+πυκνά^:	ἰ_ληδὸν πτώσσουσαι ἀ^νὰ^ ῥωπήι^α^ πυκνά^:	HHHHHLLHHHLLHL	HHHHHHLLHHL-L	Case=Nom|Gender=Neut|Number=Plur	πυκνός	ADJ
+οἱ	ὥς οἱ ἀ^νὰ^ πτολί^εθρον ὑ^πέτρεσα^ν ὄβρι^μου ἄ^νδρα^	HLLHLLHLLHLLHLLHL	HHLLLL-LL-LL--HHL	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὅς	PRON
+ἀ^νὰ^	ὥς οἱ ἀ^νὰ^ πτολί^εθρον ὑ^πέτρεσα^ν ὄβρι^μου ἄ^νδρα^	HLLHLLHLLHLLHLLHL	HHLLLL-LL-LL--HHL		ἀνά	ADP
+πτολί^εθρον	ὥς οἱ ἀ^νὰ^ πτολί^εθρον ὑ^πέτρεσα^ν ὄβρι^μου ἄ^νδρα^	HLLHLLHLLHLLHLLHL	HHLLLL-LL-LL--HHL	Case=Acc|Gender=Neut|Number=Sing	πτολίεθρον	NOUN
+ὑ^πέτρεσα^ν	ὥς οἱ ἀ^νὰ^ πτολί^εθρον ὑ^πέτρεσα^ν ὄβρι^μου ἄ^νδρα^	HLLHLLHLLHLLHLLHL	HHLLLL-LL-LL--HHL	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ὑποτρέω	VERB
+ὄβρι^μου	ὥς οἱ ἀ^νὰ^ πτολί^εθρον ὑ^πέτρεσα^ν ὄβρι^μου ἄ^νδρα^	HLLHLLHLLHLLHLLHL	HHLLLL-LL-LL--HHL	Case=Gen|Gender=Masc|Number=Sing	ὄβριμου	ADJ
+ὄβρι^μου	ὥς οἱ ἀ^νὰ^ πτολί^εθρον ὑ^πέτρεσα^ν ὄβρι^μου ἄ^νδρα^	HLLHLLHLLHLLHLLHL	HHLLLL-LL-LL--HHL	Case=Gen|Gender=Masc|Number=Sing	ὄβριμου	ADJ
+ὄβρι^μου	ὥς οἱ ἀ^νὰ^ πτολί^εθρον ὑ^πέτρεσα^ν ὄβρι^μου ἄ^νδρα^	HLLHLLHLLHLLHLLHL	HHLLLL-LL-LL--HHL	Case=Gen|Gender=Masc|Number=Sing	ὄβριμου	ADJ
+ἴ^αψεν	μνησά^μενοι προτέρων, ὁπόσων ἀ^πὸ θυ_μὸν ἴ^αψεν	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἴαψες	VERB
+περὶ^	θύ_ων Ἰ_δαίοιο περὶ^ προχοῇσι^ Σκα^μάνδρου,	HHHHHLLHLLHLLHH	HHHHHLLLLLHLLLH		περί	ADP
+Σκα^μάνδρου,	θύ_ων Ἰ_δαίοιο περὶ^ προχοῇσι^ Σκα^μάνδρου,	HHHHHLLHLLHLLHH	HHHHHLLLLLHLLLH	Case=Gen|Gender=Masc|Number=Sing	σκάμανδρος	NOUN
+ὑ^πὸ	ἠδ᾽ ὅσσους φεύγοντα^ς ὑ^πὸ μέγα^ τεῖχος ὄλεσσεν,	HHHHHLLHLLHLLHH	HHHHHLLLLLHLLHH		ὑπό	ADP
+ἐδά^μασσε	Ἕκτορά^ θ᾽ ὡς ἐδά^μασσε καὶ ἀμφείρυσσε πόληι,	HLLHLLHLLHHHLLHL	HLLHLL-LHHH-LLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	δαμάζω	VERB
+ἐδά^μασσε	Ἕκτορά^ θ᾽ ὡς ἐδά^μασσε καὶ ἀμφείρυσσε πόληι,	HLLHLLHLLHHHLLHL	HLLHLL-LHHH-LLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	δαμάζω	VERB
+ἀμφείρυσσε	Ἕκτορά^ θ᾽ ὡς ἐδά^μασσε καὶ ἀμφείρυσσε πόληι,	HLLHLLHLLHHHLLHL	HLLHLL-LHHH-LLH	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἀμφείρυσσε	VERB
+δι^᾽	ἄλλους θ᾽ ὡς ἐδά^ϊξε δι^᾽ ἀ_κα^μά^τοιο θα^λάσσης	HHHLLHLLHLLHLLHH	HHHLLHLLLLLHLL-H		δι᾽	ADV
+θα^λάσσης	ἄλλους θ᾽ ὡς ἐδά^ϊξε δι^᾽ ἀ_κα^μά^τοιο θα^λάσσης	HHHLLHLLHLLHLLHH	HHHLLHLLLLLHLL-H	Case=Gen|Gender=Fem|Number=Sing	θάλασσα	NOUN
+τὰ^	ὁππότε δὴ τὰ^ πρῶτα^ φέρε Τρώεσσι^ν ὄλεθρον.	HLLHHHLLHHHLLHH	HLLHLHLL-HHLL-H	Case=Nom|Gender=Neut|Number=Plur	ὁ	DET
+φέρε	ὁππότε δὴ τὰ^ πρῶτα^ φέρε Τρώεσσι^ν ὄλεθρον.	HLLHHHLLHHHLLHH	HLLHLHLL-HHLL-H	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	φέρω	VERB
+ὄλεθρον.	ὁππότε δὴ τὰ^ πρῶτα^ φέρε Τρώεσσι^ν ὄλεθρον.	HLLHHHLLHHHLLHH	HLLHLHLL-HHLL-H	Case=Acc|Gender=Masc|Number=Sing	ὄλεθρος	NOUN
+ἀ^νὰ^	τῶν οἵ γε μνησθέντες ἀ^νὰ^ πτολί^εθρον ἔμιμνον.	HHHHHLLHLLHLLHH	HHHHHLLLLL-LLHH		ἀνά	ADP
+πτολί^εθρον	τῶν οἵ γε μνησθέντες ἀ^νὰ^ πτολί^εθρον ἔμιμνον.	HHHHHLLHLLHLLHH	HHHHHLLLLL-LLHH	Case=Acc|Gender=Neut|Number=Sing	πτολίεθρον	NOUN
+ἄ^ρα^	ἀμφὶ^ δ᾽ ἄ^ρα^ σφί^σι^ πένθος ἀ^νι_ηρὸν πεπότητο	HLLHLLHLLHHHLLHL	HLLLLLHLL-HHLLHL		ἆρα	ADV
+ἀ^νι_ηρὸν	ἀμφὶ^ δ᾽ ἄ^ρα^ σφί^σι^ πένθος ἀ^νι_ηρὸν πεπότητο	HLLHLLHLLHHHLLHL	HLLLLLHLL-HHLLHL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἀνιηρὸς	ADJ
+πυ^ρὶ^	ὡς ἤδη στονόεντι^ κα^ταιθομένης πυ^ρὶ^ Τροίης.	HHHLLHLLHLLHLLHH	HHHLLHLLHLLHHLHH	Case=Dat|Gender=Neut|Number=Sing	πῦρ	NOUN
+ἐπι^ειμένη	ἤλυ^θε Πενθεσί^λεια^ θεῶν ἐπι^ειμένη εἶδος,	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLHHH	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ἐπιειμένη	VERB
+ἄνθεσι^ν	ἄνθεσι^ν ἐν χλοεροῖς ἀ_θά^να^τος γέγονα^.	HLLHLLHHLLHLLL	LLLHLLHHLLHLLL	Case=Dat|Gender=Neut|Number=Plur	ἄνθος	NOUN
+ποσσὶ^ν	ἥ γὰ^ρ ὑ^περφυ^έεσσι μέσον δι^α^βᾶσά^ με ποσσὶ^ν	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHL	Case=Dat|Gender=Masc|Number=Plur	πούς	NOUN
+ἠύτε	ὄμμα^σι^ νωθρὰ^ βλέπουσα^· τὰ^ δ᾿, ἠύτε πνεύμα^τι^ φύλλα^,	HLLHLLHLLHHHLLHL	HLLHLLHLLHL-HLLLL	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἠύτε	AUX
+ἠύτε	ὄμμα^σι^ νωθρὰ^ βλέπουσα^· τὰ^ δ᾿, ἠύτε πνεύμα^τι^ φύλλα^,	HLLHLLHLLHHHLLHL	HLLHLLHLLHL-HLLLL	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἠύτε	AUX
+ἠύτε	ὄμμα^σι^ νωθρὰ^ βλέπουσα^· τὰ^ δ᾿, ἠύτε πνεύμα^τι^ φύλλα^,	HLLHLLHLLHHHLLHL	HLLHLLHLLHL-HLLLL	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἠύτε	AUX
+πνεύμα^τι^	ὄμμα^σι^ νωθρὰ^ βλέπουσα^· τὰ^ δ᾿, ἠύτε πνεύμα^τι^ φύλλα^,	HLLHLLHLLHHHLLHL	HLLHLLHLLHL-HLLLL	Case=Dat|Gender=Neut|Number=Sing	πνεῦμα	NOUN
+μέχρι^ς	μέχρι^ς ἀ^πεσπείσθη λευκὸν μένος ἀμφοτέροισι^ν,	HLLHHHHHLLHLLHH	-LLHHHHHLLLLLHL	Case=Gen|Gender=Fem|Number=Sing	μέχρι	NOUN
+ἀμφοτέροισι^ν,	μέχρι^ς ἀ^πεσπείσθη λευκὸν μένος ἀμφοτέροισι^ν,	HLLHHHHHLLHLLHH	-LLHHHHHLLLLLHL	Case=Dat|Gender=Masc|Number=Plur	ἀμφότερος	ADJ
+ἀμφοτέροισι^ν,	μέχρι^ς ἀ^πεσπείσθη λευκὸν μένος ἀμφοτέροισι^ν,	HLLHHHHHLLHLLHH	-LLHHHHHLLLLLHL	Case=Dat|Gender=Masc|Number=Plur	ἀμφότερος	ADJ
+ἔκκλι^σι^ς	ἐφ' ἡμῖν μὲν ὑ^πόληψι^ς, ὁρμή, ὄρεξι^ς, ἔκκλι^σι^ς καὶ ἑνὶ^	LHHLLLHLHHLHLHLHHLL	LHHLLLHLHHLHLHLLHLL	Case=Nom|Gender=Fem|Number=Sing	ἔκκλισις	NOUN
+σῶμα^,	λόγῳ ὅσα^ ἡμέτερα^ ἔργα^· οὐκ ἐφ' ἡμῖν δὲ τὸ σῶμα^, ἡ κτῆσι^ς,	LHLLHLLLHLHLHHLLHLHHH	LHLLHLLLHLHLHHLLLLHHL	Case=Nom|Gender=Neut|Number=Sing	σῶμα	NOUN
+κτῆσι^ς,	λόγῳ ὅσα^ ἡμέτερα^ ἔργα^· οὐκ ἐφ' ἡμῖν δὲ τὸ σῶμα^, ἡ κτῆσι^ς,	LHLLHLLLHLHLHHLLHLHHH	LHLLHLLLHLHLHHLLLLHHL	Case=Nom|Gender=Fem|Number=Sing	κτῆσις	NOUN
+φύ_σει	καὶ τὰ^ μὲν ἐφ' ἡμῖν ἐστι^ φύ_σει ἐλεύθερα^, ἀ^κώλυ_τα^, ἀ^πα^ρα^πόδιστα^,	HLLLHHHLHHLHLLLHHLLLLLHL	HLLLHHHLLHLHLLLHHLLLLL-L	Case=Dat|Gender=Fem|Number=Sing	φύσις	NOUN
+ἀ^πα^ρα^πόδιστα^,	καὶ τὰ^ μὲν ἐφ' ἡμῖν ἐστι^ φύ_σει ἐλεύθερα^, ἀ^κώλυ_τα^, ἀ^πα^ρα^πόδιστα^,	HLLLHHHLHHLHLLLHHLLLLLHL	HLLLHHHLLHLHLLLHHLLLLL-L	Case=Acc|Gender=Neut|Number=Plur	ἀπαραπόδιστος	ADJ
+ἀσθενῆ,	τὰ^ δὲ οὐκ ἐφ' ἡμῖν ἀσθενῆ, δοῦλα^, κωλυ_τά^, ἀ^λλότρι^α^.	LLHLHHHLHHLHHLHHLL	LLHLHH-LHHLHHLL-LL	Case=Acc|Gender=Masc|Number=Sing	ἀσθενής	NOUN
+ἀ^λλότρι^α^.	τὰ^ δὲ οὐκ ἐφ' ἡμῖν ἀσθενῆ, δοῦλα^, κωλυ_τά^, ἀ^λλότρι^α^.	LLHLHHHLHHLHHLHHLL	LLHLHH-LHHLHHLL-LL	Case=Dat|Gender=Fem|Number=Sing	ἀλλότριος	ADJ
+ἀ^λλότρι^α^.	τὰ^ δὲ οὐκ ἐφ' ἡμῖν ἀσθενῆ, δοῦλα^, κωλυ_τά^, ἀ^λλότρι^α^.	LLHLHHHLHHLHHLHHLL	LLHLHH-LHHLHHLL-LL	Case=Dat|Gender=Fem|Number=Sing	ἀλλότριος	ADJ
+ἐὰ^ν	μέμνησο οὖν, ὅτι^, ἐὰ^ν τὰ^ φύ_σει δοῦλα^ ἐλεύθερα^ οἰηθῇς καὶ τὰ^ ἀ^λλότρι^α^ ἴ^δι^α^,	HHLHLLLHLHHHLLHLLHHHHLHHLLLLL	HHLHLLLLLLHHLLHLLHHHHLL-LLLLL		ἐάν	SCONJ
+φύ_σει	μέμνησο οὖν, ὅτι^, ἐὰ^ν τὰ^ φύ_σει δοῦλα^ ἐλεύθερα^ οἰηθῇς καὶ τὰ^ ἀ^λλότρι^α^ ἴ^δι^α^,	HHLHLLLHLHHHLLHLLHHHHLHHLLLLL	HHLHLLLLLLHHLLHLLHHHHLL-LLLLL	Case=Dat|Gender=Fem|Number=Sing	φύσις	NOUN
+ἀ^λλότρι^α^	μέμνησο οὖν, ὅτι^, ἐὰ^ν τὰ^ φύ_σει δοῦλα^ ἐλεύθερα^ οἰηθῇς καὶ τὰ^ ἀ^λλότρι^α^ ἴ^δι^α^,	HHLHLLLHLHHHLLHLLHHHHLHHLLLLL	HHLHLLLLLLHHLLHLLHHHHLL-LLLLL	Case=Dat|Gender=Fem|Number=Sing	ἀλλότριος	ADJ
+ἀ^λλότρι^α^	μέμνησο οὖν, ὅτι^, ἐὰ^ν τὰ^ φύ_σει δοῦλα^ ἐλεύθερα^ οἰηθῇς καὶ τὰ^ ἀ^λλότρι^α^ ἴ^δι^α^,	HHLHLLLHLHHHLLHLLHHHHLHHLLLLL	HHLHLLLLLLHHLLHLLHHHHLL-LLLLL	Case=Dat|Gender=Fem|Number=Sing	ἀλλότριος	ADJ
+ἐὰ^ν	μέμψῃ καὶ θεοὺς καὶ ἀνθρώπους, ἐὰ^ν δὲ τὸ σὸν μόνον οἰηθῇς σὸν εἶναι,	HHHLHHHHHLHLLHLLHHHLHH	HHHLHHHHHLLLLHLLHHHLHH		ἐάν	SCONJ
+ἀ^λλότρι^ον,	τὸ δὲ ἀ^λλότρι^ον, ὥσπερ ἐστί^ν, ἀ^λλότρι^ον,	LLHHLLHLHLHHLL	LLL-LLHLHLL-LH	Case=Acc|Gender=Neut|Number=Sing	ἀλλότριος	ADJ
+ἀ^λλότρι^ον,	τὸ δὲ ἀ^λλότρι^ον, ὥσπερ ἐστί^ν, ἀ^λλότρι^ον,	LLHHLLHLHLHHLL	LLL-LLHLHLL-LH	Case=Acc|Gender=Neut|Number=Sing	ἀλλότριος	ADJ
+ἀ^λλότρι^ον,	τὸ δὲ ἀ^λλότρι^ον, ὥσπερ ἐστί^ν, ἀ^λλότρι^ον,	LLHHLLHLHLHHLL	LLL-LLHLHLL-LH	Case=Acc|Gender=Neut|Number=Sing	ἀλλότριος	ADJ
+ἀ^λλότρι^ον,	τὸ δὲ ἀ^λλότρι^ον, ὥσπερ ἐστί^ν, ἀ^λλότρι^ον,	LLHHLLHLHLHHLL	LLL-LLHLHLL-LH	Case=Acc|Gender=Neut|Number=Sing	ἀλλότριος	ADJ
+ἀ^λλότρι^ον,	τὸ δὲ ἀ^λλότρι^ον, ὥσπερ ἐστί^ν, ἀ^λλότρι^ον,	LLHHLLHLHLHHLL	LLL-LLHLHLL-LH	Case=Acc|Gender=Neut|Number=Sing	ἀλλότριος	ADJ
+ἀ^να^γκά^σει	οὐδείς σε ἀ^να^γκά^σει οὐδέποτε, οὐδείς σε κωλύ_σει, οὐ μέμψῃ	HHLLHLHHLLLHHLHHHHHH	HHLLLLHHLLLHHLHHHHHH	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἀναγκάω	VERB
+γὰ^ρ	βλάψει, ἐχθρὸν οὐχ ἕξεις, οὐδὲ γὰ^ρ βλα^βερόν τι^ πείσῃ. 	HHHLHHHHLHLLHLHH	HHHLHHHHLLLLHLHH		γάρ	ADV
+ἐὰ^ν	ἐὰ^ν δὲ καὶ ταῦτ' ἐθέλῃς καὶ ἄρχειν καὶ πλουτεῖν, 	LHLHHLLHHHHHHH	LLLHHLLHHHHHHH		ἐάν	SCONJ
+ἥσθην	Φέρ’ ἴ^δω, τί^ δ’ ἥσθην ἄξι^ον χαιρηδόνος;	LLHLHHHLHHHLH	LLHLHHLLHHHLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	ἥδομαι	VERB
+πάντα^	ἀλλ’ αὐτὸς ἔφερε πάντα^ χὠ πρί^ων ἀ^πῆν.	HHLLLLHLHLHLH	HHLLLLLLHHHLH	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+πρί^ων	ἀλλ’ αὐτὸς ἔφερε πάντα^ χὠ πρί^ων ἀ^πῆν.	HHLLLLHLHLHLH	HHLLLLLLHHHLH	Case=Nom|Gender=Masc|Number=Sing	πρίων	NOUN
+ἀ^τεχνῶς	Νῦν οὖν ἀ^τεχνῶς ἥκω πα^ρεσκευασμένος	HHLLHHHLHHHLH	HHL-HHHLHHLLH	Degree=Pos	ἀτεχνῶς	ADV
+πα^ρεσκευασμένος	Νῦν οὖν ἀ^τεχνῶς ἥκω πα^ρεσκευασμένος	HHLLHHHLHHHLH	HHL-HHHLHHLLH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	παρασκευάζω	VERB
+ἄξι^ον	δι^ὰ^ τοῦτο τοὔργον· ἄξι^ον γὰ^ρ Ἑλλά^δι^.	LLHLHLHLHLHLL	LLHLHLLLHLHLL	Case=Acc|Gender=Masc|Number=Sing	ἄξιος	ADJ
+Εἴσα^γ’,	ὁ δ’ ἀ^νεῖπεν· Εἴσα^γ’, ὦ Θέογνι^, τὸν χορόν.	LLHLHLHLHLHLH	LLHLHHHL-LHLH	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	Εἴσαγ	VERB
+Θέογνι^,	ὁ δ’ ἀ^νεῖπεν· Εἴσα^γ’, ὦ Θέογνι^, τὸν χορόν.	LLHLHLHLHLHLH	LLHLHHHL-LHLH	Case=Voc|Gender=Fem|Number=Sing	Θέογνις	NOUN
+ᾀσόμενος	Δεξί^θεος εἰσῆλθ’ ᾀσόμενος Βοιώτι^ον.	HLLLHHHLLLHHLL	HLLLHHLLLHHHLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ᾀσόμενος	VERB
+ᾀσόμενος	Δεξί^θεος εἰσῆλθ’ ᾀσόμενος Βοιώτι^ον.	HLLLHHHLLLHHLL	HLLLHHLLLHHHLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ᾀσόμενος	VERB
+Βοιώτι^ον.	Δεξί^θεος εἰσῆλθ’ ᾀσόμενος Βοιώτι^ον.	HLLLHHHLLLHHLL	HLLLHHLLLHHHLH	Case=Acc|Gender=Masc|Number=Sing	βοιώτιος	NOUN
+ἄν	ἐπεὶ τί^ς ἄν ποτ' ἤλπι^σ', ὦ Στρυ_μόδωρ', ἀ^κοῦσαι	LHLHLHLHHLHLHH	LHLLLHHHHLHLHH		ἄν	PART
+ἤλπι^σ',	ἐπεὶ τί^ς ἄν ποτ' ἤλπι^σ', ὦ Στρυ_μόδωρ', ἀ^κοῦσαι	LHLHLHLHHLHLHH	LHLLLHHHHLHLHH	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ἤλπισ	VERB
+γὰρ	Οὐ γὰρ μὰ^ τὴν Δήμητρ' ἐμοῦ ζῶντος ἐγχα^νοῦνται·	HHLHHHLHHLHLHH	HLLHHHLHHLHLHH		γάρ	ADV
+οὐδὲ	ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κα^τέσχε πρῶτος,	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH	Polarity=Neg	οὐδέ	ADV
+οὐδὲ	ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κα^τέσχε πρῶτος,	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH	Polarity=Neg	οὐδέ	ADV
+Κλεομένης,	ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κα^τέσχε πρῶτος,	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH	Case=Nom|Gender=Masc|Number=Sing	κλεομένης	NOUN
+Κλεομένης,	ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κα^τέσχε πρῶτος,	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH	Case=Nom|Gender=Masc|Number=Sing	κλεομένης	NOUN
+ὃς	ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κα^τέσχε πρῶτος,	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς	PRON
+αὐτὴν	ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κα^τέσχε πρῶτος,	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	αὐτός	PRON
+κα^τέσχε	ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κα^τέσχε πρῶτος,	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κατέχω	VERB
+κα^τέσχε	ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κα^τέσχε πρῶτος,	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κατέχω	VERB
+κα^τέσχε	ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κα^τέσχε πρῶτος,	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κατέχω	VERB
+γάρ	Ἀλλ' αὐτὸ γάρ μοι τῆς ὁδοῦ λοιπόν ἐστι^ χωρί^ον	HHLHHHLHHLHLHLH	HHLLHHLHHLHLHLH		γάρ	ADV
+τὸ	τὸ πρὸς πόλιν τὸ σι_μόν, οἷ σπουδὴν ἔχω.	LHLHLHLHHHLH	-HLLLHLHHHLH	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	DET
+πόλιν	τὸ πρὸς πόλιν τὸ σι_μόν, οἷ σπουδὴν ἔχω.	LHLHLHLHHHLH	-HLLLHLHHHLH	Case=Acc|Gender=Fem|Number=Sing	πόλις	NOUN
+ἐξι^πώκα^τον.	ὡς ἐμοῦ γε τὼ ξύ^λω τὸν ὦμον ἐξι^πώκα^τον.	HLHLHLHLHLHLHLL	HLHLHLHLHLH-HLH	Case=Acc|Gender=Neut|Number=Sing	ἐξιπώκατος	ADJ
+ἐξι^πώκα^τον.	ὡς ἐμοῦ γε τὼ ξύ^λω τὸν ὦμον ἐξι^πώκα^τον.	HLHLHLHLHLHLHLL	HLHLHLHLHLH-HLH	Case=Acc|Gender=Neut|Number=Sing	ἐξιπώκατος	ADJ
+βα^διστέον,	Ἀλλ' ὅμως βα^διστέον,	HLHLHLL	HLHL-LH	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	βαδιστέον	VERB
+βα^διστέον,	Ἀλλ' ὅμως βα^διστέον,	HLHLHLL	HLHL-LH	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	βαδιστέον	VERB
+ἀ^ποσβεσθὲν	μή μ' ἀ^ποσβεσθὲν λά^θῃ πρὸς τῇ τελευτῇ τῆς ὁδοῦ.	HLHHHLHHHLHHHLH	HLHHHHHHHLHHHLH	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἀποσβεσθὲν	VERB
+ἄν	οὐ γὰ^ρ ἄν ποθ' ὧδ' ὀδὰξ ἔβρυ_κε τὰς λήμα_ς ἐμοῦ.	HLHLHLHLHLHHHLH	HLLLHLH-HLHHHLH		ἄν	PART
+ἔβρυ_κε	οὐ γὰ^ρ ἄν ποθ' ὧδ' ὀδὰξ ἔβρυ_κε τὰς λήμα_ς ἐμοῦ.	HLHLHLHLHLHHHLH	HLLLHLH-HLHHHLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἔβρυκος	VERB
+Σπεῦδε	Σπεῦδε πρόσθεν εἰς πόλιν	HLHLHLH	H-HLHLL	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	Σπεύδω	VERB
+πόλιν	Σπεῦδε πρόσθεν εἰς πόλιν	HLHLHLH	H-HLHLL	Case=Acc|Gender=Fem|Number=Sing	πόλις	NOUN
+ἀρήξομεν;	Ἢ πότ' αὐτῇ μᾶλλον ἢ νῦν, ὦ Λά^χης, ἀρήξομεν;	HLHHHLHHHLHHHLH	HLHHHLHHHLHLHLH	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	ἀρήξομεν;	VERB
+Νι_κοδί^κη,	Πέτου πέτου, Νι_κοδί^κη, πρὶ^ν ἐμπεπρῆσθαι Κα^λύ^κην τε καὶ Κρί^τυλλαν περι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH	Case=Voc|Gender=Fem|Number=Sing	Νικοδίκης	NOUN
+ἐμπεπρῆσθαι	Πέτου πέτου, Νι_κοδί^κη, πρὶ^ν ἐμπεπρῆσθαι Κα^λύ^κην τε καὶ Κρί^τυλλαν περι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	ἐμπίμπρημι	VERB
+Κρί^τυλλαν	Πέτου πέτου, Νι_κοδί^κη, πρὶ^ν ἐμπεπρῆσθαι Κα^λύ^κην τε καὶ Κρί^τυλλαν περι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH	Case=Acc|Gender=Masc|Number=Sing	Κρίτυλλας	NOUN
+Κρί^τυλλαν	Πέτου πέτου, Νι_κοδί^κη, πρὶ^ν ἐμπεπρῆσθαι Κα^λύ^κην τε καὶ Κρί^τυλλαν περι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH	Case=Acc|Gender=Masc|Number=Sing	Κρίτυλλας	NOUN
+περι^φυ_σήτω	Πέτου πέτου, Νι_κοδί^κη, πρὶ^ν ἐμπεπρῆσθαι Κα^λύ^κην τε καὶ Κρί^τυλλαν περι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	περιφυσήτω	VERB
+ὑ^δρί^αν	Νυνδὴ γὰ^ρ ἐμπλησα^μένη τὴν ὑ^δρί^αν κνεφαία_	HHLHHLLHHLLHLHH	HHLHHLLHH-LHLHL	Case=Acc|Gender=Fem|Number=Sing	ὑδρία	NOUN
+κνεφαία_	Νυνδὴ γὰ^ρ ἐμπλησα^μένη τὴν ὑ^δρί^αν κνεφαία_	HHLHHLLHHLLHLHH	HHLHHLLHH-LHLHL	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	κνεφαίος	ADJ
+ἀ_ρα^μένη,	ἀ_ρα^μένη, ταῖσι^ν ἐμαῖς δημότι^σιν κα_ομέναις	HLLHHLLHHLLHHLLH	LLLHHLLHHL-LLLLH	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	ἀέρομαι	VERB
+δημότι^σιν	ἀ_ρα^μένη, ταῖσι^ν ἐμαῖς δημότι^σιν κα_ομέναις	HLLHHLLHHLLHHLLH	LLLHHLLHHL-LLLLH	Case=Dat|Gender=Masc|Number=Plur	δημότις	NOUN
+δημότι^σιν	ἀ_ρα^μένη, ταῖσι^ν ἐμαῖς δημότι^σιν κα_ομέναις	HLLHHLLHHLLHHLLH	LLLHHLLHHL-LLLLH	Case=Dat|Gender=Masc|Number=Plur	δημότις	NOUN
+κα_ομέναις	ἀ_ρα^μένη, ταῖσι^ν ἐμαῖς δημότι^σιν κα_ομέναις	HLLHHLLHHLLHHLLH	LLLHHLLHHL-LLLLH	Case=Dat|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	καομέναις	VERB
+γὰρ	Ἤκουσα^ γὰρ τυ_φογέροντα_ς ἄνδρα^ς ἔρρειν, στελέχηφέροντα^ς ὥσπερ βα^λα^νεύσοντας	HHLHHLLHHHLHHLLHLHLHHLLHHL	HHLLHLLHLLLHHLLHLHLHHLLHHL		γάρ	ADV
+τυ_φογέροντα_ς	Ἤκουσα^ γὰρ τυ_φογέροντα_ς ἄνδρα^ς ἔρρειν, στελέχηφέροντα^ς ὥσπερ βα^λα^νεύσοντας	HHLHHLLHHHLHHLLHLHLHHLLHHL	HHLLHLLHLLLHHLLHLHLHHLLHHL	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	τυφογέρω	VERB
+ἄνδρα^ς	Ἤκουσα^ γὰρ τυ_φογέροντα_ς ἄνδρα^ς ἔρρειν, στελέχηφέροντα^ς ὥσπερ βα^λα^νεύσοντας	HHLHHLLHHHLHHLLHLHLHHLLHHL	HHLLHLLHLLLHHLLHLHLHHLLHHL	Case=Acc|Gender=Masc|Number=Plur	ἀνήρ	NOUN
+πυ^ρὶ^	ὡς πυ^ρὶ^ χρὴ τὰς μυ^σα^ρὰς γυ^ναῖκα^ς ἀνθρα^κεύειν.	HLLHHLLHLHLHLHH	HHLHHLLHLHLHLHH	Case=Dat|Gender=Neut|Number=Sing	πῦρ	NOUN
+θεά_,	Ἅ_ς, ὦ θεά_, μή ποτ' ἐγὼ πιμπρα^μένα_ς ἴ^δοιμι^,	HHLHHLLHHLLHLHL	HHLLHLLHHLLHLHL	Case=Voc|Gender=Fem|Number=Sing	θεά	NOUN
+χρυ_σολόφα_	ἐφ' οἷσπερ, ὦ χρυ_σολόφα_	LHLHHLLH	LHLHHLLL	Case=Acc|Gender=Neut|Number=Plur	χρυσολόφος	NOUN
+μεγα^λόπετρον,	κα^τέλα^βον, ἐφ' ὅ τι^ τε μεγα^λόπετρον, ἄ^βα^τον	LLLLLLLLLLLLLLLL	LLLLLLLLLLL-LLLH	Case=Acc|Gender=Masc|Number=Sing	μεγαλόπετρος	ADJ
+ἄ^βα^τον	κα^τέλα^βον, ἐφ' ὅ τι^ τε μεγα^λόπετρον, ἄ^βα^τον	LLLLLLLLLLLLLLLL	LLLLLLLLLLL-LLLH	Case=Acc|Gender=Masc|Number=Sing	ἄβατος	ADJ
+ἂν	οὐδὲ γόνα^τ' ἂν κόπος ἕλοι με κα^μα^τήρι^ος.	HLLLHLLLHLLLHLL	HLLLLLLLHLLLH-H		ἄν	PART
+κα^μα^τήρι^ος.	οὐδὲ γόνα^τ' ἂν κόπος ἕλοι με κα^μα^τήρι^ος.	HLLLHLLLHLLLHLL	HLLLLLLLHLLLH-H	Case=Gen|Gender=Fem|Number=Sing	καματήριο	NOUN
+κα^μα^τήρι^ος.	οὐδὲ γόνα^τ' ἂν κόπος ἕλοι με κα^μα^τήρι^ος.	HLLLHLLLHLLLHLL	HLLLLLLLHLLLH-H	Case=Gen|Gender=Fem|Number=Sing	καματήριο	NOUN
+ἐλεύθερος.	Οὐκέτ' ἔργον ἐγκα^θεύδειν ὅστι^ς ἔστ' ἐλεύθερος.	HLHLHLHHHLHLHLL	HLHLHLHHHLHLHLH	Case=Nom|Gender=Masc|Number=Sing	ἐλεύθερος	ADJ
+ὦνδρες,	Ἀλλ' ἐπα^ποδυ^ώμεθ', ὦνδρες, τουτῳὶ_ τῷ πρά_γμα^τι^.	HLLLLHLHLHLHHHLL	HLLLLHLHHHHLH-LL	Case=Voc|Gender=Masc|Number=Plur	ὦ	NOUN
+τουτῳὶ_	Ἀλλ' ἐπα^ποδυ^ώμεθ', ὦνδρες, τουτῳὶ_ τῷ πρά_γμα^τι^.	HLLLLHLHLHLHHHLL	HLLLLHLHHHHLH-LL	Case=Dat|Gender=Masc|Number=Sing	τουτῳὶ	ADJ
+τουτῳὶ_	Ἀλλ' ἐπα^ποδυ^ώμεθ', ὦνδρες, τουτῳὶ_ τῷ πρά_γμα^τι^.	HLLLLHLHLHLHHHLL	HLLLLHLHHHHLH-LL	Case=Dat|Gender=Masc|Number=Sing	τουτῳὶ	ADJ
+πρά_γμα^τι^.	Ἀλλ' ἐπα^ποδυ^ώμεθ', ὦνδρες, τουτῳὶ_ τῷ πρά_γμα^τι^.	HLLLLHLHLHLHHHLL	HLLLLHLHHHHLH-LL		πρᾶγμα	ADV
+ἐξεπά_ρωσιν	τὰς θεοῖς ἐχθρὰς γυ^ναῖκα^ς ἐξεπά_ρωσιν δόλῳ	HLHHHLHLHLHHHLH	HLHHHLHLHLLHLLH	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐξεπάρω	VERB
+ἐξεπά_ρωσιν	τὰς θεοῖς ἐχθρὰς γυ^ναῖκα^ς ἐξεπά_ρωσιν δόλῳ	HLHHHLHLHLHHHLH	HLHHHLHLHLLHLLH	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐξεπάρω	VERB
+χρήμα^θ'	κα^τα^λα^βεῖν τὰ^ χρήμα^θ' ἡμῶν τόν τε μισθόν, ἔνθεν ἔζων ἐγώ.	LLLHLHLHHHLHLHLHHLH	LLLHLHHHHHL-LHLHHLH	Case=Acc|Gender=Neut|Number=Plur	χρήμαθ	NOUN
+μισθόν,	κα^τα^λα^βεῖν τὰ^ χρήμα^θ' ἡμῶν τόν τε μισθόν, ἔνθεν ἔζων ἐγώ.	LLLHLHLHHHLHLHLHHLH	LLLHLHHHHHL-LHLHHLH	Case=Acc|Gender=Masc|Number=Sing	μισθός	NOUN
+κἀ_κα^νηφόρουν	κἀ_κα^νηφόρουν ποτ' οὖσα^ παῖς κα^λὴ 'χουσ' ἰσχά^δων ὁρμα^θόν.	HLHLHLHLHLHHHLHHLH	LLHLHLHLHLHH-LHHLH	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κἀκανηφόρουν	VERB
+ἰσχά^δων	κἀ_κα^νηφόρουν ποτ' οὖσα^ παῖς κα^λὴ 'χουσ' ἰσχά^δων ὁρμα^θόν.	HLHLHLHLHLHHHLHHLH	LLHLHLHLHLHH-LHHLH	Case=Gen|Gender=Masc|Number=Plur	ἰσχάς	NOUN
+κἀ_πι^δώσειν	κἀ_πι^δώσειν μοι δοκεῖ τὸ χρῆμα^ μᾶλλον.	HLHHHLHLHLHL	L-HHHLH-HLHH	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	κἀπιδώσω	VERB
+κἀ_πι^δώσειν	κἀ_πι^δώσειν μοι δοκεῖ τὸ χρῆμα^ μᾶλλον.	HLHHHLHLHLHL	L-HHHLH-HLHH	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	κἀπιδώσω	VERB
+τὸ	κἀ_πι^δώσειν μοι δοκεῖ τὸ χρῆμα^ μᾶλλον.	HLHHHLHLHLHL	L-HHHLH-HLHH	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	DET
+μᾶλλον.	κἀ_πι^δώσειν μοι δοκεῖ τὸ χρῆμα^ μᾶλλον.	HLHHHLHLHLHL	L-HHHLH-HLHH		μᾶλλον	ADV
+τὸ	Ἀλλ' ἀ^μυντέον τὸ πρᾶγμ' ὅστις γ' ἐνόρχης ἔστ' ἀ^νήρ.	HLHLHLHHHLHHHLH	HLHLH-HHLLHHHLH	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	DET
+ὅστις	Ἀλλ' ἀ^μυντέον τὸ πρᾶγμ' ὅστις γ' ἐνόρχης ἔστ' ἀ^νήρ.	HLHLHLHHHLHHHLH	HLHLH-HHLLHHHLH	Case=Nom|Gender=Masc|Number=Sing	ὅστις	ADJ
+Λειψύ^δρι^ον	Ἀλλ' ἄ^γετε λευκόποδες, οἵπερ ἐπὶ^ Λειψύ^δρι^ον	HLLLHLLLHLLLHLLL	HLLLHLLLHLLLH--H	Case=Acc|Gender=Neut|Number=Sing	λειψύδριον	NOUN
+Λειψύ^δρι^ον	Ἀλλ' ἄ^γετε λευκόποδες, οἵπερ ἐπὶ^ Λειψύ^δρι^ον	HLLLHLLLHLLLHLLL	HLLLHLLLHLLLH--H	Case=Acc|Gender=Neut|Number=Sing	λειψύδριον	NOUN
+Λειψύ^δρι^ον	Ἀλλ' ἄ^γετε λευκόποδες, οἵπερ ἐπὶ^ Λειψύ^δρι^ον	HLLLHLLLHLLLHLLL	HLLLHLLLHLLLH--H	Case=Acc|Gender=Neut|Number=Sing	λειψύδριον	NOUN
+πά^λιν	νῦν δεῖ, νῦν ἀ^νηβῆσαι πά^λιν κἀ_ναπτερῶσαι	HHHLHHHLHHHLHH	HHHLHHHLLLHLHH		πάλιν	ADV
+κἀ_ναπτερῶσαι	νῦν δεῖ, νῦν ἀ^νηβῆσαι πά^λιν κἀ_ναπτερῶσαι	HHHLHHHLHHHLHH	HHHLHHHLLLHLHH	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	κἀναπτερῶζω	VERB
+σῶμα^	πᾶν τὸ σῶμα^ κἀ_ποσείσασθαι τὸ γῆρας τόδε.	HLHLHLHHHLHHLL	HLLLLLH-HLHLLL	Case=Nom|Gender=Neut|Number=Sing	σῶμα	NOUN
+κἀ_ποσείσασθαι	πᾶν τὸ σῶμα^ κἀ_ποσείσασθαι τὸ γῆρας τόδε.	HLHLHLHHHLHHLL	HLLLLLH-HLHLLL	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	κἀποσείω	VERB
+κἀ_ποσείσασθαι	πᾶν τὸ σῶμα^ κἀ_ποσείσασθαι τὸ γῆρας τόδε.	HLHLHLHHHLHHLL	HLLLLLH-HLHLLL	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	κἀποσείω	VERB
+γῆρας	πᾶν τὸ σῶμα^ κἀ_ποσείσασθαι τὸ γῆρας τόδε.	HLHLHLHHHLHHLL	HLLLLLH-HLHLLL	Case=Nom|Gender=Neut|Number=Sing	γῆρας	NOUN
+ποιήσω	τὴν ἐμαυτῆς ὗν ἐγὼ δή, καὶ ποιήσω	HLHHHLHHHLHH	HLHHHLHHHHHH	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ποιέω	VERB
+δημότας	τήμερον τοὺς δημότας βωστρεῖν σ' ἐγὼ πεκτούμενον.	HLHHHLHHHLHHHLL	HLHHHL-HHLHHHLH	Case=Acc|Gender=Masc|Number=Plur	δημότης	NOUN
+πεκτούμενον.	τήμερον τοὺς δημότας βωστρεῖν σ' ἐγὼ πεκτούμενον.	HLHHHLHHHLHHHLL	HLHHHL-HHLHHHLH	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	πεκτόω	VERB
+ἂ^ν	ὡς ἂ^ν ὄζωμεν γυ^ναικῶν αὐτοδὰξ ὠργισμένων.	HLHHHLHHHLHHHLH	HHHHHLHHHLHH-LH		ἄν	PART
+ὠργισμένων.	ὡς ἂ^ν ὄζωμεν γυ^ναικῶν αὐτοδὰξ ὠργισμένων.	HLHHHLHHHLHHHLH	HHHHHLHHHLHH-LH	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	ὠργισμένων	VERB
+ἵ^να^	Νῦν πρὸς ἔμ' ἴ^τω τι^ς, ἵ^να^ μήποτε φά^γῃ σκόροδα^,	HLLLHLLLHLLLHLLL	HLLLHLLHHLLLHLLL		ἵνα	SCONJ
+ἄρκυς,	πλεξά^μενος ἄρκυς,	HLLLHH	HLLLLH	Case=Acc|Gender=Fem|Number=Plur	ἄρκυς	NOUN
+μί_σους.	κοὐκέτι^ κα^τῆλθε πά^λι^ν οἴκα^δ' ὑ^πὸ μί_σους.	HLLLHLLLHLLLHH	HLLLHLLLHLLLLH	Case=Gen|Gender=Neut|Number=Sing	μίσος	NOUN
+Κἀ_γὼ	Κἀ_γὼ βούλομαι μῦθόν τι^ν' ὑ_μῖν ἀντι^λέξαι τῷ Μελα^νί^ωνι^.	HHHLHHHLHHHLHHHLLLHL	LHHLHHH-HHH-HHHLLLHL	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	PRON
+τι^ν'	Κἀ_γὼ βούλομαι μῦθόν τι^ν' ὑ_μῖν ἀντι^λέξαι τῷ Μελα^νί^ωνι^.	HHHLHHHLHHHLHHHLLLHL	LHHLHHH-HHH-HHHLLLHL	Case=Acc|Gender=Masc|Number=Sing	τιν	PRON
+ἀντι^λέξαι	Κἀ_γὼ βούλομαι μῦθόν τι^ν' ὑ_μῖν ἀντι^λέξαι τῷ Μελα^νί^ωνι^.	HHHLHHHLHHHLHHHLLLHL	LHHLHHH-HHH-HHHLLLHL	Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ἀντιλέγω	VERB
+μί_σους	ᾤχεθ' ὑ^πὸ μί_σους	HLLLHH	HLLLLH	Case=Gen|Gender=Masc|Number=Sing	μίσος	NOUN
+ἀνδρά^σι^	πολλὰ^ κα^τα^ρα_σά^μενος ἀνδρά^σι^ πονηροῖς.	HLLLHLLLHLLLHH	HLLLHLLLLLLLHH	Case=Dat|Gender=Masc|Number=Plur	ἀνήρ	NOUN
+πα^ρασκευαζόμεσθα^	Οὐ πα^ρασκευαζόμεσθα^ τῶν πολι_τῶν οὐδέν', ὦνδρες, φλαῦρον εἰπεῖν οὐδὲ ἕν,	HLHHHLHLHLHHHLHHHLHHHLL	HLLHLLHLHLHHHLHHHLHHHLH	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	παρασκευαζόμεσθα	VERB
+πα^ρασκευαζόμεσθα^	Οὐ πα^ρασκευαζόμεσθα^ τῶν πολι_τῶν οὐδέν', ὦνδρες, φλαῦρον εἰπεῖν οὐδὲ ἕν,	HLHHHLHLHLHHHLHHHLHHHLL	HLLHLLHLHLHHHLHHHLHHHLH	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	παρασκευαζόμεσθα	VERB
+ἕν,	Οὐ πα^ρασκευαζόμεσθα^ τῶν πολι_τῶν οὐδέν', ὦνδρες, φλαῦρον εἰπεῖν οὐδὲ ἕν,	HLHHHLHLHLHHHLHHHLHHHLL	HLLHLLHLHLHHHLHHHLHHHLH	Case=Nom|Gender=Neut|Number=Sing	εἷς	NUM
+τοὔμπα^λιν	ἀλλὰ^ πολὺ^ τοὔμπα^λιν πάντ' ἀ^γα^θὰ^ καὶ λέγειν	HLLLHLHHLLLHLH	HLLLHLLHLLLHLH		τοὔμπαλιν	ADJ
+γὰρ	καὶ δρᾶν· ἱ^κα^νὰ^ γὰρ τὰ^ κα^κὰ^ καὶ τὰ^ πα^ρα^κείμενα^.	HHLLLHLLLHLLLHLL	HHLLLLLLLHLLLHLL		γάρ	ADV
+δύ^'	δεῖται λα^βεῖν, μνᾶς ἢ δύ^' ἢ τρεῖς· ὡς ἔσω 'στὶν κἄ_χομεν βαλλάντι^α^.	HHLHHHLHHHLHHHLHHHLL	HHLHHHHHHHLHHLLHLLLL		δύ	NUM
+κἄ_χομεν	δεῖται λα^βεῖν, μνᾶς ἢ δύ^' ἢ τρεῖς· ὡς ἔσω 'στὶν κἄ_χομεν βαλλάντι^α^.	HHLHHHLHHHLHHHLHHHLL	HHLHHHHHHHLHHLLHLLLL	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	καγχἄνω	VERB
+βαλλάντι^α^.	δεῖται λα^βεῖν, μνᾶς ἢ δύ^' ἢ τρεῖς· ὡς ἔσω 'στὶν κἄ_χομεν βαλλάντι^α^.	HHLHHHLHHHLHHHLHHHLL	HHLHHHHHHHLHHLLHLLLL	Case=Nom|Gender=Neut|Number=Plur	βαλλάντιον	NOUN
+βαλλάντι^α^.	δεῖται λα^βεῖν, μνᾶς ἢ δύ^' ἢ τρεῖς· ὡς ἔσω 'στὶν κἄ_χομεν βαλλάντι^α^.	HHLHHHLHHHLHHHLHHHLL	HHLHHHHHHHLHHLLHLLLL	Case=Nom|Gender=Neut|Number=Plur	βαλλάντιον	NOUN
+Ἑστι^ᾶν	Ἑστι^ᾶν δὲ μέλλομεν ξένους τι^νὰς Κα^ρυστί^ους, ἄνδρας κα^λούς τε κἀ_γα^θούς.	HLHLHLHLHLHLHLHHHLHLHLH	H-HLHLHLHLLL-LHLLLHLLLH	Case=Acc|Gender=Fem|Number=Sing	Ἑστιᾶ	NOUN
+τι^νὰς	Ἑστι^ᾶν δὲ μέλλομεν ξένους τι^νὰς Κα^ρυστί^ους, ἄνδρας κα^λούς τε κἀ_γα^θούς.	HLHLHLHLHLHLHLHHHLHLHLH	H-HLHLHLHLLL-LHLLLHLLLH	Case=Acc|Gender=Masc|Number=Plur	τις	PRON
+Κα^ρυστί^ους,	Ἑστι^ᾶν δὲ μέλλομεν ξένους τι^νὰς Κα^ρυστί^ους, ἄνδρας κα^λούς τε κἀ_γα^θούς.	HLHLHLHLHLHLHLHHHLHLHLH	H-HLHLHLHLLL-LHLLLHLLLH	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	Καρύστιος	ADJ
+ἄνδρας	Ἑστι^ᾶν δὲ μέλλομεν ξένους τι^νὰς Κα^ρυστί^ους, ἄνδρας κα^λούς τε κἀ_γα^θούς.	HLHLHLHLHLHLHLHHHLHLHLH	H-HLHLHLHLLL-LHLLLHLLLH	Case=Acc|Gender=Masc|Number=Plur	ἀνήρ	NOUN
+ἄνδρας	Ἑστι^ᾶν δὲ μέλλομεν ξένους τι^νὰς Κα^ρυστί^ους, ἄνδρας κα^λούς τε κἀ_γα^θούς.	HLHLHLHLHLHLHLHHHLHLHLH	H-HLHLHLHLLL-LHLLLHLLLH	Case=Acc|Gender=Masc|Number=Plur	ἀνήρ	NOUN
+κἀ_γα^θούς.	Ἑστι^ᾶν δὲ μέλλομεν ξένους τι^νὰς Κα^ρυστί^ους, ἄνδρας κα^λούς τε κἀ_γα^θούς.	HLHLHLHLHLHLHLHHHLHLHLH	H-HLHLHLHLLL-LHLLLHLLLH	Case=Acc|Gender=Masc|Number=Plur	κἀγαθός	ADJ
+βα^δίζειν,	αὐτούς τε καὶ τὰ^ παιδί^', εἶτ' εἴσω βα^δίζειν, μηδ' ἐρέσθαι μηδένα^,	HHLHLHLHHHLHHHLHHHLL	HHLHLHLHHHLLHHLHHHLL	Tense=Pres|VerbForm=Inf|Voice=Act	βαδίζω	VERB
+ὁπόταν	τοῖς παισί^ν, ὁπόταν τε θυ^γά^τηρ τι^νὶ^ κα^νηφορῇ.	HHLLLHLLLHLLLHLH	HHLLLLLLLHLLLHLH		ὁπόταν	ADV
+λαμβά^νειν	Πᾶσι^ν ὑ_μῖν λέγω λαμβά^νειν τῶν ἐμῶν	HLHHLHHLHHLH	HLHHLHLLHHLH	Tense=Pres|VerbForm=Inf|Voice=Act	λαμβάνω	VERB
+ἔνδοθεν,	χρημά^των νῦν ἔνδοθεν,	HLHHHLL	HLHHHLH		ἔνδοθεν	ADV
+οὐχὶ^	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH	Polarity=Neg	οὐχί	ADV
+οὐχὶ^	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH	Polarity=Neg	οὐχί	ADV
+τοὺς	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	DET
+ῥύ^πους	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH	Case=Acc|Gender=Masc|Number=Plur	ῥύπος	NOUN
+ῥύ^πους	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH	Case=Acc|Gender=Masc|Number=Plur	ῥύπος	NOUN
+ἀ^νασπά^σαι,	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH	Tense=Past|VerbForm=Inf|Voice=Act	ἀνασπάω	VERB
+ἀ^νασπά^σαι,	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH	Tense=Past|VerbForm=Inf|Voice=Act	ἀνασπάω	VERB
+ἀ^νασπά^σαι,	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH	Tense=Past|VerbForm=Inf|Voice=Act	ἀνασπάω	VERB
+ἂ^ν	χἄττ' ἂ^ν ἔνδον ᾖ φορεῖν.	HLHLHLH	HHHLHLH		ἄν	PART
+πυ_ρί^δι^α^	ἔστι^ πα^ρ' ἐμοῦ λα^βεῖν πυ_ρί^δι^α^ λεπτὰ^ μέν,	HLLLHLHHLLLHLL	HLLLHLHLLLLHLH	Case=Nom|Gender=Neut|Number=Plur	πυρίδιον	NOUN
+μέν,	ἔστι^ πα^ρ' ἐμοῦ λα^βεῖν πυ_ρί^δι^α^ λεπτὰ^ μέν,	HLLLHLHHLLLHLL	HLLLHLHLLLLHLH		μέν	PART
+χοίνι^κος	ὁ δ'ἄρτος ἀ^πὸ χοίνι^κος ἰ^δεῖν μά^λα^ νεα_νί^ας.	LHLLLHLLLHLLLHLH	LHLLLH-LLHLHLHLH	Case=Gen|Gender=Fem|Number=Sing	χοῖνιξ	NOUN
+μά^λα^	ὁ δ'ἄρτος ἀ^πὸ χοίνι^κος ἰ^δεῖν μά^λα^ νεα_νί^ας.	LHLLLHLLLHLLLHLH	LHLLLH-LLHLHLHLH		μάλα	ADV
+Μα_νῆς	καὶ κωρύ^κους· ὡς λήψεται πυ_ρούς. Ὁ Μα_νῆς δ' οὑμὸς αὐτοῖς ἐμβα^λεῖ.	HHLHHHLHHHLHHHLHHHLH	HHLHHHLHHHLLHHLHHHLH	Case=Gen|Gender=Fem|Number=Sing	Μανῆ	NOUN
+βα^δίζειν	προα^γορεύω μὴ βα^δίζειν τὴν ἐμήν, ἀλλ' εὐλα^βεῖσθαι τὴν κύ^να^.	LLLHHHLHHHLHHHLHHHLL	LLLHHHLLHHLHHHLHHHLL	Tense=Pres|VerbForm=Inf|Voice=Act	βαδίζω	VERB
+χειροτονῶμεν	λα^βόντες ἔπειτα^ πλησί^οι κα^θεδούμεθ', ὡς ἂν χειροτονῶμεν	LHLLHLHLHLLHLHHHLLHL	LHLLHLHLHLLHLHHHLLHH	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	χειροτονέω	VERB
+γὰρ	τὰ_ς ἡμετέρας φί^λας— καίτοι τί^ λέγω; φί^λους γὰρ χρῆν μ' ὀνομάζειν.	HHLLHLHHHLLHLHHHLLHH	HHLLHLHHHLLHLHLHLLHH		γάρ	ADV
+λα^λοῦντες	κα^θῆντο λα^λοῦντες	LHLLHL	LHLLHH	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	λαλέω	VERB
+στεφα^νώμα^σιν,	ἐν τοῖς στεφα^νώμα^σιν, νυ_νὶ_ δ' ἐνοχλοῦσ' ἄ^γαν.	HHLLHLHHHLLHLL	HHLLHLLHHL-HLH	Case=Dat|Gender=Neut|Number=Plur	στεφανώμα	NOUN
+ἐνοχλοῦσ'	ἐν τοῖς στεφα^νώμα^σιν, νυ_νὶ_ δ' ἐνοχλοῦσ' ἄ^γαν.	HHLLHLHHHLLHLL	HHLLHLLHHL-HLH	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐνοχλοῦσ	VERB
+ἄ^γαν.	ἐν τοῖς στεφα^νώμα^σιν, νυ_νὶ_ δ' ἐνοχλοῦσ' ἄ^γαν.	HHLLHLHHHLLHLL	HHLLHLLHHL-HLH		ἄγαν	ADV
+ἕκαστος	ἀλλ' ἧκεν ἕκαστος	HHLLHL	HHLL-H	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἕκαστος	ADJ
+ἕκαστος	ἀλλ' ἧκεν ἕκαστος	HHLLHL	HHLL-H	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἕκαστος	ADJ
+ὅταν	ζητοῦσι^ λα^βεῖν, ὅταν πράττωσί^ τι^ κοινὸν ὥς περ πηλοφοροῦντες.	HHLLHLHHHLLHLHHHLLHH	HHLLHLLHHLLHLHHHLLHH	PronType=Rel	ὅταν	ADV
+μά^λιστα^	ἀλλ' ὡς μά^λιστα^ τοῖν ποδοῖν ἐπικτυ^πῶν βά^διζε.	HHLHLHLHLHLHLHL	HHLLLHLHLHLHLHL	Degree=Sup	μάλα	ADV
+αἰσχύ^νην	ἡμῖν δ' ἂ^ν αἰσχύ^νην φέροι	HHLHLHLH	HHLHHHLH	Case=Acc|Gender=Fem|Number=Sing	αἰσχύνη	NOUN
+στρα^τηγὸς	τὴν δ' οἰκί^αν ἔξεσθ' ὁρᾶν, ὅθενπερ ἡ στρα^τηγὸς	HHLHHHLHLHLHLHL	HHLHHHLHLHLHLHH	Case=Nom|Gender=Masc|Number=Sing	στρατηγός	NOUN
+βρα^δύ_νειν	ὥστ' εἰκὸς ἡμᾶς μὴ βρα^δύ_νειν ἔστ' ἐπα^να^μενούσας	HHLHHHLHHHLLLLHH	HHLHHHLLHHLLLLH-	Tense=Pres|VerbForm=Inf|Voice=Act	βραδύνω	VERB
+ἐπα^να^μενούσας	ὥστ' εἰκὸς ἡμᾶς μὴ βρα^δύ_νειν ἔστ' ἐπα^να^μενούσας	HHLHHHLHHHLLLLHH	HHLHHHLLHHLLLLH-	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἐπαναμενούσα	VERB
+ἐπὶ	ἀλλ' εἶα^ δεῦρ' ἐπὶ σκι^ᾶς ἐλθοῦσα^ πρὸς τὸ τειχί^ον,	HHLHLHLHHHLHLHLL	HHLHLL-HHHLHLHLH		ἐπί	ADP
+σκι^ᾶς	ἀλλ' εἶα^ δεῦρ' ἐπὶ σκι^ᾶς ἐλθοῦσα^ πρὸς τὸ τειχί^ον,	HHLHLHLHHHLHLHLL	HHLHLL-HHHLHLHLH	Case=Gen|Gender=Fem|Number=Sing	σκιά	NOUN
+τειχί^ον,	ἀλλ' εἶα^ δεῦρ' ἐπὶ σκι^ᾶς ἐλθοῦσα^ πρὸς τὸ τειχί^ον,	HHLHLHLHHHLHLHLL	HHLHLL-HHHLHLHLH	Case=Acc|Gender=Neut|Number=Sing	τειχίον	NOUN
+βρά^δυ_ν'·	καὶ μὴ βρά^δυ_ν'· ὡς τήνδε καὶ δὴ τὴν στρα^τηγὸν ἡμῶν	HHLHHHLHHHLHLHH	HHLLHHLHHHLHLHH		βράδυν'·	ADV
+μί_σει	ἅ^πα_σα^ καὶ μί_σει σά^κον πρὸς τοῖν γνα^θοῖν ἔχουσα^·	LHLHHHLHHHLHLHL	LHLHLHLHHHLHLHL	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	μίσω	VERB
+ἄ_κουσαι	χαὖται γὰ^ρ ἄ_κουσαι πά^λαι τὸ σχῆμα^ τοῦτ' ἔχουσιν.	HHLHHHLHHHLHLHH	HHLLHHLHHHLHLHL	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἄκουω	VERB
+ἔχουσιν.	χαὖται γὰ^ρ ἄ_κουσαι πά^λαι τὸ σχῆμα^ τοῦτ' ἔχουσιν.	HHLHHHLHHHLHLHH	HHLLHHLHHHLHLHL	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	VERB
+Δί^α,	οἰμώζων ἄ^ρα^, νὴ Δί^α, σποδήσεις.	HHHLLHLHLHH	HHHLLHHHLHH		ζεύς	ADV
+γὰρ	οὐ γὰρ τἀ_πὶ^ Χα^ριξένης τά^δ' ἐστίν.	HHHLLHLHLHH	HLLLLHLHLHL		γάρ	ADV
+τἀ_πὶ^	οὐ γὰρ τἀ_πὶ^ Χα^ριξένης τά^δ' ἐστίν.	HHHLLHLHLHH	HLLLLHLHLHL		ἐπί	ADV
+ἐστίν.	οὐ γὰρ τἀ_πὶ^ Χα^ριξένης τά^δ' ἐστίν.	HHHLLHLHLHH	HLLLLHLHLHL	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	AUX
+ποιεῖν	κα^τὰ^ τὸν νόμον ταῦτα^ ποιεῖν	LLHLHHLLH	LLHLHHLHH	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω	VERB
+δημοκρα^τούμεθα_.	ἔστι^ δί^καιον, εἰ δημοκρα^τούμεθα_.	HLLHLHHLLHLH	HLLHLHH-LHLL	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	δημοκρατέω	VERB
+δημοκρα^τούμεθα_.	ἔστι^ δί^καιον, εἰ δημοκρα^τούμεθα_.	HLLHLHHLLHLH	HLLHLHH-LHLL	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	δημοκρατέω	VERB
+κα^τα^δρα^μοῦσα^	καὶ σύ^ μοι κα^τα^δρα^μοῦσα^ τὴν θύ^ρα_ν ἄ^νοιξον	HLHLLLHLHLHLHL	HLHL-LHLHLHLHH	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	καταδραμμάνω	VERB
+ἄ^νοιξον	καὶ σύ^ μοι κα^τα^δρα^μοῦσα^ τὴν θύ^ρα_ν ἄ^νοιξον	HLHLLLHLHLHLHL	HLHL-LHLHLHLHH	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἀνοίγνυμι	VERB
+ἐστίν.	εἰρημέν' ἐστίν. σὺ^ δέ μοι, φίλτα^τον, ὢ ἱ_κετεύω,	HHLHHLLHHLLHLHH	HHLHLLLHHLLHHLHH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	AUX
+ἱ_κετεύω,	εἰρημέν' ἐστίν. σὺ^ δέ μοι, φίλτα^τον, ὢ ἱ_κετεύω,	HHLHHLLHHLLHLHH	HHLHLLLHHLLHHLHH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἱκετεύω	VERB
+ἱ_κετεύω,	εἰρημέν' ἐστίν. σὺ^ δέ μοι, φίλτα^τον, ὢ ἱ_κετεύω,	HHLHHLLHHLLHLHH	HHLHLLLHHLLHHLHH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἱκετεύω	VERB
+πρόσωπον,	μέλιττα^ Μούσης, Χα^ρί^των θρέμμα^, Τρυ^φῆς πρόσωπον,	LHLHHLLHHLLHLHL	LHLHHLLHHLLHLHH	Case=Acc|Gender=Neut|Number=Sing	πρόσωπον	NOUN
+πολύ^καρπον	πολύ^καρπον μὲν τι^νάσσων	LLHHHLHH	LLLHH--H	Case=Acc|Gender=Masc|Number=Sing	πολύκαρπος	ADJ
+τι^νάσσων	πολύ^καρπον μὲν τι^νάσσων	LLHHHLHH	LLLHH--H	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	τινάσσω	VERB
+τι^νάσσων	πολύ^καρπον μὲν τι^νάσσων	LLHHHLHH	LLLHH--H	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	τινάσσω	VERB
+ἀ^κόλαστον	ποδὶ^ τὰ_ν ἀ^κόλαστον	LLHLLHH	LLHLLLH	Case=Acc|Gender=Masc|Number=Sing	ἀκόλαστος	NOUN
+ἔχουσαν	χα^ρί^των πλεῖστον ἔχουσαν μέρος, ἁγνήν,	LLHHLLHHLLHH	LLHHLLHLLL-H	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω	VERB
+ἁγνήν,	χα^ρί^των πλεῖστον ἔχουσαν μέρος, ἁγνήν,	LLHHLLHHLLHH	LLHHLLHLLL-H	Case=Acc|Gender=Fem|Number=Sing	ἁγνός	ADJ
+κἀ_πισκώπτων	κἀ_πισκώπτων	HHHH	L-HH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κἀπισκώπτω	VERB
+κἀ_πισκώπτων	κἀ_πισκώπτων	HHHH	L-HH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κἀπισκώπτω	VERB
+ἀ_ρεῖς	Ἀλλ' ἔμβα_ χὤπως ἀ_ρεῖς	HHHHHHH	HHHHHLH	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἀρεῖς	VERB
+Θωρυ^κί^ων	κἂν Θωρυ^κί^ων μὴ βούληται.	HHLLHHHHH	HHHLHHHHH	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	Θωρυκίς	ADJ
+ἑορτῆς	Καὶ πολλὰ^ μὲν γέλοιά^ μ' εἰπεῖν, πολλὰ^ δὲ σπουδαῖα^, καὶ τῆς σῆς ἑορτῆς ἀξί^ως	HHLHLHLHHHLHHHLHHHLHHHLH	HHLHLHLHHHLHHHLHHHLHHLLH	Case=Gen|Gender=Fem|Number=Sing	ἑορτή	NOUN
+παίσαντα^	παίσαντα^ καὶ σκώψαντα^ νι_κήσαντα^ ταινι^οῦσθαι.	HHLHHHLHHHLHLHH	HLLHHHLHHLLH-HH	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	παίω	VERB
+νι_κήσαντα^	παίσαντα^ καὶ σκώψαντα^ νι_κήσαντα^ ταινι^οῦσθαι.	HHLHHHLHHHLHLHH	HLLHHHLHHLLH-HH	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	νικάω	VERB
+ταινι^οῦσθαι.	παίσαντα^ καὶ σκώψαντα^ νι_κήσαντα^ ταινι^οῦσθαι.	HHLHHHLHHHLHLHH	HLLHHHLHHLLH-HH	Tense=Pres|VerbForm=Inf|Voice=Pass	ταινιόω	VERB
+γὰρ	Σὺ^ γὰρ κα^τεσχί^σω μὲν ἐπὶ^ γέλωτι^	LHLHLHLLLLHL	LLLHLHLLLLHL		γάρ	ADV
+κἀ_π'	κἀ_π' εὐτελείᾳ τόδε τὸ σανδα^λίσκον	HHLHHLLLHLHH	LHLHHLLLHLLH		κἀπ	ADV
+σανδα^λίσκον	κἀ_π' εὐτελείᾳ τόδε τὸ σανδα^λίσκον	HHLHHLLLHLHH	LHLHHLLLHLLH	Case=Acc|Gender=Masc|Number=Sing	σανδαλίσκος	NOUN
+τὸ	καὶ τὸ ῥά^κος,	HHLH	HLLH	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	DET
+γὰρ	Καὶ γὰρ πα^ραβλέψας τι^ μειρα^κίσκης	HHLHHHLHLHH	HLLLHHLHL-H		γάρ	ADV
+πα^ραβλέψας	Καὶ γὰρ πα^ραβλέψας τι^ μειρα^κίσκης	HHLHHHLHLHH	HLLLHHLHL-H	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	παραβλέπτω	VERB
+μειρα^κίσκης	Καὶ γὰρ πα^ραβλέψας τι^ μειρα^κίσκης	HHLHHHLHLHH	HLLLHHLHL-H	Case=Gen|Gender=Fem|Number=Sing	μειρακίσκη	NOUN
+συμπαιστρί^ας,	συμπαιστρί^ας,	HHLH	LHLH	Case=Gen|Gender=Fem|Number=Sing	συμπαιστρία	NOUN
+ξυ^νά^γουσιν.	Μοῖραι ξυ^νά^γουσιν. —	HHLLHH	HHLLHL	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ξυνάγω	VERB
+ἐστιν,	Μόνοις γὰ^ρ ἡμῖν ἥλι^ος καὶ φέγγος ἱ^λα^ρόν ἐστιν,	LHLHHHLHHHLLLLHH	LHLHHHLHHHLLLLHL	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	AUX
+μεμυ^ήμεθ'	ὅσοι μεμυ^ήμεθ' εὐσεβῆ τε δι^ήγομεν	LHLLHLHLHLLHLH	LHLHHLHLHL-HLH	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	μεμυήμεθ	VERB
+δι^ήγομεν	ὅσοι μεμυ^ήμεθ' εὐσεβῆ τε δι^ήγομεν	LHLLHLHLHLLHLH	LHLHHLHLHL-HLH	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	διήγω	VERB
+φρένας	Ταῦτα^ μὲν πρὸς ἀνδρός ἐστι^ νοῦν ἔχοντος καὶ φρένας καὶ πολλὰ^ περι^πεπλευκότος,	HLHLHLHLHLHHHLHHHLLLLHLH	HLHLHLHLHLHHHLLHHLL--HLH	Case=Acc|Gender=Fem|Number=Plur	φρήν	NOUN
+περι^πεπλευκότος,	Ταῦτα^ μὲν πρὸς ἀνδρός ἐστι^ νοῦν ἔχοντος καὶ φρένας καὶ πολλὰ^ περι^πεπλευκότος,	HLHLHLHLHLHHHLHHHLLLLHLH	HLHLHLHLHLHHHLLHHLL--HLH	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	περιπεπλευκότος	VERB
+περι^πεπλευκότος,	Ταῦτα^ μὲν πρὸς ἀνδρός ἐστι^ νοῦν ἔχοντος καὶ φρένας καὶ πολλὰ^ περι^πεπλευκότος,	HLHLHLHLHLHHHLHHHLLLLHLH	HLHLHLHLHLHHHLLHHLL--HLH	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	περιπεπλευκότος	VERB
+Θηρα_μένους.	δεξι^οῦ πρὸς ἀνδρός ἐστι^ καὶ φύ^σει Θηρα_μένους.	HLHLHLHLHLHHHLH	HLHLHLHLHLHHLLH	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	Θηραμένους	VERB
+ἂν	Οὐ γὰ^ρ ἂν γέλοιον ἦν, εἰ Ξανθί^ας μὲν δοῦλος ὢν ἐν στρώμα^σιν Μι^λησί^οις	HLHLHLHHHLHHHLHHHLHLHLH	HLLLHLHHHLHHHLHHHLL-HLH		ἄν	PART
+στρώμα^σιν	Οὐ γὰ^ρ ἂν γέλοιον ἦν, εἰ Ξανθί^ας μὲν δοῦλος ὢν ἐν στρώμα^σιν Μι^λησί^οις	HLHLHLHHHLHHHLHHHLHLHLH	HLLLHLHHHLHHHLHHHLL-HLH	Case=Dat|Gender=Neut|Number=Plur	στρώμα	NOUN
+Μι^λησί^οις	Οὐ γὰ^ρ ἂν γέλοιον ἦν, εἰ Ξανθί^ας μὲν δοῦλος ὢν ἐν στρώμα^σιν Μι^λησί^οις	HLHLHLHHHLHHHLHHHLHLHLH	HLLLHLHHHLHHHLHHHLL-HLH	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	Μιλήσιος	ADJ
+ἀ^να^τετραμμένος	ἀ^να^τετραμμένος κυ^νῶν ὀρ χηστρί^δ' εἶτ' ᾔτησεν ἁ^μί^δ', ἐγὼ δὲ πρὸς τοῦτον βλέπων	LLLHLHLHHHLHHHLLLLHLHHHLH	LL-HLHLHHHLHHHLHLLH-HHHLH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἀνατετραμμένος	VERB
+ἁ^μί^δ',	ἀ^να^τετραμμένος κυ^νῶν ὀρ χηστρί^δ' εἶτ' ᾔτησεν ἁ^μί^δ', ἐγὼ δὲ πρὸς τοῦτον βλέπων	LLLHLHLHHHLHHHLLLLHLHHHLH	LL-HLHLHHHLHHHLHLLH-HHHLH		ἁμίδ	ADV
+δὲ	ἀ^να^τετραμμένος κυ^νῶν ὀρ χηστρί^δ' εἶτ' ᾔτησεν ἁ^μί^δ', ἐγὼ δὲ πρὸς τοῦτον βλέπων	LLLHLHLHHHLHHHLLLLHLHHHLH	LL-HLHLHHHLHHHLHLLH-HHHLH		δέ	ADV
+πα^τάξας	πὺξ πα^τάξας μοὐξέκοψε τοῦ χοροῦ τοὺς προσθί^ους;	HLHHHLHLHLHHHLH	HLLHHLHLHLHHHLH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	πατάσσω	VERB
+πά^λιν	Νῦν σὸν ἔργον ἔστ', ἐπειδὴ τὴν στολὴν εἴληφα^ς ἥνπερ εἶχες, ἐξ ἀρχῆς πά^λιν	HLHLHLHHHLHHHLHLHLHHHLH	HLHLHLHHHLHHHLHLHLHHHLL		πάλιν	ADV
+μαλθα^κόν,	ᾧπερ εἰκάζεις σεαυτόν. Ἢν δὲ πα^ρα^ληρῶν ἁ^λῷς ἢ κἀκβά^λῃς τι^ μαλθα^κόν,	HLHHHLHLHLLLHHLHHHLHLHLH	HLHHHLHLHLLLHHLHHHLHLLLH	Case=Acc|Gender=Neut|Number=Sing	μαλθακός	ADJ
+πά^λιν	αὖθι^ς αἴρεσθαί σ' ἀ^νάγκη 'σται πά^λιν τὰ^ στρώμα^τα^.	HLHHHLHHHLHLHLL	HLHHHLHHHLLLHLL		πάλιν	ADV
+συννοούμενος.	Οὐ κα^κῶς, ὦνδρες, πα^ραινεῖτ', ἀλλὰ^ καὐτὸς τυγχά^νω ταῦτ' ἄρτι^ συννοούμενος.	HLHHHLHHHLHHHLHHHLHLHLL	HLHHHLHHHLHHHLHHHLHLHLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	συννοέω	VERB
+πά^λιν	Ὅδε μὲν οὖν, ἢν χρηστὸν ᾖ τι^, ταῦτ' ἀ^φαιρεῖσθαι πά^λιν πειρά_σεταί μ' εὖ οἶδ' ὅτι^.	LLLHHHLHLHLHHHLHHHLHHHLL	LLLHHHLHLHLHHHLLHHLHHHLL		πάλιν	ADV
+καὶ	Μοῦσα^, χορῶν ἱ^ερῶν ἐπί^βηθι^ καὶ ἔλθ' ἐπὶ^ τέρψι^ν ἀ^οιδᾶς ἐμᾶς,	HLLHLLHLLHLLHLLHLLHHLH	HLLHLLHLLHLHHLLH-LHHLH		καί	CCONJ
+τέρψι^ν	Μοῦσα^, χορῶν ἱ^ερῶν ἐπί^βηθι^ καὶ ἔλθ' ἐπὶ^ τέρψι^ν ἀ^οιδᾶς ἐμᾶς,	HLLHLLHLLHLLHLLHLLHHLH	HLLHLLHLLHLHHLLH-LHHLH	Case=Acc|Gender=Fem|Number=Sing	τέρψις	NOUN
+Θρῃκί^α_	Θρῃκί^α_ χελι_δὼν	HLHLHH	HLLLHH	Case=Nom|Gender=Neut|Number=Plur	Θρῃκίον	NOUN
+βάρβα^ρον	ἐπὶ^ βάρβα^ρον ἑζομένη πέτα^λον· τρύζει δ' ἐπί^κλαυτον ἀ^ηδόνι^ον νόμον, ὡς ἀ^πολεῖται, κἂ_ν ἴ^σαι γένωνται.	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHHHLHLHH	LLLLLHLLHLLHHHL-HLLHL-HLLHLLHHHLHLHH	Case=Acc|Gender=Masc|Number=Sing	βάρβαρος	ADJ
+ἐπί^κλαυτον	ἐπὶ^ βάρβα^ρον ἑζομένη πέτα^λον· τρύζει δ' ἐπί^κλαυτον ἀ^ηδόνι^ον νόμον, ὡς ἀ^πολεῖται, κἂ_ν ἴ^σαι γένωνται.	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHHHLHLHH	LLLLLHLLHLLHHHL-HLLHL-HLLHLLHHHLHLHH	Case=Acc|Gender=Masc|Number=Sing	ἐπίκλαυτος	NOUN
+ἀ^ηδόνι^ον	ἐπὶ^ βάρβα^ρον ἑζομένη πέτα^λον· τρύζει δ' ἐπί^κλαυτον ἀ^ηδόνι^ον νόμον, ὡς ἀ^πολεῖται, κἂ_ν ἴ^σαι γένωνται.	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHHHLHLHH	LLLLLHLLHLLHHHL-HLLHL-HLLHLLHHHLHLHH	Case=Acc|Gender=Masc|Number=Sing	ἀηδόνιον	NOUN
+ἐγὼ	Εἰ δ' ἐγὼ ὀρθὸς ἰ^δεῖν βί^ον ἀ_νέρος ἢ τρόπον ὅστι^ς ἔτ' οἰμώξεται,	HLLHLLHLLHLLHLLHLLHHLH	HLHHLLHLLLLLHLLHLLHHLH	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	PRON
+βί^ον	Εἰ δ' ἐγὼ ὀρθὸς ἰ^δεῖν βί^ον ἀ_νέρος ἢ τρόπον ὅστι^ς ἔτ' οἰμώξεται,	HLLHLLHLLHLLHLLHLLHHLH	HLHHLLHLLLLLHLLHLLHHLH	Case=Acc|Gender=Masc|Number=Sing	βίος	NOUN
+μι_κρός,	Κλειγένης ὁ μι_κρός,	HLHLHL	HLHL-H	Case=Nom|Gender=Masc|Number=Sing	μικρός	ADJ
+μι_κρός,	Κλειγένης ὁ μι_κρός,	HLHLHL	HLHL-H	Case=Nom|Gender=Masc|Number=Sing	μικρός	ADJ
+ἐνδι^α^τρίψει·	χρόνον ἐνδι^α^τρίψει· ἰ^δὼν δὲ τά^δ' οὐκ εἰρηνι^κὸς ἔσθ', ἵ^να^ μή ποτε κἀ_ποδυ^θῇ μεθύ^ων ἄ^νευ ξύ^λου βα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἐνδιατρίψει·	VERB
+ἐνδι^α^τρίψει·	χρόνον ἐνδι^α^τρίψει· ἰ^δὼν δὲ τά^δ' οὐκ εἰρηνι^κὸς ἔσθ', ἵ^να^ μή ποτε κἀ_ποδυ^θῇ μεθύ^ων ἄ^νευ ξύ^λου βα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἐνδιατρίψει·	VERB
+ἐνδι^α^τρίψει·	χρόνον ἐνδι^α^τρίψει· ἰ^δὼν δὲ τά^δ' οὐκ εἰρηνι^κὸς ἔσθ', ἵ^να^ μή ποτε κἀ_ποδυ^θῇ μεθύ^ων ἄ^νευ ξύ^λου βα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἐνδιατρίψει·	VERB
+ἐνδι^α^τρίψει·	χρόνον ἐνδι^α^τρίψει· ἰ^δὼν δὲ τά^δ' οὐκ εἰρηνι^κὸς ἔσθ', ἵ^να^ μή ποτε κἀ_ποδυ^θῇ μεθύ^ων ἄ^νευ ξύ^λου βα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἐνδιατρίψει·	VERB
+ἵ^να^	χρόνον ἐνδι^α^τρίψει· ἰ^δὼν δὲ τά^δ' οὐκ εἰρηνι^κὸς ἔσθ', ἵ^να^ μή ποτε κἀ_ποδυ^θῇ μεθύ^ων ἄ^νευ ξύ^λου βα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH		ἵνα	SCONJ
+κἀ_ποδυ^θῇ	χρόνον ἐνδι^α^τρίψει· ἰ^δὼν δὲ τά^δ' οὐκ εἰρηνι^κὸς ἔσθ', ἵ^να^ μή ποτε κἀ_ποδυ^θῇ μεθύ^ων ἄ^νευ ξύ^λου βα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	κἀποδυθῇ	VERB
+ἂ^ν	ἡνί^κ' ἂ^ν ὀξύ^λα^λόν περ ἴ^δῃ θήγοντος ὀδόντα^	HLLHLLHLLHHHLLHL	HLHHLLHLLHHHLLHL		ἄν	PART
+ὄμμα^τα	ὄμμα^τα στροβήσεται.	HLHLHLH	HLLLHLH	Case=Acc|Gender=Neut|Number=Plur	ὄμμα	NOUN
+πα^ραξόνι^α	σκινδα^λά^μων τε πα^ραξόνι^α σμι_λευμα^τοεργοῦ	HLLHLLHLLHHHLLHH	HLLHLLHL-L-HLLHH	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	παραξόνιος	ADJ
+πα^ραξόνι^α	σκινδα^λά^μων τε πα^ραξόνι^α σμι_λευμα^τοεργοῦ	HLLHLLHLLHHHLLHH	HLLHLLHL-L-HLLHH	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	παραξόνιος	ADJ
+σμι_λευμα^τοεργοῦ	σκινδα^λά^μων τε πα^ραξόνι^α σμι_λευμα^τοεργοῦ	HLLHLLHLLHHHLLHH	HLLHLLHL-L-HLLHH	Case=Gen|Gender=Masc|Number=Sing	σμιλευματοεργοῦ	ADJ
+ῥήμα^θ'	ῥήμα^θ' ἱπποβά_μονα^.	HLHLHLL	HHHLLLL	Case=Acc|Gender=Neut|Number=Plur	ῥήμαθ	NOUN
+ἱπποβά_μονα^.	ῥήμα^θ' ἱπποβά_μονα^.	HLHLHLL	HHHLLLL	Case=Acc|Gender=Masc|Number=Sing	ἱπποβάμων	ADJ
+Φρίξας	Φρίξας δ' αὐτοκόμου λοφι^ᾶς λα^σι^αύχενα^ χαίταν,	HHHLLHLLHLLHLLHH	LHHLLHL-HL-HLLHH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	Φρίζω	VERB
+λοφι^ᾶς	Φρίξας δ' αὐτοκόμου λοφι^ᾶς λα^σι^αύχενα^ χαίταν,	HHHLLHLLHLLHLLHH	LHHLLHL-HL-HLLHH	Case=Gen|Gender=Fem|Number=Sing	λοφιᾶ	ADJ
+λα^σι^αύχενα^	Φρίξας δ' αὐτοκόμου λοφι^ᾶς λα^σι^αύχενα^ χαίταν,	HHHLLHLLHLLHLLHH	LHHLLHL-HL-HLLHH	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	λασιαύχενα	ADJ
+ἐπισκύ^νι^ον	δεινὸν ἐπισκύ^νι^ον ξυ^νά^γων, βρυ_χώμενος ἥσει	HLLHLLHLLHHHLLHH	HLLLL-HLLHHHLLHH	Case=Acc|Gender=Neut|Number=Sing	ἐπισκύνιον	NOUN
+ἐπισκύ^νι^ον	δεινὸν ἐπισκύ^νι^ον ξυ^νά^γων, βρυ_χώμενος ἥσει	HLLHLLHLLHHHLLHH	HLLLL-HLLHHHLLHH	Case=Acc|Gender=Neut|Number=Sing	ἐπισκύνιον	NOUN
+φυ^σήμα^τι^.	γηγενεῖ φυ^σήμα^τι^.	HLHLHLL	HLHHHLL	Case=Dat|Gender=Neut|Number=Sing	φυσήμα	NOUN
+πολὺν	πλευμόνων πολὺν πόνον.	HLHLHLH	HLHLLLH	Case=Acc|Gender=Masc|Number=Sing	πολύς	ADJ
+συσκεδᾶν	ἐμπεσόντα^ συσκεδᾶν πολλὰ_ς ἀ^λινδήθρα_ς ἐπῶν.	HLHLHLHHHLHHHLH	HLHL-LHHHLLHHLH		συσκεδᾶν	X
+ἀ^λινδήθρα_ς	ἐμπεσόντα^ συσκεδᾶν πολλὰ_ς ἀ^λινδήθρα_ς ἐπῶν.	HLHLHLHHHLHHHLH	HLHL-LHHHLLHHLH	Case=Acc|Gender=Fem|Number=Plur	ἀλινδήθρα	NOUN
+γὰρ	δεινὰ^ γὰρ κα^τηγόρηκεν.	HLHLHLHL	HLLLHLHH		γάρ	ADV
+κα^τηγόρηκεν.	δεινὰ^ γὰρ κα^τηγόρηκεν.	HLHLHLHL	HLLLHLHH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κατηγόρηκεν	VERB
+γεννά^δα_,	Ἀλλ' ὅπως, ὦ γεννά^δα_,	HLHHHLH	HLHHHLL	Case=Voc|Gender=Fem|Number=Sing	γεννάδας	NOUN
+ἱστί^οις,	χρώμενος τοῖς ἱστί^οις,	HLHHHLH	HLHHLLH	Case=Dat|Gender=Neut|Number=Plur	ἱστίον	NOUN
+φυ^λάξεις,	καὶ φυ^λάξεις,	HLHH	HLLH	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	φυλάξεις	VERB
+ἐπα^ναστρέφειν	ὁ δ' ἐπα^ναστρέφειν δύ^νηται κἀ_περείδεσθαι τορῶς.	LLLHLHLHHHLHHHLH	LLL-LHHHHLLHHHLH	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπαναστρέφω	VERB
+ἐπα^ναστρέφειν	ὁ δ' ἐπα^ναστρέφειν δύ^νηται κἀ_περείδεσθαι τορῶς.	LLLHLHLHHHLHHHLH	LLL-LHHHHLLHHHLH	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπαναστρέφω	VERB
+δύ^νηται	ὁ δ' ἐπα^ναστρέφειν δύ^νηται κἀ_περείδεσθαι τορῶς.	LLLHLHLHHHLHHHLH	LLL-LHHHHLLHHHLH	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	δύναμαι	VERB
+κά^θησθον·	Ἀλλὰ^ μὴ 'ν ταὐτῷ κά^θησθον·	HLHHHLHL	HLHHHLHH	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	κάθησθον·	VERB
+χἄ_τεραι	εἰσβολαὶ γά^ρ εἰσι^ πολλαὶ χἄ_τεραι σοφισμά^των.	HLHLHLHHHLHLHLH	HLHLHLHHLLHLLLH	Case=Nom|Gender=Fem|Number=Plur	χἄτερος	ADJ
+σοφισμά^των.	εἰσβολαὶ γά^ρ εἰσι^ πολλαὶ χἄ_τεραι σοφισμά^των.	HLHLHLHHHLHLHLH	HLHLHLHHLLHLLLH	Case=Gen|Gender=Neut|Number=Plur	σόφισμα	NOUN
+κἀ_ποκινδυ^νεύετον	τά^ τε πα^λαιὰ^ καὶ τὰ^ καινά^, κἀ_ποκινδυ^νεύετον λεπτόν τι^ καὶ σοφὸν λέγειν	LLLHLHLHLHLHLHLHHHLHLHLH	LLLHLHLHLLLHHHLHHHLHLHLH	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	κἀποκινδυνεύω	VERB
+κἀ_ποκινδυ^νεύετον	τά^ τε πα^λαιὰ^ καὶ τὰ^ καινά^, κἀ_ποκινδυ^νεύετον λεπτόν τι^ καὶ σοφὸν λέγειν	LLLHLHLHLHLHLHLHHHLHLHLH	LLLHLHLHLLLHHHLHHHLHLHLH	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	κἀποκινδυνεύω	VERB
+βιβλί^ον	βιβλί^ον τ' ἔχων ἕκαστος μανθά^νει τὰ^ δεξι^ά_·	HLHLHLHHHLHLHLH	-LHLHL-HLLHLH-L	Case=Acc|Gender=Neut|Number=Sing	βιβλίον	NOUN
+ἕκαστος	βιβλί^ον τ' ἔχων ἕκαστος μανθά^νει τὰ^ δεξι^ά_·	HLHLHLHHHLHLHLH	-LHLHL-HLLHLH-L	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἕκαστος	ADJ
+ἕκαστος	βιβλί^ον τ' ἔχων ἕκαστος μανθά^νει τὰ^ δεξι^ά_·	HLHLHLHHHLHLHLH	-LHLHL-HLLHLH-L	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἕκαστος	ADJ
+δεξι^ά_·	βιβλί^ον τ' ἔχων ἕκαστος μανθά^νει τὰ^ δεξι^ά_·	HLHLHLHHHLHLHLH	-LHLHL-HLLHLH-L		δεξιά·	PUNCT
+δεξι^ά_·	βιβλί^ον τ' ἔχων ἕκαστος μανθά^νει τὰ^ δεξι^ά_·	HLHLHLHHHLHLHLH	-LHLHL-HLLHLH-L		δεξιά·	PUNCT
+κρά^τισται,	αἱ φύ^σεις τ' ἄλλως κρά^τισται,	HLHHHLHH	HLHHHLLH	Case=Nom|Gender=Fem|Number=Plur	κράτιστος	ADJ
+Πά^ρα^	Πά^ρα^ δὲ πολλοῖσιν μα^θεῖν.	LLLHHHLH	LHLHHLLH		παρά	ADP
+πολλοῖσιν	Πά^ρα^ δὲ πολλοῖσιν μα^θεῖν.	LLLHHHLH	LHLHHLLH	Case=Dat|Gender=Neut|Number=Plur	πολύς	ADJ
+μέγιστα^	τά^ τε μέγιστα^ πα^ρα^λι^πόντα^	LLLHLLLLHL	LLLLLLL-HL	Case=Nom|Gender=Neut|Number=Plur	μέγας	ADJ
+πα^ρα^λι^πόντα^	τά^ τε μέγιστα^ πα^ρα^λι^πόντα^	LLLHLLLLHL	LLLLLLL-HL	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	παραλείπω	VERB
+σεμνοῖσιν	Τὸ δ' ἐπὶ^ σεμνοῖσιν λόγοισι^	LLLHHHLHL	LLLHHLLHL	Case=Dat|Gender=Masc|Number=Plur	σεμνός	ADJ
+στι^βά^δα^ς	πράγμα^τά^ τε καὶ στι^βά^δα^ς ἃ_ς ἔλα^χε Φορμί^ων·	HLLLHLLLHLLLHLH	HLLLH-LHHLLLHLH	Case=Acc|Gender=Fem|Number=Plur	στιβάς	NOUN
+στι^βά^δα^ς	πράγμα^τά^ τε καὶ στι^βά^δα^ς ἃ_ς ἔλα^χε Φορμί^ων·	HLLLHLLLHLLLHLH	HLLLH-LHHLLLHLH	Case=Acc|Gender=Fem|Number=Plur	στιβάς	NOUN
+ἄν	ἀλλ' ἁ^πα^λὸν ἄν μ' ἴ^δοις καὶ πολὺ^ νεώτερον ἀ^παλλα^γέντα πραγμά^των.	HLLLHLHHLLLHLLLHLHHHLH	HLLLLLHHLLLHLLLHLHLHLH		ἄν	PART
+ἀ^παλλα^γέντα	ἀλλ' ἁ^πα^λὸν ἄν μ' ἴ^δοις καὶ πολὺ^ νεώτερον ἀ^παλλα^γέντα πραγμά^των.	HLLLHLHHLLLHLLLHLHHHLH	HLLLLLHHLLLHLLLHLHLHLH	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ἀπαλλάζω	VERB
+κἀκ	εἰς Λύ^κειον κἀκ Λυ^κείου σὺν δόρει σὺ^ν ἀσπί^δι^.	HLHHHLHHHLHLHLL	HLHH-LHHLLHL-LL	Case=Nom|Gender=Neut|Number=Plur	ἐκ	ADJ
+σὺν	εἰς Λύ^κειον κἀκ Λυ^κείου σὺν δόρει σὺ^ν ἀσπί^δι^.	HLHHHLHHHLHLHLL	HLHH-LHHLLHL-LL		σύν	ADP
+ἀσπί^δι^.	εἰς Λύ^κειον κἀκ Λυ^κείου σὺν δόρει σὺ^ν ἀσπί^δι^.	HLHHHLHHHLHLHLL	HLHH-LHHLLHL-LL	Case=Dat|Gender=Fem|Number=Sing	ἀσπίς	NOUN
+μά^λιστα^	Ἀλλ' ὅ τι^ μά^λιστα^ χα^ρι^ούμεθα^ ποιοῦντες, ἄ^γε, φράζε· σὲ γὰ^ρ αὐτοκρά^τορ' εἵλετ' ἀ^γα^θή τι^ς ἡμῖν τύ^χη.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLH	HLLLLLLLHLLHHLL-HLLLH-LLHLLLHLHHLH	Degree=Sup	μάλα	ADV
+ποιοῦντες,	Ἀλλ' ὅ τι^ μά^λιστα^ χα^ρι^ούμεθα^ ποιοῦντες, ἄ^γε, φράζε· σὲ γὰ^ρ αὐτοκρά^τορ' εἵλετ' ἀ^γα^θή τι^ς ἡμῖν τύ^χη.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLH	HLLLLLLLHLLHHLL-HLLLH-LLHLLLHLHHLH	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ποιέω	VERB
+ἄ^γε,	Ἀλλ' ὅ τι^ μά^λιστα^ χα^ρι^ούμεθα^ ποιοῦντες, ἄ^γε, φράζε· σὲ γὰ^ρ αὐτοκρά^τορ' εἵλετ' ἀ^γα^θή τι^ς ἡμῖν τύ^χη.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLH	HLLLLLLLHLLHHLL-HLLLH-LLHLLLHLHHLH		ἄγε	ADV
+αὐτοκρά^τορ'	Ἀλλ' ὅ τι^ μά^λιστα^ χα^ρι^ούμεθα^ ποιοῦντες, ἄ^γε, φράζε· σὲ γὰ^ρ αὐτοκρά^τορ' εἵλετ' ἀ^γα^θή τι^ς ἡμῖν τύ^χη.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLH	HLLLLLLLHLLHHLL-HLLLH-LLHLLLHLHHLH	Case=Voc|Gender=Masc|Number=Sing	αὐτοκράτορ	NOUN
+παλίγκοτος	Μὴ γένῃ παλίγκοτος ἀντιβολοῦσιν ἡμῖν,  ὥστε τήνδε μὴ λα^βεῖν·	HLHHLHLHLH	HLHLHLLHLLHLHHHLHLHLH	Case=Nom|Gender=Masc|Number=Sing	παλίγκοτος	NOUN
+παλίγκοτος	Μὴ γένῃ παλίγκοτος ἀντιβολοῦσιν ἡμῖν,  ὥστε τήνδε μὴ λα^βεῖν·	HLHHLHLHLH	HLHLHLLHLLHLHHHLHLHLH	Case=Nom|Gender=Masc|Number=Sing	παλίγκοτος	NOUN
+παλίγκοτος	Μὴ γένῃ παλίγκοτος ἀντιβολοῦσιν ἡμῖν,  ὥστε τήνδε μὴ λα^βεῖν·	HLHHLHLHLH	HLHLHLLHLLHLHHHLHLHLH	Case=Nom|Gender=Masc|Number=Sing	παλίγκοτος	NOUN
+ἀντιβολοῦσιν	Μὴ γένῃ παλίγκοτος ἀντιβολοῦσιν ἡμῖν,  ὥστε τήνδε μὴ λα^βεῖν·	HLHHLHLHLH	HLHLHLLHLLHLHHHLHLHLH	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀντιβολέω	VERB
+ἀ^γρὸν	δαιμόνι^α^ βουλόμενος εἰς ἀ^γρὸν ἀ^νερπύ^σαι.	HLLLHLLLHLLLHLH	HLLLHLLLH-LLHHH	Case=Acc|Gender=Masc|Number=Sing	ἀγρός	NOUN
+ἀ^νερπύ^σαι.	δαιμόνι^α^ βουλόμενος εἰς ἀ^γρὸν ἀ^νερπύ^σαι.	HLLLHLLLHLLLHLH	HLLLHLLLH-LLHHH	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀνερπύμαι	VERB
+γὰρ	Ἦσθα^ γὰρ μέγιστον ἡμῖν κέρδος, ὦ ποθουμένη,	HLHLHLHHHLHLHLH	HLLL-LHHHLHLHLH		γάρ	ADV
+μέγιστον	Ἦσθα^ γὰρ μέγιστον ἡμῖν κέρδος, ὦ ποθουμένη,	HLHLHLHHHLHLHLH	HLLL-LHHHLHLHLH	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	μέγας	ADJ
+γεωργικὸν	πᾶσι^ν ὁπόσοι γεωργικὸν βίον ἐτρίβομεν· μόνη γὰ^ρ ἡμᾶς ὠφέλεις.	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH	Case=Acc|Gender=Masc|Number=Sing	γεωργικὸς	ADJ
+γεωργικὸν	πᾶσι^ν ὁπόσοι γεωργικὸν βίον ἐτρίβομεν· μόνη γὰ^ρ ἡμᾶς ὠφέλεις.	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH	Case=Acc|Gender=Masc|Number=Sing	γεωργικὸς	ADJ
+βίον	πᾶσι^ν ὁπόσοι γεωργικὸν βίον ἐτρίβομεν· μόνη γὰ^ρ ἡμᾶς ὠφέλεις.	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH	Case=Acc|Gender=Masc|Number=Sing	βίος	NOUN
+βίον	πᾶσι^ν ὁπόσοι γεωργικὸν βίον ἐτρίβομεν· μόνη γὰ^ρ ἡμᾶς ὠφέλεις.	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH	Case=Acc|Gender=Masc|Number=Sing	βίος	NOUN
+ἐτρίβομεν·	πᾶσι^ν ὁπόσοι γεωργικὸν βίον ἐτρίβομεν· μόνη γὰ^ρ ἡμᾶς ὠφέλεις.	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐτρίβομεν·	VERB
+ἐτρίβομεν·	πᾶσι^ν ὁπόσοι γεωργικὸν βίον ἐτρίβομεν· μόνη γὰ^ρ ἡμᾶς ὠφέλεις.	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐτρίβομεν·	VERB
+ἐτρίβομεν·	πᾶσι^ν ὁπόσοι γεωργικὸν βίον ἐτρίβομεν· μόνη γὰ^ρ ἡμᾶς ὠφέλεις.	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐτρίβομεν·	VERB
+ἐπάσχομεν	Πολλὰ^ γὰ^ρ ἐπάσχομεν πρίν ποτ' ἐπὶ^ σοῦ γλυ^κέα^ κἀ_δά^πα^να^ καὶ φί^λα_.	HLLLHLHHLLLHLLLHLLLHLH	HLLL-LHLLLLHLLLLLLLHLH	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἐπάσχω	VERB
+πρίν	Πολλὰ^ γὰ^ρ ἐπάσχομεν πρίν ποτ' ἐπὶ^ σοῦ γλυ^κέα^ κἀ_δά^πα^να^ καὶ φί^λα_.	HLLLHLHHLLLHLLLHLLLHLH	HLLL-LHLLLLHLLLLLLLHLH		πρίν	SCONJ
+κἀ_δά^πα^να^	Πολλὰ^ γὰ^ρ ἐπάσχομεν πρίν ποτ' ἐπὶ^ σοῦ γλυ^κέα^ κἀ_δά^πα^να^ καὶ φί^λα_.	HLLLHLHHLLLHLLLHLLLHLH	HLLL-LHLLLLHLLLLLLLHLH		κἀδάπανα	PROPN
+ἀ^γροίκοισιν	Τοῖς ἀ^γροίκοισιν γὰ^ρ ἦσθα^ χῖδρα^ καὶ σωτηρί^α_.	HLHHHLHLHLHHHLH	H-HHLLHLHLHHHLH	Case=Dat|Gender=Masc|Number=Plur	ἀγροίκοισιν	ADJ
+ἀ^γροίκοισιν	Τοῖς ἀ^γροίκοισιν γὰ^ρ ἦσθα^ χῖδρα^ καὶ σωτηρί^α_.	HLHHHLHLHLHHHLH	H-HHLLHLHLHHHLH	Case=Dat|Gender=Masc|Number=Plur	ἀγροίκοισιν	ADJ
+ἀμπέλι^α^	Ὥστε σὲ τά^ τ' ἀμπέλι^α^ καὶ τὰ^ νέα^ συ_κί^δι^α^ τἄλλα^ θ' ὁπόσ' ἐστὶ^ φυ^τὰ^ προσγελά^σεται λα^βόντ' ἄσμενα^.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLL	HLLLHL-LHLLHHL-LHLLLHLLLHLLLHLH-LL	Case=Nom|Gender=Neut|Number=Plur	ἀμπέλιον	NOUN
+νέα^	Ὥστε σὲ τά^ τ' ἀμπέλι^α^ καὶ τὰ^ νέα^ συ_κί^δι^α^ τἄλλα^ θ' ὁπόσ' ἐστὶ^ φυ^τὰ^ προσγελά^σεται λα^βόντ' ἄσμενα^.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLL	HLLLHL-LHLLHHL-LHLLLHLLLHLLLHLH-LL	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ναῦς	ADJ
+συ_κί^δι^α^	Ὥστε σὲ τά^ τ' ἀμπέλι^α^ καὶ τὰ^ νέα^ συ_κί^δι^α^ τἄλλα^ θ' ὁπόσ' ἐστὶ^ φυ^τὰ^ προσγελά^σεται λα^βόντ' ἄσμενα^.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLL	HLLLHL-LHLLHHL-LHLLLHLLLHLLLHLH-LL	Case=Nom|Gender=Neut|Number=Plur	συκίδιον	NOUN
+λα^βόντ'	Ὥστε σὲ τά^ τ' ἀμπέλι^α^ καὶ τὰ^ νέα^ συ_κί^δι^α^ τἄλλα^ θ' ὁπόσ' ἐστὶ^ φυ^τὰ^ προσγελά^σεται λα^βόντ' ἄσμενα^.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLL	HLLLHL-LHLLHHL-LHLLLHLLLHLLLHLH-LL	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	λαβόντ	VERB
+κἀ_πεμπίπτω	κἀ_πεμπίπτω καὶ σπουδάζω;	HHHHHHHH	LHHHHHHH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	κἀπεμπίπτω	VERB
+Μικρόν	Μικρόν γε κι_νοῦμεν.	HHLHHL	-HLHHH	Case=Acc|Gender=Masc|Number=Sing	μικρός	ADJ
+κι_νοῦμεν.	Μικρόν γε κι_νοῦμεν.	HHLHHL	-HLHHH	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	κινέω	VERB
+κωλύ_ουσιν.	Ἀλλ' εἴσ' οἳ κωλύ_ουσιν.	HHHHHHH	HHHHHHL	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	κωλύω	VERB
+δαῖτας	ἀνδρῶν τε δαῖτας καὶ θα^λί^ας μα^κά^ρων·	HHLHHHLLHLLH	HHLHLHLLHLLH	Case=Acc|Gender=Fem|Number=Plur	δαῖτη	NOUN
+γὰρ	σοὶ γὰρ τά^δ' ἐξ ἀρχῆς μέλει.	HHLHHHLH	HLLHHHLH		γάρ	ADV
+ἀντι^βολῇ	ἀντι^βολῇ μετὰ^ τῶν παίδων χορεῦσαι, μήθ' ὑ^πά^κουε μήτ' ἔλθῃς συ^νέρι_θος αὐτοῖς, ἀλλὰ^ νόμιζε πάντας	HLLHLLHHHLHHHLLHLHHHLLHLHHHLLHLHL	H-LHLLHHHLHHHLLHLHHHLLHLHHHLLHLLL	Case=Nom|Gender=Fem|Number=Sing	ἀντιβολή	NOUN
+πάντας	ἀντι^βολῇ μετὰ^ τῶν παίδων χορεῦσαι, μήθ' ὑ^πά^κουε μήτ' ἔλθῃς συ^νέρι_θος αὐτοῖς, ἀλλὰ^ νόμιζε πάντας	HLLHLLHHHLHHHLLHLHHHLLHLHHHLLHLHL	H-LHLLHHHLHHHLLHLHHHLLHLHHHLLHLLL	Case=Acc|Gender=Masc|Number=Plur	πᾶς	ADJ
+να_νοφυ^εῖς,	να_νοφυ^εῖς, σφυ^ρά^δων ἀ^ποκνήσμα^τα^, μηχα^νοδί_φας.	HLLHLLHLLHLLHLLHH	LLLHHLHL-HLLHLLLH	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	νανοφυεῖς	VERB
+σφυ^ρά^δων	να_νοφυ^εῖς, σφυ^ρά^δων ἀ^ποκνήσμα^τα^, μηχα^νοδί_φας.	HLLHLLHLLHLLHLLHH	LLLHHLHL-HLLHLLLH	Case=Gen|Gender=Fem|Number=Plur	σφυράς	NOUN
+ἀ^ποκνήσμα^τα^,	να_νοφυ^εῖς, σφυ^ρά^δων ἀ^ποκνήσμα^τα^, μηχα^νοδί_φας.	HLLHLLHLLHLLHLLHH	LLLHHLHL-HLLHLLLH	Case=Nom|Gender=Neut|Number=Plur	ἀποκνήσματα	NOUN
+μηχα^νοδί_φας.	να_νοφυ^εῖς, σφυ^ρά^δων ἀ^ποκνήσμα^τα^, μηχα^νοδί_φας.	HLLHLLHLLHLLHLLHH	LLLHHLHL-HLLHLLLH	Case=Acc|Gender=Fem|Number=Plur	μηχανοδίφος	NOUN
+Τοιά^δε	Τοιά^δε χρὴ Χα^ρί^των δα_μώμα^τα^ καλλι^κόμων	HLLHLLHHHLLHLLH	HH-HLLHLHLLH-LH	Case=Acc|Gender=Neut|Number=Plur	τοιόσδε	ADJ
+Τοιά^δε	Τοιά^δε χρὴ Χα^ρί^των δα_μώμα^τα^ καλλι^κόμων	HLLHLLHHHLLHLLH	HH-HLLHLHLLH-LH	Case=Acc|Gender=Neut|Number=Plur	τοιόσδε	ADJ
+δα_μώμα^τα^	Τοιά^δε χρὴ Χα^ρί^των δα_μώμα^τα^ καλλι^κόμων	HLLHLLHHHLLHLLH	HH-HLLHLHLLH-LH	Case=Nom|Gender=Neut|Number=Plur	δαμώματον	NOUN
+καλλι^κόμων	Τοιά^δε χρὴ Χα^ρί^των δα_μώμα^τα^ καλλι^κόμων	HLLHLLHHHLLHLLH	HH-HLLHLHLLH-LH	Case=Gen|Gender=Fem|Number=Plur	καλλικόμες	NOUN
+πικροτά^την	πικροτά^την ὄπα^ γηρύ_σαντος ἤκουσ', ἡνί^κα^ τῶν τρα^γῳδῶν τὸν χορὸν εἶχον ἁ_δελφός τε καὶ αὐτός, ἄμφω	HLLHLLHHHLHHHLLHLHHHLLHLHHHLLHLHH	-LLHLLHLHLHHHLLHLHHHLLHLHHHLHHLHH	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	πικροτάτην	ADJ
+γηρύ_σαντος	πικροτά^την ὄπα^ γηρύ_σαντος ἤκουσ', ἡνί^κα^ τῶν τρα^γῳδῶν τὸν χορὸν εἶχον ἁ_δελφός τε καὶ αὐτός, ἄμφω	HLLHLLHHHLHHHLLHLHHHLLHLHHHLLHLHH	-LLHLLHLHLHHHLLHLHHHLLHLHHHLHHLHH	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	γηρύσαν	VERB
+καὶ	πικροτά^την ὄπα^ γηρύ_σαντος ἤκουσ', ἡνί^κα^ τῶν τρα^γῳδῶν τὸν χορὸν εἶχον ἁ_δελφός τε καὶ αὐτός, ἄμφω	HLLHLLHHHLHHHLLHLHHHLLHLHHHLLHLHH	-LLHLLHLHLHHHLLHLHHHLLHLHHHLHHLHH		καί	CCONJ
+βα^τι^δοσκόποι	Γοργόνες ὀψοφά^γοι, βα^τι^δοσκόποι Ἅρπυιαι,	HLLHLLHLLHLLHHH	HLLHLLHL-HLHHHH	Case=Nom|Gender=Masc|Number=Plur	βατιδοσκόπος	NOUN
+βα^τι^δοσκόποι	Γοργόνες ὀψοφά^γοι, βα^τι^δοσκόποι Ἅρπυιαι,	HLLHLLHLLHLLHHH	HLLHLLHL-HLHHHH	Case=Nom|Gender=Masc|Number=Plur	βατιδοσκόπος	NOUN
+γρα_οσόβαι	γρα_οσόβαι μι^α^ροί, τρα^γομάσχα^λοι ἰχθυ^ολῦμαι·	HLLHLLHLLHLLHLLHH	LLLHLLHLL-LHHLLHH	Case=Nom|Gender=Masc|Number=Sing	γραοσόβαι	NOUN
+τρα^γομάσχα^λοι	γρα_οσόβαι μι^α^ροί, τρα^γομάσχα^λοι ἰχθυ^ολῦμαι·	HLLHLLHLLHLLHLLHH	LLLHLLHLL-LHHLLHH	Case=Nom|Gender=Masc|Number=Plur	τραγομάσχαλος	NOUN
+τρα^γομάσχα^λοι	γρα_οσόβαι μι^α^ροί, τρα^γομάσχα^λοι ἰχθυ^ολῦμαι·	HLLHLLHLLHLLHLLHH	LLLHLLHLL-LHHLLHH	Case=Nom|Gender=Masc|Number=Plur	τραγομάσχαλος	NOUN
+θεὰ_	Μοῦσα^ θεὰ_ μετ' ἐμοῦ ξύμπαιζε τὴν ἑορτήν.	HLLHLLHHHLHLHH	HLLLLLHHHLHLHH	Case=Voc|Gender=Fem|Number=Sing	θεά	NOUN
+Εὐδαιμονι^κῶς	Εὐδαιμονι^κῶς γ' ὁ πρεσβύ_της, ὅσα^ γ' ὧδ' ἰ^δεῖν, τὰ^ νῦν τά^δε πράττει.	HHLLHLHHHLLHLHLHLLHH	HHL-H-HLHLLHLHLHL-HH	Degree=Pos	Εὐδαιμονικῶς	ADV
+πρεσβύ_της,	Εὐδαιμονι^κῶς γ' ὁ πρεσβύ_της, ὅσα^ γ' ὧδ' ἰ^δεῖν, τὰ^ νῦν τά^δε πράττει.	HHLLHLHHHLLHLHLHLLHH	HHL-H-HLHLLHLHLHL-HH	Case=Nom|Gender=Masc|Number=Sing	πρεσβύτης	NOUN
+νῦν	Εὐδαιμονι^κῶς γ' ὁ πρεσβύ_της, ὅσα^ γ' ὧδ' ἰ^δεῖν, τὰ^ νῦν τά^δε πράττει.	HHLLHLHHHLLHLHLHLLHH	HHL-H-HLHLLHLHLHL-HH		νῦν	ADV
+ἐπειδὰν	Τί^ δῆτ', ἐπειδὰν νυμφί^ον μ' ὁρᾶτε λαμπρὸν ὄντα_;	LHLHHHLHLHLHLHH	LHLHLHLHLHLHLHL		ἐπειδάν	ADV
+ὄντα_;	Τί^ δῆτ', ἐπειδὰν νυμφί^ον μ' ὁρᾶτε λαμπρὸν ὄντα_;	LHLHHHLHLHLHLHH	LHLHLHLHLHLHLHL		ὄντα;	PUNCT
+αὖθις	αὖθις νέος ὢν πά^λιν, μύ^ρῳ κα^τά^λειπτος.	HHLLHLHLHLLHH	HLLLHLLLHLLHH		αὖθις	ADV
+πά^λιν,	αὖθις νέος ὢν πά^λιν, μύ^ρῳ κα^τά^λειπτος.	HHLLHLHLHLLHH	HLLLHLLLHLLHH		πάλιν	ADV
+ὅταν	Οἶμαι. Τί^ δῆθ', ὅταν ξυ^νὼν τῶν τιτθί^ων ἔχωμαι;	HHLHLHLHHHLHLHH	HHLHLLLHHHLHLHH	PronType=Rel	ὅταν	ADV
+ἅ^παντα^ς	ἅ^παντα^ς ὄντα^ς ἀσφα^λῶς κι^νεῖν τε καὶ κα^θεύδειν.	LHLHLHLHLHLHLHH	LLLHLLLHHHLHLHH	Case=Acc|Gender=Masc|Number=Plur	ἅπας	ADJ
+ἀσφα^λῶς	ἅ^παντα^ς ὄντα^ς ἀσφα^λῶς κι^νεῖν τε καὶ κα^θεύδειν.	LHLHLHLHLHLHLHH	LLLHLLLHHHLHLHH	Degree=Pos	ἀσφαλῶς	ADV
+κι^νεῖν	ἅ^παντα^ς ὄντα^ς ἀσφα^λῶς κι^νεῖν τε καὶ κα^θεύδειν.	LHLHLHLHLHLHLHH	LLLHLLLHHHLHLHH	Tense=Pres|VerbForm=Inf|Voice=Act	κινέω	VERB
+τις	Ἦ χρηστὸς ἀ^νὴρ πολί_της ἐστὶ^ν ἅ^πα_σι^ν ὅς τις γ' ἐστὶ^ τοιοῦτος.	HHLLHLHHHLLHLHHHLLHH	HHLLHLHHHLLHLHLHLHHH	Case=Nom|Gender=Masc|Number=Sing	τις	PRON
+ἐστὶ^	Ἦ χρηστὸς ἀ^νὴρ πολί_της ἐστὶ^ν ἅ^πα_σι^ν ὅς τις γ' ἐστὶ^ τοιοῦτος.	HHLLHLHHHLLHLHHHLLHH	HHLLHLHHHLLHLHLHLHHH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	AUX
+Ὅταν	Ὅταν τρυ^γᾶτ', εἴσεσθε πολλῷ μᾶλλον οἷός εἰμι_.	LHLHHHLHHHLHLHH	LLLHHHLHHHLHLHL	PronType=Rel	ὅταν	ADV
+εἰμι_.	Ὅταν τρυ^γᾶτ', εἴσεσθε πολλῷ μᾶλλον οἷός εἰμι_.	LHLHHHLHHHLHLHH	LLLHHHLHHHLHLHL	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	AUX
+ἄ_ξι^ος	Πολλῶν γὰ^ρ ὑ_μῖν ἄ_ξι^ος Τρυ^γαῖος Ἁθμονεὺς ἐγώ,	HHLHHHLHLHLHLHLH	HHLHHLLHHHL-LHLH	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἄξιος	ADJ
+Τρυ^γαῖος	Πολλῶν γὰ^ρ ὑ_μῖν ἄ_ξι^ος Τρυ^γαῖος Ἁθμονεὺς ἐγώ,	HHLHHHLHLHLHLHLH	HHLHHLLHHHL-LHLH	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Τρυγαῖος	ADJ
+Ἁθμονεὺς	Πολλῶν γὰ^ρ ὑ_μῖν ἄ_ξι^ος Τρυ^γαῖος Ἁθμονεὺς ἐγώ,	HHLHHHLHLHLHLHLH	HHLHHLLHHHL-LHLH	Case=Nom|Gender=Masc|Number=Sing	Ἁθμονεύς	NOUN
+ἀ^παλλάξας	δεινῶν ἀ^παλλάξας πόνων τὸν δημότην ὅμιλον,	HHLHHHLHHHLH	HHLLLHLHHHLHLHH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἀπαλλάσσω	VERB
+ἀ^παλλάξας	δεινῶν ἀ^παλλάξας πόνων τὸν δημότην ὅμιλον,	HHLHHHLHHHLH	HHLLLHLHHHLHLHH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἀπαλλάσσω	VERB
+ἀ^παντᾷ.	τούτων κα^τὰ^ καιρὸν ἀ^παντᾷ.	HHLLHLLHH	HHLLHLLLH	Case=Acc|Gender=Neut|Number=Plur	ἀπαντᾷ	ADJ
+ὁ	Ὡς ταῦτα^ δῆλά^ γ' ἔσθ'· ὁ γὰρ βωμὸς θύ^ρα_σι^ καὶ δή.	HHLHLHLHHHLHLHH	HHLHLHLLHHLHLHH	Case=Nom|Gender=Masc|Number=Sing	ὁ	DET
+νυ_ν	Ἄγ' ἐπείγετέ νυ_ν ἐν ὅσῳ σοβα^ρὰ_	LLHLLHLLHLLH	LLHLLLLLHLLL		νυν	ADV
+σοβα^ρὰ_	Ἄγ' ἐπείγετέ νυ_ν ἐν ὅσῳ σοβα^ρὰ_	LLHLLHLLHLLH	LLHLLLLLHLLL	Case=Nom|Gender=Fem|Number=Dual	σοβαρὰ	ADJ
+μετά^τροπος	θεόθεν κα^τέχει πολέμου μετά^τροπος αὔρα_· νῦν γὰρ δαίμων φα^νερῶς	LLHLLHLLHLLLLHHHHHHLLH	LLHLLHLLHL-LLHHHLHHLLH	Case=Nom|Gender=Masc|Number=Sing	μετάτροπος	NOUN
+γὰρ	θεόθεν κα^τέχει πολέμου μετά^τροπος αὔρα_· νῦν γὰρ δαίμων φα^νερῶς	LLHLLHLLHLLLLHHHHHHLLH	LLHLLHLLHL-LLHHHLHHLLH		γάρ	ADV
+μετα^βι^βάζει.	εἰς ἀ^γα^θὰ^ μετα^βι^βάζει.	HLLLLLLHH	HLLLLL-LH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	μεταβιβάζω	VERB
+μετα^βι^βάζει.	εἰς ἀ^γα^θὰ^ μετα^βι^βάζει.	HLLLLLLHH	HLLLLL-LH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	μεταβιβάζω	VERB
+μά^χαιραν,	Τὸ κα^νοῦν πά^ρεστ' ὀλὰ_ς ἔχον καὶ στέμμα^ καὶ μά^χαιραν,	LLHLHLHLHHHLHLHH	LLHLHLHLHHHLHLHL	Case=Acc|Gender=Fem|Number=Sing	μάχαιρα	NOUN
+σχίζας	σχίζας δευρὶ_ τι^θέναι τα^χέως	HHHHLLHLLH	LHHLLLHLLH	Case=Acc|Gender=Fem|Number=Plur	σχίζη	NOUN
+δευρὶ_	σχίζας δευρὶ_ τι^θέναι τα^χέως	HHHHLLHLLH	LHHLLLHLLH		δευρὶ	INTJ
+Τί^	Πῶς δ' οὐχί^; Τί^ γάρ σε πέφευγ' ὅσα^ χρὴ	HHLLHLLHLLH	HHLLLLLHLLH	Case=Acc|Gender=Neut|Number=Sing	τίς	PRON
+ὁπόσα^	σοφὸν ἄνδρα^; Τί^ δ' οὐ σὺ^ φρονεῖς ὁπόσα^ χρεών ἐστιν τόν γε σοφῇ δόκι^μον	LLHLLHLLHLLLLHHHHLLHLLH	LLHLLHLLHLLHLHHLHLLHLLH	Case=Acc|Gender=Neut|Number=Plur	ὁπόσος	ADJ
+ἐστιν	σοφὸν ἄνδρα^; Τί^ δ' οὐ σὺ^ φρονεῖς ὁπόσα^ χρεών ἐστιν τόν γε σοφῇ δόκι^μον	LLHLLHLLHLLLLHHHHLLHLLH	LLHLLHLLHLLHLHHLHLLHLLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	AUX
+σχίζα^	Ἡ σχίζα^ γοῦν ἐνημμένη τὸν Στιλβί^δην πι^έζει.	HHLHLHLHHHLHLHH	HLHHLHLHHHLHLHH	Case=Nom|Gender=Fem|Number=Sing	σχίζα	NOUN
+σχίζα^	Ἡ σχίζα^ γοῦν ἐνημμένη τὸν Στιλβί^δην πι^έζει.	HHLHLHLHHHLHLHH	HLHHLHLHHHLHLHH	Case=Nom|Gender=Fem|Number=Sing	σχίζα	NOUN
+ἅ^πα_σιν.	ζηλωτὸς ἅ^πα_σιν.	HHLLHH	HHLLHL	Case=Dat|Gender=Masc|Number=Plur	ἅπας	ADJ
+ἀ^πηλλαγμένος	κρά^νους ἀ^πηλλαγμένος	LHLHHLH	LHLHLLH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἀπηλλαγμένος	VERB
+γὰρ	Οὐ γὰρ φι^ληδῶ μά^χαις,	HHLHHLH	HL-HHLH		γάρ	ADV
+φι^ληδῶ	Οὐ γὰρ φι^ληδῶ μά^χαις,	HHLHHLH	HL-HHLH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	φιληδῶ	VERB
+ἐκκέας,	ἐκκέας, τῶν ξύ^λων ἅττ' ἂ^ν ᾖ δα_νότα^τα^ τοῦ θέρους	HLHHLHHLHHLLLHLH	HL-HLHHHHLLLLHLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἐκκής	VERB
+ἂ^ν	ἐκκέας, τῶν ξύ^λων ἅττ' ἂ^ν ᾖ δα_νότα^τα^ τοῦ θέρους	HLHHLHHLHHLLLHLH	HL-HLHHHHLLLLHLH		ἄν	PART
+δα_νότα^τα^	ἐκκέας, τῶν ξύ^λων ἅττ' ἂ^ν ᾖ δα_νότα^τα^ τοῦ θέρους	HLHHLHHLHHLLLHLH	HL-HLHHHHLLLLHLH	Case=Acc|Gender=Neut|Number=Plur	δανότα	NOUN
+ἐκπεπρεμνισμένα_	ἐκπεπρεμνισμένα_	HLHHLH	H-H-LL	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ἐκπεπρεμνισμένα	VERB
+ἐκπεπρεμνισμένα_	ἐκπεπρεμνισμένα_	HLHHLH	H-H-LL	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ἐκπεπρεμνισμένα	VERB
+ἐκπεπρεμνισμένα_	ἐκπεπρεμνισμένα_	HLHHLH	H-H-LL	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ἐκπεπρεμνισμένα	VERB
+κἀνθρα^κίζων	κἀνθρα^κίζων τοὐρεβίνθου τήν τε φηγὸν ἐμπυ^ρεύων,	HLHHHLHHHLHLHLHH	LLHHHLHHHLHLHLHH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κἀνθρακίζω	VERB
+χἄ_μα^	χἄ_μα^ τὴν Θρᾷτταν κυ^νῶν	HLHHHLH	LHHHHLH		χἄμα	ADV
+χἄ_μα^	χἄ_μα^ τὴν Θρᾷτταν κυ^νῶν	HLHHHLH	LHHHHLH		χἄμα	ADV
+ἀ_χέτας	Ἡνί^κ' ἂν δ' ἀ_χέτας	HLHHLH	HLHLL-	Case=Gen|Gender=Fem|Number=Sing	ἀχέτη	NOUN
+ἡδὺν	ᾄδῃ τὸν ἡδὺν νόμον,	HHLHHLH	HHLHLLH	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἡδύς	VERB
+δι^ασκοπῶν	δι^ασκοπῶν ἥδομαι	LHLHHLH	LLLHHLH	Case=Gen|Gender=Masc|Number=Plur	διασκοπῶν	NOUN
+γὰρ	εἰ πεπαίνουσι^ν ἤδη—τὸ γὰρ φῖτυ^ πρῷον φύ^σει—	HLHHLHHLHHLHHLH	HLHHLHHLLHLHHLH		γάρ	ADV
+κἀ_πέχω	ἐσθί^ω κἀ_πέχω	HLHHLH	HLHLLH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	κἀπέχω	VERB
+χἄ_μα^	χἄ_μα^ φήμ'· «Ὧραι φί^λαι·» καὶ τοῦ θύ^μου τρί^βων κυ^κῶμαι·	HLHHHLHHHLHLHLHH	LHHHHLHHHLHHHLHH		χἄμα	ADV
+χἄ_μα^	χἄ_μα^ φήμ'· «Ὧραι φί^λαι·» καὶ τοῦ θύ^μου τρί^βων κυ^κῶμαι·	HLHHHLHHHLHLHLHH	LHHHHLHHHLHHHLHH		χἄμα	ADV
+τρί^βων	χἄ_μα^ φήμ'· «Ὧραι φί^λαι·» καὶ τοῦ θύ^μου τρί^βων κυ^κῶμαι·	HLHHHLHHHLHLHLHH	LHHHHLHHHLHHHLHH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	τρίβων	VERB
+γίγνομαι	κᾆτα^ γίγνομαι πα^χὺς	HLHLHLH	HL-LHLL	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	γίγνομαι	VERB
+πα^χὺς	κᾆτα^ γίγνομαι πα^χὺς	HLHLHLH	HL-LHLL	Case=Nom|Gender=Masc|Number=Sing	παχὺς	ADJ
+δι^καστήρι^',	καὶ τέλη καὶ γρα^φαὶ καὶ δι^καστήρι^', ὦ βορβοροτά^ραξι^ καὶ τὴν πόλι^ν ἅ^πα_σα^ν ἡμῶν ἀ^να^τετυρβα^κώς,	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	HLHHLHHL-HHHHLLLHLHHLLLHLHHLLLHLH	Case=Dat|Gender=Neut|Number=Sing	δικαστήρις	NOUN
+δι^καστήρι^',	καὶ τέλη καὶ γρα^φαὶ καὶ δι^καστήρι^', ὦ βορβοροτά^ραξι^ καὶ τὴν πόλι^ν ἅ^πα_σα^ν ἡμῶν ἀ^να^τετυρβα^κώς,	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	HLHHLHHL-HHHHLLLHLHHLLLHLHHLLLHLH	Case=Dat|Gender=Neut|Number=Sing	δικαστήρις	NOUN
+ἐκκεκώφωκας	ὅστι^ς ἡμῶν τὰ_ς Ἀ^θήνα_ς ἐκκεκώφωκας βοῶν	HLHHHLHHHLHHHLH	HLHHHLHHHLHHLLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἐκκεκώφωκη	VERB
+κἀ_πὸ	κἀ_πὸ τῶν πετρῶν ἄ^νωθεν τοὺς φόρους θυννοσκοπῶν.	HLHLHLHHHLHHHLH	LLH-HLHHHLHHHLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κἀπὸ	VERB
+πετρῶν	κἀ_πὸ τῶν πετρῶν ἄ^νωθεν τοὺς φόρους θυννοσκοπῶν.	HLHLHLHHHLHHHLH	LLH-HLHHHLHHHLH	Case=Gen|Gender=Masc|Number=Plur	πέτρα	NOUN
+τὸ	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	DET
+ἔπι^θι^	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἔπιθι	VERB
+ἔπι^θι^	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἔπιθι	VERB
+καὶ	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH		καί	CCONJ
+στρόβει,	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	στρόβω	VERB
+ὀλί^γον	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Case=Acc|Gender=Neut|Number=Sing	ὀλίγος	ADJ
+ὀλί^γον	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Case=Acc|Gender=Neut|Number=Sing	ὀλίγος	ADJ
+ὀλί^γον	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Case=Acc|Gender=Neut|Number=Sing	ὀλίγος	ADJ
+πόει·	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	πόει·	VERB
+ἔχεται	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἔχω	VERB
+ἔχεται	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἔχω	VERB
+ἔχεται	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἔχω	VERB
+μέσος.	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH	Case=Nom|Gender=Masc|Number=Sing	μέσος	ADJ
+ἐὰν	Ὡς ἐὰν νυ_νὶ_ μα^λάξῃς αὐτὸν ἐν τῇ προσβολῇ,	HLHHHLHHHLHHHLH	HLLHHLLHHLHHHLH		ἐάν	SCONJ
+μα^λάξῃς	Ὡς ἐὰν νυ_νὶ_ μα^λάξῃς αὐτὸν ἐν τῇ προσβολῇ,	HLHHHLHHHLHHHLH	HLLHHLLHHLHHHLH	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	μαλάξῃς	VERB
+γὰρ	δειλὸν εὑρήσεις· ἐγὼ γὰρ τοὺς τρόπους ἐπίστα^μαι.	HLHHHLHHHLHLHLH	HLHHHLHLHLHL-LH		γάρ	ADV
+ἐπίστα^μαι.	δειλὸν εὑρήσεις· ἐγὼ γὰρ τοὺς τρόπους ἐπίστα^μαι.	HLHHHLHHHLHLHLH	HLHHHLHLHLHL-LH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἐπίσταμαι	VERB
+Ἱπποδά_μου	πρῶτος ὤν· ὁ δ' Ἱπποδά_μου λείβεται θεώμενος.	HLHLHLHHHLHLHLH	HLHLHLLHHLHLHLH	Case=Gen|Gender=Masc|Number=Sing	ἱππόδαμος	PROPN
+εἰσίν,	Ἀλλ' ὦ τρα^φεὶς ὅθενπέρ εἰσι^ν ἄνδρες οἵπερ εἰσίν,	HHLHLHLHLHLHLHH	HHLHLHLHLHLHLHL	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	AUX
+δὲ	Ὡς δὲ πρὸς πᾶν ἀ^ναιδεύεται κοὐ μεθίστησι^ τοῦ χρώμα^τος	HLHHLHHLHHLHHLHHLH	H-HHLHHLHHLLHLHHLH		δέ	ADV
+μεθίστησι^	Ὡς δὲ πρὸς πᾶν ἀ^ναιδεύεται κοὐ μεθίστησι^ τοῦ χρώμα^τος	HLHHLHHLHHLHHLHHLH	H-HHLHHLHHLLHLHHLH	Case=Dat|Gender=Masc|Number=Plur	μεθίστησι	NOUN
+πα^ρεστηκότος.	τοῦ πα^ρεστηκότος.	HLHHLL	HLHHLH	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	παραγιστώσκη	VERB
+Κρα^τί_νου	Εἴ σε μὴ μι_σῶ, γενοίμην ἐν Κρα^τί_νου κῴδι^ον	HLHHHLHHHLHHHLH	HLHHHLHHHLLHH-H	Case=Gen|Gender=Masc|Number=Sing	Κρατίνου	ADJ
+κῴδι^ον	Εἴ σε μὴ μι_σῶ, γενοίμην ἐν Κρα^τί_νου κῴδι^ον	HLHHHLHHHLHHHLH	HLHHHLHHHLLHH-H	Case=Nom|Gender=Neut|Number=Sing	κῴδιον	NOUN
+δι^δασκοίμην	καὶ δι^δασκοίμην προσᾴδειν Μορσί^μου τρα^γῳδί^ᾳ.	HLHHHLHHHLHLHLH	HLLHHLHHHLHLHHH	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	διδασκόω	VERB
+τρα^γῳδί^ᾳ.	καὶ δι^δασκοίμην προσᾴδειν Μορσί^μου τρα^γῳδί^ᾳ.	HLHHHLHHHLHLHLH	HLLHHLHHHLHLHHH	Case=Nom|Gender=Fem|Number=Sing	τραγῳδίᾳ	NOUN
+ἄνθεσι^ν	δωροδόκοισι^ν ἐπ' ἄνθεσι^ν ἵζων,	HLLHLLHLLHH	HLLHLLLLLHH	Case=Dat|Gender=Neut|Number=Plur	ἄνθος	NOUN
+ἔνθεσιν.	εἴθε φαύλως, ὥσπερ ηὗρες, ἐκβά^λοις τὴν ἔνθεσιν.	HLHHHLHLHLHHHLH	HLHHHLHLHLHHHLL	Case=Acc|Gender=Neut|Number=Sing	ἔνθεσις	NOUN
+γὰρ	ᾄσαιμι^ γὰρ τότ' ἂν μόνον·	HHLHLHLH	HHLLLLLH		γάρ	ADV
+ἂν	ᾄσαιμι^ γὰρ τότ' ἂν μόνον·	HHLHLHLH	HHLLLLLH		ἄν	PART
+γέροντα^	Τὸν Οὐλί^ου τ' ἂ^ν οἴομαι, γέροντα^ πυ_ροπί_πην,	LHLHLHLHLHLHLHH	LHLHLHLHLHLLLLH	Case=Acc|Gender=Masc|Number=Sing	γέρων	NOUN
+πυ_ροπί_πην,	Τὸν Οὐλί^ου τ' ἂ^ν οἴομαι, γέροντα^ πυ_ροπί_πην,	LHLHLHLHLHLHLHH	LHLHLHLHLHLLLLH	Case=Acc|Gender=Fem|Number=Sing	πυροπίπης	NOUN
+λαμπρυ_νομένων	μειρα^κί^ων θ' ἅ^μιλλα^ λαμπρυ_νομένων ἐν ἅρμα^σιν	HLLHLHLHHLLHLHLH	HLLHLHLHLLLHLLLL	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	λαμπρυνομένων	VERB
+ἐν	μειρα^κί^ων θ' ἅ^μιλλα^ λαμπρυ_νομένων ἐν ἅρμα^σιν	HLLHLHLHHLLHLHLH	HLLHLHLHLLLHLLLL	Case=Nom|Gender=Neut|Number=Sing	ἐν	NUM
+ἅρμα^σιν	μειρα^κί^ων θ' ἅ^μιλλα^ λαμπρυ_νομένων ἐν ἅρμα^σιν	HLLHLHLHHLLHLHLH	HLLHLHLHLLLHLLLL	Case=Dat|Gender=Neut|Number=Plur	ἅρμα	NOUN
+χρυ_σοτρί^αιν',	δεῦρ' ἔλθ' εἰς χορόν, ὦ χρυ_σοτρί^αιν', ὦδελφί_νων μεδέων Σουνι^ά^ρα_τε,	HHHLLHHLLHHHHHLLHHLLHL	HHHLLHH-LHHHHHLLHH-HLL	Case=Dat|Gender=Masc|Number=Dual	χρυσοτρίαιν	NOUN
+Σουνι^ά^ρα_τε,	δεῦρ' ἔλθ' εἰς χορόν, ὦ χρυ_σοτρί^αιν', ὦδελφί_νων μεδέων Σουνι^ά^ρα_τε,	HHHLLHHLLHHHHHLLHHLLHL	HHHLLHH-LHHHHHLLHH-HLL	Case=Voc|Degree=Sup|Gender=Masc|Number=Sing	Σουνιάρατος	ADJ
+Σουνι^ά^ρα_τε,	δεῦρ' ἔλθ' εἰς χορόν, ὦ χρυ_σοτρί^αιν', ὦδελφί_νων μεδέων Σουνι^ά^ρα_τε,	HHHLLHHLLHHHHHLLHHLLHL	HHHLLHH-LHHHHHLLHH-HLL	Case=Voc|Degree=Sup|Gender=Masc|Number=Sing	Σουνιάρατος	ADJ
+Σουνι^ά^ρα_τε,	δεῦρ' ἔλθ' εἰς χορόν, ὦ χρυ_σοτρί^αιν', ὦδελφί_νων μεδέων Σουνι^ά^ρα_τε,	HHHLLHHLLHHHHHLLHHLLHL	HHHLLHH-LHHHHHLLHH-HLL	Case=Voc|Degree=Sup|Gender=Masc|Number=Sing	Σουνιάρατος	ADJ
+πολι^οῦχε	Ὦ πολι^οῦχε Παλλά^ς, ὦ τῆς ἱ^ερωτά^της ἁ^πα_σῶν πολέμῳ τε καὶ ποηταῖς δυ^νά^μει θ' ὑ^περφερούσης μεδέουσα^ χώρας,	HLLHLHLHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH	HL-HLHHHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐπολιοῦχε	VERB
+Παλλά^ς,	Ὦ πολι^οῦχε Παλλά^ς, ὦ τῆς ἱ^ερωτά^της ἁ^πα_σῶν πολέμῳ τε καὶ ποηταῖς δυ^νά^μει θ' ὑ^περφερούσης μεδέουσα^ χώρας,	HLLHLHLHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH	HL-HLHHHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH	Case=Nom|Gender=Fem|Number=Sing	παλλάς	NOUN
+στα^σι^άζει.	Νί_κην, ἣ χορι^κῶν ἐστι^ν ἑταίρα_ τοῖς τ' ἐχθροῖσι^ μεθ' ἡμῶν στα^σι^άζει.	HHHLLHHLLHHHHHLLHHLLHH	HHHLLHHLLHHHHHLLHHLLLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	στασιάζω	VERB
+γὰρ	Νῦν οὖν δεῦρο φά^νηθι^· δεῖ γὰρ τοῖς ἀνδρά^σι^ τοῖσδε πά_σῃ τέχνῃ πορί^σαι σε νί_κην εἴπερ ποτὲ καὶ νῦν.	HHHLLHLHHHHLLHLHHHHLLHLHHHHLLHH	HHHLLHLHLHLLLHLLH-HLLHLHHHHLLHH		γάρ	ADV
+ἀνδρά^σι^	Νῦν οὖν δεῦρο φά^νηθι^· δεῖ γὰρ τοῖς ἀνδρά^σι^ τοῖσδε πά_σῃ τέχνῃ πορί^σαι σε νί_κην εἴπερ ποτὲ καὶ νῦν.	HHHLLHLHHHHLLHLHHHHLLHLHHHHLLHH	HHHLLHLHLHLLLHLLH-HLLHLHHHHLLHH	Case=Dat|Gender=Masc|Number=Plur	ἀνήρ	NOUN
+πά_σῃ	Νῦν οὖν δεῦρο φά^νηθι^· δεῖ γὰρ τοῖς ἀνδρά^σι^ τοῖσδε πά_σῃ τέχνῃ πορί^σαι σε νί_κην εἴπερ ποτὲ καὶ νῦν.	HHHLLHLHHHHLLHLHHHHLLHLHHHHLLHH	HHHLLHLHLHLLLHLLH-HLLHLHHHHLLHH	Case=Dat|Gender=Fem|Number=Sing	πᾶς	ADJ
+τέχνῃ	Νῦν οὖν δεῦρο φά^νηθι^· δεῖ γὰρ τοῖς ἀνδρά^σι^ τοῖσδε πά_σῃ τέχνῃ πορί^σαι σε νί_κην εἴπερ ποτὲ καὶ νῦν.	HHHLLHLHHHHLLHLHHHHLLHLHHHHLLHH	HHHLLHLHLHLLLHLLH-HLLHLHHHHLLHH	Case=Nom|Gender=Fem|Number=Sing	τέχνη	NOUN
+ἄξι^όν	Νῦν ἄ^ρ' ἄξι^όν γε πᾶσί^ν ἐστι^ν ἐπὀλολῦξαι.	HLHLHLHLHLLLLHH	HLLLHLHLHLLLLHH	Case=Acc|Gender=Masc|Number=Sing	ἄξιος	ADJ
+ἅ^παντά^	ἐργα^σά^μεν' εἴθ' ἐπέλθοις ἅ^παντά^ μοι σα^φῶς·	HLLLHLHHLHLHLH	HLLLHLHHLLLHLH	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἅπαντά	ADJ
+κἂν	κἂν μα^κρὰ_ν ὁδὸν δι^ελθεῖν ὥστ' ἀ^κοῦσαι. Πρὸς τά^δ', ὦ βέλτιστε, θαρρήσας λέγ', ὡς ἅ^ παντες ἡδόμεσθά^ σοι.	HLHLHLHHHLHHHLHHHLHHHLHLHLHLHLH	LLHLHLHHHLHHHLHH-LHHHLHLLLHLHLH	Case=Nom|Gender=Masc|Number=Sing	κἀν	ADJ
+βέλτιστε,	κἂν μα^κρὰ_ν ὁδὸν δι^ελθεῖν ὥστ' ἀ^κοῦσαι. Πρὸς τά^δ', ὦ βέλτιστε, θαρρήσας λέγ', ὡς ἅ^ παντες ἡδόμεσθά^ σοι.	HLHLHLHHHLHHHLHHHLHHHLHLHLHLHLH	LLHLHLHHHLHHHLHH-LHHHLHLLLHLHLH	Case=Voc|Gender=Masc|Number=Sing	βέλτιστος	NOUN
+παντες	κἂν μα^κρὰ_ν ὁδὸν δι^ελθεῖν ὥστ' ἀ^κοῦσαι. Πρὸς τά^δ', ὦ βέλτιστε, θαρρήσας λέγ', ὡς ἅ^ παντες ἡδόμεσθά^ σοι.	HLHLHLHHHLHHHLHHHLHHHLHLHLHLHLH	LLHLHLHHHLHHHLHH-LHHHLHLLLHLHLH	Case=Nom|Gender=Masc|Number=Plur	παντες	ADJ
+Πάντα^	Πάντα^ τοι πέπρα_γα^ς οἷα^ χρὴ τὸν εὐτυ^χοῦντα^·	HLHLHLHLHLHLHL	LLH-HLHLHLHLHL	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+πέπρα_γα^ς	Πάντα^ τοι πέπρα_γα^ς οἷα^ χρὴ τὸν εὐτυ^χοῦντα^·	HLHLHLHLHLHLHL	LLH-HLHLHLHLHL	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	πέπραγας	VERB
+ῥήμα^σίν	ῥήμα^σίν θ' αἱμύ^λοις.	HLHHLH	HLLHLH	Case=Dat|Gender=Neut|Number=Plur	ῥήμασίν	NOUN
+ἀ^γωνι^εῖ	Ἀλλ' ὅπως ἀ^γωνι^εῖ φρόν τιζε τἀ_πί^λοιπ' ἄ^ριστα^· συμμά^χους δ' ἡμᾶς ἔχων εὔνους ἐπίστα^σαι πά^λαι.	HLHLHLHHHLHLHLHLHLHHHLHHHLHLHLH	HLHLH-HHHLLLHLHLLLHHHLHHHL-LHLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀγωνιέω	VERB
+τἀ_πί^λοιπ'	Ἀλλ' ὅπως ἀ^γωνι^εῖ φρόν τιζε τἀ_πί^λοιπ' ἄ^ριστα^· συμμά^χους δ' ἡμᾶς ἔχων εὔνους ἐπίστα^σαι πά^λαι.	HLHLHLHHHLHLHLHLHLHHHLHHHLHLHLH	HLHLH-HHHLLLHLHLLLHHHLHHHL-LHLH	Case=Acc|Gender=Neut|Number=Plur	τἀπίλοιπ	NOUN
+συμμά^χους	Ἀλλ' ὅπως ἀ^γωνι^εῖ φρόν τιζε τἀ_πί^λοιπ' ἄ^ριστα^· συμμά^χους δ' ἡμᾶς ἔχων εὔνους ἐπίστα^σαι πά^λαι.	HLHLHLHHHLHLHLHLHLHHHLHHHLHLHLH	HLHLH-HHHLLLHLHLLLHHHLHHHL-LHLH	Case=Acc|Gender=Masc|Number=Plur	σύμμαχος	ADJ
+ἐπίστα^σαι	Ἀλλ' ὅπως ἀ^γωνι^εῖ φρόν τιζε τἀ_πί^λοιπ' ἄ^ριστα^· συμμά^χους δ' ἡμᾶς ἔχων εὔνους ἐπίστα^σαι πά^λαι.	HLHLHLHHHLHLHLHLHLHHHLHHHLHLHLH	HLHLH-HHHLLLHLHLLLHHHLHHHL-LHLH	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἐπίσταμαι	VERB
+πάντα^	Νῦν δή σε πάντα^ δεῖ κά^λων ἐξι_έναι σεαυτοῦ,	HHLHLHLHHHLHLHH	HHLLLHHHHHLHLHH	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+κά^λων	Νῦν δή σε πάντα^ δεῖ κά^λων ἐξι_έναι σεαυτοῦ,	HHLHLHLHHHLHLHH	HHLLLHHHHHLHLHH	Case=Gen|Gender=Neut|Number=Plur	κάλος	ADJ
+θούρι^ον	καὶ λῆμα^ θούρι^ον φορεῖν καὶ λόγους ἀ^φύκτους,	HHLHLHLHHLHLHH	HHLH-HLHHLHLLH	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	θούριος	ADJ
+ἀ^φύκτους,	καὶ λῆμα^ θούρι^ον φορεῖν καὶ λόγους ἀ^φύκτους,	HHLHLHLHHLHLHH	HHLH-HLHHLHLLH	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	ἀφύκτους	ADJ
+ἔξει	Πρὸς ταῦθ' ὅπως ἔξει πολὺς καὶ λαμπρὸς εἰς τὸν ἄνδρα_.	HHLHLHLHHHLHLHH	HHLHHHLLHHLHLHL	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἔξει	VERB
+πολὺς	Πρὸς ταῦθ' ὅπως ἔξει πολὺς καὶ λαμπρὸς εἰς τὸν ἄνδρα_.	HHLHLHLHHHLHLHH	HHLHHHLLHHLHLHL	Case=Nom|Gender=Masc|Number=Sing	πολύς	ADJ
+ἄνδρα_.	Πρὸς ταῦθ' ὅπως ἔξει πολὺς καὶ λαμπρὸς εἰς τὸν ἄνδρα_.	HHLHLHLHHHLHLHH	HHLHHHLLHHLHLHL	Case=Acc|Gender=Masc|Number=Sing	ἀνήρ	NOUN
+μέγιστον	Ὦ πᾶσι^ν ἀνθρώποις φα^νεὶς μέγιστον ὠφέλημα_,	HHLHHHLHLHLHLHH	HHLHHHLHL-LHLHL	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	μέγας	ADJ
+ὠφέλημα_,	Ὦ πᾶσι^ν ἀνθρώποις φα^νεὶς μέγιστον ὠφέλημα_,	HHLHHHLHLHLHLHH	HHLHHHLHL-LHLHL	Case=Acc|Gender=Neut|Number=Sing	ὠφέλημα	NOUN
+τἀν	τἀν τῇ πόλει τῶν συμμά^χων τ' ἄρξεις ἔχων τρί^αιναν,	HHLHHHLHHHLHLHH	LHLHHLLHHHLHLHL	Case=Acc|Gender=Fem|Number=Sing	τἀν	DET
+συμμά^χων	τἀν τῇ πόλει τῶν συμμά^χων τ' ἄρξεις ἔχων τρί^αιναν,	HHLHHHLHHHLHLHH	LHLHHLLHHHLHLHL	Case=Gen|Gender=Masc|Number=Plur	σύμμαχος	NOUN
+τρί^αιναν,	τἀν τῇ πόλει τῶν συμμά^χων τ' ἄρξεις ἔχων τρί^αιναν,	HHLHHHLHHHLHLHH	LHLHHLLHHHLHLHL	Case=Acc|Gender=Fem|Number=Sing	τρίαινα	NOUN
+χρήμα^τ'	ᾗ πολλὰ^ χρήμα^τ' ἐργά^σει σείων τε καὶ τα^ράττων.	HHLHLHLHHHLHLHH	HHLHHHLHHHLHLHH	Case=Acc|Gender=Neut|Number=Plur	χρήματ	NOUN
+δύ^ο	ὡς εἰ μὴ 'γένεθ' οὗτος ἐν τῇ πόλει μέγα^ς, οὐκ ἂ^ν ἤστην σκεύει δύ^ο χρησί^μω, δοῖδυξ οὐδὲ τορύ_νη.	HHHLLHLHHLHLLHLHHHHLLHLHHHHLLHH	HHHLLHLHHLHLLHLHHHHL-HLHHHHLLLH		δύο	NUM
+τορύ_νη.	ὡς εἰ μὴ 'γένεθ' οὗτος ἐν τῇ πόλει μέγα^ς, οὐκ ἂ^ν ἤστην σκεύει δύ^ο χρησί^μω, δοῖδυξ οὐδὲ τορύ_νη.	HHHLLHLHHLHLLHLHHHHLLHLHHHHLLHH	HHHLLHLHHLHLLHLHHHHL-HLHHHHLLLH	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	τορύνη	VERB
+δεδί^α_σί^	ἀρχήν, ὅτε πάντες ἄνθρωποι δεδί^α_σί^ σ' ὥσπερ ἄνδρα^ τύ^ραννον.	HHLLHLHHHLLHLHLHLLHL	HHLLHLHHHLHHLHLHLLLH	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	δεδίασί	VERB
+τύ^ραννον.	ἀρχήν, ὅτε πάντες ἄνθρωποι δεδί^α_σί^ σ' ὥσπερ ἄνδρα^ τύ^ραννον.	HHLLHLHHHLLHLHLHLLHL	HHLLHLHHHLHHLHLHLLLH	Case=Acc|Gender=Masc|Number=Sing	τύραννος	NOUN
+τύ^ραννον.	ἀρχήν, ὅτε πάντες ἄνθρωποι δεδί^α_σί^ σ' ὥσπερ ἄνδρα^ τύ^ραννον.	HHLLHLHHHLLHLHLHLLHL	HHLLHLHHHLHHLHLHLLLH	Case=Acc|Gender=Masc|Number=Sing	τύραννος	NOUN
+κέχηνα^ς·	κέχηνα^ς· ὁ νοῦς δέ σου	HHLLHLH	LHLLHLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	κέχηνας·	VERB
+φρονεῖν	ὑ_μῶν, ὅτε μ' οὐ φρονεῖν νομίζετ'· ἐγὼ δ' ἑκὼν ταῦτ' ἠλι^θι^ά_ζω.	HHLLHLHHHLLHLHHHLLHH	HHLLHLHLHLLHLHHH-LHH	Tense=Pres|VerbForm=Inf|Voice=Act	φρονέω	VERB
+ταῦτ'	ὑ_μῶν, ὅτε μ' οὐ φρονεῖν νομίζετ'· ἐγὼ δ' ἑκὼν ταῦτ' ἠλι^θι^ά_ζω.	HHLLHLHHHLLHLHHHLLHH	HHLLHLHLHLLHLHHH-LHH	Case=Acc|Gender=Neut|Number=Plur	ταῦτ	ADJ
+ἐπά^ταξα^.	ἄ_ρα_ς ἐπά^ταξα^.	HHLLHL	HHLLLL	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐπάταξα	VERB
+ποιοῖς,	Οὕτω μὲν ἂ^ν εὖ ποιοῖς,	HHLLHLH	HHLLHHH	Case=Dat|Gender=Masc|Number=Plur	ποιοῖς	ADJ
+πυ^κνότης	εἴ σοι πυ^κνότης ἔνεστ' ἐν τῷ τρόπῳ, ὡς λέγεις, τούτῳ πά^νυ^ πολλή,	HHLLHLHHHLLHLHHHLLHH	HH-LHLHHHLHHLHHHLLHH	Case=Nom|Gender=Fem|Number=Sing	πυκνότης	NOUN
+τρόπῳ,	εἴ σοι πυ^κνότης ἔνεστ' ἐν τῷ τρόπῳ, ὡς λέγεις, τούτῳ πά^νυ^ πολλή,	HHLLHLHHHLLHLHHHLLHH	HH-LHLHHHLHHLHHHLLHH	Case=Dat|Gender=Masc|Number=Sing	τρόπος	NOUN
+πυ^κνί^,	εἰ τούσδ' ἐπί^τηδες ὥσπερ δημοσί^ους τρέφεις ἐν τῇ πυ^κνί^, κᾆθ' ὅταν μή σοι τύ^χῃ ὄψον ὄν,	HHLLHLHHHLLHLHHHLLHLHHHLLHLH	HHLLHLHHHLLHLHHH-LHLLHHLHHLH	Case=Dat|Gender=Fem|Number=Sing	πυκνί	NOUN
+ὅταν	εἰ τούσδ' ἐπί^τηδες ὥσπερ δημοσί^ους τρέφεις ἐν τῇ πυ^κνί^, κᾆθ' ὅταν μή σοι τύ^χῃ ὄψον ὄν,	HHLLHLHHHLLHLHHHLLHLHHHLLHLH	HHLLHLHHHLLHLHHH-LHLLHHLHHLH	PronType=Rel	ὅταν	ADV
+τύ^χῃ	εἰ τούσδ' ἐπί^τηδες ὥσπερ δημοσί^ους τρέφεις ἐν τῇ πυ^κνί^, κᾆθ' ὅταν μή σοι τύ^χῃ ὄψον ὄν,	HHLLHLHHHLLHLHHHLLHLHHHLLHLH	HHLLHLHHHLLHLHHH-LHLLHHLHHLH	Case=Nom|Gender=Fem|Number=Sing	τύχη	NOUN
+ἂ^ν	τούτων ὃς ἂ^ν ᾖ πα^χύς,	HHLLHLH	HHLHHLL		ἄν	PART
+πα^χύς,	τούτων ὃς ἂ^ν ᾖ πα^χύς,	HHLLHLH	HHLHHLL	Case=Nom|Gender=Masc|Number=Sing	παχύς	ADJ
+κἄ_μ'	αὐτοὺς περι^έρχομαι τοὺς οἰομένους φρονεῖν κἄ_μ' ἐξα^πα^τύλλειν.	HHLLHLHHHLLHLHHHLLHH	HHLLHLHHHLLHLHLHLLLH	Case=Acc|Gender=Masc|Number=Sing	κἄμ	PRON
+ἐξα^πα^τύλλειν.	αὐτοὺς περι^έρχομαι τοὺς οἰομένους φρονεῖν κἄ_μ' ἐξα^πα^τύλλειν.	HHLLHLHHHLLHLHHHLLHH	HHLLHLHHHLLHLHLHLLLH	Tense=Pres|VerbForm=Inf|Voice=Act	ἐξαπατύλλω	VERB
+ἑκάστοτ'	Τηρῶ γὰ^ρ ἑκάστοτ' αὐτοὺς οὐδὲ δοκῶν ὁρᾶν κλέπτοντα^ς· ἔπειτ' ἀ^ναγκάζω πά^λι^ν ἐξεμεῖν	HHLLHLHHHLLHLHHHLLHLHHHLLHLH	HHLL-LHHHLLHLHHHLLHLLLHLLHLH	Case=Acc|Gender=Masc|Number=Sing	ἑκάστοτ	ADJ
+ἀ^ναγκάζω	Τηρῶ γὰ^ρ ἑκάστοτ' αὐτοὺς οὐδὲ δοκῶν ὁρᾶν κλέπτοντα^ς· ἔπειτ' ἀ^ναγκάζω πά^λι^ν ἐξεμεῖν	HHLLHLHHHLLHLHHHLLHLHHHLLHLH	HHLL-LHHHLLHLHHHLLHLLLHLLHLH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀναγκάζω	VERB
+ἀ^ναγκάζω	Τηρῶ γὰ^ρ ἑκάστοτ' αὐτοὺς οὐδὲ δοκῶν ὁρᾶν κλέπτοντα^ς· ἔπειτ' ἀ^ναγκάζω πά^λι^ν ἐξεμεῖν	HHLLHLHHHLLHLHHHLLHLHHHLLHLH	HHLL-LHHHLLHLHHHLLHLLLHLLHLH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀναγκάζω	VERB
+ἂν	ἅττ' ἂν κεκλόφωσί^ μου,	HHLLHLH	HL-LHLH		ἄν	PART
+κεκλόφωσί^	ἅττ' ἂν κεκλόφωσί^ μου,	HHLLHLH	HL-LHLH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	κεκλόφωσί	VERB
+Λυ_σίστρα^τον,	μηδὲν εἰς Λυ_σίστρα^τον,	HLHHHLH	HLHL-LH	Case=Acc|Gender=Masc|Number=Sing	Λυσίστρατος	NOUN
+Λυ_σίστρα^τον,	μηδὲν εἰς Λυ_σίστρα^τον,	HLHHHLH	HLHL-LH	Case=Acc|Gender=Masc|Number=Sing	Λυσίστρατος	NOUN
+Θούμαντιν	μηδὲ Θούμαντιν τὸν ἀ^νέστι^ον αὖ	HLHHHLLHLLH	HLHHLLLH-LH		Θούμαντιν	X
+ἀ^νέστι^ον	μηδὲ Θούμαντιν τὸν ἀ^νέστι^ον αὖ	HLHHHLLHLLH	HLHHLLLH-LH	Case=Acc|Degree=Pos|Number=Sing	ἀνέστιος	ADJ
+δα^κρύ^οις	πεινῇ, θα^λεροῖς δα^κρύ^οις	HHLLHLLH	HHLLH-HH	Case=Dat|Gender=Neut|Number=Plur	δακρύον	NOUN
+δα^κρύ^οις	πεινῇ, θα^λεροῖς δα^κρύ^οις	HHLLHLLH	HHLLH-HH	Case=Dat|Gender=Neut|Number=Plur	δακρύον	NOUN
+Πυ_θῶνι^	Πυ_θῶνι^ δί_ᾳ μὴ κα^κῶς πένεσθαι.	HHLHHHLHLHH	LHLHHHLHLHH	Case=Dat|Gender=Masc|Number=Sing	Πυθῶν	PROPN
+γάρ	Φα_σὶ^ μὲν γάρ αὐτὸν ἐρεπτόμενον	HLHHHLLHLLH	HLHLHLLHLLH		γάρ	ADV
+πυνθά^νου	Τῇδε πᾶς ἕπου, δί^ωκε καὶ τὸν ἄνδρα^ πυνθά^νου	HLHLHLHLHLHLHLH	HLHLHLHLHLHLLLH	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	πυνθάνω	VERB
+ἁ^πάντων·	τῶν ὁδοιπόρων ἁ^πάντων· τῇ πόλει γὰρ ἄξι^ον	HLHLHLHHHLHLHLH	HLHLHLLHHLHLLLH	Case=Gen|Gender=Masc|Number=Plur	ἁπάντων·	ADJ
+ἄξι^ον	τῶν ὁδοιπόρων ἁ^πάντων· τῇ πόλει γὰρ ἄξι^ον	HLHLHLHHHLHLHLH	HLHLHLLHHLHLLLH	Case=Acc|Gender=Masc|Number=Sing	ἄξιος	ADJ
+ξυλλα^βεῖν	ξυλλα^βεῖν τὸν ἄνδρα^ τοῦτον. Ἀλλά^ μοι μηνύ_σα^τε,	HLHLHLHLHLHHHLL	LLHLHLHLHLHHHLL	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ξυλλαμβάνω	VERB
+φορτί^ον	ἀνθρά^κων φορτί^ον	HLHHLL	HLHHLH	Case=Nom|Gender=Neut|Number=Sing	φορτίον	NOUN
+Φα^ΰλλῳ	ἠκολούθουν Φα^ΰλλῳ τρέχων, ὧδε φαύλως ἂ^ νὁ σπονδοφόρος οὗτος ὑ^π' ἐμοῦ τότε δι^ωκόμενος ἐξέφυ^γεν οὐδ' ἂν ἐλα^φρῶς ἂ^ν ἀ^πεπλίξα^το.	HLHHLHHLHHLHHLHHLLLHLLLHLLLHLLLHLLLHLLLHLLLHLL	HLHHLLHLHHLHHLHHLLLHLLLHLLLHLLLHLLLHLL-HLL-HLL	Case=Dat|Gender=Masc|Number=Sing	Φαΰλλος	NOUN
+ἐλα^φρῶς	ἠκολούθουν Φα^ΰλλῳ τρέχων, ὧδε φαύλως ἂ^ νὁ σπονδοφόρος οὗτος ὑ^π' ἐμοῦ τότε δι^ωκόμενος ἐξέφυ^γεν οὐδ' ἂν ἐλα^φρῶς ἂ^ν ἀ^πεπλίξα^το.	HLHHLHHLHHLHHLHHLLLHLLLHLLLHLLLHLLLHLLLHLLLHLL	HLHHLLHLHHLHHLHHLLLHLLLHLLLHLLLHLLLHLL-HLL-HLL		ἐλαφρῶς	ADV
+ἀ^πεπλίξα^το.	ἠκολούθουν Φα^ΰλλῳ τρέχων, ὧδε φαύλως ἂ^ νὁ σπονδοφόρος οὗτος ὑ^π' ἐμοῦ τότε δι^ωκόμενος ἐξέφυ^γεν οὐδ' ἂν ἐλα^φρῶς ἂ^ν ἀ^πεπλίξα^το.	HLHHLHHLHHLHHLHHLLLHLLLHLLLHLLLHLLLHLLLHLLLHLL	HLHHLLHLHHLHHLHHLLLHLLLHLLLHLLLHLLLHLL-HLL-HLL	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἀπαπλίσσω	VERB
+Λακρα^τείδῃ	καὶ πα^λαιῷ Λακρα^τείδῃ τὸ σκέλος βα^ρύ_νεται,	HLHHHLHHHLHLHLH	HLHH-LHHHLHLLLH	Case=Dat|Gender=Masc|Number=Sing	Λακρατείδης	NOUN
+βα^ρύ_νεται,	καὶ πα^λαιῷ Λακρα^τείδῃ τὸ σκέλος βα^ρύ_νεται,	HLHHHLHHHLHLHLH	HLHH-LHHHLHLLLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	βαρύνω	VERB
+Δι_ωκτέος	οἴχεται. Δι_ωκτέος δέ· μὴ γὰ^ρ ἐγχά^νοι ποτὲ	HLHHHLHLHLHLHLL	HLHLHLHLHLHLHLL	Case=Gen|Gender=Masc|Number=Sing	Διωκτεύς	NOUN
+ἵ^να^	κοὐκ ἀ^νήσω πρὶ^ν ἂν σχοῖνος αὐτοῖσι^ν ἀντεμπα^γῶ καὶ σκόλοψ ὀξύ^ς, ὀδυ^νηρός, ἐπί^κωπος, ἵ^να^ μήποτε πα^τῶσι^ν ἔτι^ τὰ_ς ἐμὰ_ς ἀμπέλους.	HLHHLHHLHHLHHLHHLHHLLLHLLLHLLLHLLLHLLLHLHHLH	HLHHLHHLHHLHHLHHLHHLLLHLLLHLLHHLLLHLLLHLHHLH		ἵνα	SCONJ
+Ἡρά^κλεις	Ἡρά^κλεις τουτὶ_ τί^ ἐστι^; τὴν χύ^τραν συντρίψετε.	HLHHHLHLHLHHHLL	H-HHLLHLH-HHHLL	Case=Nom|Gender=Masc|Number=Plur	Ἡράκλις	NOUN
+τουτὶ_	Ἡρά^κλεις τουτὶ_ τί^ ἐστι^; τὴν χύ^τραν συντρίψετε.	HLHHHLHLHLHHHLL	H-HHLLHLH-HHHLL	Case=Dat|Gender=Masc|Number=Sing	τουτὶ	ADJ
+χύ^τραν	Ἡρά^κλεις τουτὶ_ τί^ ἐστι^; τὴν χύ^τραν συντρίψετε.	HLHHHLHLHLHHHLL	H-HHLLHLH-HHHLL	Case=Acc|Gender=Fem|Number=Sing	χύτρα	NOUN
+μι^α^ρὰ_	Σὲ μὲν οὖν κα^τα^λεύσομεν, ὦ μι^α^ρὰ_ κεφα^λή.	LLHLLHLLHLLHLLH	LLHLLHLLH-LLLLH	Case=Nom|Gender=Fem|Number=Sing	μιαρός	ADJ
+μι^α^ρὰ_	Σὲ μὲν οὖν κα^τα^λεύσομεν, ὦ μι^α^ρὰ_ κεφα^λή.	LLHLLHLLHLLHLLH	LLHLLHLLH-LLLLH	Case=Nom|Gender=Fem|Number=Sing	μιαρός	ADJ
+ἠκούσα^τ';	Ἀντὶ^ δ' ὧν ἐσπεισά^μην ἠκούσα^τ'; Ἀλλ' ἀ^κούσα^τε.	HLHHHLHHHLHLHLL	HLHHHLHHHHHLHLL	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἠκούσατ';	VERB
+ἄν	Μηδα^μῶς πρὶ^ν ἄν γ' ἀ^κούσητ'· ἀλλ' ἀ^νάσχεσθ', ὦγα^θοί.	HLHLHLHHHLHLHLH	HLHLLLHHHLLHHLH		ἄν	PART
+ἀ^νάσχεσθ',	Μηδα^μῶς πρὶ^ν ἄν γ' ἀ^κούσητ'· ἀλλ' ἀ^νάσχεσθ', ὦγα^θοί.	HLHLHLHHHLHLHLH	HLHLLLHHHLLHHLH	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀνάσχεσθ	VERB
+ἀ^νάσχεσθ',	Μηδα^μῶς πρὶ^ν ἄν γ' ἀ^κούσητ'· ἀλλ' ἀ^νάσχεσθ', ὦγα^θοί.	HLHLHLHHHLHLHLH	HLHLLLHHHLLHHLH	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀνάσχεσθ	VERB
+ἀ^νασχήσομαι·	Οὐκ ἀ^νασχήσομαι· μηδὲ λέγε μοι σὺ^ λόγον·	HLHHLHHLLLHLLL	HL-HLHHLLLHLLH	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	ἀνασχήσομαι·	VERB
+λόγον·	Οὐκ ἀ^νασχήσομαι· μηδὲ λέγε μοι σὺ^ λόγον·	HLHHLHHLLLHLLL	HL-HLHHLLLHLLH	Case=Acc|Gender=Masc|Number=Sing	λόγον·	NOUN
+φι^λανθρα^κέα_;	Ἀ^πολεῖς ἄ^ρ' ὁμήλι^κα^ τόνδε φι^λανθρα^κέα_;	LLHLLHLLHLLHLLH	LLHLLHLLHL-HLLL	Case=Voc|Gender=Masc|Number=Sing	φιλανθρακέα;	NOUN
+φι^λανθρα^κέα_;	Ἀ^πολεῖς ἄ^ρ' ὁμήλι^κα^ τόνδε φι^λανθρα^κέα_;	LLHLLHLLHLLHLLH	LLHLLHLLHL-HLLL	Case=Voc|Gender=Masc|Number=Sing	φιλανθρακέα;	NOUN
+ἀρτί^ως	Οὐδ' ἐμοῦ λέγοντος ὑ_μεῖς ἀρτί^ως ἠκούσα^τε.	HLHLHLHHHLHHHLL	HLHLHLHHLLHHHLL		ἄρτιος	ADV
+Οὑτοιί_	Οὑτοιί_ σοι χα^μαί, καὶ σὺ^ κα^τά^θου πά^λιν τὸ ξί^φος.	HLHHLHHLLLHLHHLH	HHLHLHHLLLHLLHLH	Case=Nom|Gender=Masc|Number=Plur	Οὑτοις	ADJ
+Οὑτοιί_	Οὑτοιί_ σοι χα^μαί, καὶ σὺ^ κα^τά^θου πά^λιν τὸ ξί^φος.	HLHHLHHLLLHLHHLH	HHLHLHHLLLHLLHLH	Case=Nom|Gender=Masc|Number=Plur	Οὑτοις	ADJ
+πά^λιν	Οὑτοιί_ σοι χα^μαί, καὶ σὺ^ κα^τά^θου πά^λιν τὸ ξί^φος.	HLHHLHHLLLHLHHLH	HHLHLHHLLLHLLHLH		πάλιν	ADV
+τοῖς	Ἀλλ' ὅπως μὴ 'ν τοῖς τρί^βωσι^ν ἐγκά^θηνταί που λί^θοι.	HLHHHLHLHLHHHLH	HLHHHHHLHLHHHLH	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	DET
+σειόμενον;	Ἐκσέσεισται χα^μᾶζ'. Οὐχ ὁρᾷς σειόμενον;	HLHHLHHLHHLLL	HLHHLHHLHHLLH	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	σειόμενον;	VERB
+ταῦτα	Τί^ ταῦτα στρέφει τεχνάζεις τε καὶ πορίζει τρι^βάς; Λα^βὲ δ' ἐμοῦ γ' ἕνεκα^ πα^ρ' Ἱ^ερωνύ^μου	LHHLHLHHLHLHHLHLLLHLLLLLLHLH	LHLLH-HHLHLHHL-LLLHLLLLLLHLH	Case=Nom|Gender=Neut|Number=Plur	οὗτος	ADJ
+τεχνάζεις	Τί^ ταῦτα στρέφει τεχνάζεις τε καὶ πορίζει τρι^βάς; Λα^βὲ δ' ἐμοῦ γ' ἕνεκα^ πα^ρ' Ἱ^ερωνύ^μου	LHHLHLHHLHLHHLHLLLHLLLLLLHLH	LHLLH-HHLHLHHL-LLLHLLLLLLHLH	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	τεχνάζω	VERB
+τρι^βάς;	Τί^ ταῦτα στρέφει τεχνάζεις τε καὶ πορίζει τρι^βάς; Λα^βὲ δ' ἐμοῦ γ' ἕνεκα^ πα^ρ' Ἱ^ερωνύ^μου	LHHLHLHHLHLHHLHLLLHLLLLLLHLH	LHLLH-HHLHLHHL-LLLHLLLLLLHLH	Case=Acc|Gender=Fem|Number=Plur	τριβάς;	NOUN
+ἁ_γὼν	ὡς σκῆψι^ν ἁ_γὼν οὗτος οὐκ εἰσδέξεται.	HHLHHHLHHHLH	HHLLHHLHHHLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἁγὼ	VERB
+ἐλθὲ	δεῦρο Μοῦσ' ἐλθὲ φλεγυ^ρὰ_ πυ^ρὸς ἔχουσα^ μένος,	HLHHLLLHLLLHLLL	HLHH-LLLHLLHLLH	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἔρχομαι	VERB
+φλεγυ^ρὰ_	δεῦρο Μοῦσ' ἐλθὲ φλεγυ^ρὰ_ πυ^ρὸς ἔχουσα^ μένος,	HLHHLLLHLLLHLLL	HLHH-LLLHLLHLLH	Case=Nom|Gender=Neut|Number=Plur	φλεγυρὰ	NOUN
+πυ^ρὸς	δεῦρο Μοῦσ' ἐλθὲ φλεγυ^ρὰ_ πυ^ρὸς ἔχουσα^ μένος,	HLHHLLLHLLLHLLL	HLHH-LLLHLLHLLH	Case=Gen|Gender=Neut|Number=Sing	πῦρ	NOUN
+μένος,	δεῦρο Μοῦσ' ἐλθὲ φλεγυ^ρὰ_ πυ^ρὸς ἔχουσα^ μένος,	HLHHLLLHLLLHLLL	HLHH-LLLHLLHLLH	Case=Nom|Gender=Neut|Number=Sing	μένος	NOUN
+ἀ^νήλα^τ'	οἷον ἐξ ἀνθρά^κων πρι_νί^νων φέψα^λος ἀ^νήλα^τ' ἐρεθιζόμενος οὐρί^ᾳ ῥι_πί^δι^,	HLHHLHHLHHLLLHLLLHLLLHLHHLL	HLHHLHHLHHLLLHHLLHLLLHLH-LL	Case=Acc|Gender=Neut|Number=Plur	ἀνήλατ	ADJ
+ῥι_πί^δι^,	οἷον ἐξ ἀνθρά^κων πρι_νί^νων φέψα^λος ἀ^νήλα^τ' ἐρεθιζόμενος οὐρί^ᾳ ῥι_πί^δι^,	HLHHLHHLHHLLLHLLLHLLLHLHHLL	HLHHLHHLHHLLLHHLLHLLLHLH-LL	Case=Dat|Gender=Fem|Number=Sing	ῥιπίς	NOUN
+ἂ^ν	ἡνί^κ' ἂ^ν ἐπανθρα^κί^δες ὦσι^ πα^ρα^κείμεναι,	HLLLHLLLHLLLHLH	HLHLHLLLHLLLHLH		ἄν	PART
+Θα^σί^αν	οἱ δὲ Θα^σί^αν ἀ^να^κυ^κῶσι^ λι^πα^ράμπυ^κα^,	HLLLHLLLHLLLHLL	HLLLLLLLHL-LHLL	Case=Acc|Gender=Fem|Number=Sing	Θασία	NOUN
+λι^πα^ράμπυ^κα^,	οἱ δὲ Θα^σί^αν ἀ^να^κυ^κῶσι^ λι^πα^ράμπυ^κα^,	HLLLHLLLHLLLHLL	HLLLLLLLHL-LHLL	Case=Acc|Gender=Neut|Number=Plur	λιπαράμπυκος	ADJ
+μέλος	οἱ δὲ μάττωσι^ν, οὕτω σοβα^ρὸν ἐλθὲ μέλος	HLHHLHHLLLHLLL	HLHHLHHLLLHLLH	Case=Nom|Gender=Neut|Number=Sing	μέλος	NOUN
+ἀ^γροικότονον,	εὔτονον, ἀ^γροικότονον,	HLLLHLLL	HLL-HLLH	Case=Acc|Gender=Masc|Number=Sing	ἀγροικότονος	ADJ
+ἀ^γροικότονον,	εὔτονον, ἀ^γροικότονον,	HLLLHLLL	HLL-HLLH	Case=Acc|Gender=Masc|Number=Sing	ἀγροικότονος	ADJ
+πολι^ὸν	Ταῦτα^ πῶς εἰκότα^, γέροντ' ἀ^πολέσαι πολι^ὸν	HLHHLLLHLLLHLLL	HLHHLLLHLLLHLLH	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	πολιός	ADJ
+ἱ^δρῶτα^	πολλὰ^ δὴ ξυμπονήσαντα^ καὶ θερμὸν ἀ^πομορξά^μενον ἀνδρι^κὸν ἱ^δρῶτα^ δὴ καὶ πολύν,	HLHHLHHLHHLLLHLLLHLLLHLHHLH	HLHHLHHLHHLLLHLLLHLL-HLHHLL	Case=Acc|Gender=Masc|Number=Sing	ἱδρώς	NOUN
+πολύν,	πολλὰ^ δὴ ξυμπονήσαντα^ καὶ θερμὸν ἀ^πομορξά^μενον ἀνδρι^κὸν ἱ^δρῶτα^ δὴ καὶ πολύν,	HLHHLHHLHHLLLHLLLHLLLHLHHLH	HLHHLHHLHHLLLHLLLHLL-HLHHLL	Case=Acc|Gender=Masc|Number=Sing	πολύς	ADJ
+πόλιν;	ἄνδρ' ἀ^γα^θὸν ὄντα^ Μα^ρα^θῶνι^ περὶ^ τὴν πόλιν;	HLLLHLLLHLLLHLH	HLLLHLLLHLLLHLL		πόλιν;	PUNCT
+κᾆτα^	κᾆτα^ πρὸς ἁ^λισκόμεθα^;	HLLLHLLL	H-LLLLLL		ἐκ	ADP
+ἁ^λισκόμεθα^;	κᾆτα^ πρὸς ἁ^λισκόμεθα^;	HLLLHLLL	H-LLLLLL	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἁλισκόμεθα	VERB
+τις	κἂ_ν εἰσί^ῃ τις Κτησί^ας	HHLHHHLH	HHLHLHLH	Case=Nom|Gender=Masc|Number=Sing	τις	PRON
+συ_κοφάντης	ἢ συ_κοφάντης ἄλλος, οἰμώζων κα^θεδεῖται·	HHLHHHLHHHLLHH	HHLLHHLHHHLLHH	Case=Gen|Gender=Fem|Number=Sing	συκοφάντη	NOUN
+χλαῖναν	χλαῖναν δ' ἔχων φα^νὴν δί^ει	HHLHLHLH	HLLHHHLH	Case=Acc|Gender=Fem|Number=Sing	χλαῖνα	NOUN
+ἔχων	χλαῖναν δ' ἔχων φα^νὴν δί^ει	HHLHLHLH	HLLHHHLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω	VERB
+ξυντυ^χών	κοὐ ξυντυ^χών σ' Ὑ^πέρβολος δι^κῶν ἀ^να^πλήσει·	HHLHLHLHLHLLHH	HLLHLHLHLHL-HH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἐξυντυχών	VERB
+ἀ^να^πλήσει·	κοὐ ξυντυ^χών σ' Ὑ^πέρβολος δι^κῶν ἀ^να^πλήσει·	HHLHLHLHLHLLHH	HLLHLHLHLHL-HH	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἀναπλήσει·	VERB
+τἀ_γορᾷ	οὐδ' ἐντυ^χὼν ἐν τἀ_γορᾷ πρόσεισί^ σοι βα^δίζων	HHLHHHLHLHLHLHH	HHLHHLLHLHLHLHH	Case=Nom|Gender=Neut|Number=Plur	τἀγορᾷ	ADJ
+μασχα^λῶν	ὄζων κα^κὸν τῶν μασχα^λῶν πα^τρὸς Τρα^γα^σαίου·	HHLHHHLHLHLLHH	HHLHHLLH-HLLHH	Case=Gen|Gender=Masc|Number=Plur	μασχαλῶ	NOUN
+πα^τρὸς	ὄζων κα^κὸν τῶν μασχα^λῶν πα^τρὸς Τρα^γα^σαίου·	HHLHHHLHLHLLHH	HHLHHLLH-HLLHH	Case=Gen|Gender=Masc|Number=Sing	πατήρ	NOUN
+τρι^ά_κονθ'	πλεῖν ἢ τρι^ά_κονθ' ἡμέρας τοῦ μηνὸς ἑκάστου.	HHLHHHLHHHLLHH	HH-LHHLHHHLL-H		τριάκονθ	NUM
+τρι^ά_κονθ'	πλεῖν ἢ τρι^ά_κονθ' ἡμέρας τοῦ μηνὸς ἑκάστου.	HHLHHHLHHHLLHH	HH-LHHLHHHLL-H		τριάκονθ	NUM
+ἑκάστου.	πλεῖν ἢ τρι^ά_κονθ' ἡμέρας τοῦ μηνὸς ἑκάστου.	HHLHHHLHHHLLHH	HH-LHHLHHHLL-H	Case=Gen|Gender=Masc|Number=Sing	ἕκαστος	ADJ
+βέλτιστε,	Ἔνδησον, ὦ βέλτιστε, τῷ ξένῳ κα^λῶς τὴν ἐμπολὴν	HHLHHHLHHHLHHHLH	HHLHH-LHLHLHHHLH	Case=Voc|Gender=Masc|Number=Sing	βέλτιστος	NOUN
+ξένῳ	Ἔνδησον, ὦ βέλτιστε, τῷ ξένῳ κα^λῶς τὴν ἐμπολὴν	HHLHHHLHHHLHHHLH	HHLHH-LHLHLHHHLH	Case=Dat|Gender=Masc|Number=Sing	ξένος	NOUN
+κα^τάξῃ.	οὕτως ὅπως ἂν μὴ φέρων κα^τάξῃ.	HHLHHHLHLHH	HHLHHHLHLLH	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κατάζω	VERB
+ὑ^πευθύ_νους	κρα_τὴρ κα^κῶν, τριπτὴρ δι^κῶν, φαίνειν ὑ^πευθύ_νους λυ^χνοῦχος καὶ κύ^λιξ τὰ^ πρά_γμα^τ' ἐγκυ^κᾶσθαι.	HHLHHHLHHHLHHHLHHHLHLHLHLHH	HHLHHHLHHHLHLH-HHHLHL-LHLHH	Case=Acc|Gender=Masc|Number=Plur	ὑπευθῦνος	ADJ
+λυ^χνοῦχος	κρα_τὴρ κα^κῶν, τριπτὴρ δι^κῶν, φαίνειν ὑ^πευθύ_νους λυ^χνοῦχος καὶ κύ^λιξ τὰ^ πρά_γμα^τ' ἐγκυ^κᾶσθαι.	HHLHHHLHHHLHHHLHHHLHLHLHLHH	HHLHHHLHHHLHLH-HHHLHL-LHLHH	Case=Nom|Gender=Masc|Number=Sing	λυχνοῦχος	NOUN
+πρά_γμα^τ'	κρα_τὴρ κα^κῶν, τριπτὴρ δι^κῶν, φαίνειν ὑ^πευθύ_νους λυ^χνοῦχος καὶ κύ^λιξ τὰ^ πρά_γμα^τ' ἐγκυ^κᾶσθαι.	HHLHHHLHHHLHHHLHHHLHLHLHLHH	HHLHHHLHHHLHLH-HHHLHL-LHLHH	Case=Acc|Gender=Neut|Number=Plur	πράγματ	NOUN
+ἀγγείῳ	Πῶς δ' ἂν πεποιθοίη τις ἀγγείῳ τοιούτῳ χρώμενος	HHLHHHLHHHLHHHLH	HLLHHHLHHHHHHHLH	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	ἀγγείῳ	VERB
+Ἰσχυ_ρόν	Ἰσχυ_ρόν ἐστι^ν, ὦγά^θ', ὥστ' οὐκ ἂν κα^τα_γείη ποτ', εἴ περ ἐκ ποδῶν κα^τωκά^ρα_ κρέμαιτο.	HHLHLHLHHHLHHHLHLHLHLHLHLHL	-HLHLHLHHLLLHHLHLHLHLHL-LHL	Case=Acc|Gender=Masc|Number=Sing	ἰσχυρός	ADJ
+ἂν	Ἰσχυ_ρόν ἐστι^ν, ὦγά^θ', ὥστ' οὐκ ἂν κα^τα_γείη ποτ', εἴ περ ἐκ ποδῶν κα^τωκά^ρα_ κρέμαιτο.	HHLHLHLHHHLHHHLHLHLHLHLHLHL	-HLHLHLHHLLLHHLHLHLHLHL-LHL		ἄν	PART
+κα^τα_γείη	Ἰσχυ_ρόν ἐστι^ν, ὦγά^θ', ὥστ' οὐκ ἂν κα^τα_γείη ποτ', εἴ περ ἐκ ποδῶν κα^τωκά^ρα_ κρέμαιτο.	HHLHLHLHHHLHHHLHLHLHLHLHLHL	-HLHLHLHHLLLHHLHLHLHLHL-LHL	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	καταγεῖος	VERB
+κα^τωκά^ρα_	Ἰσχυ_ρόν ἐστι^ν, ὦγά^θ', ὥστ' οὐκ ἂν κα^τα_γείη ποτ', εἴ περ ἐκ ποδῶν κα^τωκά^ρα_ κρέμαιτο.	HHLHLHLHHHLHHHLHLHLHLHLHLHL	-HLHLHLHHLLLHHLHLHLHLHL-LHL	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	κατωκάρα	VERB
+βέλτιστε,	Ἀλλ', ὦ ξένων βέλτιστε, συνθέριζε καὶ πρόσβαλλ' ὅποι βούλει φέρων πρὸς πάντα^ συ_κοφάντην.	HHLHHHLHLHLHHHLHHHLHHHLHLHH	HHLHH-LHLHLHHHLHHHLHHLLHLHH	Case=Voc|Gender=Masc|Number=Sing	βέλτιστος	NOUN
+πάντα^	Ἀλλ', ὦ ξένων βέλτιστε, συνθέριζε καὶ πρόσβαλλ' ὅποι βούλει φέρων πρὸς πάντα^ συ_κοφάντην.	HHLHHHLHLHLHHHLHHHLHHHLHLHH	HHLHH-LHLHLHHHLHHHLHHLLHLHH	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+ἠργά^σα^το	ἠργά^σα^το πάντα^ κα^κά^, κἀ_νέτρεπε κἀξέχει	HLLLHLLLHLLLHLH	HHLLLLLLL-LLHLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἐργάζομαι	VERB
+πάντα^	ἠργά^σα^το πάντα^ κα^κά^, κἀ_νέτρεπε κἀξέχει	HLLLHLLLHLLLHLH	HHLLLLLLL-LLHLH	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+κἀ_νέτρεπε	ἠργά^σα^το πάντα^ κα^κά^, κἀ_νέτρεπε κἀξέχει	HLLLHLLLHLLLHLH	HHLLLLLLL-LLHLH	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κἀνέτρεπε	VERB
+κἀ_νέτρεπε	ἠργά^σα^το πάντα^ κα^κά^, κἀ_νέτρεπε κἀξέχει	HLLLHLLLHLLLHLH	HHLLLLLLL-LLHLH	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κἀνέτρεπε	VERB
+κἀ_μά^χετο	κἀ_μά^χετο καὶ προσέτι^ πολλὰ^ προκα^λουμένου·	HLLLHLLLHLLLHLH	LLLLHLLLHLLLHLH	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	κἀμάχομαι	VERB
+μεγά^λα^	Ἐπτέρωταί τ' ἐπὶ^ τὸ δεῖπνον ἅ^μα^ καὶ μεγά^λα^ δὴ φρονεῖ,	HLHHLLLHLLLHLLLHLH	HLHHLLLHLLLHLLHHLH	Case=Nom|Gender=Fem|Number=Dual	μέγας	ADJ
+τά^δε	τοῦ βί^ου δ' ἐξέβα^λε δεῖγμα^ τά^δε τὰ πτερὰ^ πρὸ τῶν θυ^ρῶν.	HLHHLLLHLLLHLLLHLH	HLHHLLLHLLLLLLLHLH	Case=Acc|Gender=Neut|Number=Plur	ὅδε	ADJ
+τὸ	ὡς κα^λὸν ἔχουσα^ τὸ πρόσωπον ἄ^ρ' ἐλάνθα^νες.	HLLLHLLLHLLLHLH	HLLLHL-LHLLLLLH	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	DET
+ἐλάνθα^νες.	ὡς κα^λὸν ἔχουσα^ τὸ πρόσωπον ἄ^ρ' ἐλάνθα^νες.	HLLLHLLLHLLLHLH	HLLLHL-LHLLLLLH	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἐλάνθανες	VERB
+γερόντι^ον	Ἢ πά^νυ^ γερόντι^ον ἴ^σως νενόμι^κάς με σύ^;	HLLLHLLLHLLLHLL	HLLLH-LHHLLLLLL	Case=Acc|Gender=Neut|Number=Sing	γερόντιος	NOUN
+ἴ^σως	Ἢ πά^νυ^ γερόντι^ον ἴ^σως νενόμι^κάς με σύ^;	HLLLHLLLHLLLHLL	HLLLH-LHHLLLLLL		ἴσως	ADV
+νενόμι^κάς	Ἢ πά^νυ^ γερόντι^ον ἴ^σως νενόμι^κάς με σύ^;	HLLLHLLLHLLLHLL	HLLLH-LHHLLLLLL	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	νενόμικά	VERB
+νέα^	εἶτα^ πα^ρὰ^ τόνδε νέα^ μοσχί^δι^α^ συκί^δων,	HLLLHLLLHLLLHLH	HLLLHLLHHL-LHLH	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ναῦς	ADJ
+μοσχί^δι^α^	εἶτα^ πα^ρὰ^ τόνδε νέα^ μοσχί^δι^α^ συκί^δων,	HLLLHLLLHLLLHLH	HLLLHLLHHL-LHLH	Case=Nom|Gender=Neut|Number=Plur	μοσχίδιον	NOUN
+τὸ	καὶ τὸ τρί^τον ἡμερί^δος ὄσχον, ὁ γέρων ὁδί_,	HLLLHLLLHLLLHLH	H-LLHLLLHLLLHLL	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	DET
+ὁδί_,	καὶ τὸ τρί^τον ἡμερί^δος ὄσχον, ὁ γέρων ὁδί_,	HLLLHLLLHLLLHLH	H-LLHLLLHLLLHLL	Case=Dat|Gender=Neut|Number=Sing	ὁδίς	NOUN
+ἐλᾷδα^ς	καὶ περὶ^ τὸ χωρί^ον ἐλᾷδα^ς ἅ^πα^ν ἐν κύ^κλῳ,	HLLLHLLLHLLLHLH	HLLLHLLLHHLLH-H	Case=Acc|Gender=Fem|Number=Plur	ἐλᾷς	NOUN
+κύ^κλῳ,	καὶ περὶ^ τὸ χωρί^ον ἐλᾷδα^ς ἅ^πα^ν ἐν κύ^κλῳ,	HLLLHLLLHLLLHLH	HLLLHLLLHHLLH-H		κύκλῳ	ADV
+αὐτῶν	ὥστ' ἀ^λείφεσθαι σ' ἀ^π' αὐτῶν κἀ_μὲ ταῖς νουμηνί^αις.	HLHHHLHHHLHHHLH	HLHHHLHHLLHHHLH	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός	PRON
+ἐπειδὰν	Τί^ δῆτ', ἐπειδὰν τὰς κί^χλας	LHLHHHLH	LHLHLHLH		ἐπειδάν	ADV
+δειπνητι^κῶς	Ἤκουσα^ς ὡς μα^γειρι^κῶς κομψῶς τε καὶ δειπνητι^κῶς αὑτῷ δι^α_κονεῖται;	HHLHLHLHHHLHHHLHHHLHLHH	HHLHLHLHHHLHHH-HHH-LLHH		δειπνητικῶς	ADV
+δι^α_κονεῖται;	Ἤκουσα^ς ὡς μα^γειρι^κῶς κομψῶς τε καὶ δειπνητι^κῶς αὑτῷ δι^α_κονεῖται;	HHLHLHLHHHLHHHLHHHLHLHH	HHLHLHLHHHLHHH-HHH-LLHH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	διακονεῖται;	VERB
+δι^α_κονεῖται;	Ἤκουσα^ς ὡς μα^γειρι^κῶς κομψῶς τε καὶ δειπνητι^κῶς αὑτῷ δι^α_κονεῖται;	HHLHLHLHHHLHHHLHHHLHLHH	HHLHLHLHHHLHHH-HHH-LLHH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	διακονεῖται;	VERB
+λι^μῷ	Ἀ^ποκτενεῖς λι^μῷ 'μὲ καὶ τοὺς γείτονας κνί_σῃ τε καὶ φωνῇ τοιαῦτα^ λάσκων.	LHLHLHLHHHLHHHLHHHLHLHH	LHLHHHLHHHLLLHLHHHHHL-H	Case=Dat|Gender=Masc|Number=Sing	λιμός	NOUN
+γείτονας	Ἀ^ποκτενεῖς λι^μῷ 'μὲ καὶ τοὺς γείτονας κνί_σῃ τε καὶ φωνῇ τοιαῦτα^ λάσκων.	LHLHLHLHHHLHHHLHHHLHLHH	LHLHHHLHHHLLLHLHHHHHL-H	Case=Acc|Gender=Masc|Number=Plur	γείτων	NOUN
+κνί_σῃ	Ἀ^ποκτενεῖς λι^μῷ 'μὲ καὶ τοὺς γείτονας κνί_σῃ τε καὶ φωνῇ τοιαῦτα^ λάσκων.	LHLHLHLHHHLHHHLHHHLHLHH	LHLHHHLHHHLLLHLHHHHHL-H	Case=Nom|Gender=Fem|Number=Sing	κνῖσα	NOUN
+τοιαῦτα^	Ἀ^ποκτενεῖς λι^μῷ 'μὲ καὶ τοὺς γείτονας κνί_σῃ τε καὶ φωνῇ τοιαῦτα^ λάσκων.	LHLHLHLHHHLHHHLHHHLHLHH	LHLHHHLHHHLLLHLHHHHHL-H	Case=Acc|Gender=Neut|Number=Plur	τοιοῦτος	ADJ
+λάσκων.	Ἀ^ποκτενεῖς λι^μῷ 'μὲ καὶ τοὺς γείτονας κνί_σῃ τε καὶ φωνῇ τοιαῦτα^ λάσκων.	LHLHLHLHHHLHHHLHHHLHLHH	LHLHHHLHHHLLLHLHHHHHL-H	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	λάσκω	VERB
+ξυγγρα^φέα_,	Ἀντί^μα^χον τὸν Ψα^κά^δος, ξυγγρα^φέα_, τὸν μελέων ποιητήν,	HLLHHLLHHLLHHLLHLHH	HLLHHLLHHLLLHLLHHHH	Case=Acc|Gender=Neut|Number=Plur	ξυγγραφής	ADJ
+ποιητήν,	Ἀντί^μα^χον τὸν Ψα^κά^δος, ξυγγρα^φέα_, τὸν μελέων ποιητήν,	HLLHHLLHHLLHHLLHLHH	HLLHHLLHHLLLHLLHHHH	Case=Acc|Gender=Masc|Number=Sing	ποιητός	NOUN
+σίζουσα^	σίζουσα^ πά^ρα^λος ἐπὶ^ τρα^πέζῃ κειμένη	HHLLLLLLLHHHLH	LHLLLLLLLHHHLH	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	σίζω	VERB
+νυκτερι^νὸν	Τοῦτο μὲν αὐτῷ κα^κὸν ἕν, κᾆθ' ἕτερον νυκτερι^νὸν γένοιτο.	HLLHHLLHHLLHHLLHLHL	HLLHHLLHHLLHLLLHLHL	Case=Acc|Gender=Masc|Number=Sing	νυκτερινὸς	NOUN
+πα^τάξειέ	εἶτα^ πα^τάξειέ τι^ς αὐτοῦ μεθύ^ων τὴν κεφα^λὴν Ὀρέστης	HLLHHLLHHLLHHLLHLHH	HLLLHLLHHLLHHLLHLHH	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πατάξειέ	VERB
+ἀρτί^ως	τῇ χειρὶ^ πέλεθον ἀρτί^ως κεχεσμένον·	HHLLLLHLHLHLH	HHLLLLLLHLHLH		ἄρτιος	ADV
+κἄ_πειθ'	κἄ_πειθ' ἁ^μαρτὼν βά^λοι Κρα^τῖνον.	HHLHHLHLHH	LHLLHLHLHH		κἄπσειθ	ADV
+ἁ^μαρτὼν	κἄ_πειθ' ἁ^μαρτὼν βά^λοι Κρα^τῖνον.	HHLHHLHLHH	LHLLHLHLHH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἁμαρτάνω	VERB
+ἀ^νόσι^ά^	προδεδόμεθ' ἀ^νόσι^ά^ τ' ἐπά^θομεν·	LLLLLLLLLLLL	LLLLLL-LLLLH		ἀνόσιά	INTJ
+ἐπά^θομεν·	προδεδόμεθ' ἀ^νόσι^ά^ τ' ἐπά^θομεν·	LLLLLLLLLLLL	LLLLLL-LLLLH	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐπάθομεν·	VERB
+γὰρ	ὃς γὰρ φί^λος ἦν ὁμότροφά^ θ' ἡμῖν	HHLLHLLLLHH	HLLLHL-LLHH		γάρ	ADV
+ὁμότροφά^	ὃς γὰρ φί^λος ἦν ὁμότροφά^ θ' ἡμῖν	HHLLHLLLLHH	HLLLHL-LLHH	Case=Acc|Gender=Neut|Number=Plur	ὁμότροφά	ADJ
+Ἰ^ὼ	Ἰ^ὼ ἰ^ώ·	LHLH	HHHH		ἰώ	INTJ
+ἰ^ώ·	Ἰ^ὼ ἰ^ώ·	LHLH	HHHH		ἰώ·	INTJ
+ἔπι^θ'	ἔπα^γ' ἔπι^θ' ἐπί^φερε πολέμι^ον	LLLLLLLLLLLL	LLL-LLLLLLLH		ἔπιθν	ADV
+πολέμι^ον	ἔπα^γ' ἔπι^θ' ἐπί^φερε πολέμι^ον	LLLLLLLLLLLL	LLL-LLLLLLLH	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	πολέμιος	ADJ
+πάντα^	Δολερὸν μὲν ἀ^εὶ κα^τὰ^ πάντα^ δὴ τρόπον	LLHLLHLLHLHLH	LLHLLHLLLLHLH	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+τά^χα^	πέφυ_κεν ἄνθρωπος· σὺ^ δ' ὅμως λέγε μοι. τά^χα^ γὰρ	LHLHHHLLHLLHLLH	LHLHHHLLHLLHLLL		τάχα	ADV
+ἂν	τύ^χοις ἂν χρηστὸν ἐξειπὼν ὅ τι^ μοι πα^ρορᾷς, ἢ δύ^να^μίν τι^να^ μείζω	LHHHLHHHLLHLLHHLLHLLHH	LHLHLHHHLLHLLHHLLLLLHH		ἄν	PART
+δύ^να^μίν	τύ^χοις ἂν χρηστὸν ἐξειπὼν ὅ τι^ μοι πα^ρορᾷς, ἢ δύ^να^μίν τι^να^ μείζω	LHHHLHHHLLHLLHHLLHLLHH	LHLHLHHHLLHLLHHLLLLLHH	Case=Acc|Gender=Fem|Number=Sing	δύναμις	NOUN
+κοινόν.	σὺ^ δὲ τοῦθ' οὑρᾷς λέγ' εἰς κοινόν.	LLHHHLHHL	LLHHHLHHH	Case=Acc|Gender=Neut|Number=Sing	κοινός	ADJ
+τάσδε	κά^κην, οἳ τάσδε τὰς τι_μὰς προγόνων πα^ρα^δόντων ἐπ' ἐμοὶ κα^τέλυ_σαν.	LHHHLHHHLLHLLHHLLHLLHH	LHH-LHHHLLHLLHHLLHLLHL	Case=Acc|Gender=Fem|Number=Plur	ὅδε	ADJ
+κα^τέλυ_σαν.	κά^κην, οἳ τάσδε τὰς τι_μὰς προγόνων πα^ρα^δόντων ἐπ' ἐμοὶ κα^τέλυ_σαν.	LHHHLHHHLLHLLHHLLHLLHH	LHH-LHHHLLHLLHHLLHLLHL	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	καταλύω	VERB
+Πα_νὶ^	Πα_νὶ^ νόμους ἱ^εροὺς ἀ^να^φαίνω	HLLHLLHLLHH	LLLHLLHLLHH	Case=Voc|Gender=Fem|Number=Sing	Πανὶ	NOUN
+χορεύμα^τ'	σεμνά^ τε Μητρὶ^ χορεύμα^τ' ὀρείᾳ,	HLLHLLHLLHH	HLLHLLHHLHH	Case=Acc|Gender=Neut|Number=Plur	χορεύματ	NOUN
+Τοιά^δε	Τοιά^δε κύ_κνοι,	HLLHH	HHL-H	Case=Acc|Gender=Neut|Number=Plur	τοιόσδε	ADJ
+κύ_κνοι,	Τοιά^δε κύ_κνοι,	HLLHH	HHL-H	Case=Nom|Gender=Masc|Number=Plur	κύκνος	NOUN
+συμμι^γῆ	συμμι^γῆ βοὴν ὁμοῦ πτεροῖσι^ κρέκοντες ἴ^ακχον Ἀ^πόλλω,	HLHLHLHLHLLHLLHLLHH	L-HLHLHLHLLHLLHLLHH	Case=Dat|Gender=Fem|Number=Sing	συμμιγής	NOUN
+συμμι^γῆ	συμμι^γῆ βοὴν ὁμοῦ πτεροῖσι^ κρέκοντες ἴ^ακχον Ἀ^πόλλω,	HLHLHLHLHLLHLLHLLHH	L-HLHLHLHLLHLLHLLHH	Case=Dat|Gender=Fem|Number=Sing	συμμιγής	NOUN
+ὄχθῳ	ὄχθῳ ἐφεζόμενοι πα^ρ' Ἕβρον ποτα^μόν,	HLLHLLHLLHLLH	HHLHLLHL-HLLH	Case=Dat|Gender=Masc|Number=Sing	ὄχθος	NOUN
+Ἕβρον	ὄχθῳ ἐφεζόμενοι πα^ρ' Ἕβρον ποτα^μόν,	HLLHLLHLLHLLH	HHLHLLHL-HLLH	Case=Acc|Gender=Masc|Number=Sing	Ἕβρος	NOUN
+αἰθέρι^ον	δι^ὰ^ δ' αἰθέρι^ον νέφος ἦλθε βοά_·	LLHLLHLLHLLH	LLHL-HLLHLLL	Case=Acc|Gender=Masc|Number=Sing	αἰθέριος	NOUN
+βοά_·	δι^ὰ^ δ' αἰθέρι^ον νέφος ἦλθε βοά_·	LLHLLHLLHLLH	LLHL-HLLHLLL		βοά·	PUNCT
+ποικί^λα^	πτῆξε δὲ φῦλά^ τε ποικί^λα^ θηρῶν,	HLLHLLHLLHH	HLLHLLHLHHH	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ποικίλος	ADJ
+Ὄλυμπος·	πᾶς δ' ἐπεκτύ^πησ' Ὄλυμπος·	HLHLHLHL	HLHLHLHH	Case=Nom|Gender=Masc|Number=Sing	Ὄλυμπος·	NOUN
+ἐπωλόλυξαν,	Μοῦσαί τ' ἐπωλόλυξαν,	HHLHLHH	HHLHLHL	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐπωλόλυξαν	VERB
+συμπα^ραινέσα_ς	συμπα^ραινέσα_ς ἔχω	HLHLHLH	LLHLHLH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	συμπαραινέω	VERB
+προσόδι^α^	προσόδι^α^ μεγά^λα^ σεμνὰ^ προσι^έναι θεοῖσι^ν, ἅ^μα^ δὲ προσέτι^ χά^ρι^τος ἕνεκα^ προβά^τι^όν τι^ θύ_ειν.	LLLLLLLHLLLLHLHLLLLLLLLLLLLLLLLHLHH	LL-LLLHHLLLLHLHLLL-LLLLLLLLLLL-HLHH	Case=Nom|Gender=Neut|Number=Plur	προσόδιον	NOUN
+μεγά^λα^	προσόδι^α^ μεγά^λα^ σεμνὰ^ προσι^έναι θεοῖσι^ν, ἅ^μα^ δὲ προσέτι^ χά^ρι^τος ἕνεκα^ προβά^τι^όν τι^ θύ_ειν.	LLLLLLLHLLLLHLHLLLLLLLLLLLLLLLLHLHH	LL-LLLHHLLLLHLHLLL-LLLLLLLLLLL-HLHH	Case=Nom|Gender=Fem|Number=Dual	μέγας	ADJ
+δὲ	προσόδι^α^ μεγά^λα^ σεμνὰ^ προσι^έναι θεοῖσι^ν, ἅ^μα^ δὲ προσέτι^ χά^ρι^τος ἕνεκα^ προβά^τι^όν τι^ θύ_ειν.	LLLLLLLHLLLLHLHLLLLLLLLLLLLLLLLHLHH	LL-LLLHHLLLLHLHLLL-LLLLLLLLLLL-HLHH		δέ	ADV
+προβά^τι^όν	προσόδι^α^ μεγά^λα^ σεμνὰ^ προσι^έναι θεοῖσι^ν, ἅ^μα^ δὲ προσέτι^ χά^ρι^τος ἕνεκα^ προβά^τι^όν τι^ θύ_ειν.	LLLLLLLHLLLLHLHLLLLLLLLLLLLLLLLHLHH	LL-LLLHHLLLLHLHLLL-LLLLLLLLLLL-HLHH	Case=Acc|Gender=Neut|Number=Sing	προβάτιόν	NOUN
+Πυ_θι^ὰς	Ἴ^τω ἴ^τω ἴ^τω δὲ Πυ_θι^ὰς βοά_, συ^ναυλείτω δὲ Χαῖρι^ς ᾠδᾷ.	LHLHLHLHLHLHLHHHLHLHH	LHLHLHLL-HLLLHHHLHLHH	Case=Gen|Gender=Fem|Number=Sing	Πυθιὰ	PROPN
+Πυ_θι^ὰς	Ἴ^τω ἴ^τω ἴ^τω δὲ Πυ_θι^ὰς βοά_, συ^ναυλείτω δὲ Χαῖρι^ς ᾠδᾷ.	LHLHLHLHLHLHLHHHLHLHH	LHLHLHLL-HLLLHHHLHLHH	Case=Gen|Gender=Fem|Number=Sing	Πυθιὰ	PROPN
+βοά_,	Ἴ^τω ἴ^τω ἴ^τω δὲ Πυ_θι^ὰς βοά_, συ^ναυλείτω δὲ Χαῖρι^ς ᾠδᾷ.	LHLHLHLHLHLHLHHHLHLHH	LHLHLHLL-HLLLHHHLHLHH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	βοά	VERB
+τἄ_ρα^	Εἶτ' αὖθι^ς αὖ τἄ_ρα^ σοι	HHLHHLH	HHLHLLH		ἄρα	INTJ
+γὰρ	Τὰ^ γὰρ πα^ρόντα^ θύ_μα^τ' οὐδὲν ἄλλο πλὴν γένειόν τ' ἐστὶ^ καὶ κέρα_τα^.	LHLHLHLHLHLHLHHHLHLHL	LLLHLLLHLH-HLHHHLHLLL		γάρ	ADV
+θύ_μα^τ'	Τὰ^ γὰρ πα^ρόντα^ θύ_μα^τ' οὐδὲν ἄλλο πλὴν γένειόν τ' ἐστὶ^ καὶ κέρα_τα^.	LHLHLHLHLHLHLHHHLHLHL	LLLHLLLHLH-HLHHHLHLLL	Case=Acc|Gender=Neut|Number=Plur	θύματ	NOUN
+ἄλλο	Τὰ^ γὰρ πα^ρόντα^ θύ_μα^τ' οὐδὲν ἄλλο πλὴν γένειόν τ' ἐστὶ^ καὶ κέρα_τα^.	LHLHLHLHLHLHLHHHLHLHL	LLLHLLLHLH-HLHHHLHLLL	Case=Acc|Gender=Neut|Number=Sing	ἄλλος	ADJ
+κέρα_τα^.	Τὰ^ γὰρ πα^ρόντα^ θύ_μα^τ' οὐδὲν ἄλλο πλὴν γένειόν τ' ἐστὶ^ καὶ κέρα_τα^.	LHLHLHLHLHLHLHHHLHLHL	LLLHLLLHLH-HLHHHLHLLL	Case=Acc|Gender=Neut|Number=Plur	κέρας	NOUN
+λά^θῃ	μή σε λά^θῃ θεῶν τις ταύτῃ περῶν.	HLLHLHHHHLH	HLHHLHLHHLH	Case=Nom|Gender=Neut|Number=Plur	λάθῃ	NOUN
+τις	μή σε λά^θῃ θεῶν τις ταύτῃ περῶν.	HLLHLHHHHLH	HLHHLHLHHLH	Case=Nom|Gender=Masc|Number=Sing	τις	PRON
+πόλιν,	μηκέτι^ τὴν ἐμὴν δι^α^περᾶν πόλιν,	HLLHLHLLLHLH	HLLHLHLLLHLL	Case=Acc|Gender=Fem|Number=Sing	πόλις	NOUN
+πολυ^ά_νορα^	Τά^χα^ δὴ πολυ^ά_νορα^ τάνδε πόλιν	LLHLLHLLHLLH	LLHLLLLLHLLL	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Sing	πολυάνωρ	ADJ
+πόλιν	Τά^χα^ δὴ πολυ^ά_νορα^ τάνδε πόλιν	LLHLLHLLHLLH	LLHLLLLLHLLL	Case=Acc|Gender=Fem|Number=Sing	πόλις	NOUN
+τις	Φερέτω κά^λα^θον τα^χύ^ τις πτερύ^γων.	LLHLLHLLHLLH	LLHLLHLLLLLH	Case=Nom|Gender=Masc|Number=Sing	τις	PRON
+ὡδί_.	τύπτων γε τοῦτον ὡδί_.	HHLHLHH	HHLHLHL		ὡδί	ADV
+γὰρ	Πά^νυ^ γὰρ βρα^δύ^ς ἐστί^ τι^ς ὥσπερ ὄνος.	LLHLLHLLHLLH	LLLLLHLLHLLH		γάρ	ADV
+Μα_νῆς	Μα_νῆς γά^ρ ἐστι^ δειλός.	HHLHLHH	LHLHLHH	Case=Gen|Gender=Fem|Number=Sing	Μανῆ	NOUN
+τὰ	Σὺ^ δὲ τὰ πτερὰ^ πρῶτον	LLHLLHH	LLLLLHH	Case=Nom|Gender=Neut|Number=Plur	ὁ	DET
+μαντι^κὰ^	τά^ τε μουσί^χ' ὁμοῦ τά^ τε μαντι^κὰ^ καὶ τὰ^ θα^λάττι^'. Ἔπειτα^ δ' ὅπως φρονί^μως	LLHLLHLLHLLHLLHLLHLLHLLH	LLHLLHLLH-LHLLLLLHLLHLLH	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	μαντικός	ADJ
+θα^λάττι^'.	τά^ τε μουσί^χ' ὁμοῦ τά^ τε μαντι^κὰ^ καὶ τὰ^ θα^λάττι^'. Ἔπειτα^ δ' ὅπως φρονί^μως	LLHLLHLLHLLHLLHLLHLLHLLH	LLHLLHLLH-LHLLLLLHLLHLLH	Case=Dat|Gender=Fem|Number=Sing	θαλάττι'.ς	NOUN
+θαυμάστ'	Πολλὰ^ δὴ καὶ καινὰ^ καὶ θαυμάστ' ἐπεπτόμεσθα^ καὶ δεινὰ^ πράγμα^τ' εἴδομεν.	HLHHHLHHHLHLHLHHLHLHLH	HLHHHLHH-LHLHLHHL-HHLH	Case=Acc|Gender=Neut|Number=Plur	θαυμάστς	ADJ
+πράγμα^τ'	Πολλὰ^ δὴ καὶ καινὰ^ καὶ θαυμάστ' ἐπεπτόμεσθα^ καὶ δεινὰ^ πράγμα^τ' εἴδομεν.	HLHHHLHHHLHLHLHHLHLHLH	HLHHHLHH-LHLHLHHL-HHLH	Case=Acc|Gender=Neut|Number=Plur	πράγματ	NOUN
+πράγμα^τ'	Πολλὰ^ δὴ καὶ καινὰ^ καὶ θαυμάστ' ἐπεπτόμεσθα^ καὶ δεινὰ^ πράγμα^τ' εἴδομεν.	HLHHHLHHHLHLHLHHLHLHLH	HLHHHLHH-LHLHLHHL-HHLH	Case=Acc|Gender=Neut|Number=Plur	πράγματ	NOUN
+γὰρ	Ἔστι^ γὰρ δένδρον πεφυ_κὸς ἔκτοπόν τι^, Καρδί^α_ς ἀ^πωτέρω, Κλεώνυ^μος,	HLHHHLHLHLHLHLHLHLHLHLH	HLLHHLHLHLHLLLHLHLHLHLH		γάρ	ADV
+Καρδί^α_ς	Ἔστι^ γὰρ δένδρον πεφυ_κὸς ἔκτοπόν τι^, Καρδί^α_ς ἀ^πωτέρω, Κλεώνυ^μος,	HLHHHLHLHLHLHLHLHLHLHLH	HLLHHLHLHLHLLLHLHLHLHLH	Case=Gen|Gender=Fem|Number=Sing	καρδία	NOUN
+ἀ_εὶ	Τοῦτο τοῦ μὲν ἦρος ἀ_εὶ	HLHLHLHH	HLHLHLLH		ἀεί	ADV
+βλαστά^νει	βλαστά^νει καὶ συ_κοφαντεῖ,	HLHHHLHH	LLHHHLHH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	βλαστάνω	VERB
+πά^λιν	τοῦ δὲ χειμῶνος πά^λιν τὰ_ς ἀσπί^δας φυλλορροεῖ.	HLHHHLHHHLHHHLH	HLHHHLLHLLLHHLH		πάλιν	ADV
+ἀσπί^δας	τοῦ δὲ χειμῶνος πά^λιν τὰ_ς ἀσπί^δας φυλλορροεῖ.	HLHHHLHHHLHHHLH	HLHHHLLHLLLHHLH	Case=Acc|Gender=Fem|Number=Plur	ἀσπίς	NOUN
+ἀσπί^δας	τοῦ δὲ χειμῶνος πά^λιν τὰ_ς ἀσπί^δας φυλλορροεῖ.	HLHHHLHHHLHHHLH	HLHHHLLHLLLHHLH	Case=Acc|Gender=Fem|Number=Plur	ἀσπίς	NOUN
+ξυ^να_ριστῶσι^	ἔνθα^ τοῖς ἥρωσι^ν ἄνθρωποι ξυ^να_ριστῶσι^ καὶ ξύ^νεισι^ πλὴν τῆς ἑσπέρας.	HLHHHLHHHLHHHLHLHLHHHLH	HLHHHLHHHLL-HLHLHLHHHLH	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ξυναριστῶσι	ADJ
+ξυ^να_ριστῶσι^	ἔνθα^ τοῖς ἥρωσι^ν ἄνθρωποι ξυ^να_ριστῶσι^ καὶ ξύ^νεισι^ πλὴν τῆς ἑσπέρας.	HLHHHLHHHLHHHLHLHLHHHLH	HLHHHLHHHLL-HLHLHLHHHLH	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ξυναριστῶσι	ADJ
+ἦν	Τηνι^καῦτα^ δ' οὐκέτ' ἦν ἀσφα^λὲς ξυντυγχά^νειν.	HLHLHLHHLHHHLH	HLHLHLHLLHHHLH	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί	AUX
+πάντα^	γυμνὸς ἦν πληγεὶς ὑ^π' αὐτοῦ πάντα^ τἀ_πὶ^ δεξι^ά_.	HLHHHLHHHLHLHLH	HLHHHLHHLLLLH-L	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+τἀ_πὶ^	γυμνὸς ἦν πληγεὶς ὑ^π' αὐτοῦ πάντα^ τἀ_πὶ^ δεξι^ά_.	HLHHHLHHHLHLHLH	HLHHHLHHLLLLH-L		ἐπί	ADV
+δεξι^ά_.	γυμνὸς ἦν πληγεὶς ὑ^π' αὐτοῦ πάντα^ τἀ_πὶ^ δεξι^ά_.	HLHHHLHHHLHLHLH	HLHHHLHHLLLLH-L	Case=Nom|Gender=Neut|Number=Plur	δεξιός	ADJ
+δεξι^ά_.	γυμνὸς ἦν πληγεὶς ὑ^π' αὐτοῦ πάντα^ τἀ_πὶ^ δεξι^ά_.	HLHHHLHHHLHLHLH	HLHHHLHHLLLLH-L	Case=Nom|Gender=Neut|Number=Plur	δεξιός	ADJ
+Σκι^ά_ποσιν	Πρὸς δὲ τοῖς Σκι^ά_ποσιν λίμνη τι^ς ἔστ', ἄ^λουτος οὗ ψυ_χα^γωγεῖ Σωκρά^της.	HLHLHLHHHLHLHLHHLHHHLH	HLH-LLLHHLHLHLHHLHHHLH	Case=Dat|Gender=Masc|Number=Plur	Σκιάπος	NOUN
+Σκι^ά_ποσιν	Πρὸς δὲ τοῖς Σκι^ά_ποσιν λίμνη τι^ς ἔστ', ἄ^λουτος οὗ ψυ_χα^γωγεῖ Σωκρά^της.	HLHLHLHHHLHLHLHHLHHHLH	HLH-LLLHHLHLHLHHLHHHLH	Case=Dat|Gender=Masc|Number=Plur	Σκιάπος	NOUN
+Σκι^ά_ποσιν	Πρὸς δὲ τοῖς Σκι^ά_ποσιν λίμνη τι^ς ἔστ', ἄ^λουτος οὗ ψυ_χα^γωγεῖ Σωκρά^της.	HLHLHLHHHLHLHLHHLHHHLH	HLH-LLLHHLHLHLHHLHHHLH	Case=Dat|Gender=Masc|Number=Plur	Σκιάπος	NOUN
+προὔλι^πε,	Ἔνθα^ καὶ Πείσανδρος ἦλθε δεόμενος ψυ_χὴν ἰ^δεῖν ἣ ζῶντ' ἐκεῖνον προὔλι^πε,	HLHHHLHLLLLHHHLHHHLHHHLH	HLHHHLHLLLLHHHLHHHLHHH-L	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	προὔλιπε	VERB
+προὔλι^πε,	Ἔνθα^ καὶ Πείσανδρος ἦλθε δεόμενος ψυ_χὴν ἰ^δεῖν ἣ ζῶντ' ἐκεῖνον προὔλι^πε,	HLHHHLHLLLLHHHLHHHLHHHLH	HLHHHLHLLLLHHHLHHHLHHH-L	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	προὔλιπε	VERB
+θερίζουσίν	οἳ θερίζουσίν τε καὶ σπείρουσι^ καὶ τρυ_γῶσι^ ταῖς γλώτταισι^ συ_κά^ζουσί^ τε·	HLHHHLHHHLHHHLHHHLHLHLL	HLHHLLHHHLHLHLHHHLLHHLL	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	θερίζουσίν	VERB
+τρυ_γῶσι^	οἳ θερίζουσίν τε καὶ σπείρουσι^ καὶ τρυ_γῶσι^ ταῖς γλώτταισι^ συ_κά^ζουσί^ τε·	HLHHHLHHHLHHHLHHHLHLHLL	HLHHLLHHHLHLHLHHHLLHHLL	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	τρυγῶ	VERB
+συ_κά^ζουσί^	οἳ θερίζουσίν τε καὶ σπείρουσι^ καὶ τρυ_γῶσι^ ταῖς γλώτταισι^ συ_κά^ζουσί^ τε·	HLHHHLHHHLHHHLHHHLHLHLL	HLHHLLHHHLHLHLHHHLLHHLL	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	συκάζω	VERB
+συ_κά^ζουσί^	οἳ θερίζουσίν τε καὶ σπείρουσι^ καὶ τρυ_γῶσι^ ταῖς γλώτταισι^ συ_κά^ζουσί^ τε·	HLHHHLHHHLHHHLHHHLHLHLL	HLHHLLHHHLHLHLHHHLLHHLL	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	συκάζω	VERB
+βάρβα^ροι	βάρβα^ροι δ' εἰσὶν γένους, Γοργί^αι τε καὶ Φί^λιπποι. Κἀ_πὸ τῶν ἐγγλωττογαστόρων ἐκείνων τῶν Φι^λίππων	HLHHHLHHLHLHLHHHLHHHLHLHLHHHLHH	LLHHLLHHLHLHLHHLLHHHL-LHLHHH-HH	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	βάρβαρος	ADJ
+εἰσὶν	βάρβα^ροι δ' εἰσὶν γένους, Γοργί^αι τε καὶ Φί^λιπποι. Κἀ_πὸ τῶν ἐγγλωττογαστόρων ἐκείνων τῶν Φι^λίππων	HLHHHLHHLHLHLHHHLHHHLHLHLHHHLHH	LLHHLLHHLHLHLHHLLHHHL-LHLHHH-HH	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	AUX
+Φί^λιπποι.	βάρβα^ροι δ' εἰσὶν γένους, Γοργί^αι τε καὶ Φί^λιπποι. Κἀ_πὸ τῶν ἐγγλωττογαστόρων ἐκείνων τῶν Φι^λίππων	HLHHHLHHLHLHLHHHLHHHLHLHLHHHLHH	LLHHLLHHLHLHLHHLLHHHL-LHLHHH-HH	Case=Nom|Gender=Masc|Number=Plur	Φίλιππος	NOUN
+ἐγγλωττογαστόρων	βάρβα^ροι δ' εἰσὶν γένους, Γοργί^αι τε καὶ Φί^λιπποι. Κἀ_πὸ τῶν ἐγγλωττογαστόρων ἐκείνων τῶν Φι^λίππων	HLHHHLHHLHLHLHHHLHHHLHLHLHHHLHH	LLHHLLHHLHLHLHHLLHHHL-LHLHHH-HH	Case=Gen|Gender=Masc|Number=Plur	ἐγγλωττογαστόρων	NOUN
+τῶν	βάρβα^ροι δ' εἰσὶν γένους, Γοργί^αι τε καὶ Φί^λιπποι. Κἀ_πὸ τῶν ἐγγλωττογαστόρων ἐκείνων τῶν Φι^λίππων	HLHHHLHHLHLHLHHHLHHHLHLHLHHHLHH	LLHHLLHHLHLHLHHLLHHHL-LHLHHH-HH	Case=Gen|Gender=Masc|Number=Plur	ὁ	DET
+Ἀττι^κῆς	παντα^χοῦ τῆς Ἀττι^κῆς ἡ γλῶττα^ χωρὶς τέμνεται.	HLHHHLHHHLHHHLH	HLHHH-HHHLHLHLH	Case=Gen|Gender=Fem|Number=Sing	ἀττική	NOUN
+χωρὶς	παντα^χοῦ τῆς Ἀττι^κῆς ἡ γλῶττα^ χωρὶς τέμνεται.	HLHHHLHHHLHHHLH	HLHHH-HHHLHLHLH		χωρίς	ADP
+ἄρχοντα^	ἄρχοντα^ θεαὶ μέγαν	HHLLHLH	LHLLHLL	Case=Acc|Gender=Masc|Number=Sing	ἄρχων	NOUN
+μέγαν	ἄρχοντα^ θεαὶ μέγαν	HHLLHLH	LHLLHLL	Case=Acc|Gender=Masc|Number=Sing	μέγας	ADJ
+ξυ^νεκοίμι^σαν	Μοῖραι ξυ^νεκοίμι^σαν	HHLLHLH	HHLLH-L	Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	ξυνεκοίμισαν	VERB
+ξυ^νεκοίμι^σαν	Μοῖραι ξυ^νεκοίμι^σαν	HHLLHLH	HHLLH-L	Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	ξυνεκοίμισαν	VERB
+ἐν	ἐν τοιῷδ' ὑ^μεναίῳ.	LHHLLHH	HHHHLHH	Case=Nom|Gender=Neut|Number=Sing	ἐν	NUM
+ὑ^μεναίῳ.	ἐν τοιῷδ' ὑ^μεναίῳ.	LHHLLHH	HHHHLHH	Case=Dat|Gender=Masc|Number=Sing	ὑμεναίῳ	NOUN
+πα^λιντόνους,	ηὔθυ_νε πα^λιντόνους,	HHLLHLH	HHLLLLH	Case=Acc|Gender=Masc|Number=Plur	παλιντόνος	ADJ
+πολυ^πλοκωτέρας	πολυ^πλοκωτέρας γυ^ναικὸς	LLLHLHLHL	L-LHLHLHH	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	πολυπλοκωτέρας	ADJ
+γυ^ναικὸς	πολυ^πλοκωτέρας γυ^ναικὸς	LLLHLHLHL	L-LHLHLHH	Case=Gen|Gender=Fem|Number=Sing	γυνή	NOUN
+Πάντα^	Πάντα^ γὰρ λέγει δί^καια^·	HLHLHLHL	LLLLHLHL	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+γὰρ	Πάντα^ γὰρ λέγει δί^καια^·	HLHLHLHL	LLLLHLHL		γάρ	ADV
+ἀ^νηῦρεν	ποικί^λους λόγους ἀ^νηῦρεν	HLHLHLHL	HLHLHLHH	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἀνηῦρεν	VERB
+Ξενοκλέης	Ξενοκλέης ὁ Καρκί^νου, δοκεῖν ἂ^ν αὐτόν,	LLLHLHLHLHLHL	L-LHLHLHLHLHH	Case=Nom|Gender=Masc|Number=Sing	Ξενοκλῆς	NOUN
+αὐτόν,	Ξενοκλέης ὁ Καρκί^νου, δοκεῖν ἂ^ν αὐτόν,	LLLHLHLHLHLHL	L-LHLHLHLHLHH	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός	PRON
+ἄντι^κρυς	ἄντι^κρυς μηδὲν λέγειν.	HLHHHLH	HLLHHLH		ἄντικρυς	ADV
+Τουτὶ_	Τουτὶ_ μέντοι θαυμαστόν,	HHHHHHL	HLHHH-H	Case=Dat|Gender=Masc|Number=Sing	Τουτὶ	ADJ
+θαυμαστόν,	Τουτὶ_ μέντοι θαυμαστόν,	HHHHHHL	HLHHH-H	Case=Acc|Gender=Masc|Number=Sing	θαυμαστός	ADJ
+θαυμαστόν,	Τουτὶ_ μέντοι θαυμαστόν,	HHHHHHL	HLHHH-H	Case=Acc|Gender=Masc|Number=Sing	θαυμαστός	ADJ
+χἤτι^ς	χἤτι^ς ἐξέθρεψε χώρα_	HLHLHLHH	HHH-HLHH	Case=Nom|Gender=Fem|Number=Sing	χἤτις	NOUN
+ἐξέθρεψε	χἤτι^ς ἐξέθρεψε χώρα_	HLHLHLHH	HHH-HLHH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐκτρέφω	VERB
+ἄν.	οὐδὲ τολμῆσαί ποτ' ἄν.	HLHHHLH	HLHHHLL		ἄν	PART
+γὰρ	ὑ^πὸ λί^θῳ γὰρ παντί^ που χρὴ	LLLHHHLHH	LLLHLHLHH		γάρ	ADV
+τις	εἰ δέ τις προσδοκᾷ κα^κῶς ἐρεῖν	HLHHLHLHLH	HLLHLHLHLH	Case=Nom|Gender=Masc|Number=Sing	τις	PRON
+οὖσα^ν	ἐν ἱ^ερῷ γυ^ναῖκά^ μ' οὖσα^ν ἄνδρα^ς, οὐκ ὀρθῶς φρονεῖ.	LLLHLHLHLHLHHHLH	LLLHLHLHLLLHHHLH	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί	AUX
+τοξοφόρον	μέλπουσα^ καὶ τὴν τοξοφόρον	HHLHHHLLL	HHLHHHLLH	Case=Acc|Gender=Neut|Number=Sing	τοξοφόρος	ADJ
+εἰκός,	μέλψωμεν ὥσπερ εἰκός,	HHLHLHL	HHLHLHH	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἔοικα	VERB
+κλῇδας	ἣ πᾶσι^ τοῖς χοροῖσι^ συμπαίζει τε καὶ κλῇδας γά^μου φυ^λάττει.	HHLHLHLHHHLHHHLHLHH	HHLHLHLHHHLHH-LHLLH	Case=Acc|Gender=Fem|Number=Plur	κλῇς	NOUN
+φυ^λάττει.	ἣ πᾶσι^ τοῖς χοροῖσι^ συμπαίζει τε καὶ κλῇδας γά^μου φυ^λάττει.	HHLHLHLHHHLHHHLHLHH	HHLHLHLHHHLHH-LHLLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	φυλάττει	VERB
+Νύμφας	καὶ Πᾶνα^ καὶ Νύμφας φί^λας	HHLHHHLH	HHLHLHLH	Case=Gen|Gender=Fem|Number=Sing	νύμφη	NOUN
+δι^πλῆν,	δι^πλῆν, χά^ριν χορείας.	LHLHLHH	-HLLLHH	Case=Acc|Gender=Fem|Number=Sing	διπλόος	ADJ
+χά^ριν	δι^πλῆν, χά^ριν χορείας.	LHLHLHH	-HLLLHH	Case=Acc|Gender=Fem|Number=Sing	χάρις	NOUN
+εὐά_γητον	ἀρθῶμεν φα^νεραὶ δροσερὰν φύ^σι^ν εὐά_γητον	HHHLLHLLHLLHHHH	HHHLLHLLHLLHLHH	Case=Acc|Degree=Pos|Number=Sing	εὐάγητος	ADJ
+πατρὸς	πατρὸς ἀ^π' Ὠκεα^νοῦ βα^ρυ^α_χέος	HLLHLLHLLHLL	-LLHLLHLLLLH	Case=Gen|Gender=Masc|Number=Sing	πατήρ	NOUN
+βα^ρυ^α_χέος	πατρὸς ἀ^π' Ὠκεα^νοῦ βα^ρυ^α_χέος	HLLHLLHLLHLL	-LLHLLHLLLLH	Case=Gen|Gender=Masc|Number=Sing	βαρυαχής	ADJ
+βα^ρυ^α_χέος	πατρὸς ἀ^π' Ὠκεα^νοῦ βα^ρυ^α_χέος	HLLHLLHLLHLL	-LLHLLHLLLLH	Case=Gen|Gender=Masc|Number=Sing	βαρυαχής	ADJ
+ἔπι^	ὑψηλῶν ὀρέων κορυ^φὰ_ς ἔπι^ δενδροκόμους, ἵ^να^ τηλεφα^νεῖς σκοπι^ὰς ἀ^φορώμεθα^	HHHLLHLLHLLHLLHLLHLLHLLHLLHLL	HHHLLHLLHL-HLLHLHHLLHLLHLLHLL		ἐπί	ADP
+ἵ^να^	ὑψηλῶν ὀρέων κορυ^φὰ_ς ἔπι^ δενδροκόμους, ἵ^να^ τηλεφα^νεῖς σκοπι^ὰς ἀ^φορώμεθα^	HHHLLHLLHLLHLLHLLHLLHLLHLLHLL	HHHLLHLLHL-HLLHLHHLLHLLHLLHLL		ἵνα	SCONJ
+βα^ρύβρομον·	καὶ πόντον κελά^δοντα^ βα^ρύβρομον·	HHHLLHLLHLL	HHHLLHLL-LH	Case=Acc|Gender=Fem|Number=Sing	βαρύβρομον·	ADJ
+βα^ρύβρομον·	καὶ πόντον κελά^δοντα^ βα^ρύβρομον·	HHHLLHLLHLL	HHHLLHLL-LH	Case=Acc|Gender=Fem|Number=Sing	βαρύβρομον·	ADJ
+ἀ_κά^μα^τον	ὄμμα^ γὰ^ρ αἰθέρος ἀ_κά^μα^τον σελα^γεῖται	HLLHLLHLLHLLHH	HLLHLLLLLHLLHH	Case=Acc|Gender=Neut|Number=Sing	ἀκάματος	ADJ
+ὄμβρι^ον	ἀλλ' ἀ^ποσεισά^μεναι νέφος ὄμβρι^ον	HLLHLLHLLHLL	HLLHLLHLLH-H	Case=Acc|Gender=Neut|Number=Sing	ὄμβριος	NOUN
+ὄμβρι^ον	ἀλλ' ἀ^ποσεισά^μεναι νέφος ὄμβρι^ον	HLLHLLHLLHLL	HLLHLLHLLH-H	Case=Acc|Gender=Neut|Number=Sing	ὄμβριος	NOUN
+τηλεσκόπῳ	τηλεσκόπῳ ὄμμα^τι^ γαῖαν.	HHLLHLLHH	HHLHHLLHL	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	τηλεσκόπῳ	ADJ
+γαῖαν.	τηλεσκόπῳ ὄμμα^τι^ γαῖαν.	HHLLHLLHH	HHLHHLLHL	Case=Acc|Gender=Fem|Number=Sing	γαῖα	NOUN
+παρθένοι	παρθένοι ὀμβροφόροι,	HLLHLLH	HLHHLLH	Case=Nom|Gender=Fem|Number=Plur	παρθένος	NOUN
+Κέκροπος	Κέκροπος ὀψόμεναι πολυ^ήρα^τον·	HLLHLLHLLHLL	-LLHLLHLLHLH	Case=Gen|Gender=Masc|Number=Sing	κέκροψ	NOUN
+πολυ^ήρα^τον·	Κέκροπος ὀψόμεναι πολυ^ήρα^τον·	HLLHLLHLLHLL	-LLHLLHLLHLH	Case=Acc|Gender=Fem|Number=Sing	πολυήρατον·	ADJ
+σέβα^ς	οὗ σέβα^ς ἀρρήτων ἱ^ερῶν, ἵ^να^ μυστοδόκος δόμος ἐν τελεταῖς ἁ^γί^αις ἀ^να^δείκνυ^ται·	HLLHHHLLHLLHLLHLLHLLHLLHLLHLL	HLHHHHLLHLH-LLHLLHLLHLLHLLHLH	Case=Acc|Gender=Neut|Number=Sing	σέβας	NOUN
+ἵ^να^	οὗ σέβα^ς ἀρρήτων ἱ^ερῶν, ἵ^να^ μυστοδόκος δόμος ἐν τελεταῖς ἁ^γί^αις ἀ^να^δείκνυ^ται·	HLLHHHLLHLLHLLHLLHLLHLLHLLHLL	HLHHHHLLHLH-LLHLLHLLHLLHLLHLH		ἵνα	SCONJ
+μυστοδόκος	οὗ σέβα^ς ἀρρήτων ἱ^ερῶν, ἵ^να^ μυστοδόκος δόμος ἐν τελεταῖς ἁ^γί^αις ἀ^να^δείκνυ^ται·	HLLHHHLLHLLHLLHLLHLLHLLHLLHLL	HLHHHHLLHLH-LLHLLHLLHLLHLLHLH	Case=Nom|Gender=Masc|Number=Sing	μυστοδόκος	NOUN
+ἀ^να^δείκνυ^ται·	οὗ σέβα^ς ἀρρήτων ἱ^ερῶν, ἵ^να^ μυστοδόκος δόμος ἐν τελεταῖς ἁ^γί^αις ἀ^να^δείκνυ^ται·	HLLHHHLLHLLHLLHLLHLLHLLHLLHLL	HLHHHHLLHLH-LLHLLHLLHLLHLLHLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀναδείκνυται·	VERB
+ὑψερεφεῖς	να_οί θ' ὑψερεφεῖς καὶ ἀ^γάλμα^τα^,	HHHLLHLLHLL	HHHLLHHLLLL	Case=Nom|Gender=Masc|Number=Plur	ὑψερεφής	ADJ
+ἀ^γάλμα^τα^,	να_οί θ' ὑψερεφεῖς καὶ ἀ^γάλμα^τα^,	HHHLLHLLHLL	HHHLLHHLLLL	Case=Nom|Gender=Neut|Number=Plur	ἄγαλμα	NOUN
+ἱ^ερώτα^ται	καὶ πρόσοδοι μα^κά^ρων ἱ^ερώτα^ται	HLLHLLHLLHLL	HLLHLLHLLHLH	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	ἱερώταται	ADJ
+τύ^ραννον	Ζῆνα^ τύ^ραννον εἰς χορὸν	HLLHLHLH	HLLLLHLH	Case=Acc|Gender=Masc|Number=Sing	τύραννος	NOUN
+μέγαν	πρῶτα^ μέγαν κι^κλήσκω·	HLLHLHH	HLLL-HH	Case=Acc|Gender=Masc|Number=Sing	μέγας	ADJ
+κι^κλήσκω·	πρῶτα^ μέγαν κι^κλήσκω·	HLLHLHH	HLLL-HH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	κικλήσκω·	VERB
+μεγασθενῆ	τόν τε μεγασθενῆ τρι^αίνης τα^μί^αν, γῆς τε καὶ ἁλμυ^ρᾶς θα^λάσσης ἄ^γρι^ον μοχλευτήν·	HLLHLHLHHLLHHLLHLHLHHLLHLHH	HLL-LH-HHLLHHLHHLHL-H-LH-HH	Case=Dat|Gender=Masc|Number=Sing	μεγασθενῆς	PROPN
+τρι^αίνης	τόν τε μεγασθενῆ τρι^αίνης τα^μί^αν, γῆς τε καὶ ἁλμυ^ρᾶς θα^λάσσης ἄ^γρι^ον μοχλευτήν·	HLLHLHLHHLLHHLLHLHLHHLLHLHH	HLL-LH-HHLLHHLHHLHL-H-LH-HH	Case=Gen|Gender=Fem|Number=Sing	τριαῖνα	NOUN
+καὶ	τόν τε μεγασθενῆ τρι^αίνης τα^μί^αν, γῆς τε καὶ ἁλμυ^ρᾶς θα^λάσσης ἄ^γρι^ον μοχλευτήν·	HLLHLHLHHLLHHLLHLHLHHLLHLHH	HLL-LH-HHLLHHLHHLHL-H-LH-HH		καί	CCONJ
+θα^λάσσης	τόν τε μεγασθενῆ τρι^αίνης τα^μί^αν, γῆς τε καὶ ἁλμυ^ρᾶς θα^λάσσης ἄ^γρι^ον μοχλευτήν·	HLLHLHLHHLLHHLLHLHLHHLLHLHH	HLL-LH-HHLLHHLHHLHL-H-LH-HH	Case=Gen|Gender=Fem|Number=Sing	θάλασσα	NOUN
+ἄ^γρι^ον	τόν τε μεγασθενῆ τρι^αίνης τα^μί^αν, γῆς τε καὶ ἁλμυ^ρᾶς θα^λάσσης ἄ^γρι^ον μοχλευτήν·	HLLHLHLHHLLHHLLHLHLHHLLHLHH	HLL-LH-HHLLHHLHHLHL-H-LH-HH	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	ἄγριος	ADJ
+μοχλευτήν·	τόν τε μεγασθενῆ τρι^αίνης τα^μί^αν, γῆς τε καὶ ἁλμυ^ρᾶς θα^λάσσης ἄ^γρι^ον μοχλευτήν·	HLLHLHLHHLLHHLLHLHLHHLLHLHH	HLL-LH-HHLLHHLHHLHL-H-LH-HH	Case=Acc|Gender=Masc|Number=Sing	μοχλευτήν·	NOUN
+ὑ^περλάμπροις	τόν θ' ἱππονώμα_ν, ὃς ὑ^περλάμπροις ἀκτῖσιν κα^τέχει	HHLHHLLHHHHHHLLH	HHLHHLLHLHHHLLLH	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ὑπερλάμπροις	ADJ
+ἀκτῖσιν	τόν θ' ἱππονώμα_ν, ὃς ὑ^περλάμπροις ἀκτῖσιν κα^τέχει	HHLHHLLHHHHHHLLH	HHLHHLLHLHHHLLLH	Case=Dat|Gender=Fem|Number=Plur	ἀκτῖς	NOUN
+μοι	ἀμφί^ μοι αὖτε Φοῖβ' ἄ^ναξ	HLLHLHLH	HLHHLHL-	Case=Dat|Gender=Masc|Number=Sing	ἐγώ	PRON
+ἄ^ναξ	ἀμφί^ μοι αὖτε Φοῖβ' ἄ^ναξ	HLLHLHLH	HLHHLHL-	Case=Voc|Gender=Masc|Number=Sing	ἄναξ	NOUN
+ὑψι^κέρα_τα^	ὑψι^κέρα_τα^ πέτραν·	HLLHLHH	LLLLL-H	Case=Acc|Gender=Neut|Number=Plur	ὑψικέρατος	ADJ
+ὑψι^κέρα_τα^	ὑψι^κέρα_τα^ πέτραν·	HLLHLHH	LLLLL-H	Case=Acc|Gender=Neut|Number=Plur	ὑψικέρατος	ADJ
+πέτραν·	ὑψι^κέρα_τα^ πέτραν·	HLLHLHH	LLLLL-H	Case=Acc|Gender=Fem|Number=Sing	πέτραν·	NOUN
+πολι^οῦχος	ἥ τ' ἐπι^χώρι^ος ἡμετέρα_ θεὸς αἰγί^δος ἡνί^οχος, πολι^οῦχος Ἀ^θά_να_·	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL	Case=Nom|Gender=Masc|Number=Sing	πολιοῦχος	NOUN
+πολι^οῦχος	ἥ τ' ἐπι^χώρι^ος ἡμετέρα_ θεὸς αἰγί^δος ἡνί^οχος, πολι^οῦχος Ἀ^θά_να_·	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL	Case=Nom|Gender=Masc|Number=Sing	πολιοῦχος	NOUN
+Ἀ^θά_να_·	ἥ τ' ἐπι^χώρι^ος ἡμετέρα_ θεὸς αἰγί^δος ἡνί^οχος, πολι^οῦχος Ἀ^θά_να_·	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL		Ἀθάνα·	PUNCT
+Ἀ^θά_να_·	ἥ τ' ἐπι^χώρι^ος ἡμετέρα_ θεὸς αἰγί^δος ἡνί^οχος, πολι^οῦχος Ἀ^θά_να_·	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL		Ἀθάνα·	PUNCT
+Παρνασσί^αν	Παρνασσί^αν θ' ὃς κα^τέχων πέτραν σὺν πεύκαις σελα^γεῖ	HHLHHLLHLHHHHLLH	H-LHHLLH-HLHHLLH	Case=Acc|Gender=Fem|Number=Sing	Παρνασσία	NOUN
+κα^τέχων	Παρνασσί^αν θ' ὃς κα^τέχων πέτραν σὺν πεύκαις σελα^γεῖ	HHLHHLLHLHHHHLLH	H-LHHLLH-HLHHLLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κατέχω	VERB
+πέτραν	Παρνασσί^αν θ' ὃς κα^τέχων πέτραν σὺν πεύκαις σελα^γεῖ	HHLHHLLHLHHHHLLH	H-LHHLLH-HLHHLLH	Case=Acc|Gender=Fem|Number=Sing	πέτρα	NOUN
+κωμαστὴς	κωμαστὴς Δι^όνυ_σος.	HHHLLHH	H-H-LLH	Case=Gen|Gender=Fem|Number=Sing	κωμαστής	NOUN
+Δι^όνυ_σος.	κωμαστὴς Δι^όνυ_σος.	HHHLLHH	H-H-LLH	Case=Nom|Gender=Masc|Number=Sing	Διόνυσος	NOUN
+Δι^όνυ_σος.	κωμαστὴς Δι^όνυ_σος.	HHHLLHH	H-H-LLH	Case=Nom|Gender=Masc|Number=Sing	Διόνυσος	NOUN
+δι^ά^θρει	φρόντιζε δὴ καὶ δι^ά^θρει πάντα^ τρόπον τε σαυτὸν	HHLHHLLHHLLHLHH	HHLHH-LHLLLHLHH	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	διάθρημι	VERB
+πάντα^	φρόντιζε δὴ καὶ δι^ά^θρει πάντα^ τρόπον τε σαυτὸν	HHLHHLLHHLLHLHH	HHLHH-LHLLLHLHH	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+πυ^κνώσας.	στρόβει πυ^κνώσας. τα^χὺς δ', ὅτα^ν εἰς ἄ^πορον πέσῃς, ἐπ' ἄλλο πήδα_	LHLHHLHLLHLLHLHLHLHH	LH-HHLLLLHLLHLHLHLHH	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	πυκνόω	VERB
+τα^χὺς	στρόβει πυ^κνώσας. τα^χὺς δ', ὅτα^ν εἰς ἄ^πορον πέσῃς, ἐπ' ἄλλο πήδα_	LHLHHLHLLHLLHLHLHLHH	LH-HHLLLLHLLHLHLHLHH	Case=Nom|Gender=Masc|Number=Sing	ταχύς	ADJ
+ἅ^παντα^	μόνας θεῶν; ὡς ἕτοιμος ὅδ' ἐστὶ^ν ἅ^παντα^ δρᾶν ὅσ' ἂν κελεύῃς.	LHLHHLHLLHLLHLHLHLHH	LHLHHLHLLHLLLLHLHLHH	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἅπας	ADJ
+περι^δεξί^οισιν	τοῖς περι^δεξί^οισιν	HLLHLHH	HLLHLHL	Case=Dat|Gender=Masc|Number=Plur	περιδεξῖος	ADJ
+τὸ	οἷον τὸ πραγμά^των ἐρᾶν φλαύρων· ὁ γὰρ γέρων ὅδ' ἐρασθεὶς	HHLHLHLHHHLHLHLLHH	HH-HLHLHHHLLLHLL-H	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	DET
+γὰρ	οἷον τὸ πραγμά^των ἐρᾶν φλαύρων· ὁ γὰρ γέρων ὅδ' ἐρασθεὶς	HHLHLHLHHHLHLHLLHH	HH-HLHLHHHLLLHLL-H		γάρ	ADV
+ἐρασθεὶς	οἷον τὸ πραγμά^των ἐρᾶν φλαύρων· ὁ γὰρ γέρων ὅδ' ἐρασθεὶς	HHLHLHLHHHLHLHLLHH	HH-HLHLHHHLLLHLL-H	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἔραμαι	VERB
+χρήμα^θ'	τὰ^ χρήμα^θ' ἁ_δα^νείσα^το.	LHLHLHLL	LHHHLHLL	Case=Acc|Gender=Neut|Number=Plur	χρήμαθ	NOUN
+ἐναντί^ας	γνώμα_ς ἐναντί^ας λέγειν	HHLHLHLH	HHLLLHLH	Case=Acc|Gender=Fem|Number=Plur	ἐναντίος	ADJ
+τοῖσιν	τοῖσιν δι^καίοις, ὥστε νι_κᾶν ἅ^παντα^ς, οἵσπερ ἂν	HHLHHHLHHLHLHLH	HLLHHHLHHLLLHLL	Case=Dat|Gender=Masc|Number=Plur	ὁ	DET
+ἅ^παντα^ς,	τοῖσιν δι^καίοις, ὥστε νι_κᾶν ἅ^παντα^ς, οἵσπερ ἂν	HHLHHHLHHLHLHLH	HLLHHHLHHLLLHLL	Case=Acc|Gender=Masc|Number=Plur	ἅπας	ADJ
+ἂν	τοῖσιν δι^καίοις, ὥστε νι_κᾶν ἅ^παντα^ς, οἵσπερ ἂν	HHLHHHLHHLHLHLH	HLLHHHLHHLLLHLL		ἄν	PART
+ἀ^κόλαστος.	οὕτως ἀ^κόλαστος.	HHLLHL	HHLLLH	Case=Nom|Gender=Masc|Number=Sing	ἀκόλαστος	ADJ
+ἀ^κόλαστος.	οὕτως ἀ^κόλαστος.	HHLLHL	HHLLLH	Case=Nom|Gender=Masc|Number=Sing	ἀκόλαστος	ADJ
+καρδί^ας	οἶμαί γε τῶν νεωτέρων τὰς καρδί^ας	HHLHLHLHHHLH	HHLHLHLHHLLH	Case=Gen|Gender=Fem|Number=Sing	καρδία	NOUN
+γὰρ	εἰ γὰρ τοιαῦτά^ γ' οὗτος ἐξειργασμένος	HHLHLHLHHHLH	HLHHLHLHH-LH		γάρ	ADV
+τοιαῦτά^	εἰ γὰρ τοιαῦτά^ γ' οὗτος ἐξειργασμένος	HHLHLHLHHHLH	HLHHLHLHH-LH	Case=Acc|Gender=Neut|Number=Plur	τοιοῦτος	ADJ
+ἐξειργασμένος	εἰ γὰρ τοιαῦτά^ γ' οὗτος ἐξειργασμένος	HHLHLHLHHHLH	HLHHLHLHH-LH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἐξειργασμένος	VERB
+ὡδὶ_	μι_μούμενος καὶ τοῖν ποδοῖν ὡδὶ_ πα^ρενσα^λεύων	HHLHHHLHHHLHLHH	HHLHHHLHHLLHLHH	Case=Voc|Gender=Fem|Number=Sing	ὡδὶ	NOUN
+ζητήσομεν—θρεττα^νελο—τὸν	Ἡμεῖς δέ γ' αὖ ζητήσομεν—θρεττα^νελο—τὸν Κύ^κλωπα^	HHLHHHLHHLLLHLHL	HHLHHHLHLLLLH-HL	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	ζητέω	VERB
+ζητήσομεν—θρεττα^νελο—τὸν	Ἡμεῖς δέ γ' αὖ ζητήσομεν—θρεττα^νελο—τὸν Κύ^κλωπα^	HHLHHHLHHLLLHLHL	HHLHHHLHLLLLH-HL	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	ζητέω	VERB
+τουτονὶ_	βληχώμενοι σὲ τουτονὶ_ πεινῶντα^ κα^τα^λα^βόντες,	HHLHLHLHHHLLLLHH	HHLHLHLLHHLLLLHH	Case=Dat|Gender=Masc|Number=Sing	τουτονὶ	ADJ
+μέγαν	μέγαν λα^βόντες ἡμμένον σφηκίσκον ἐκτυ^φλῶσαι.	LHLHLHLHHHLHLHH	LLLHLHLHH-LH-HH	Case=Acc|Gender=Masc|Number=Sing	μέγας	ADJ
+σφηκίσκον	μέγαν λα^βόντες ἡμμένον σφηκίσκον ἐκτυ^φλῶσαι.	LHLHLHLHHHLHLHH	LLLHLHLHH-LH-HH	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	σφηκίσκον	VERB
+ἐκτυ^φλῶσαι.	μέγαν λα^βόντες ἡμμένον σφηκίσκον ἐκτυ^φλῶσαι.	LHLHLHLHHHLHLHH	LLLHLHLHH-LH-HH	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἐκτυφλάω	VERB
+ὄντας	ἔπεισεν ὡς ὄντας κά^πρους	LHLHHHLH	LHLHHL-H	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί	AUX
+κά^πρους	ἔπεισεν ὡς ὄντας κά^πρους	LHLHHHLH	LHLHHL-H	Case=Acc|Gender=Masc|Number=Plur	κάπρος	NOUN
+πάντας	μι_μήσομαι πάντας τρόπους·	HHLHHHLH	HHLHLLLH	Case=Acc|Gender=Masc|Number=Plur	πᾶς	ADJ
+πάντας	μι_μήσομαι πάντας τρόπους·	HHLHHHLH	HHLHLLLH	Case=Acc|Gender=Masc|Number=Plur	πᾶς	ADJ
+δὲ	ὑ_μεῖς δὲ γρυ_λίζοντες ὑ^πὸ φι^ληδί^ας	HHLHHHLLLLHLH	HH-LHHLLL-HLH		δέ	ADV
+γρυ_λίζοντες	ὑ_μεῖς δὲ γρυ_λίζοντες ὑ^πὸ φι^ληδί^ας	HHLHHHLLLLHLH	HH-LHHLLL-HLH	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	γρυλίζω	VERB
+φι^ληδί^ας	ὑ_μεῖς δὲ γρυ_λίζοντες ὑ^πὸ φι^ληδί^ας	HHLHHHLLLLHLH	HH-LHHLLL-HLH	Case=Gen|Gender=Fem|Number=Sing	φιληδία	NOUN
+μαγγα^νεύουσαν	καὶ μαγγα^νεύουσαν μολύ_νουσάν τε τοὺς ἑταίρους	HHLHHHLHHHLHLHH	HHLHHLLLHLLHLHH	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	μαγγανεύω	VERB
+μολύ_νουσάν	καὶ μαγγα^νεύουσαν μολύ_νουσάν τε τοὺς ἑταίρους	HHLHHHLHHHLHLHH	HHLHHLLLHLLHLHH	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	μολύνουσάν	VERB
+μολύ_νουσάν	καὶ μαγγα^νεύουσαν μολύ_νουσάν τε τοὺς ἑταίρους	HHLHHHLHHHLHLHH	HHLHHLLLHLLHLHH	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	μολύνουσάν	VERB
+Ἀ^ρίστυλλος	τὴν ῥῖνα^· σὺ^ δ' Ἀ^ρίστυλλος ὑ^ποχάσκων ἐρεῖς·	HHLLLHHLLLHHLH	HHLLL-HLLLLHLH	Case=Nom|Gender=Masc|Number=Sing	Ἀρίστυλλος	NOUN
+ὑ^ποχάσκων	τὴν ῥῖνα^· σὺ^ δ' Ἀ^ρίστυλλος ὑ^ποχάσκων ἐρεῖς·	HHLLLHHLLLHHLH	HHLLL-HLLLLHLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ὑποχάσκω	VERB
+δάκτυ^λόν	τῷ σκότῳ τὸν δάκτυ^λόν που,	HLHHHLHH	HLHHLLHH	Case=Acc|Gender=Masc|Number=Sing	δάκτυλος	NOUN
+τις,	καὶ μόνος οὐκ ἀ^νεπείθετ', ἀλλ' ὁπότ' ἀντι^βολοίη τις, κά^τω κύπτων ἂ^ν οὕτω	HLLHLLHLHLLHLLHHHLHHHLHH	HLLHLLHLHLLHLLHHLLHHHLHH	Case=Nom|Gender=Masc|Number=Sing	τις	PRON
+τὸνχθιζι^νὸν	τά^χα^ δ' ἂν δι^ὰ^ τὸνχθιζι^νὸν ἄνθρωπον, ὃς ἡμᾶς δι^έδυ_ πως	LLHLLHHLLHHLLHHLLHH	LLLLLHH-LHHLLHH-LHH	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	τὸνχθιζινὸς	ADJ
+ἡμᾶς	τά^χα^ δ' ἂν δι^ὰ^ τὸνχθιζι^νὸν ἄνθρωπον, ὃς ἡμᾶς δι^έδυ_ πως	LLHLLHHLLHHLLHHLLHH	LLLLLHH-LHHLLHH-LHH	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς	PRON
+ἴ^σως	εἶτ' ἴ^σως κεῖται πυ^ρέττων.	HLHHHLHH	HHHHHLHH		ἴσως	ADV
+γὰρ	ἔστι^ γὰρ τοιοῦτος ἁ_νήρ.	HLHHHLHH	HLLHHLLH		γάρ	ADV
+ἁ_νήρ.	ἔστι^ γὰρ τοιοῦτος ἁ_νήρ.	HLHHHLHH	HLLHHLLH	Case=Nom|Gender=Masc|Number=Sing	ὁ	NOUN
+ἀ^νίστα^σο,	ἀλλ', ὦ 'γά^θ', ἀ^νίστα^σο, μηδ' οὕτω σεαυτὸν	HHLLHLLHHHLHL	HHLLLLLHHHLHH	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀνίστημι	VERB
+σεαυτὸν	ἀλλ', ὦ 'γά^θ', ἀ^νίστα^σο, μηδ' οὕτω σεαυτὸν	HHLLHLLHHHLHL	HHLLLLLHHHLHH	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	σεαυτοῦ	PRON
+ἀ^γα^νάκτει.	ἔσθι^ε, μηδ' ἀ^γα^νάκτει. καὶ γὰ^ρ ἀ^νὴρ πα^χὺ^ς ἥκει τῶν προδόντων τἀ_πὶ^ Θρᾴκης·	HLLHLLHHHLLHLLHHHLHHHLHH	HLLHLLLHHLLHLLHHHLHHL-HH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀγανάκτω	VERB
+τἀ_πὶ^	ἔσθι^ε, μηδ' ἀ^γα^νάκτει. καὶ γὰ^ρ ἀ^νὴρ πα^χὺ^ς ἥκει τῶν προδόντων τἀ_πὶ^ Θρᾴκης·	HLLHLLHHHLLHLLHHHLHHHLHH	HLLHLLLHHLLHLLHHHLHHL-HH		ἐπί	ADV
+τἀ_πὶ^	ἔσθι^ε, μηδ' ἀ^γα^νάκτει. καὶ γὰ^ρ ἀ^νὴρ πα^χὺ^ς ἥκει τῶν προδόντων τἀ_πὶ^ Θρᾴκης·	HLLHLLHHHLLHLLHHHLHHHLHH	HLLHLLLHHLLHLLHHHLHHL-HH		ἐπί	ADV
+μοι	ἐθελήσεις τί^ μοι οὖν, ὦ πά^τερ, ἤν σού τι^ δεηθῶ;	LLHHLLHHLLHHLLHH	LLHHLHHHLLHHLLHH	Case=Dat|Gender=Masc|Number=Sing	ἐγώ	PRON
+βούλει	πά^νυ^ γ', ὦ παιδί^ον. ἀλλ' εἰπέ, τί^ βούλει με πρί^ασθαι κα^λόν; οἶμαι δέ σ' ἐρεῖν ἀστρα^γά^λους δήπουθεν, ὦ παῖ.	LLHHLLHHLLHHLLHHLLHHLLHHLLHHHLHH	LLHHLLHHLLHH-LLHLLHHLLHLLLHHHLHH	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	βούλομαι	VERB
+πρί^ασθαι	πά^νυ^ γ', ὦ παιδί^ον. ἀλλ' εἰπέ, τί^ βούλει με πρί^ασθαι κα^λόν; οἶμαι δέ σ' ἐρεῖν ἀστρα^γά^λους δήπουθεν, ὦ παῖ.	LLHHLLHHLLHHLLHHLLHHLLHHLLHHHLHH	LLHHLLHHLLHH-LLHLLHHLLHLLLHHHLHH	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	πρίαμαι	VERB
+ἐρεῖν	πά^νυ^ γ', ὦ παιδί^ον. ἀλλ' εἰπέ, τί^ βούλει με πρί^ασθαι κα^λόν; οἶμαι δέ σ' ἐρεῖν ἀστρα^γά^λους δήπουθεν, ὦ παῖ.	LLHHLLHHLLHHLLHHLLHHLLHHLLHHHLHH	LLHHLLHHLLHH-LLHLLHHLLHLLLHHHLHH	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἐρεῖν	VERB
+ἰσχά^δα^ς,	μὰ^ Δί^', ἀλλ' ἰσχά^δα^ς, ὦ πα_πί^α^· ἥδι^ον γά^ρ— οὐκ ἂν μὰ^ Δί^', εἰ κρέμαισθέ γ' ὑ_μεῖς.	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH	Case=Acc|Gender=Masc|Number=Plur	ἰσχάδες	NOUN
+πα_πί^α^·	μὰ^ Δί^', ἀλλ' ἰσχά^δα^ς, ὦ πα_πί^α^· ἥδι^ον γά^ρ— οὐκ ἂν μὰ^ Δί^', εἰ κρέμαισθέ γ' ὑ_μεῖς.	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH	Case=Nom|Gender=Fem|Number=Sing	παπία·	NOUN
+πα_πί^α^·	μὰ^ Δί^', ἀλλ' ἰσχά^δα^ς, ὦ πα_πί^α^· ἥδι^ον γά^ρ— οὐκ ἂν μὰ^ Δί^', εἰ κρέμαισθέ γ' ὑ_μεῖς.	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH	Case=Nom|Gender=Fem|Number=Sing	παπία·	NOUN
+ἥδι^ον	μὰ^ Δί^', ἀλλ' ἰσχά^δα^ς, ὦ πα_πί^α^· ἥδι^ον γά^ρ— οὐκ ἂν μὰ^ Δί^', εἰ κρέμαισθέ γ' ὑ_μεῖς.	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH	Case=Acc|Degree=Pos|Number=Sing	ἥδιος	ADJ
+ἂν	μὰ^ Δί^', ἀλλ' ἰσχά^δα^ς, ὦ πα_πί^α^· ἥδι^ον γά^ρ— οὐκ ἂν μὰ^ Δί^', εἰ κρέμαισθέ γ' ὑ_μεῖς.	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH		ἄν	PART
+τἄ_ρα^	μὰ^ Δί^' οὔ τἄ_ρα^ προπέμψω σε τὸ λοιπόν.	LLHHLLHHLLHH	LLHLLLHHLLHH		ἄρα	INTJ
+γὰρ	ἀ^πὸ γὰρ τοῦδέ με τοῦ μισθα^ρί^ου	LLHHLLHHLLH	LLLHLLH-LLH		γάρ	ADV
+μισθα^ρί^ου	ἀ^πὸ γὰρ τοῦδέ με τοῦ μισθα^ρί^ου	LLHHLLHHLLH	LLLHLLH-LLH	Case=Gen|Gender=Neut|Number=Sing	μισθάριον	NOUN
+νυ_ν,	ἄ^γε νυ_ν, ὦ πά^τερ, ἢν μὴ τὸ δι^καστήρι^ον ἅρχων	LLHHLLHHLLHHLLHH	LLLHLLHHLL-H-LHH		νυν	ADV
+δι^καστήρι^ον	ἄ^γε νυ_ν, ὦ πά^τερ, ἢν μὴ τὸ δι^καστήρι^ον ἅρχων	LLHHLLHHLLHHLLHH	LLLHLLHHLL-H-LHH	Case=Nom|Gender=Neut|Number=Sing	δικαστήριον	NOUN
+δι^καστήρι^ον	ἄ^γε νυ_ν, ὦ πά^τερ, ἢν μὴ τὸ δι^καστήρι^ον ἅρχων	LLHHLLHHLLHHLLHH	LLLHLLHHLL-H-LHH	Case=Nom|Gender=Neut|Number=Sing	δικαστήριον	NOUN
+ἄ_ριστον;	κα^θί^σῃ νῦν, πόθεν ὠνησόμεθ' ἄ_ριστον; ἔχεις ἐλπί^δα^ χρηστήν τι^να^ νῷν ἢ πόρον Ἕλλας ἱερόν;	LLHHLLHHLLHHLLHHLLHHLLHH	LLHHLLHHLLL-LLHHLLHHLLHHLLHHLLH	Case=Acc|Gender=Neut|Number=Sing	ἄριστον;	NOUN
+ἄ_ριστον;	κα^θί^σῃ νῦν, πόθεν ὠνησόμεθ' ἄ_ριστον; ἔχεις ἐλπί^δα^ χρηστήν τι^να^ νῷν ἢ πόρον Ἕλλας ἱερόν;	LLHHLLHHLLHHLLHHLLHHLLHH	LLHHLLHHLLL-LLHHLLHHLLHHLLHHLLH	Case=Acc|Gender=Neut|Number=Sing	ἄριστον;	NOUN
+θυ_λά^κι^ον,	ἀ^νόνητον ἄ^ρ', ὦ θυ_λά^κι^ον, σ' εἶχον ἄ^γαλμα^.	LLHLLHHLLHHLLHL	LLHLLHHL-HHLLLL	Case=Acc|Gender=Neut|Number=Sing	θυλάκιον	NOUN
+ἄ^γαλμα^.	ἀ^νόνητον ἄ^ρ', ὦ θυ_λά^κι^ον, σ' εἶχον ἄ^γαλμα^.	LLHLLHHLLHHLLHL	LLHLLHHL-HHLLLL	Case=Nom|Gender=Neut|Number=Sing	ἄγαλμα	NOUN
+τίς	τίς γά^ρ ἐσθ' ὁ ταῦτά^ σ' εἵργων	HLHLHLHH	LLHLHLHH	Case=Nom|Gender=Masc|Number=Sing	τις	PRON
+κἀ_ποκλείων	κἀ_ποκλείων τῇ θύ^ρᾳ; λέξον· πρὸς εὔνους γὰρ φρά^σεις.	HLHHHLHHHLHHHLH	L-HHHLHHHLHHLLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κἀποκλείοι	VERB
+κἀ_ποκλείων	κἀ_ποκλείων τῇ θύ^ρᾳ; λέξον· πρὸς εὔνους γὰρ φρά^σεις.	HLHHHLHHHLHHHLH	L-HHHLHHHLHHLLH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κἀποκλείοι	VERB
+γὰρ	κἀ_ποκλείων τῇ θύ^ρᾳ; λέξον· πρὸς εὔνους γὰρ φρά^σεις.	HLHHHLHHHLHHHLH	L-HHHLHHHLHHLLH		γάρ	ADV
+γὰρ	οὑμὸς υἱός. ἀλλὰ^ μὴ βοᾶτε· καὶ γὰρ τυγχά^νει	HLHLHLHLHLHHHLH	HLHLHLHLHLHLHLH		γάρ	ADV
+οὑτοσὶ_	οὑτοσὶ_ πρόσθεν κα^θεύδων. ἀλλ' ὕ^φεσθε τοῦ τόνου.	HLHHHLHHHLHLHLH	HLLHHLHHHLHLHLH	Case=Dat|Gender=Masc|Number=Plur	οὑτοσὶ	ADJ
+δι^κάζειν	οὐκ ἐᾷ μ', ὦ 'νδρες, δι^κάζειν οὐδὲ δρᾶν οὐδὲν κα^κόν·	HLHHHLHHHLHHHLH	HLHHHLLHH-HHHLH	Tense=Pres|VerbForm=Inf|Voice=Act	δικάζω	VERB
+οὐδὲ	οὐκ ἐᾷ μ', ὦ 'νδρες, δι^κάζειν οὐδὲ δρᾶν οὐδὲν κα^κόν·	HLHHHLHHHLHHHLH	HLHHHLLHH-HHHLH	Polarity=Neg	οὐδέ	ADV
+Δημολογοκλέων	τοῦτ' ἐτόλμησ' ὁ μι^α^ρὸς χα^νεῖν, ὁ Δημολογοκλέων ὅδ', ὅτι^ λέγεις σύ^ τι^ περὶ^ τῶν νεῶν ἀ^ληθές; οὐ γὰ^ρ ἄν ποθ' οὗτος ἁ_νὴρ τοῦτ' ἐτόλμησεν λέγειν, εἰ μὴ ξυ^νωμότης τι^ς ἦν.	HLHHLLLHLHLHLLLLHLLLLHLLLLHLHLHLHLHLHLHHHLHHHLHHHLHLHLH	HLHHLLLHLHLHLL-LHLLLLHLLLLHLHLHLHLLLHLLHHLHHHLHHHLHLHLH	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	Δημολογοκλέες	ADJ
+ἄν	τοῦτ' ἐτόλμησ' ὁ μι^α^ρὸς χα^νεῖν, ὁ Δημολογοκλέων ὅδ', ὅτι^ λέγεις σύ^ τι^ περὶ^ τῶν νεῶν ἀ^ληθές; οὐ γὰ^ρ ἄν ποθ' οὗτος ἁ_νὴρ τοῦτ' ἐτόλμησεν λέγειν, εἰ μὴ ξυ^νωμότης τι^ς ἦν.	HLHHLLLHLHLHLLLLHLLLLHLLLLHLHLHLHLHLHLHHHLHHHLHHHLHLHLH	HLHHLLLHLHLHLL-LHLLLLHLLLLHLHLHLHLLLHLLHHLHHHLHHHLHLHLH		ἄν	PART
+ἁ_νὴρ	τοῦτ' ἐτόλμησ' ὁ μι^α^ρὸς χα^νεῖν, ὁ Δημολογοκλέων ὅδ', ὅτι^ λέγεις σύ^ τι^ περὶ^ τῶν νεῶν ἀ^ληθές; οὐ γὰ^ρ ἄν ποθ' οὗτος ἁ_νὴρ τοῦτ' ἐτόλμησεν λέγειν, εἰ μὴ ξυ^νωμότης τι^ς ἦν.	HLHHLLLHLHLHLLLLHLLLLHLLLLHLHLHLHLHLHLHHHLHHHLHHHLHLHLH	HLHHLLLHLHLHLL-LHLLLLHLLLLHLHLHLHLLLHLLHHLHHHLHHHLHLHLH	Case=Nom|Gender=Masc|Number=Sing	ὁ	NOUN
+δι^α^τρα^γεῖν	δι^α^τρα^γεῖν τοίνυν κρά^τιστόν ἐστί^ μοι τὸ δίκτυ^ον.	LLLHHHLHLHLHLHLH	--LHHLLLLHLHLHLH	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	διατργῄσκω	VERB
+δι^α^τρα^γεῖν	δι^α^τρα^γεῖν τοίνυν κρά^τιστόν ἐστί^ μοι τὸ δίκτυ^ον.	LLLHHHLHLHLHLHLH	--LHHLLLLHLHLHLH	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	διατργῄσκω	VERB
+τοίνυν	δι^α^τρα^γεῖν τοίνυν κρά^τιστόν ἐστί^ μοι τὸ δίκτυ^ον.	LLLHHHLHLHLHLHLH	--LHHLLLLHLHLHLH		τοίνυν	ADV
+κρά^τιστόν	δι^α^τρα^γεῖν τοίνυν κρά^τιστόν ἐστί^ μοι τὸ δίκτυ^ον.	LLLHHHLHLHLHLHLH	--LHHLLLLHLHLHLH	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	κράτιστός	ADJ
+δέδι^θι^,	μηδέν, ὦ τᾶν, δέδι^θι^, μηδέν· ὡς ἐγὼ τοῦτόν γ', ἐὰν γρύξῃ τι^, ποιήσω δα^κεῖν τὴν καρδί^αν καὶ τὸν περὶ ψυ_χῆς δρόμον δρα^μεῖν, ἵ^ν' εἰδῇ μὴ πα^τεῖν τὰ^ ταῖν θεαῖν ψηφίσμα^τα^.	HLHHLLLHLHLHHHLHHHLHHHLHHHLHHHLHHHLHLHLHHHLHLHLHHHLL	HLHHL-LHLHLHHHLLHHLHHHLHHHLHHHLLHHLHLHLHHHLHLHLHHLLL	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	δέδω	VERB
+ἐὰν	μηδέν, ὦ τᾶν, δέδι^θι^, μηδέν· ὡς ἐγὼ τοῦτόν γ', ἐὰν γρύξῃ τι^, ποιήσω δα^κεῖν τὴν καρδί^αν καὶ τὸν περὶ ψυ_χῆς δρόμον δρα^μεῖν, ἵ^ν' εἰδῇ μὴ πα^τεῖν τὰ^ ταῖν θεαῖν ψηφίσμα^τα^.	HLHHLLLHLHLHHHLHHHLHHHLHHHLHHHLHHHLHLHLHHHLHLHLHHHLL	HLHHL-LHLHLHHHLLHHLHHHLHHHLHHHLLHHLHLHLHHHLHLHLHHLLL		ἐάν	SCONJ
+περὶ	μηδέν, ὦ τᾶν, δέδι^θι^, μηδέν· ὡς ἐγὼ τοῦτόν γ', ἐὰν γρύξῃ τι^, ποιήσω δα^κεῖν τὴν καρδί^αν καὶ τὸν περὶ ψυ_χῆς δρόμον δρα^μεῖν, ἵ^ν' εἰδῇ μὴ πα^τεῖν τὰ^ ταῖν θεαῖν ψηφίσμα^τα^.	HLHHLLLHLHLHHHLHHHLHHHLHHHLHHHLHHHLHLHLHHHLHLHLHHHLL	HLHHL-LHLHLHHHLLHHLHHHLHHHLHHHLLHHLHLHLHHHLHLHLHHLLL		περί	ADP
+ψηφίσμα^τα^.	μηδέν, ὦ τᾶν, δέδι^θι^, μηδέν· ὡς ἐγὼ τοῦτόν γ', ἐὰν γρύξῃ τι^, ποιήσω δα^κεῖν τὴν καρδί^αν καὶ τὸν περὶ ψυ_χῆς δρόμον δρα^μεῖν, ἵ^ν' εἰδῇ μὴ πα^τεῖν τὰ^ ταῖν θεαῖν ψηφίσμα^τα^.	HLHHLLLHLHLHHHLHHHLHHHLHHHLHHHLHHHLHLHLHHHLHLHLHHHLL	HLHHL-LHLHLHHHLLHHLHHHLHHHLHHHLLHHLHLHLHHHLHLHLHHLLL	Case=Nom|Gender=Neut|Number=Plur	ψηφίσματα	NOUN
+κίστην	ἐνεγκά^τω μοι δεῦρο τὴν κίστην τι^ς ὡς τά^χιστα^.	LHLHHHLHHHLHLHL	LHLHHHLH-HLHLLL	Case=Acc|Gender=Fem|Number=Sing	κίστην	NOUN
+τά^χιστα^.	ἐνεγκά^τω μοι δεῦρο τὴν κίστην τι^ς ὡς τά^χιστα^.	LHLHHHLHHHLHLHL	LHLHHHLH-HLHLLL	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	ταχύς	ADJ
+ἀ^τὰρ	ἀ^τὰρ φα^νεῖ ποῖός τι^ς ὤν, ἢν ταῦτα^ πα^ρα^κελεύῃ;	LHLHHHLHHHLLLLHH	LLLHHHLHHHLLLLHH		ἀτάρ	ADV
+γὰρ	τόνδε λέγειν. ὁρᾷς γὰρ ὥς σοι μέγα^ς ἐστὶ^ν ἁ_γὼν	HLLHLHH	HLLHLHLHHLLHLLH		γάρ	ADV
+ἁ^πάντων,	καὶ περὶ^ τῶν ἁ^πάντων,	HLLHLHH	HLLHLLH	Case=Gen|Gender=Masc|Number=Plur	ἅπας	ADJ
+γάρ	τί^ γάρ φα^θ' ὑ_μεῖς, ἢν ὁδί_ με τῷ λόγῳ κρα^τήσῃ;	LHLHHHLHLHLHLHH	LLLHHHLLLHLHLHH		γάρ	ADV
+ὁδί_	τί^ γάρ φα^θ' ὑ_μεῖς, ἢν ὁδί_ με τῷ λόγῳ κρα^τήσῃ;	LHLHHHLHLHLHLHH	LLLHHHLLLHLHLHH	Case=Dat|Gender=Neut|Number=Sing	ὁδίς	NOUN
+λέγοντος.	οὐδενὸς ἠκούσα^μεν οὐδὲ ξυ^νετῶς λέγοντος.	HLLHHLLHHLLHLHL	HLLHHLLHHLLHLHH	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	λέγω	VERB
+κρά^τιστός	κα^λῶς γὰ^ρ ᾔδειν ὡς ἐγὼ ταύτῃ κρά^τιστός εἰμι_.	LHLHHHLHHHLHLHH	LHLHHHLHHHLLLHL	Case=Nom|Gender=Masc|Number=Sing	κράτιστός	ADJ
+εἰμι_.	κα^λῶς γὰ^ρ ᾔδειν ὡς ἐγὼ ταύτῃ κρά^τιστός εἰμι_.	LHLHHHLHHHLHLHH	LHLHHHLHHHLLLHL	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	AUX
+κοὐδὲν	κοὐδὲν παρῆλθεν, ὥστ' ἔγωγ' ηὐξα^νόμην ἀ^κούων,	HLLHLHH	HHLHLHLHLLLHLHH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	οὐδείς	VERB
+ἔγωγ'	κοὐδὲν παρῆλθεν, ὥστ' ἔγωγ' ηὐξα^νόμην ἀ^κούων,	HLLHLHH	HHLHLHLHLLLHLHH	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἔγωγ	PRON
+ποιήσω.	ἦ μὴν ἐγώ σε τήμερον σκύ^τη βλέπειν ποιήσω.	HHLHLHLHLHLHLHH	HHLHLHLHLHLHHHH	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	ποιέω	VERB
+ἀ^πόφευξιν	εἰς ἀ^πόφευξιν πα^λά^μας	HLLHHLLH	HLLHLLLH	Case=Acc|Gender=Fem|Number=Sing	ἀπόφευξις	NOUN
+ὅστις	εἶναί τι^ς ὅστις τοιαῦτ' ἐνουθέτει.	HHLHHLHLHLH	HHLHLHHLHLH	Case=Nom|Gender=Masc|Number=Sing	ὅστις	ADJ
+τοιαῦτ'	εἶναί τι^ς ὅστις τοιαῦτ' ἐνουθέτει.	HHLHHLHLHLH	HHLHLHHLHLH	Case=Acc|Gender=Neut|Number=Plur	τοιαῦτ	ADJ
+τις	σοὶ δὲ νῦν τις θεῶν πα^ρὼν ἐμφα^νὴς	HLHHLHLHHLH	HLHLLHLHHLH	Case=Nom|Gender=Masc|Number=Sing	τις	PRON
+ξυλλαμβά^νει	ξυλλαμβά^νει τοῦ πράγμα^τος, καὶ δῆλός ἐστι^ν εὖ ποιῶν·	HHLHHHLHHHLHLHLH	LLLHHHLHHHLHLHHH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ξυλλαμβάνω	VERB
+ξυλλαμβά^νει	ξυλλαμβά^νει τοῦ πράγμα^τος, καὶ δῆλός ἐστι^ν εὖ ποιῶν·	HHLHHHLHHHLHLHLH	LLLHHHLHHHLHLHHH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ξυλλαμβάνω	VERB
+ποιῶν·	ξυλλαμβά^νει τοῦ πράγμα^τος, καὶ δῆλός ἐστι^ν εὖ ποιῶν·	HHLHHHLHHHLHLHLH	LLLHHHLHHHLHLHHH	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ποιῶν·	VERB
+πράγμα^θ',	νενουθέτηκεν αὑτὸν ἐς τὰ^ πράγμα^θ', οἷς	LHLHLHLHLHLH	LHLHLHLHL-HH	Case=Acc|Gender=Neut|Number=Plur	πράγμαθ	NOUN
+πράγμα^θ',	νενουθέτηκεν αὑτὸν ἐς τὰ^ πράγμα^θ', οἷς	LHLHLHLHLHLH	LHLHLHLHL-HH	Case=Acc|Gender=Neut|Number=Plur	πράγμαθ	NOUN
+ἔγνωκε	τότ' ἐπεμαίνετ'. ἔγνωκε γὰ^ρ ἀρτί^ως,	LLLHLHHLLHLH	LLLHL-HLLLLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἔγνωκος	VERB
+ἀρτί^ως,	τότ' ἐπεμαίνετ'. ἔγνωκε γὰ^ρ ἀρτί^ως,	LLLHLHHLLHLH	LLLHL-HLLLLH		ἄρτιος	ADV
+μεθιστὰς	καὶ σωφρονεῖ μέντοι μεθιστὰς ἐς τὸ λοιπὸν τὸν τρόπον	HHLHHHLHHHLHHHLH	HHLHHHLLHHLHHHLH	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	μεθιστὰ	ADJ
+ὑ^παρχέτω.	εὐφημί^α_ μὲν πρῶτα^ νῦν ὑ^παρχέτω.	HHLHHHLHLHLH	HHLHHHLHLLLH	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ὑπαρχέτω	VERB
+Πύ_θι^',	ὦ Φοῖβ' Ἄ^πολλον Πύ_θι^', ἐπ' ἀ^γα^θῇ τύ^χῃ	HHLHHHLLLLHLH	HHLHHL-LLLHLH		Πύθις	X
+Πύ_θι^',	ὦ Φοῖβ' Ἄ^πολλον Πύ_θι^', ἐπ' ἀ^γα^θῇ τύ^χῃ	HHLHHHLLLLHLH	HHLHHL-LLLHLH		Πύθις	X
+τὸν	τὸν δῆμον ᾐσθόμεσθά^ σου	LHLHLHLH	HHLHLHLH	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	DET
+ἐπανθοῦσιν	ώτεραι δὴ αἵδ' ἐπανθοῦσιν τρί^χες.	HLHHHLHHHLL	HLHHHLHHLLH	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐπανθέω	VERB
+τρί^χες.	ώτεραι δὴ αἵδ' ἐπανθοῦσιν τρί^χες.	HLHHHLHHHLL	HLHHHLHHLLH	Case=Nom|Gender=Fem|Number=Plur	θρίξ	NOUN
+νεα^νι^κὴν	νεα^νι^κὴν σχεῖν· ὡς ἐγὼ τοὐμὸν νομίζω	LLLHHHLHHHLHH	LH-HHHLHHHLHH	Case=Acc|Gender=Fem|Number=Sing	νεανικὴ	ADJ
+νεα^νι^κὴν	νεα^νι^κὴν σχεῖν· ὡς ἐγὼ τοὐμὸν νομίζω	LLLHHHLHHHLHH	LH-HHHLHHHLHH	Case=Acc|Gender=Fem|Number=Sing	νεανικὴ	ADJ
+κι^κίννους	γῆρα^ς εἶναι κρεῖττον ἢ πολλῶν κι^κίννους νεα^νι^ῶν καὶ} [σχῆμα^ κεὐρυ^πρωκτί^αν.	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH	Case=Acc|Gender=Masc|Number=Plur	κικίννους	ADJ
+νεα^νι^ῶν	γῆρα^ς εἶναι κρεῖττον ἢ πολλῶν κι^κίννους νεα^νι^ῶν καὶ} [σχῆμα^ κεὐρυ^πρωκτί^αν.	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH	Case=Gen|Gender=Neut|Number=Plur	νεανιῶν	NOUN
+σχῆμα^	γῆρα^ς εἶναι κρεῖττον ἢ πολλῶν κι^κίννους νεα^νι^ῶν καὶ} [σχῆμα^ κεὐρυ^πρωκτί^αν.	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH	Case=Acc|Gender=Neut|Number=Sing	σχῆμα	NOUN
+σχῆμα^	γῆρα^ς εἶναι κρεῖττον ἢ πολλῶν κι^κίννους νεα^νι^ῶν καὶ} [σχῆμα^ κεὐρυ^πρωκτί^αν.	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH	Case=Acc|Gender=Neut|Number=Sing	σχῆμα	NOUN
+κεὐρυ^πρωκτί^αν.	γῆρα^ς εἶναι κρεῖττον ἢ πολλῶν κι^κίννους νεα^νι^ῶν καὶ} [σχῆμα^ κεὐρυ^πρωκτί^αν.	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH	Case=Acc|Gender=Fem|Number=Sing	κεὐρυπρωκτίω	ADJ
+κεὐρυ^πρωκτί^αν.	γῆρα^ς εἶναι κρεῖττον ἢ πολλῶν κι^κίννους νεα^νι^ῶν καὶ} [σχῆμα^ κεὐρυ^πρωκτί^αν.	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH	Case=Acc|Gender=Fem|Number=Sing	κεὐρυπρωκτίω	ADJ
+κεὐρυ^πρωκτί^αν.	γῆρα^ς εἶναι κρεῖττον ἢ πολλῶν κι^κίννους νεα^νι^ῶν καὶ} [σχῆμα^ κεὐρυ^πρωκτί^αν.	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH	Case=Acc|Gender=Fem|Number=Sing	κεὐρυπρωκτίω	ADJ
+κεὐρυ^πρωκτί^αν.	γῆρα^ς εἶναι κρεῖττον ἢ πολλῶν κι^κίννους νεα^νι^ῶν καὶ} [σχῆμα^ κεὐρυ^πρωκτί^αν.	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH	Case=Acc|Gender=Fem|Number=Sing	κεὐρυπρωκτίω	ADJ
+πάντα^	ἆρα^ δεινὸς ἦ τόθ', ὥστε πάντα^ μὴ δεδοικέναι,	HLHLHLHLHLHLHLH	HLHLHLHLLLHLHLH	Case=Acc|Gender=Neut|Number=Plur	πᾶς	ADJ
+ἄ^ριστος.	φροντί^ς, ἀλλ' ὅστι^ς ἐρέτης ἔσοιτ' ἄ^ριστος.	HLHHLLLHLHLHH	HLHHLLLHLHLLH	Case=Nom|Gender=Masc|Number=Sing	ἄριστος	ADJ
+ἑλόντες	τοιγα^ροῦν πολλὰς πόλεις Μήδων ἑλόντες	HLHHHLHHHLHL	HLHHHLHHHLHH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	αἱρέω	VERB
+ἂ^ν	τά^χα^ δ' ἂ^ν ἴ^σως οὐκ ἐθέλοι·	LLLLHHLLH	LLLHHHLLH		ἄν	PART
+φύ^σεως,	φύ^σεως, ἣν ἔχοι τι^ς, ἀ^εί.	LHHLHLLH	LLHHLHLLH	Case=Gen|Gender=Fem|Number=Sing	φύσις	NOUN
+ἣν	φύ^σεως, ἣν ἔχοι τι^ς, ἀ^εί.	LHHLHLLH	LLHHLHLLH	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί	AUX
+ἔχοι	φύ^σεως, ἣν ἔχοι τι^ς, ἀ^εί.	LHHLHLLH	LLHHLHLLH	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	VERB
+ἔχοι	φύ^σεως, ἣν ἔχοι τι^ς, ἀ^εί.	LHHLHLLH	LLHHLHLLH	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	VERB
+ἀ^εί.	φύ^σεως, ἣν ἔχοι τι^ς, ἀ^εί.	LHHLHLLH	LLHHLHLLH		ἀεί	ADV
+φρονοῦσιν	καὶ τοῖσι^ν εὖ φρονοῦσιν	HHLHLHH	HHLHLHL	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	φρονέω	VERB
+ἄ^πεισιν	τυ^χὼν ἄ^πεισιν δι^ὰ^ τὴν φι^λοπα^τρί^αν καὶ σοφί^αν	LHLHHLLHLLLLHHLLL	LHLHLLLH-L-LHHLLH	Case=Dat|Gender=Neut|Number=Plur	ἄπειμι	NOUN
+φι^λοπα^τρί^αν	τυ^χὼν ἄ^πεισιν δι^ὰ^ τὴν φι^λοπα^τρί^αν καὶ σοφί^αν	LHLHHLLHLLLLHHLLL	LHLHLLLH-L-LHHLLH	Case=Acc|Gender=Fem|Number=Sing	φιλοπατρία	NOUN
+φι^λοπα^τρί^αν	τυ^χὼν ἄ^πεισιν δι^ὰ^ τὴν φι^λοπα^τρί^αν καὶ σοφί^αν	LHLHHLLHLLLLHHLLL	LHLHLLLH-L-LHHLLH	Case=Acc|Gender=Fem|Number=Sing	φιλοπατρία	NOUN
+σοφί^αν	τυ^χὼν ἄ^πεισιν δι^ὰ^ τὴν φι^λοπα^τρί^αν καὶ σοφί^αν	LHLHHLLHLLLLHHLLL	LHLHLLLH-L-LHHLLH	Case=Acc|Gender=Fem|Number=Sing	σοφία	NOUN
+Φι^λοκλέωνος.	ὁ παῖς ὁ Φι^λοκλέωνος.	LHLLLLHL	LHL--LHH	Case=Gen|Gender=Masc|Number=Sing	Φιλοκλέων	NOUN
+Φι^λοκλέωνος.	ὁ παῖς ὁ Φι^λοκλέωνος.	LHLLLLHL	LHL--LHH	Case=Gen|Gender=Masc|Number=Sing	Φιλοκλέων	NOUN
+Φι^λοκλέωνος.	ὁ παῖς ὁ Φι^λοκλέωνος.	LHLLLLHL	LHL--LHH	Case=Gen|Gender=Masc|Number=Sing	Φιλοκλέων	NOUN
+φύ_σαντα^	τὸν φύ_σαντα^ σεμνοτέροις κα^τα^κοσμῆσαι πράγμα^σιν;	HHHLHLLHLLHHHHLH	HHLLHLLHLLHHHHLL	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	φύσας	VERB
+πράγμα^σιν;	τὸν φύ_σαντα^ σεμνοτέροις κα^τα^κοσμῆσαι πράγμα^σιν;	HHHLHLLHLLHHHHLH	HHLLHLLHLLHHHHLL	Case=Dat|Gender=Neut|Number=Plur	πράγμασιν;	NOUN
+τι^ς	ἔστι^ τι^ς σι^ῶν τί^σι^ς·	HLHLHLH	HLLLHL-	Case=Nom|Gender=Masc|Number=Sing	τις	PRON
+τί^σι^ς·	ἔστι^ τι^ς σι^ῶν τί^σι^ς·	HLHLHLH	HLLLHL-	Case=Nom|Gender=Fem|Number=Sing	τίσις	NOUN
+ἄ^κλαυτος·	ἄ^κλαυτος· ἐγὼν δ' ἀ^είδω	HHHLHLHH	-HLLHLHH	Case=Nom|Gender=Masc|Number=Sing	ἄκλαυστος	ADJ
+ἄ^κλαυτος·	ἄ^κλαυτος· ἐγὼν δ' ἀ^είδω	HHHLHLHH	-HLLHLHH	Case=Nom|Gender=Masc|Number=Sing	ἄκλαυστος	ADJ
+Ἀ_γι^δῶς	Ἀ_γι^δῶς τὸ φῶς· ὁρῶ	HLHLHLH	L-HLHLH	Case=Nom|Gender=Masc|Number=Sing	Ἀγιδῶς	NOUN
+Ἀ_γι^δῶς	Ἀ_γι^δῶς τὸ φῶς· ὁρῶ	HLHLHLH	L-HLHLH	Case=Nom|Gender=Masc|Number=Sing	Ἀγιδῶς	NOUN
+ἄ_λι^ον,	ϝ' ὥτ' ἄ_λι^ον, ὅνπερ ἇμι_ν	HHLLHLHH	HL-LHLHL	Case=Acc|Gender=Masc|Number=Sing	ἄλιος	ADJ
+ἄ_λι^ον,	ϝ' ὥτ' ἄ_λι^ον, ὅνπερ ἇμι_ν	HHLLHLHH	HL-LHLHL	Case=Acc|Gender=Masc|Number=Sing	ἄλιος	ADJ
+ἇμι_ν	ϝ' ὥτ' ἄ_λι^ον, ὅνπερ ἇμι_ν	HHLLHLHH	HL-LHLHL	Case=Gen|Gender=Masc|Number=Dual	ἇμιν	ADJ
+Ἀ_γι^δὼ	Ἀ_γι^δὼ μαρτύ_ρεται	HLHHHLH	L-HHLLH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	Ἀγιδὼ	VERB
+Ἀ_γι^δὼ	Ἀ_γι^δὼ μαρτύ_ρεται	HLHHHLH	L-HHLLH	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	Ἀγιδὼ	VERB
+μαρτύ_ρεται	Ἀ_γι^δὼ μαρτύ_ρεται	HLHHHLH	L-HHLLH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	μαρτύρω	VERB
+νι^ν	οὔτε μωμήσθαι νι^ν ἁ_ κλεννὰ_ χορα_γὸς	HLHHHLHHHLHH	HLHHH-HHLLLH	Case=Acc|Gender=Masc|Number=Sing	νιν	PRON
+κλεννὰ_	οὔτε μωμήσθαι νι^ν ἁ_ κλεννὰ_ χορα_γὸς	HLHHHLHHHLHH	HLHHH-HHLLLH	Case=Nom|Gender=Fem|Number=Sing	κλεννὰ	NOUN
+χορα_γὸς	οὔτε μωμήσθαι νι^ν ἁ_ κλεννὰ_ χορα_γὸς	HLHHHLHHHLHH	HLHHH-HHLLLH	Case=Nom|Gender=Masc|Number=Sing	χοραγὸς	NOUN
+ἁ^μῶς	οὐδ' ἁ^μῶς ἐῆι· δοκεῖ γὰ^ρ ἤμεν αὔτα_	HLHLHLHLHLHH	HHHLHLHLHLHL	Degree=Pos	ἁμός	ADV
+αὔτα_	οὐδ' ἁ^μῶς ἐῆι· δοκεῖ γὰ^ρ ἤμεν αὔτα_	HLHLHLHLHLHH	HHHLHLHLHLHL	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	αὔτα	PRON
+στά_σειεν	ἐκπρεπὴς τὼς ὥπερ αἴ τι^ς ἐν βοτοῖς στά_σειεν ἵππον	HLHHHLHLHLHHHLHH	HLHHHLHLHLHLHLHH	Aspect=Perf|Mood=Opt|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	στάζω	VERB
+πα_γὸν	πα_γὸν ἀ^εθλοφόρον κα^να^χά_ποδα^	HLLHLLHLLHLL	LLL-LLHLLLLL	Case=Acc|Gender=Masc|Number=Sing	παγὸς	NOUN
+ἀ^εθλοφόρον	πα_γὸν ἀ^εθλοφόρον κα^να^χά_ποδα^	HLLHLLHLLHLL	LLL-LLHLLLLL	Case=Acc|Gender=Masc|Number=Sing	ἀεθλοφόρος	ADJ
+κα^να^χά_ποδα^	πα_γὸν ἀ^εθλοφόρον κα^να^χά_ποδα^	HLLHLLHLLHLL	LLL-LLHLLLLL	Case=Acc|Gender=Neut|Number=Plur	καναχάποδος	NOUN
+Πόλι^ς	Πόλι^ς δ' ὁμοῦ μὲν θυ_μι^α_μά^των γέμει,	LHLHHHLHLHLH	LLLHHHLHLHLH	Case=Nom|Gender=Fem|Number=Sing	πόλις	NOUN
+στενα^γμά^των·	ὁμοῦ δὲ παιά_νων τε καὶ στενα^γμά^των·	LHLHHHLHLHLH	LHLHHHLHLLLH	Case=Gen|Gender=Neut|Number=Plur	στέναγμα	NOUN
+ἁ_γὼ	ἁ_γὼ δι^καιῶν μὴ πα^ρ' ἀγγέλων, τέκνα^,	HHLHHHLHLHHL	LHLHHHLHLH-L	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ὁ	VERB
+τέκνα^,	ἁ_γὼ δι^καιῶν μὴ πα^ρ' ἀγγέλων, τέκνα^,	HHLHHHLHLHHL	LHLHHHLHLH-L	Case=Voc|Gender=Neut|Number=Plur	τέκνον	NOUN
+ἂ^ν	δείσαντες ἢ στέρξαντες; ὡς θέλοντος ἂ^ν	HHLHHHLHLHLH	HHLHHHLHLHLL		ἄν	PART
+ἂ^ν	ἐμοῦ προσαρκεῖν πᾶν· δυ^σάλγητος γὰ^ρ ἂ^ν	LHLHHHLHHHLH	LHLHHHLHHHLL		ἄν	PART
+τοιάνδε	εἴην τοιάνδε μὴ οὐ κα^τοικτί_ρων ἕδρα_ν.	HHLHLLHLHHHLH	HHHHLHHLHLH-H	Case=Acc|Gender=Fem|Number=Sing	τοιόσδε	ADJ
+μὴ	εἴην τοιάνδε μὴ οὐ κα^τοικτί_ρων ἕδρα_ν.	HHLHLLHLHHHLH	HHHHLHHLHLH-H	Polarity=Neg	μή	ADV
+κα^τοικτί_ρων	εἴην τοιάνδε μὴ οὐ κα^τοικτί_ρων ἕδρα_ν.	HHLHLLHLHHHLH	HHHHLHHLHLH-H	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κατοικτείρω	VERB
+ἕδρα_ν.	εἴην τοιάνδε μὴ οὐ κα^τοικτί_ρων ἕδρα_ν.	HHLHLLHLHHHLH	HHHHLHHLHLH-H	Case=Acc|Gender=Fem|Number=Sing	ἕδρα	NOUN
+σὺ^ν	πτέσθαι σθένοντες, οἱ δὲ σὺ^ν γήρᾳ βα^ρεῖς,	HHLHLHLHHHLH	HHLHLHLLHHLH		σύν	ADP
+θα_κεῖ,	ἀ^γοραῖσι^ θα_κεῖ, πρός τε Παλλά^δος δι^πλοῖς	LLHLHHHLHLHLH	LLHLLHHLHLH-H	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	θακέω	VERB
+δι^πλοῖς	ἀ^γοραῖσι^ θα_κεῖ, πρός τε Παλλά^δος δι^πλοῖς	LLHLHHHLHLHLH	LLHLLHHLHLH-H	Case=Dat|Gender=Masc|Number=Plur	διπλόος	ADJ
+Θουκυ_δί^δης	Θουκυ_δί^δης Ἀ^θηναῖος ξυ^νέγρα^ψε τὸν πόλεμον τῶν Πελοποννησί^ων 	HHLHLHHHLHHLHLLHHLLHHLH	HLLHLHHHL-LLHLLHHLLHHLH	Case=Nom|Gender=Masc|Number=Sing	Θουκυδίδης	PROPN
+ξυ^νέγρα^ψε	Θουκυ_δί^δης Ἀ^θηναῖος ξυ^νέγρα^ψε τὸν πόλεμον τῶν Πελοποννησί^ων 	HHLHLHHHLHHLHLLHHLLHHLH	HLLHLHHHL-LLHLLHHLLHHLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ξυνιγράφω	VERB
+ξυ^νέγρα^ψε	Θουκυ_δί^δης Ἀ^θηναῖος ξυ^νέγρα^ψε τὸν πόλεμον τῶν Πελοποννησί^ων 	HHLHLHHHLHHLHLLHHLLHHLH	HLLHLHHHL-LLHLLHHLLHHLH	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ξυνιγράφω	VERB
+ἐπολέμησα^ν	καὶ Ἀ^θηναίων, ὡς ἐπολέμησα^ν πρὸς ἀλλήλους,	HLHHHHLLLHHLHHH	HLHHHHLLLHLLHHH	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πολεμέω	VERB
+ἀ^ρξά^μενος	ἀ^ρξά^μενος εὐθὺ^ς κα^θιστα^μένου καὶ ἐλπί^σα_ς μέγα^ν τε ἔσεσθαι	HLLLHHLHLLHHHLHLHLLHH	LLLLHLL-LLHHHLHLLLLHH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	ἄρχω	VERB
+εὐθὺ^ς	ἀ^ρξά^μενος εὐθὺ^ς κα^θιστα^μένου καὶ ἐλπί^σα_ς μέγα^ν τε ἔσεσθαι	HLLLHHLHLLHHHLHLHLLHH	LLLLHLL-LLHHHLHLLLLHH		εὐθύς	ADV
+κα^θιστα^μένου	ἀ^ρξά^μενος εὐθὺ^ς κα^θιστα^μένου καὶ ἐλπί^σα_ς μέγα^ν τε ἔσεσθαι	HLLLHHLHLLHHHLHLHLLHH	LLLLHLL-LLHHHLHLLLLHH	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	καθισταμένου	VERB
+μέγα^ν	ἀ^ρξά^μενος εὐθὺ^ς κα^θιστα^μένου καὶ ἐλπί^σα_ς μέγα^ν τε ἔσεσθαι	HLLLHHLHLLHHHLHLHLLHH	LLLLHLL-LLHHHLHLLLLHH	Case=Acc|Gender=Masc|Number=Sing	μέγας	ADJ
+εὐθύ^ς,	τὸ μὲν εὐθύ^ς, τὸ δὲ καὶ δι^α^νοούμενον. κί_νησι^ς γὰ^ρ αὕτη	LLHHLLHLLLHLHHHHLHH	LLHLLLHLLLHLHHHLLHH	Case=Nom|Gender=Masc|Number=Sing	εὐθύς	ADJ
+κί_νησι^ς	τὸ μὲν εὐθύ^ς, τὸ δὲ καὶ δι^α^νοούμενον. κί_νησι^ς γὰ^ρ αὕτη	LLHHLLHLLLHLHHHHLHH	LLHLLLHLLLHLHHHLLHH	Case=Nom|Gender=Fem|Number=Sing	κίνησις	NOUN
+μεγίστη	μεγίστη δὴ τοῖς Ἕλλησι^ν ἐγένετο καὶ μέρει τι^νὶ^ τῶν βα^ρβά^ρων, 	LHHHHHHLLLLLHLHLLHHLH	L-HHHHHLLLLLHLHLLHLLH	Case=Nom|Gender=Fem|Number=Sing	μέγας	ADJ
+βα^ρβά^ρων,	μεγίστη δὴ τοῖς Ἕλλησι^ν ἐγένετο καὶ μέρει τι^νὶ^ τῶν βα^ρβά^ρων, 	LHHHHHHLLLLLHLHLLHHLH	L-HHHHHLLLLLHLHLLHLLH	Case=Gen|Gender=Masc|Number=Plur	βάρβαρος	NOUN
+ἐπὶ^	ὡς δὲ εἰπεῖν καὶ ἐπὶ^ πλεῖστον ἀνθρώπων. τὰ^ γὰ^ρ	HLHHHLHHLHHHLH	HLHHHLLHLHHHLL		ἐπί	ADP
+γὰ^ρ	ὡς δὲ εἰπεῖν καὶ ἐπὶ^ πλεῖστον ἀνθρώπων. τὰ^ γὰ^ρ	HLHHHLHHLHHHLH	HLHHHLLHLHHHLL		γάρ	ADV
+τεκμηρί^ων	χρόνου πλῆθος ἀ^δύ^να^τα^ ἦν, ἐκ δὲ τεκμηρί^ων ὧν ἐπὶ^ μα^κρότα^τον 	LHHLLLLLHHLHHLHHLLHLLH	LHHLLLLLHHL-HLHHLLLLLH	Case=Gen|Gender=Fem|Number=Plur	τεκμήριον	NOUN
+μα^κρότα^τον	χρόνου πλῆθος ἀ^δύ^να^τα^ ἦν, ἐκ δὲ τεκμηρί^ων ὧν ἐπὶ^ μα^κρότα^τον 	LHHLLLLLHHLHHLHHLLHLLH	LHHLLLLLHHL-HLHHLLLLLH	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	μακρός	ADJ
+Ἑλλὰ^ς	γὰ^ρ ἡ νῦν Ἑλλὰ^ς κα^λουμένη οὐ πά^λαι βεβαίως	LHHHHLHLHHLHLHH	LHHHLLHLHHLHLHH	Case=Nom|Gender=Fem|Number=Sing	ἑλλάς	NOUN
+μετα^ναστά^σεις	οἰκουμένη, ἀλλὰ^ μετα^ναστά^σεις τε οὖσαι τὰ^ πρότερα^ καὶ	HHLHHLLLHLHLHHHLLLH	HHLHHLLL-LHLHHLLLLH	Case=Acc|Gender=Fem|Number=Plur	μεταναστάσεις	NOUN
+τὰ^	οἰκουμένη, ἀλλὰ^ μετα^ναστά^σεις τε οὖσαι τὰ^ πρότερα^ καὶ	HHLHHLLLHLHLHHHLLLH	HHLHHLLL-LHLHHLLLLH	Case=Nom|Gender=Neut|Number=Plur	ὁ	DET
+ἐπι^μειγνύ^ντες	ἐπι^μειγνύ^ντες ἀ^δεῶς ἀλλήλοις οὔτε κα^τὰ^ γῆν οὔτε δι^ὰ^ θα^λάσσης, 	LLHHLLLHHHHHLLLHHLLLLHH	LLHLLLLHHHHHLLLHHLLLL-H	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἐπιμειγνύντες	VERB
+θα^λάσσης,	ἐπι^μειγνύ^ντες ἀ^δεῶς ἀλλήλοις οὔτε κα^τὰ^ γῆν οὔτε δι^ὰ^ θα^λάσσης, 	LLHHLLLHHHHHLLLHHLLLLHH	LLHLLLLHHHHHLLLHHLLLL-H	Case=Gen|Gender=Fem|Number=Sing	θάλασσα	NOUN
+Καλλι^όπη	Καλλι^όπη φα^έθοντα^, τὸν Εὐ_ρυ^φά^εσσα^ βοῶπι_ς  	HLLHLLHLLHLLHLLHH	H-LHLLHLLHLLHLLHL	Case=Nom|Gender=Fem|Number=Sing	καλλιόπη	NOUN
+βοῶπι_ς	Καλλι^όπη φα^έθοντα^, τὸν Εὐ_ρυ^φά^εσσα^ βοῶπι_ς  	HLLHLLHLLHLLHLLHH	H-LHLLHLLHLLHLLHL	Case=Nom|Gender=Fem|Number=Sing	βοῶπις	NOUN
+καὶ	γείνα^το Γαίης παιδὶ^ καὶ Οὐρα^νοῦ ἀστερόεντος·	HLLHHHLLHLLHLLHH	HLLHHHLHHLH-LLHH		καί	CCONJ
+Οὐρα^νοῦ	γείνα^το Γαίης παιδὶ^ καὶ Οὐρα^νοῦ ἀστερόεντος·	HLLHHHLLHLLHLLHH	HLLHHHLHHLH-LLHH	Case=Gen|Gender=Masc|Number=Sing	οὐρανός	NOUN
+ἀστερόεντος·	γείνα^το Γαίης παιδὶ^ καὶ Οὐρα^νοῦ ἀστερόεντος·	HLLHHHLLHLLHLLHH	HLLHHHLHHLH-LLHH	Case=Gen|Gender=Masc|Number=Sing	ἀστερόεις	ADJ
+ἀ^γακλειτὴν	γῆμε γὰ^ρ Εὐ_ρυ^φά^εσσα^ν ἀ^γακλειτὴν Ὑ^περί_ων	HLLHLLHLLHHHLLHH	HLLHLLHLLLHHLLLH	Case=Acc|Gender=Fem|Number=Sing	ἀγακλειτὴ	PROPN
+Ὑ^περί_ων	γῆμε γὰ^ρ Εὐ_ρυ^φά^εσσα^ν ἀ^γακλειτὴν Ὑ^περί_ων	HLLHLLHLLHHHLLHH	HLLHLLHLLLHHLLLH	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	Ὑπερίων	ADJ
+τε	Ἠῶ τε ῥοδόπηχυ^ν ἐϋπλόκα^μόν τε Σελήνην	HHHLLHLLHLLHLLHH	HHLLLHLL-LLHLLHH		τε	PART
+ἐϋπλόκα^μόν	Ἠῶ τε ῥοδόπηχυ^ν ἐϋπλόκα^μόν τε Σελήνην	HHHLLHLLHLLHLLHH	HHLLLHLL-LLHLLHH	Case=Acc|Gender=Fem|Number=Sing	ἐϋπλόκαμός	ADJ
+ἀ_θα^νά^τοισι^ν,	Ἠέλι^όν τ' ἀ^κά^μαντ' ἐπι^είκελον ἀ_θα^νά^τοισι^ν,	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHL	Case=Dat|Gender=Masc|Number=Plur	ἀθάνατος	ADJ
+καὶ	ὃς φαίνει θνητοῖσι^ καὶ ἀ_θα^νά^τοισι^ θεοῖσι^ν	HHHHHLLHLLHLLHH	HHHHHLHHLLHLLHL		καί	CCONJ
+θεοῖσι^ν	ὃς φαίνει θνητοῖσι^ καὶ ἀ_θα^νά^τοισι^ θεοῖσι^ν	HHHHHLLHLLHLLHH	HHHHHLHHLLHLLHL	Case=Dat|Gender=Masc|Number=Plur	θεός	NOUN
+δέρκεται	ἵπποις ἐμβεβα^ώς· σμερδνὸν δ' ὅ γε δέρκεται ὄσσοις	HHHLLHHHLLHLLHH	HHHLLHHHLLHLHHH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	δέρκεμι	VERB
+πα^ρὰ^	αἰγλῆεν στίλβουσι^, πα^ρὰ^ κροτά^φων τε πα^ρειαὶ	HHHHHLLHLLHLLHH	HHHHHLLLLLHLLHH		παρά	ADP
+λαμπραὶ	λαμπραὶ ἀ^πὸ κρα_τὸς χα^ρί^εν κα^τέχουσι^ πρόσωπον	HLLHHHLLHLLHLLHH	HHL-HHLLHLLHLLHH	Case=Nom|Gender=Fem|Number=Plur	λαμπρός	ADJ
+ἀ^πὸ	λαμπραὶ ἀ^πὸ κρα_τὸς χα^ρί^εν κα^τέχουσι^ πρόσωπον	HLLHHHLLHLLHLLHH	HHL-HHLLHLLHLLHH		ἀπό	ADP
+κα_λὸν	τηλαυγές· κα_λὸν δὲ περὶ^ χροῒ^ λάμπεται ἔσθος	HHHHHLLHLLHLLHH	HHHLHLLLLLHLHHH	Case=Acc|Gender=Masc|Number=Sing	καλός	ADJ
+περὶ^	τηλαυγές· κα_λὸν δὲ περὶ^ χροῒ^ λάμπεται ἔσθος	HHHHHLLHLLHLLHH	HHHLHLLLLLHLHHH		περί	ADP
+λάμπεται	τηλαυγές· κα_λὸν δὲ περὶ^ χροῒ^ λάμπεται ἔσθος	HHHHHLLHLLHLLHH	HHHLHLLLLLHLHHH	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	λάμπω	VERB
+καὶ	ἔνθ' ἄ^ρ' ὅ γε στήσα_ς χρυ_σόζυ^γον ἅ^ρμα^ καὶ ἵππους	HLLHHHHHLLHLLHH	HLLHHHHHLLHLHHH		καί	CCONJ
+πέμπῃσι^	θεσπέσι^ος πέμπῃσι^ δι^' οὐρα^νοῦ ὠκεα^νὸν δέ.	HLLHHHLLHLLHLLHL	HLLHHH-LHLHHLLHL	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πέμπω	VERB
+οὐρα^νοῦ	θεσπέσι^ος πέμπῃσι^ δι^' οὐρα^νοῦ ὠκεα^νὸν δέ.	HLLHHHLLHLLHLLHL	HLLHHH-LHLHHLLHL	Case=Gen|Gender=Masc|Number=Sing	οὐρανός	NOUN
+ἡμι^θέων	ἡμι^θέων ὧν ἔργα^ θεοὶ θνητοῖσι^ν ἔδειξα^ν.	HLLHHHLLHHHLLHH	H-LHHHLLHHHLLHL	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἡμιθής	ADJ
+ἔδειξα^ν.	ἡμι^θέων ὧν ἔργα^ θεοὶ θνητοῖσι^ν ἔδειξα^ν.	HLLHHHLLHHHLLHH	H-LHHHLLHHHLLHL	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	δέξω	VERB
+δέμα^ς·	νῦν χὤτ' ἐν ἥβηι τοὐμὸν εὐσθένει δέμα^ς·	HHLHHHLHLHLH	HHLHHHLHLHLL	Case=Acc|Gender=Neut|Number=Sing	δέμας	NOUN
+Νύμφα_ς	Νύμφα_ς ὀρεία_ς ἐκλι^πὼν ὤιχου τροφούς·	HHLHHHLHHHLH	LHLHH-LHHHLH	Case=Gen|Gender=Fem|Number=Sing	νύμφη	NOUN
+ἐκλι^πὼν	Νύμφα_ς ὀρεία_ς ἐκλι^πὼν ὤιχου τροφούς·	HHLHHHLHHHLH	LHLHH-LHHHLH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἐκλείπω	VERB
+ἰ_τέα^ν	Ἐγκέλα^δον ἰ_τέα^ν ἐς μέσην θενὼν δορὶ^	HLLLHLLHLHLHLL	HLLLHLHHLHLHLL	Case=Acc|Gender=Fem|Number=Sing	ἰτέας	NOUN
+ὄνα^ρ	ἔκτεινα^ – φέρ' ἴ^δω, τοῦτ' ἰ^δὼν ὄνα^ρ λέγω;	HHLLLHHLHLHLH	HHLLLHHLHLLLH	Case=Nom|Gender=Neut|Number=Sing	ὄναρ	NOUN
+μα^κρά_ν,	ληιστῶν ἐπῶρσεν, ὡς ὁδηθείης μα^κρά_ν,	HHLHLHLHHHHH	HHLHLHLHHHLH		μακράν	ADV
+σὺ^ν	ἐγὼ πυ^θόμενος σὺ^ν τέκνοισι^ ναυστολῶ	LHLLLHHHHLHLH	LHLLLHL-HLHLH		σύν	ADP
+τέκνοισι^	ἐγὼ πυ^θόμενος σὺ^ν τέκνοισι^ ναυστολῶ	LHLLLHHHHLHLH	LHLLLHL-HLHLH	Case=Dat|Gender=Masc|Number=Plur	τέκνον	NOUN
+κα^τὰ^	σέθεν κα^τὰ^ ζήτησι^ν. ἐν πρύμνηι δ' ἄκραι	LHLHHHLHHHHH	LHLLHHLHHH-H		κατά	ADP
+Μα^λέα_ς	ἤδη δὲ Μα^λέα_ς πλησί^ον πεπλευκότα^ς	HHLLLHHLHHHLH	HHLLL-HLH-HLL	Case=Acc|Gender=Masc|Number=Plur	Μαλεῖς	NOUN
+πεπλευκότα^ς	ἤδη δὲ Μα^λέα_ς πλησί^ον πεπλευκότα^ς	HHLLLHHLHHHLH	HHLLL-HLH-HLL	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	πεπλευκότας	VERB
+πεπλευκότα^ς	ἤδη δὲ Μα^λέα_ς πλησί^ον πεπλευκότα^ς	HHLLLHHLHHHLH	HHLLL-HLH-HLL	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	πεπλευκότας	VERB
+ἐς	ἐξέβα^λεν ἡμᾶς τήνδ' ἐς Αἰτναία_ν πέτρα_ν,	HLLLHHHHHHHHH	HLLLHHHLHHH-H		εἰς	ADP
+πέτρα_ν,	ἐξέβα^λεν ἡμᾶς τήνδ' ἐς Αἰτναία_ν πέτρα_ν,	HLLLHHHHHHHHH	HLLLHHHLHHH-H	Case=Acc|Gender=Fem|Number=Sing	πέτρα	NOUN
