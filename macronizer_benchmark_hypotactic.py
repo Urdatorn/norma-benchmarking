@@ -14,6 +14,8 @@ from transformers import AutoTokenizer, AutoModelForTokenClassification
 from grc_utils import DICHRONA, is_vowel, lower_grc, short_set, syllabifier, is_diphthong, short_set
 from syllagreek_utils import preprocess_greek_line, syllabify_joined
 
+print("Imports complete.")
+
 def macronizer_scan(line):
 
   # -------- Load Model and Tokenizer (RoBERTa) --------
@@ -294,4 +296,6 @@ txt_files = [os.path.join(dir_path, f) for f in os.listdir(dir_path) if f.endswi
 failed_lines, failed_lines_baseline, total_lines = compare_predicted_scansion_with_gold(txt_files, debug=False)
 print(f"Macronized: Failed {failed_lines} out of {total_lines}, {failed_lines / total_lines}")
 print(f"Unmacronized baseline: Failed {failed_lines_baseline} out of {total_lines}, {failed_lines_baseline / total_lines}")
-
+with open("macronizer_benchmark_hypotactic.txt", "w", encoding="utf-8") as out_file:
+  out_file.write(f"Macronized: Failed {failed_lines} out of {total_lines}, {failed_lines / total_lines}\n")
+  out_file.write(f"Unmacronized baseline: Failed {failed_lines_baseline} out of {total_lines}, {failed_lines_baseline / total_lines}\n")
