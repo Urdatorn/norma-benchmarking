@@ -247,7 +247,7 @@ def compare_predicted_scansion_with_gold(txt_files, debug=False):
   failed_lines = 0
   failed_lines_baseline = 0
 
-  for txt in tqdm(txt_files):
+  for txt in tqdm(txt_files, total=len(txt_files), desc="Going through NSG..."):
     with open(txt, "r", encoding="utf-8") as file:
       lines = file.readlines()
       for line in lines:

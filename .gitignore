@@ -1,6 +1,7 @@
-norma-syllabarum-graecarum/
-
 .vscode/
+__pycache__/
+src/__pycache__/
 
+norma-syllabarum-graecarum/*
 plots/
 old/*
