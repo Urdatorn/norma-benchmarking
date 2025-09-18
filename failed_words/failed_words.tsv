@@ -1,351 +1,351 @@
-failed_word	gold_line	gold_pattern	predicted_pattern
-Χρι_στι^α_νῶν	οἶδ' ὅπως πρὸς τὰ_ς Κέλσου κα^τὰ^ Χρι_στι^α_νῶν ἐν συγγράμμα^σι^	HLHHHHHLHHLHHHHHLL	HLHHHHHLL--HHHHHLL
-πι^θα^νότητα^	καὶ ταῖς κα^τηγορί^αις μηδὲ πι^θα^νότητα^ εἰς τὸ δύ^να^σθαί τι^	HHLHLLHHLLLLHLHLLHHL	HHLHLLHHL-LLHLHLLLHL
-ἐνδιδόντος.	αὐτὰ_ς ἐνδιδόντος. Περὶ^ δὲ τοῦ Ἰησοῦ ὅτι^ ἐσι^ώπα_	HHHHHHLLLHHHHLLLLHH	HHH-HHLLLHLHHLLLLHH
-ἰ_σοδυ^να^μοῦντα^	πα^ρα^θέσθαι· τὰ^ γὰ^ρ ἰ_σοδυ^να^μοῦντα^ αὐτῷ ὁ Μάρκος ἔγραψεν.	LLHHLLHLLLHLHHLHLHHH	LLHHLLLLLLHLHHLHL-HH
-λέξι^ς·	Ἔχει δ' οὕτως ἡ τοῦ Ματθαίου λέξι^ς· Ὁ δὲ ἀρχι^ερεὺς	LHHHHHHHHHHLLHLLH	LHHHHHHHHHLLLH-LH
-ἀρχι^ερεὺς	Ἔχει δ' οὕτως ἡ τοῦ Ματθαίου λέξι^ς· Ὁ δὲ ἀρχι^ερεὺς	LHHHHHHHHHHLLHLLH	LHHHHHHHHHLLLH-LH
-συ^νέδρι^ον	καὶ τὸ συ^νέδρι^ον ἐζήτουν ψευδομαρτυ^ρί^α_ν κα^τὰ^ τοῦ Ἰησοῦ,	HLLHLLHHHHLHLLHLLHHHH	HLL--LHHHHLHLLHLLHLHH
-σι^δήρῳ	σι^δήρῳ καὶ ἀ^πα^θὴς τὸ σῶμα^ πλασσόμενος, εἶτα^	LHHHLLHLHHHLLLHL	-HHHLLHLLL-LLLHL
-'σχί^σα^ς	κα^τα^δὺ_ς ἄτρωτος ὑ^πὸ γῆν 'σχί^σα^ς ὀρθῷ ποδὶ^ γᾶν·	LLHHHLLLHLLHHLLH	LLH-HLLLHLHHHLLH
-ἀ^πολι^όρκητος	πα^λαίειν ἀ^ήττητός ἐστι^ καὶ περι^τειχι^ζόμενος ἀ^πολι^όρκητος 	LHHLHHLHLHLLHHLLLLLLHHH	LHHLHHLHLHLLHLLLLLL-HHH
-ἀ^νά^λωτος,	καὶ πωλούμενος ὑ^πὸ τῶν πολεμί^ων ἀ^νά^λωτος, οὐθὲν	HHHLLLLHLLLHLLHLHH	HHHLLLLHLLLHLHHLHH
-Εὐρι_πί^δου	Ὁ Εὐρι_πί^δου Ἰ^όλα_ος ἐξ ἀ^δρα^νοῦς καὶ πα^ρήλι^κος εὐχῇ	LHHLHLLHLHHLHHLHLLHH	LH-LHLLLLH-LHHLHLLHH
-Ἰ^όλα_ος	Ὁ Εὐρι_πί^δου Ἰ^όλα_ος ἐξ ἀ^δρα^νοῦς καὶ πα^ρήλι^κος εὐχῇ	LHHLHLLHLHHLHHLHLLHH	LH-LHLLLLH-LHHLHLLHH
-κα^τ'	ἀ^ρετὴν καὶ γέγονεν ἐκ ῥυ_σοῦ καὶ ὠχροῦ καὶ κα^τ' Αἰσχύ^λον	LLHHLLLHHHHHHHHHLH	LLHHLLL-HHHHHHLHLH
-ἀ^πὸ	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH
-λεπτοψα^μά^θων	Ζεὺς μὲν ἀ^φίκτωρ ἐπί^δοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ' ἀ^πὸ προστομί^ων λεπτοψα^μά^θων Νείλου. Δί_α_ν δὲ λι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH
-φυξα_νορί^αν,	ἀλλ' αὐτογενεῖ φυξα_νορί^αν, γά^μον Αἰγύπτου παίδων ἀ^σεβῆ τ' ὀνοταζόμεναι δι^ά^νοια^ν.	HHLLHHHLLHLLHHHHHLLHLLHLLHLLHH	HHLLHHLLLHLLHHHHHLLHLLHLLHLLHL
-Κρονί^δα_ο	εἰπέ, θεά_, Κρονί^δα_ο δι^άκτορον αἴθοπος αὐγῆς,	HLLHLLHLLHLLHLLHH	HLL-LLLL-HLLHLLHH
-δι^άκτορον	εἰπέ, θεά_, Κρονί^δα_ο δι^άκτορον αἴθοπος αὐγῆς,	HLLHLLHLLHLLHLLHH	HLL-LLLL-HLLHLLHH
-πυ^ρὸς	Βάκχου δισσοτόκοιο, τὸν ἐκ πυ^ρὸς ὑγρὸν ἀ^είρα_ς	HHHLLHLLHLLHLLHH	HH-LLHLLHHL-LLHH
-πότνι^α^	ἄ^ρσενι^ γαστρὶ^ λόχευσε, πα^τὴρ καὶ πότνι^α^ μήτηρ,	HLLHLLHLLHHHLLHH	LLL-LLHLLHH--LHH
-ἐγκύ_μονι^	ἄσπορον ὄγκον ἄ^πι^στον ἔχων ἐγκύ_μονι^ κόρσῃ,	HLLHLLHLLHHHLLHH	-LLHLLLLLHHLLLHH
-τι^νάξα^τε	ἄ^ξα^τέ μοι νάρθηκα^, τι^νάξα^τε κύ^μβα^λα^, Μοῦσαι,	HLLHHHLLHLLHLLHH	LLLHHHL-HLLLLLHH
-Δι^ονύ_σου:	καὶ πα^λά^μῃ δότε θύρσον ἀ^ειδομένου Δι^ονύ_σου:	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLH-LLH
-Δι^ονύ_σου:	καὶ πα^λά^μῃ δότε θύρσον ἀ^ειδομένου Δι^ονύ_σου:	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLH-LLH
-Γι^γά^ντων:	φρικτὰ^ δρα^κοντοκόμων ἐδα^ΐ^ζετο φῦλα^ Γι^γά^ντων:	HLLHLLHLLHLLHLLHH	HLLHLLHLLLLLHL-HH
-Κρα^τύ_λος	Κρα^τύ_λος φησὶ^ν ὅδε, ὦ Σώκρα^τες, ὀνόμα^τος ὀρθότητα^ εἶναι ἑκάστῳ τῶν ὄντων φύ^σει πεφυ_κυῖα^ν, καὶ οὐ τοῦτο εἶναι ὄνομα^ ὃ ἄ^ν τι^νες συ^νθέμενοι κα^λεῖν κα^λῶσι^, τῆς αὑτῶν φωνῆς μόρι^ον ἐπι^φθεγγόμενοι, ἀλλὰ^ ὀρθότητά^ τι^να^ τῶν ὀνομά^των πεφυ_κέναι καὶ Ἕλλησι^ καὶ βα^ρβά^ροις τὴν αὐτὴν ἅ^πα_σι^ν.	LHHHLLLHHLLLLLHHLHLHHLHHHHHLHLHHHHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHHLHHHHLHH	LLHHLLLHHLLLLLLHLHLHHL-HHHHLHLHHLHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHLLHHHHLHL
-Κρα^τύ_λος	ἐρωτῶ οὖν αὐτὸν ἐγὼ εἰ αὐτῷ Κρα^τύ_λος τῇ ἀ^ληθείᾳ ὄνομα^ ἐστὶ^ν ἢ οὔ· ὁ δὲ ὁμολογεῖ. 	LHHHHLLHHHHLHHHLHHHLLLHLHHLLLLLH	LHHHHLLHHHHLLHHLHHHLLLHLHHLLLLLH
-Κρα^τύ_λου	εἰ οὖν πῃ ἔχεις συ^μβα^λεῖν τὴν Κρα^τύ_λου μα^ντεία_ν, ἡδέως ἂ^ν ἀ^κούσαιμι^·	HHHLHHLHHLHHHHHHLHLLHHL	HHHLHLLHHLLHLHHHLHLLHHL
-Πρι^ά^μοιο	δὴ τότε Τρῶες ἔμιμνον ἀ^νὰ^ Πρι^ά^μοιο πόληα^	HLLHLLHLLHLLHLLHL	HL-HLLHLLL-LHLLHL
-θρα^σύφρονος	δειδι^ότες μένος ἠῢ^ θρα^σύφρονος Αἰα^κί^δα_ο:	HLLHLLHLLHLLHLLHL	HLLHLLH-H-LLHLLLL
-Αἰα^κί^δα_ο:	δειδι^ότες μένος ἠῢ^ θρα^σύφρονος Αἰα^κί^δα_ο:	HLLHLLHLLHLLHLLHL	HLLHLLH-H-LLHLLLL
-ἀ^νὰ^	ἰ_ληδὸν πτώσσουσαι ἀ^νὰ^ ῥωπήι^α^ πυκνά^:	HHHHHLLHHHLLHL	HHHHHHLLHHL-L
-πυκνά^:	ἰ_ληδὸν πτώσσουσαι ἀ^νὰ^ ῥωπήι^α^ πυκνά^:	HHHHHLLHHHLLHL	HHHHHHLLHHL-L
-ὄβρι^μου	ὥς οἱ ἀ^νὰ^ πτολί^εθρον ὑ^πέτρεσα^ν ὄβρι^μου ἄ^νδρα^	HLLHLLHLLHLLHLLHL	HHLLLL-LL-LL--HHL
-δι^᾽	ἄλλους θ᾽ ὡς ἐδά^ϊξε δι^᾽ ἀ_κα^μά^τοιο θα^λάσσης	HHHLLHLLHLLHLLHH	HHHLLHLLLLLHLL-H
-ἀ^νι_ηρὸν	ἀμφὶ^ δ᾽ ἄ^ρα^ σφί^σι^ πένθος ἀ^νι_ηρὸν πεπότητο	HLLHLLHLLHHHLLHL	HLLLLLHLL-HHLLHL
-πυ^ρὶ^	ὡς ἤδη στονόεντι^ κα^ταιθομένης πυ^ρὶ^ Τροίης.	HHHLLHLLHLLHLLHH	HHHLLHLLHLLHHLHH
-πνεύμα^τι^	ὄμμα^σι^ νωθρὰ^ βλέπουσα^· τὰ^ δ᾿, ἠύτε πνεύμα^τι^ φύλλα^,	HLLHLLHLLHHHLLHL	HLLHLLHLLHL-HLLLL
-πρί^ων	ἀλλ’ αὐτὸς ἔφερε πάντα^ χὠ πρί^ων ἀ^πῆν.	HHLLLLHLHLHLH	HHLLLLLLHHHLH
-Εἴσα^γ’,	ὁ δ’ ἀ^νεῖπεν· Εἴσα^γ’, ὦ Θέογνι^, τὸν χορόν.	LLHLHLHLHLHLH	LLHLHHHL-LHLH
-κα^τέσχε	ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κα^τέσχε πρῶτος,	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH
-ἐξι^πώκα^τον.	ὡς ἐμοῦ γε τὼ ξύ^λω τὸν ὦμον ἐξι^πώκα^τον.	HLHLHLHLHLHLHLL	HLHLHLHLHLH-HLH
-ἀ^ποσβεσθὲν	μή μ' ἀ^ποσβεσθὲν λά^θῃ πρὸς τῇ τελευτῇ τῆς ὁδοῦ.	HLHHHLHHHLHHHLH	HLHHHHHHHLHHHLH
-ἀρήξομεν;	Ἢ πότ' αὐτῇ μᾶλλον ἢ νῦν, ὦ Λά^χης, ἀρήξομεν;	HLHHHLHHHLHHHLH	HLHHHLHHHLHLHLH
-Νι_κοδί^κη,	Πέτου πέτου, Νι_κοδί^κη, πρὶ^ν ἐμπεπρῆσθαι Κα^λύ^κην τε καὶ Κρί^τυλλαν περι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH
-Κρί^τυλλαν	Πέτου πέτου, Νι_κοδί^κη, πρὶ^ν ἐμπεπρῆσθαι Κα^λύ^κην τε καὶ Κρί^τυλλαν περι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH
-περι^φυ_σήτω	Πέτου πέτου, Νι_κοδί^κη, πρὶ^ν ἐμπεπρῆσθαι Κα^λύ^κην τε καὶ Κρί^τυλλαν περι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH
-κνεφαία_	Νυνδὴ γὰ^ρ ἐμπλησα^μένη τὴν ὑ^δρί^αν κνεφαία_	HHLHHLLHHLLHLHH	HHLHHLLHH-LHLHL
-ἀ_ρα^μένη,	ἀ_ρα^μένη, ταῖσι^ν ἐμαῖς δημότι^σιν κα_ομέναις	HLLHHLLHHLLHHLLH	LLLHHLLHHL-LLLLH
-δημότι^σιν	ἀ_ρα^μένη, ταῖσι^ν ἐμαῖς δημότι^σιν κα_ομέναις	HLLHHLLHHLLHHLLH	LLLHHLLHHL-LLLLH
-κα_ομέναις	ἀ_ρα^μένη, ταῖσι^ν ἐμαῖς δημότι^σιν κα_ομέναις	HLLHHLLHHLLHHLLH	LLLHHLLHHL-LLLLH
-τυ_φογέροντα_ς	Ἤκουσα^ γὰρ τυ_φογέροντα_ς ἄνδρα^ς ἔρρειν, στελέχηφέροντα^ς ὥσπερ βα^λα^νεύσοντας	HHLHHLLHHHLHHLLHLHLHHLLHHL	HHLLHLLHLLLHHLLHLHLHHLLHHL
-πυ^ρὶ^	ὡς πυ^ρὶ^ χρὴ τὰς μυ^σα^ρὰς γυ^ναῖκα^ς ἀνθρα^κεύειν.	HLLHHLLHLHLHLHH	HHLHHLLHLHLHLHH
-θεά_,	Ἅ_ς, ὦ θεά_, μή ποτ' ἐγὼ πιμπρα^μένα_ς ἴ^δοιμι^,	HHLHHLLHHLLHLHL	HHLLHLLHHLLHLHL
-χρυ_σολόφα_	ἐφ' οἷσπερ, ὦ χρυ_σολόφα_	LHLHHLLH	LHLHHLLL
-κα^μα^τήρι^ος.	οὐδὲ γόνα^τ' ἂν κόπος ἕλοι με κα^μα^τήρι^ος.	HLLLHLLLHLLLHLL	HLLLLLLLHLLLH-H
-τουτῳὶ_	Ἀλλ' ἐπα^ποδυ^ώμεθ', ὦνδρες, τουτῳὶ_ τῷ πρά_γμα^τι^.	HLLLLHLHLHLHHHLL	HLLLLHLHHHHLH-LL
-ἐξεπά_ρωσιν	τὰς θεοῖς ἐχθρὰς γυ^ναῖκα^ς ἐξεπά_ρωσιν δόλῳ	HLHHHLHLHLHHHLH	HLHHHLHLHLLHLLH
-κἀ_κα^νηφόρουν	κἀ_κα^νηφόρουν ποτ' οὖσα^ παῖς κα^λὴ 'χουσ' ἰσχά^δων ὁρμα^θόν.	HLHLHLHLHLHHHLHHLH	LLHLHLHLHLHH-LHHLH
-κἀ_πι^δώσειν	κἀ_πι^δώσειν μοι δοκεῖ τὸ χρῆμα^ μᾶλλον.	HLHHHLHLHLHL	L-HHHLH-HLHH
-κἀ_πι^δώσειν	κἀ_πι^δώσειν μοι δοκεῖ τὸ χρῆμα^ μᾶλλον.	HLHHHLHLHLHL	L-HHHLH-HLHH
-Λειψύ^δρι^ον	Ἀλλ' ἄ^γετε λευκόποδες, οἵπερ ἐπὶ^ Λειψύ^δρι^ον	HLLLHLLLHLLLHLLL	HLLLHLLLHLLLH--H
-κἀ_ναπτερῶσαι	νῦν δεῖ, νῦν ἀ^νηβῆσαι πά^λιν κἀ_ναπτερῶσαι	HHHLHHHLHHHLHH	HHHLHHHLLLHLHH
-κἀ_ποσείσασθαι	πᾶν τὸ σῶμα^ κἀ_ποσείσασθαι τὸ γῆρας τόδε.	HLHLHLHHHLHHLL	HLLLLLH-HLHLLL
-ἂ^ν	ὡς ἂ^ν ὄζωμεν γυ^ναικῶν αὐτοδὰξ ὠργισμένων.	HLHHHLHHHLHHHLH	HHHHHLHHHLHH-LH
-ἵ^να^	Νῦν πρὸς ἔμ' ἴ^τω τι^ς, ἵ^να^ μήποτε φά^γῃ σκόροδα^,	HLLLHLLLHLLLHLLL	HLLLHLLHHLLLHLLL
-Κἀ_γὼ	Κἀ_γὼ βούλομαι μῦθόν τι^ν' ὑ_μῖν ἀντι^λέξαι τῷ Μελα^νί^ωνι^.	HHHLHHHLHHHLHHHLLLHL	LHHLHHH-HHH-HHHLLLHL
-τι^ν'	Κἀ_γὼ βούλομαι μῦθόν τι^ν' ὑ_μῖν ἀντι^λέξαι τῷ Μελα^νί^ωνι^.	HHHLHHHLHHHLHHHLLLHL	LHHLHHH-HHH-HHHLLLHL
-ἀντι^λέξαι	Κἀ_γὼ βούλομαι μῦθόν τι^ν' ὑ_μῖν ἀντι^λέξαι τῷ Μελα^νί^ωνι^.	HHHLHHHLHHHLHHHLLLHL	LHHLHHH-HHH-HHHLLLHL
-δύ^'	δεῖται λα^βεῖν, μνᾶς ἢ δύ^' ἢ τρεῖς· ὡς ἔσω 'στὶν κἄ_χομεν βαλλάντι^α^.	HHLHHHLHHHLHHHLHHHLL	HHLHHHHHHHLHHLLHLLLL
-κἄ_χομεν	δεῖται λα^βεῖν, μνᾶς ἢ δύ^' ἢ τρεῖς· ὡς ἔσω 'στὶν κἄ_χομεν βαλλάντι^α^.	HHLHHHLHHHLHHHLHHHLL	HHLHHHHHHHLHHLLHLLLL
-Ἑστι^ᾶν	Ἑστι^ᾶν δὲ μέλλομεν ξένους τι^νὰς Κα^ρυστί^ους, ἄνδρας κα^λούς τε κἀ_γα^θούς.	HLHLHLHLHLHLHLHHHLHLHLH	H-HLHLHLHLLL-LHLLLHLLLH
-κἀ_γα^θούς.	Ἑστι^ᾶν δὲ μέλλομεν ξένους τι^νὰς Κα^ρυστί^ους, ἄνδρας κα^λούς τε κἀ_γα^θούς.	HLHLHLHLHLHLHLHHHLHLHLH	H-HLHLHLHLLL-LHLLLHLLLH
-οὐχὶ^	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH
-ἀ^νασπά^σαι,	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH
-ἀ^νασπά^σαι,	καὶ μηδὲν οὕτως εὖ σεσημάνθαι τὸ μὴ οὐχὶ^ τοὺς ῥύ^πους ἀ^νασπά^σαι,	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH
-ἂ^ν	χἄττ' ἂ^ν ἔνδον ᾖ φορεῖν.	HLHLHLH	HHHLHLH
-πυ_ρί^δι^α^	ἔστι^ πα^ρ' ἐμοῦ λα^βεῖν πυ_ρί^δι^α^ λεπτὰ^ μέν,	HLLLHLHHLLLHLL	HLLLHLHLLLLHLH
-χοίνι^κος	ὁ δ'ἄρτος ἀ^πὸ χοίνι^κος ἰ^δεῖν μά^λα^ νεα_νί^ας.	LHLLLHLLLHLLLHLH	LHLLLH-LLHLHLHLH
-μά^λα^	ὁ δ'ἄρτος ἀ^πὸ χοίνι^κος ἰ^δεῖν μά^λα^ νεα_νί^ας.	LHLLLHLLLHLLLHLH	LHLLLH-LLHLHLHLH
-Μα_νῆς	καὶ κωρύ^κους· ὡς λήψεται πυ_ρούς. Ὁ Μα_νῆς δ' οὑμὸς αὐτοῖς ἐμβα^λεῖ.	HHLHHHLHHHLHHHLHHHLH	HHLHHHLHHHLLHHLHHHLH
-αἰσχύ^νην	ἡμῖν δ' ἂ^ν αἰσχύ^νην φέροι	HHLHLHLH	HHLHHHLH
-βρα^δύ_νειν	ὥστ' εἰκὸς ἡμᾶς μὴ βρα^δύ_νειν ἔστ' ἐπα^να^μενούσας	HHLHHHLHHHLLLLHH	HHLHHHLLHHLLLLH-
-σκι^ᾶς	ἀλλ' εἶα^ δεῦρ' ἐπὶ σκι^ᾶς ἐλθοῦσα^ πρὸς τὸ τειχί^ον,	HHLHLHLHHHLHLHLL	HHLHLL-HHHLHLHLH
-βρά^δυ_ν'·	καὶ μὴ βρά^δυ_ν'· ὡς τήνδε καὶ δὴ τὴν στρα^τηγὸν ἡμῶν	HHLHHHLHHHLHLHH	HHLLHHLHHHLHLHH
-ἄ_κουσαι	χαὖται γὰ^ρ ἄ_κουσαι πά^λαι τὸ σχῆμα^ τοῦτ' ἔχουσιν.	HHLHHHLHHHLHLHH	HHLLHHLHHHLHLHL
-Δί^α,	οἰμώζων ἄ^ρα^, νὴ Δί^α, σποδήσεις.	HHHLLHLHLHH	HHHLLHHHLHH
-τἀ_πὶ^	οὐ γὰρ τἀ_πὶ^ Χα^ριξένης τά^δ' ἐστίν.	HHHLLHLHLHH	HLLLLHLHLHL
-δημοκρα^τούμεθα_.	ἔστι^ δί^καιον, εἰ δημοκρα^τούμεθα_.	HLLHLHHLLHLH	HLLHLHH-LHLL
-ἱ_κετεύω,	εἰρημέν' ἐστίν. σὺ^ δέ μοι, φίλτα^τον, ὢ ἱ_κετεύω,	HHLHHLLHHLLHLHH	HHLHLLLHHLLHHLHH
-τι^νάσσων	πολύ^καρπον μὲν τι^νάσσων	LLHHHLHH	LLLHH--H
-κἀ_πισκώπτων	κἀ_πισκώπτων	HHHH	L-HH
-ἀ_ρεῖς	Ἀλλ' ἔμβα_ χὤπως ἀ_ρεῖς	HHHHHHH	HHHHHLH
-Θωρυ^κί^ων	κἂν Θωρυ^κί^ων μὴ βούληται.	HHLLHHHHH	HHHLHHHHH
-ταινι^οῦσθαι.	παίσαντα^ καὶ σκώψαντα^ νι_κήσαντα^ ταινι^οῦσθαι.	HHLHHHLHHHLHLHH	HLLHHHLHHLLH-HH
-κἀ_π'	κἀ_π' εὐτελείᾳ τόδε τὸ σανδα^λίσκον	HHLHHLLLHLHH	LHLHHLLLHLLH
-μεμυ^ήμεθ'	ὅσοι μεμυ^ήμεθ' εὐσεβῆ τε δι^ήγομεν	LHLLHLHLHLLHLH	LHLHHLHLHL-HLH
-δι^ήγομεν	ὅσοι μεμυ^ήμεθ' εὐσεβῆ τε δι^ήγομεν	LHLLHLHLHLLHLH	LHLHHLHLHL-HLH
-περι^πεπλευκότος,	Ταῦτα^ μὲν πρὸς ἀνδρός ἐστι^ νοῦν ἔχοντος καὶ φρένας καὶ πολλὰ^ περι^πεπλευκότος,	HLHLHLHLHLHHHLHHHLLLLHLH	HLHLHLHLHLHHHLLHHLL--HLH
-Θηρα_μένους.	δεξι^οῦ πρὸς ἀνδρός ἐστι^ καὶ φύ^σει Θηρα_μένους.	HLHLHLHLHLHHHLH	HLHLHLHLHLHHLLH
-Μι^λησί^οις	Οὐ γὰ^ρ ἂν γέλοιον ἦν, εἰ Ξανθί^ας μὲν δοῦλος ὢν ἐν στρώμα^σιν Μι^λησί^οις	HLHLHLHHHLHHHLHHHLHLHLH	HLLLHLHHHLHHHLHHHLL-HLH
-ἁ^μί^δ',	ἀ^να^τετραμμένος κυ^νῶν ὀρ χηστρί^δ' εἶτ' ᾔτησεν ἁ^μί^δ', ἐγὼ δὲ πρὸς τοῦτον βλέπων	LLLHLHLHHHLHHHLLLLHLHHHLH	LL-HLHLHHHLHHHLHLLH-HHHLH
-τέρψι^ν	Μοῦσα^, χορῶν ἱ^ερῶν ἐπί^βηθι^ καὶ ἔλθ' ἐπὶ^ τέρψι^ν ἀ^οιδᾶς ἐμᾶς,	HLLHLLHLLHLLHLLHLLHHLH	HLLHLLHLLHLHHLLH-LHHLH
-Θρῃκί^α_	Θρῃκί^α_ χελι_δὼν	HLHLHH	HLLLHH
-ἀ^ηδόνι^ον	ἐπὶ^ βάρβα^ρον ἑζομένη πέτα^λον· τρύζει δ' ἐπί^κλαυτον ἀ^ηδόνι^ον νόμον, ὡς ἀ^πολεῖται, κἂ_ν ἴ^σαι γένωνται.	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHHHLHLHH	LLLLLHLLHLLHHHL-HLLHL-HLLHLLHHHLHLHH
-ἐνδι^α^τρίψει·	χρόνον ἐνδι^α^τρίψει· ἰ^δὼν δὲ τά^δ' οὐκ εἰρηνι^κὸς ἔσθ', ἵ^να^ μή ποτε κἀ_ποδυ^θῇ μεθύ^ων ἄ^νευ ξύ^λου βα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH
-ἵ^να^	χρόνον ἐνδι^α^τρίψει· ἰ^δὼν δὲ τά^δ' οὐκ εἰρηνι^κὸς ἔσθ', ἵ^να^ μή ποτε κἀ_ποδυ^θῇ μεθύ^ων ἄ^νευ ξύ^λου βα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH
-κἀ_ποδυ^θῇ	χρόνον ἐνδι^α^τρίψει· ἰ^δὼν δὲ τά^δ' οὐκ εἰρηνι^κὸς ἔσθ', ἵ^να^ μή ποτε κἀ_ποδυ^θῇ μεθύ^ων ἄ^νευ ξύ^λου βα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH
-ἂ^ν	ἡνί^κ' ἂ^ν ὀξύ^λα^λόν περ ἴ^δῃ θήγοντος ὀδόντα^	HLLHLLHLLHHHLLHL	HLHHLLHLLHHHLLHL
-πα^ραξόνι^α	σκινδα^λά^μων τε πα^ραξόνι^α σμι_λευμα^τοεργοῦ	HLLHLLHLLHHHLLHH	HLLHLLHL-L-HLLHH
-σμι_λευμα^τοεργοῦ	σκινδα^λά^μων τε πα^ραξόνι^α σμι_λευμα^τοεργοῦ	HLLHLLHLLHHHLLHH	HLLHLLHL-L-HLLHH
-ἱπποβά_μονα^.	ῥήμα^θ' ἱπποβά_μονα^.	HLHLHLL	HHHLLLL
-λοφι^ᾶς	Φρίξας δ' αὐτοκόμου λοφι^ᾶς λα^σι^αύχενα^ χαίταν,	HHHLLHLLHLLHLLHH	LHHLLHL-HL-HLLHH
-λα^σι^αύχενα^	Φρίξας δ' αὐτοκόμου λοφι^ᾶς λα^σι^αύχενα^ χαίταν,	HHHLLHLLHLLHLLHH	LHHLLHL-HL-HLLHH
-ἐπισκύ^νι^ον	δεινὸν ἐπισκύ^νι^ον ξυ^νά^γων, βρυ_χώμενος ἥσει	HLLHLLHLLHHHLLHH	HLLLL-HLLHHHLLHH
-φυ^σήμα^τι^.	γηγενεῖ φυ^σήμα^τι^.	HLHLHLL	HLHHHLL
-γεννά^δα_,	Ἀλλ' ὅπως, ὦ γεννά^δα_,	HLHHHLH	HLHHHLL
-ἐπα^ναστρέφειν	ὁ δ' ἐπα^ναστρέφειν δύ^νηται κἀ_περείδεσθαι τορῶς.	LLLHLHLHHHLHHHLH	LLL-LHHHHLLHHHLH
-δύ^νηται	ὁ δ' ἐπα^ναστρέφειν δύ^νηται κἀ_περείδεσθαι τορῶς.	LLLHLHLHHHLHHHLH	LLL-LHHHHLLHHHLH
-χἄ_τεραι	εἰσβολαὶ γά^ρ εἰσι^ πολλαὶ χἄ_τεραι σοφισμά^των.	HLHLHLHHHLHLHLH	HLHLHLHHLLHLLLH
-κἀ_ποκινδυ^νεύετον	τά^ τε πα^λαιὰ^ καὶ τὰ^ καινά^, κἀ_ποκινδυ^νεύετον λεπτόν τι^ καὶ σοφὸν λέγειν	LLLHLHLHLHLHLHLHHHLHLHLH	LLLHLHLHLLLHHHLHHHLHLHLH
-κἀ_ποκινδυ^νεύετον	τά^ τε πα^λαιὰ^ καὶ τὰ^ καινά^, κἀ_ποκινδυ^νεύετον λεπτόν τι^ καὶ σοφὸν λέγειν	LLLHLHLHLHLHLHLHHHLHLHLH	LLLHLHLHLLLHHHLHHHLHLHLH
-δεξι^ά_·	βιβλί^ον τ' ἔχων ἕκαστος μανθά^νει τὰ^ δεξι^ά_·	HLHLHLHHHLHLHLH	-LHLHL-HLLHLH-L
-δεξι^ά_·	βιβλί^ον τ' ἔχων ἕκαστος μανθά^νει τὰ^ δεξι^ά_·	HLHLHLHHHLHLHLH	-LHLHL-HLLHLH-L
-Πά^ρα^	Πά^ρα^ δὲ πολλοῖσιν μα^θεῖν.	LLLHHHLH	LHLHHLLH
-πα^ρα^λι^πόντα^	τά^ τε μέγιστα^ πα^ρα^λι^πόντα^	LLLHLLLLHL	LLLLLLL-HL
-στι^βά^δα^ς	πράγμα^τά^ τε καὶ στι^βά^δα^ς ἃ_ς ἔλα^χε Φορμί^ων·	HLLLHLLLHLLLHLH	HLLLH-LHHLLLHLH
-στι^βά^δα^ς	πράγμα^τά^ τε καὶ στι^βά^δα^ς ἃ_ς ἔλα^χε Φορμί^ων·	HLLLHLLLHLLLHLH	HLLLH-LHHLLLHLH
-παλίγκοτος	Μὴ γένῃ παλίγκοτος ἀντιβολοῦσιν ἡμῖν,  ὥστε τήνδε μὴ λα^βεῖν·	HLHHLHLHLH	HLHLHLLHLLHLHHHLHLHLH
-ἀ^νερπύ^σαι.	δαιμόνι^α^ βουλόμενος εἰς ἀ^γρὸν ἀ^νερπύ^σαι.	HLLLHLLLHLLLHLH	HLLLHLLLH-LLHHH
-γεωργικὸν	πᾶσι^ν ὁπόσοι γεωργικὸν βίον ἐτρίβομεν· μόνη γὰ^ρ ἡμᾶς ὠφέλεις.	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH
-ἐτρίβομεν·	πᾶσι^ν ὁπόσοι γεωργικὸν βίον ἐτρίβομεν· μόνη γὰ^ρ ἡμᾶς ὠφέλεις.	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH
-κἀ_δά^πα^να^	Πολλὰ^ γὰ^ρ ἐπάσχομεν πρίν ποτ' ἐπὶ^ σοῦ γλυ^κέα^ κἀ_δά^πα^να^ καὶ φί^λα_.	HLLLHLHHLLLHLLLHLLLHLH	HLLL-LHLLLLHLLLLLLLHLH
-ἀμπέλι^α^	Ὥστε σὲ τά^ τ' ἀμπέλι^α^ καὶ τὰ^ νέα^ συ_κί^δι^α^ τἄλλα^ θ' ὁπόσ' ἐστὶ^ φυ^τὰ^ προσγελά^σεται λα^βόντ' ἄσμενα^.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLL	HLLLHL-LHLLHHL-LHLLLHLLLHLLLHLH-LL
-νέα^	Ὥστε σὲ τά^ τ' ἀμπέλι^α^ καὶ τὰ^ νέα^ συ_κί^δι^α^ τἄλλα^ θ' ὁπόσ' ἐστὶ^ φυ^τὰ^ προσγελά^σεται λα^βόντ' ἄσμενα^.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLL	HLLLHL-LHLLHHL-LHLLLHLLLHLLLHLH-LL
-συ_κί^δι^α^	Ὥστε σὲ τά^ τ' ἀμπέλι^α^ καὶ τὰ^ νέα^ συ_κί^δι^α^ τἄλλα^ θ' ὁπόσ' ἐστὶ^ φυ^τὰ^ προσγελά^σεται λα^βόντ' ἄσμενα^.	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLL	HLLLHL-LHLLHHL-LHLLLHLLLHLLLHLH-LL
-κἀ_πεμπίπτω	κἀ_πεμπίπτω καὶ σπουδάζω;	HHHHHHHH	LHHHHHHH
-ἀντι^βολῇ	ἀντι^βολῇ μετὰ^ τῶν παίδων χορεῦσαι, μήθ' ὑ^πά^κουε μήτ' ἔλθῃς συ^νέρι_θος αὐτοῖς, ἀλλὰ^ νόμιζε πάντας	HLLHLLHHHLHHHLLHLHHHLLHLHHHLLHLHL	H-LHLLHHHLHHHLLHLHHHLLHLHHHLLHLLL
-να_νοφυ^εῖς,	να_νοφυ^εῖς, σφυ^ρά^δων ἀ^ποκνήσμα^τα^, μηχα^νοδί_φας.	HLLHLLHLLHLLHLLHH	LLLHHLHL-HLLHLLLH
-σφυ^ρά^δων	να_νοφυ^εῖς, σφυ^ρά^δων ἀ^ποκνήσμα^τα^, μηχα^νοδί_φας.	HLLHLLHLLHLLHLLHH	LLLHHLHL-HLLHLLLH
-μηχα^νοδί_φας.	να_νοφυ^εῖς, σφυ^ρά^δων ἀ^ποκνήσμα^τα^, μηχα^νοδί_φας.	HLLHLLHLLHLLHLLHH	LLLHHLHL-HLLHLLLH
-δα_μώμα^τα^	Τοιά^δε χρὴ Χα^ρί^των δα_μώμα^τα^ καλλι^κόμων	HLLHLLHHHLLHLLH	HH-HLLHLHLLH-LH
-καλλι^κόμων	Τοιά^δε χρὴ Χα^ρί^των δα_μώμα^τα^ καλλι^κόμων	HLLHLLHHHLLHLLH	HH-HLLHLHLLH-LH
-γηρύ_σαντος	πικροτά^την ὄπα^ γηρύ_σαντος ἤκουσ', ἡνί^κα^ τῶν τρα^γῳδῶν τὸν χορὸν εἶχον ἁ_δελφός τε καὶ αὐτός, ἄμφω	HLLHLLHHHLHHHLLHLHHHLLHLHHHLLHLHH	-LLHLLHLHLHHHLLHLHHHLLHLHHHLHHLHH
-βα^τι^δοσκόποι	Γοργόνες ὀψοφά^γοι, βα^τι^δοσκόποι Ἅρπυιαι,	HLLHLLHLLHLLHHH	HLLHLLHL-HLHHHH
-γρα_οσόβαι	γρα_οσόβαι μι^α^ροί, τρα^γομάσχα^λοι ἰχθυ^ολῦμαι·	HLLHLLHLLHLLHLLHH	LLLHLLHLL-LHHLLHH
-θεὰ_	Μοῦσα^ θεὰ_ μετ' ἐμοῦ ξύμπαιζε τὴν ἑορτήν.	HLLHLLHHHLHLHH	HLLLLLHHHLHLHH
-Εὐδαιμονι^κῶς	Εὐδαιμονι^κῶς γ' ὁ πρεσβύ_της, ὅσα^ γ' ὧδ' ἰ^δεῖν, τὰ^ νῦν τά^δε πράττει.	HHLLHLHHHLLHLHLHLLHH	HHL-H-HLHLLHLHLHL-HH
-πρεσβύ_της,	Εὐδαιμονι^κῶς γ' ὁ πρεσβύ_της, ὅσα^ γ' ὧδ' ἰ^δεῖν, τὰ^ νῦν τά^δε πράττει.	HHLLHLHHHLLHLHLHLLHH	HHL-H-HLHLLHLHLHL-HH
-ὄντα_;	Τί^ δῆτ', ἐπειδὰν νυμφί^ον μ' ὁρᾶτε λαμπρὸν ὄντα_;	LHLHHHLHLHLHLHH	LHLHLHLHLHLHLHL
-κι^νεῖν	ἅ^παντα^ς ὄντα^ς ἀσφα^λῶς κι^νεῖν τε καὶ κα^θεύδειν.	LHLHLHLHLHLHLHH	LLLHLLLHHHLHLHH
-εἰμι_.	Ὅταν τρυ^γᾶτ', εἴσεσθε πολλῷ μᾶλλον οἷός εἰμι_.	LHLHHHLHHHLHLHH	LLLHHHLHHHLHLHL
-Τρυ^γαῖος	Πολλῶν γὰ^ρ ὑ_μῖν ἄ_ξι^ος Τρυ^γαῖος Ἁθμονεὺς ἐγώ,	HHLHHHLHLHLHLHLH	HHLHHLLHHHL-LHLH
-νυ_ν	Ἄγ' ἐπείγετέ νυ_ν ἐν ὅσῳ σοβα^ρὰ_	LLHLLHLLHLLH	LLHLLLLLHLLL
-σοβα^ρὰ_	Ἄγ' ἐπείγετέ νυ_ν ἐν ὅσῳ σοβα^ρὰ_	LLHLLHLLHLLH	LLHLLLLLHLLL
-μετα^βι^βάζει.	εἰς ἀ^γα^θὰ^ μετα^βι^βάζει.	HLLLLLLHH	HLLLLL-LH
-δευρὶ_	σχίζας δευρὶ_ τι^θέναι τα^χέως	HHHHLLHLLH	LHHLLLHLLH
-σχίζα^	Ἡ σχίζα^ γοῦν ἐνημμένη τὸν Στιλβί^δην πι^έζει.	HHLHLHLHHHLHLHH	HLHHLHLHHHLHLHH
-φι^ληδῶ	Οὐ γὰρ φι^ληδῶ μά^χαις,	HHLHHLH	HL-HHLH
-ἂ^ν	ἐκκέας, τῶν ξύ^λων ἅττ' ἂ^ν ᾖ δα_νότα^τα^ τοῦ θέρους	HLHHLHHLHHLLLHLH	HL-HLHHHHLLLLHLH
-δα_νότα^τα^	ἐκκέας, τῶν ξύ^λων ἅττ' ἂ^ν ᾖ δα_νότα^τα^ τοῦ θέρους	HLHHLHHLHHLLLHLH	HL-HLHHHHLLLLHLH
-ἐκπεπρεμνισμένα_	ἐκπεπρεμνισμένα_	HLHHLH	H-H-LL
-χἄ_μα^	χἄ_μα^ τὴν Θρᾷτταν κυ^νῶν	HLHHHLH	LHHHHLH
-χἄ_μα^	χἄ_μα^ τὴν Θρᾷτταν κυ^νῶν	HLHHHLH	LHHHHLH
-κἀ_πέχω	ἐσθί^ω κἀ_πέχω	HLHHLH	HLHLLH
-χἄ_μα^	χἄ_μα^ φήμ'· «Ὧραι φί^λαι·» καὶ τοῦ θύ^μου τρί^βων κυ^κῶμαι·	HLHHHLHHHLHLHLHH	LHHHHLHHHLHHHLHH
-χἄ_μα^	χἄ_μα^ φήμ'· «Ὧραι φί^λαι·» καὶ τοῦ θύ^μου τρί^βων κυ^κῶμαι·	HLHHHLHHHLHLHLHH	LHHHHLHHHLHHHLHH
-τρί^βων	χἄ_μα^ φήμ'· «Ὧραι φί^λαι·» καὶ τοῦ θύ^μου τρί^βων κυ^κῶμαι·	HLHHHLHHHLHLHLHH	LHHHHLHHHLHHHLHH
-δι^καστήρι^',	καὶ τέλη καὶ γρα^φαὶ καὶ δι^καστήρι^', ὦ βορβοροτά^ραξι^ καὶ τὴν πόλι^ν ἅ^πα_σα^ν ἡμῶν ἀ^να^τετυρβα^κώς,	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	HLHHLHHL-HHHHLLLHLHHLLLHLHHLLLHLH
-κἀ_πὸ	κἀ_πὸ τῶν πετρῶν ἄ^νωθεν τοὺς φόρους θυννοσκοπῶν.	HLHLHLHHHLHHHLH	LLH-HLHHHLHHHLH
-ἔπι^θι^	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH
-ἔπι^θι^	καὶ τὸ πρᾶγμ' ἦν ἄ^ρ' οὐ φαῦλον ὧδ'-u- ἄλλ' ἔπι^θι^ καὶ στρόβει, μηδὲν ὀλί^γον πόει· νῦν γὰ^ρ ἔχεται μέσος.	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH
-Κρα^τί_νου	Εἴ σε μὴ μι_σῶ, γενοίμην ἐν Κρα^τί_νου κῴδι^ον	HLHHHLHHHLHHHLH	HLHHHLHHHLLHH-H
-κῴδι^ον	Εἴ σε μὴ μι_σῶ, γενοίμην ἐν Κρα^τί_νου κῴδι^ον	HLHHHLHHHLHHHLH	HLHHHLHHHLLHH-H
-τρα^γῳδί^ᾳ.	καὶ δι^δασκοίμην προσᾴδειν Μορσί^μου τρα^γῳδί^ᾳ.	HLHHHLHHHLHLHLH	HLLHHLHHHLHLHHH
-πυ_ροπί_πην,	Τὸν Οὐλί^ου τ' ἂ^ν οἴομαι, γέροντα^ πυ_ροπί_πην,	LHLHLHLHLHLHLHH	LHLHLHLHLHLLLLH
-λαμπρυ_νομένων	μειρα^κί^ων θ' ἅ^μιλλα^ λαμπρυ_νομένων ἐν ἅρμα^σιν	HLLHLHLHHLLHLHLH	HLLHLHLHLLLHLLLL
-Σουνι^ά^ρα_τε,	δεῦρ' ἔλθ' εἰς χορόν, ὦ χρυ_σοτρί^αιν', ὦδελφί_νων μεδέων Σουνι^ά^ρα_τε,	HHHLLHHLLHHHHHLLHHLLHL	HHHLLHH-LHHHHHLLHH-HLL
-Σουνι^ά^ρα_τε,	δεῦρ' ἔλθ' εἰς χορόν, ὦ χρυ_σοτρί^αιν', ὦδελφί_νων μεδέων Σουνι^ά^ρα_τε,	HHHLLHHLLHHHHHLLHHLLHL	HHHLLHH-LHHHHHLLHH-HLL
-Σουνι^ά^ρα_τε,	δεῦρ' ἔλθ' εἰς χορόν, ὦ χρυ_σοτρί^αιν', ὦδελφί_νων μεδέων Σουνι^ά^ρα_τε,	HHHLLHHLLHHHHHLLHHLLHL	HHHLLHH-LHHHHHLLHH-HLL
-πολι^οῦχε	Ὦ πολι^οῦχε Παλλά^ς, ὦ τῆς ἱ^ερωτά^της ἁ^πα_σῶν πολέμῳ τε καὶ ποηταῖς δυ^νά^μει θ' ὑ^περφερούσης μεδέουσα^ χώρας,	HLLHLHLHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH	HL-HLHHHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH
-Παλλά^ς,	Ὦ πολι^οῦχε Παλλά^ς, ὦ τῆς ἱ^ερωτά^της ἁ^πα_σῶν πολέμῳ τε καὶ ποηταῖς δυ^νά^μει θ' ὑ^περφερούσης μεδέουσα^ χώρας,	HLLHLHLHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH	HL-HLHHHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH
-πά_σῃ	Νῦν οὖν δεῦρο φά^νηθι^· δεῖ γὰρ τοῖς ἀνδρά^σι^ τοῖσδε πά_σῃ τέχνῃ πορί^σαι σε νί_κην εἴπερ ποτὲ καὶ νῦν.	HHHLLHLHHHHLLHLHHHHLLHLHHHHLLHH	HHHLLHLHLHLLLHLLH-HLLHLHHHHLLHH
-ἀ^γωνι^εῖ	Ἀλλ' ὅπως ἀ^γωνι^εῖ φρόν τιζε τἀ_πί^λοιπ' ἄ^ριστα^· συμμά^χους δ' ἡμᾶς ἔχων εὔνους ἐπίστα^σαι πά^λαι.	HLHLHLHHHLHLHLHLHLHHHLHHHLHLHLH	HLHLH-HHHLLLHLHLLLHHHLHHHL-LHLH
-τἀ_πί^λοιπ'	Ἀλλ' ὅπως ἀ^γωνι^εῖ φρόν τιζε τἀ_πί^λοιπ' ἄ^ριστα^· συμμά^χους δ' ἡμᾶς ἔχων εὔνους ἐπίστα^σαι πά^λαι.	HLHLHLHHHLHLHLHLHLHHHLHHHLHLHLH	HLHLH-HHHLLLHLHLLLHHHLHHHL-LHLH
-κά^λων	Νῦν δή σε πάντα^ δεῖ κά^λων ἐξι_έναι σεαυτοῦ,	HHLHLHLHHHLHLHH	HHLLLHHHHHLHLHH
-θούρι^ον	καὶ λῆμα^ θούρι^ον φορεῖν καὶ λόγους ἀ^φύκτους,	HHLHLHLHHLHLHH	HHLH-HLHHLHLLH
-ἄνδρα_.	Πρὸς ταῦθ' ὅπως ἔξει πολὺς καὶ λαμπρὸς εἰς τὸν ἄνδρα_.	HHLHLHLHHHLHLHH	HHLHHHLLHHLHLHL
-τορύ_νη.	ὡς εἰ μὴ 'γένεθ' οὗτος ἐν τῇ πόλει μέγα^ς, οὐκ ἂ^ν ἤστην σκεύει δύ^ο χρησί^μω, δοῖδυξ οὐδὲ τορύ_νη.	HHHLLHLHHLHLLHLHHHHLLHLHHHHLLHH	HHHLLHLHHLHLLHLHHHHL-HLHHHHLLLH
-δεδί^α_σί^	ἀρχήν, ὅτε πάντες ἄνθρωποι δεδί^α_σί^ σ' ὥσπερ ἄνδρα^ τύ^ραννον.	HHLLHLHHHLLHLHLHLLHL	HHLLHLHHHLHHLHLHLLLH
-ἂ^ν	τούτων ὃς ἂ^ν ᾖ πα^χύς,	HHLLHLH	HHLHHLL
-κἄ_μ'	αὐτοὺς περι^έρχομαι τοὺς οἰομένους φρονεῖν κἄ_μ' ἐξα^πα^τύλλειν.	HHLLHLHHHLLHLHHHLLHH	HHLLHLHHHLLHLHLHLLLH
-Λυ_σίστρα^τον,	μηδὲν εἰς Λυ_σίστρα^τον,	HLHHHLH	HLHL-LH
-ἀ^νέστι^ον	μηδὲ Θούμαντιν τὸν ἀ^νέστι^ον αὖ	HLHHHLLHLLH	HLHHLLLH-LH
-Πυ_θῶνι^	Πυ_θῶνι^ δί_ᾳ μὴ κα^κῶς πένεσθαι.	HHLHHHLHLHH	LHLHHHLHLHH
-γάρ	Φα_σὶ^ μὲν γάρ αὐτὸν ἐρεπτόμενον	HLHHHLLHLLH	HLHLHLLHLLH
-βα^ρύ_νεται,	καὶ πα^λαιῷ Λακρα^τείδῃ τὸ σκέλος βα^ρύ_νεται,	HLHHHLHHHLHLHLH	HLHH-LHHHLHLLLH
-Δι_ωκτέος	οἴχεται. Δι_ωκτέος δέ· μὴ γὰ^ρ ἐγχά^νοι ποτὲ	HLHHHLHLHLHLHLL	HLHLHLHLHLHLHLL
-ἵ^να^	κοὐκ ἀ^νήσω πρὶ^ν ἂν σχοῖνος αὐτοῖσι^ν ἀντεμπα^γῶ καὶ σκόλοψ ὀξύ^ς, ὀδυ^νηρός, ἐπί^κωπος, ἵ^να^ μήποτε πα^τῶσι^ν ἔτι^ τὰ_ς ἐμὰ_ς ἀμπέλους.	HLHHLHHLHHLHHLHHLHHLLLHLLLHLLLHLLLHLLLHLHHLH	HLHHLHHLHHLHHLHHLHHLLLHLLLHLLHHLLLHLLLHLHHLH
-τουτὶ_	Ἡρά^κλεις τουτὶ_ τί^ ἐστι^; τὴν χύ^τραν συντρίψετε.	HLHHHLHLHLHHHLL	H-HHLLHLH-HHHLL
-μι^α^ρὰ_	Σὲ μὲν οὖν κα^τα^λεύσομεν, ὦ μι^α^ρὰ_ κεφα^λή.	LLHLLHLLHLLHLLH	LLHLLHLLH-LLLLH
-μι^α^ρὰ_	Σὲ μὲν οὖν κα^τα^λεύσομεν, ὦ μι^α^ρὰ_ κεφα^λή.	LLHLLHLLHLLHLLH	LLHLLHLLH-LLLLH
-ἠκούσα^τ';	Ἀντὶ^ δ' ὧν ἐσπεισά^μην ἠκούσα^τ'; Ἀλλ' ἀ^κούσα^τε.	HLHHHLHHHLHLHLL	HLHHHLHHHHHLHLL
-φι^λανθρα^κέα_;	Ἀ^πολεῖς ἄ^ρ' ὁμήλι^κα^ τόνδε φι^λανθρα^κέα_;	LLHLLHLLHLLHLLH	LLHLLHLLHL-HLLL
-φι^λανθρα^κέα_;	Ἀ^πολεῖς ἄ^ρ' ὁμήλι^κα^ τόνδε φι^λανθρα^κέα_;	LLHLLHLLHLLHLLH	LLHLLHLLHL-HLLL
-Οὑτοιί_	Οὑτοιί_ σοι χα^μαί, καὶ σὺ^ κα^τά^θου πά^λιν τὸ ξί^φος.	HLHHLHHLLLHLHHLH	HHLHLHHLLLHLLHLH
-ἁ_γὼν	ὡς σκῆψι^ν ἁ_γὼν οὗτος οὐκ εἰσδέξεται.	HHLHHHLHHHLH	HHLLHHLHHHLH
-φλεγυ^ρὰ_	δεῦρο Μοῦσ' ἐλθὲ φλεγυ^ρὰ_ πυ^ρὸς ἔχουσα^ μένος,	HLHHLLLHLLLHLLL	HLHH-LLLHLLHLLH
-πυ^ρὸς	δεῦρο Μοῦσ' ἐλθὲ φλεγυ^ρὰ_ πυ^ρὸς ἔχουσα^ μένος,	HLHHLLLHLLLHLLL	HLHH-LLLHLLHLLH
-ἀ^νήλα^τ'	οἷον ἐξ ἀνθρά^κων πρι_νί^νων φέψα^λος ἀ^νήλα^τ' ἐρεθιζόμενος οὐρί^ᾳ ῥι_πί^δι^,	HLHHLHHLHHLLLHLLLHLLLHLHHLL	HLHHLHHLHHLLLHHLLHLLLHLH-LL
-ῥι_πί^δι^,	οἷον ἐξ ἀνθρά^κων πρι_νί^νων φέψα^λος ἀ^νήλα^τ' ἐρεθιζόμενος οὐρί^ᾳ ῥι_πί^δι^,	HLHHLHHLHHLLLHLLLHLLLHLHHLL	HLHHLHHLHHLLLHHLLHLLLHLH-LL
-ἂ^ν	ἡνί^κ' ἂ^ν ἐπανθρα^κί^δες ὦσι^ πα^ρα^κείμεναι,	HLLLHLLLHLLLHLH	HLHLHLLLHLLLHLH
-Θα^σί^αν	οἱ δὲ Θα^σί^αν ἀ^να^κυ^κῶσι^ λι^πα^ράμπυ^κα^,	HLLLHLLLHLLLHLL	HLLLLLLLHL-LHLL
-λι^πα^ράμπυ^κα^,	οἱ δὲ Θα^σί^αν ἀ^να^κυ^κῶσι^ λι^πα^ράμπυ^κα^,	HLLLHLLLHLLLHLL	HLLLLLLLHL-LHLL
-τἀ_γορᾷ	οὐδ' ἐντυ^χὼν ἐν τἀ_γορᾷ πρόσεισί^ σοι βα^δίζων	HHLHHHLHLHLHLHH	HHLHHLLHLHLHLHH
-τρι^ά_κονθ'	πλεῖν ἢ τρι^ά_κονθ' ἡμέρας τοῦ μηνὸς ἑκάστου.	HHLHHHLHHHLLHH	HH-LHHLHHHLL-H
-τρι^ά_κονθ'	πλεῖν ἢ τρι^ά_κονθ' ἡμέρας τοῦ μηνὸς ἑκάστου.	HHLHHHLHHHLLHH	HH-LHHLHHHLL-H
-ὑ^πευθύ_νους	κρα_τὴρ κα^κῶν, τριπτὴρ δι^κῶν, φαίνειν ὑ^πευθύ_νους λυ^χνοῦχος καὶ κύ^λιξ τὰ^ πρά_γμα^τ' ἐγκυ^κᾶσθαι.	HHLHHHLHHHLHHHLHHHLHLHLHLHH	HHLHHHLHHHLHLH-HHHLHL-LHLHH
-κα^τα_γείη	Ἰσχυ_ρόν ἐστι^ν, ὦγά^θ', ὥστ' οὐκ ἂν κα^τα_γείη ποτ', εἴ περ ἐκ ποδῶν κα^τωκά^ρα_ κρέμαιτο.	HHLHLHLHHHLHHHLHLHLHLHLHLHL	-HLHLHLHHLLLHHLHLHLHLHL-LHL
-ἠργά^σα^το	ἠργά^σα^το πάντα^ κα^κά^, κἀ_νέτρεπε κἀξέχει	HLLLHLLLHLLLHLH	HHLLLLLLL-LLHLH
-κἀ_νέτρεπε	ἠργά^σα^το πάντα^ κα^κά^, κἀ_νέτρεπε κἀξέχει	HLLLHLLLHLLLHLH	HHLLLLLLL-LLHLH
-κἀ_μά^χετο	κἀ_μά^χετο καὶ προσέτι^ πολλὰ^ προκα^λουμένου·	HLLLHLLLHLLLHLH	LLLLHLLLHLLLHLH
-μεγά^λα^	Ἐπτέρωταί τ' ἐπὶ^ τὸ δεῖπνον ἅ^μα^ καὶ μεγά^λα^ δὴ φρονεῖ,	HLHHLLLHLLLHLLLHLH	HLHHLLLHLLLHLLHHLH
-γερόντι^ον	Ἢ πά^νυ^ γερόντι^ον ἴ^σως νενόμι^κάς με σύ^;	HLLLHLLLHLLLHLL	HLLLH-LHHLLLLLL
-ἴ^σως	Ἢ πά^νυ^ γερόντι^ον ἴ^σως νενόμι^κάς με σύ^;	HLLLHLLLHLLLHLL	HLLLH-LHHLLLLLL
-νέα^	εἶτα^ πα^ρὰ^ τόνδε νέα^ μοσχί^δι^α^ συκί^δων,	HLLLHLLLHLLLHLH	HLLLHLLHHL-LHLH
-μοσχί^δι^α^	εἶτα^ πα^ρὰ^ τόνδε νέα^ μοσχί^δι^α^ συκί^δων,	HLLLHLLLHLLLHLH	HLLLHLLHHL-LHLH
-ὁδί_,	καὶ τὸ τρί^τον ἡμερί^δος ὄσχον, ὁ γέρων ὁδί_,	HLLLHLLLHLLLHLH	H-LLHLLLHLLLHLL
-δειπνητι^κῶς	Ἤκουσα^ς ὡς μα^γειρι^κῶς κομψῶς τε καὶ δειπνητι^κῶς αὑτῷ δι^α_κονεῖται;	HHLHLHLHHHLHHHLHHHLHLHH	HHLHLHLHHHLHHH-HHH-LLHH
-δι^α_κονεῖται;	Ἤκουσα^ς ὡς μα^γειρι^κῶς κομψῶς τε καὶ δειπνητι^κῶς αὑτῷ δι^α_κονεῖται;	HHLHLHLHHHLHHHLHHHLHLHH	HHLHLHLHHHLHHH-HHH-LLHH
-δι^α_κονεῖται;	Ἤκουσα^ς ὡς μα^γειρι^κῶς κομψῶς τε καὶ δειπνητι^κῶς αὑτῷ δι^α_κονεῖται;	HHLHLHLHHHLHHHLHHHLHLHH	HHLHLHLHHHLHHH-HHH-LLHH
-λι^μῷ	Ἀ^ποκτενεῖς λι^μῷ 'μὲ καὶ τοὺς γείτονας κνί_σῃ τε καὶ φωνῇ τοιαῦτα^ λάσκων.	LHLHLHLHHHLHHHLHHHLHLHH	LHLHHHLHHHLLLHLHHHHHL-H
-κνί_σῃ	Ἀ^ποκτενεῖς λι^μῷ 'μὲ καὶ τοὺς γείτονας κνί_σῃ τε καὶ φωνῇ τοιαῦτα^ λάσκων.	LHLHLHLHHHLHHHLHHHLHLHH	LHLHHHLHHHLLLHLHHHHHL-H
-ξυγγρα^φέα_,	Ἀντί^μα^χον τὸν Ψα^κά^δος, ξυγγρα^φέα_, τὸν μελέων ποιητήν,	HLLHHLLHHLLHHLLHLHH	HLLHHLLHHLLLHLLHHHH
-ἀ^νόσι^ά^	προδεδόμεθ' ἀ^νόσι^ά^ τ' ἐπά^θομεν·	LLLLLLLLLLLL	LLLLLL-LLLLH
-ἰ^ώ·	Ἰ^ὼ ἰ^ώ·	LHLH	HHHH
-ἔπι^θ'	ἔπα^γ' ἔπι^θ' ἐπί^φερε πολέμι^ον	LLLLLLLLLLLL	LLL-LLLLLLLH
-Πα_νὶ^	Πα_νὶ^ νόμους ἱ^εροὺς ἀ^να^φαίνω	HLLHLLHLLHH	LLLHLLHLLHH
-χορεύμα^τ'	σεμνά^ τε Μητρὶ^ χορεύμα^τ' ὀρείᾳ,	HLLHLLHLLHH	HLLHLLHHLHH
-συμμι^γῆ	συμμι^γῆ βοὴν ὁμοῦ πτεροῖσι^ κρέκοντες ἴ^ακχον Ἀ^πόλλω,	HLHLHLHLHLLHLLHLLHH	L-HLHLHLHLLHLLHLLHH
-αἰθέρι^ον	δι^ὰ^ δ' αἰθέρι^ον νέφος ἦλθε βοά_·	LLHLLHLLHLLH	LLHL-HLLHLLL
-βοά_·	δι^ὰ^ δ' αἰθέρι^ον νέφος ἦλθε βοά_·	LLHLLHLLHLLH	LLHL-HLLHLLL
-ποικί^λα^	πτῆξε δὲ φῦλά^ τε ποικί^λα^ θηρῶν,	HLLHLLHLLHH	HLLHLLHLHHH
-προσόδι^α^	προσόδι^α^ μεγά^λα^ σεμνὰ^ προσι^έναι θεοῖσι^ν, ἅ^μα^ δὲ προσέτι^ χά^ρι^τος ἕνεκα^ προβά^τι^όν τι^ θύ_ειν.	LLLLLLLHLLLLHLHLLLLLLLLLLLLLLLLHLHH	LL-LLLHHLLLLHLHLLL-LLLLLLLLLLL-HLHH
-μεγά^λα^	προσόδι^α^ μεγά^λα^ σεμνὰ^ προσι^έναι θεοῖσι^ν, ἅ^μα^ δὲ προσέτι^ χά^ρι^τος ἕνεκα^ προβά^τι^όν τι^ θύ_ειν.	LLLLLLLHLLLLHLHLLLLLLLLLLLLLLLLHLHH	LL-LLLHHLLLLHLHLLL-LLLLLLLLLLL-HLHH
-προβά^τι^όν	προσόδι^α^ μεγά^λα^ σεμνὰ^ προσι^έναι θεοῖσι^ν, ἅ^μα^ δὲ προσέτι^ χά^ρι^τος ἕνεκα^ προβά^τι^όν τι^ θύ_ειν.	LLLLLLLHLLLLHLHLLLLLLLLLLLLLLLLHLHH	LL-LLLHHLLLLHLHLLL-LLLLLLLLLLL-HLHH
-Πυ_θι^ὰς	Ἴ^τω ἴ^τω ἴ^τω δὲ Πυ_θι^ὰς βοά_, συ^ναυλείτω δὲ Χαῖρι^ς ᾠδᾷ.	LHLHLHLHLHLHLHHHLHLHH	LHLHLHLL-HLLLHHHLHLHH
-Πυ_θι^ὰς	Ἴ^τω ἴ^τω ἴ^τω δὲ Πυ_θι^ὰς βοά_, συ^ναυλείτω δὲ Χαῖρι^ς ᾠδᾷ.	LHLHLHLHLHLHLHHHLHLHH	LHLHLHLL-HLLLHHHLHLHH
-βοά_,	Ἴ^τω ἴ^τω ἴ^τω δὲ Πυ_θι^ὰς βοά_, συ^ναυλείτω δὲ Χαῖρι^ς ᾠδᾷ.	LHLHLHLHLHLHLHHHLHLHH	LHLHLHLL-HLLLHHHLHLHH
-τἄ_ρα^	Εἶτ' αὖθι^ς αὖ τἄ_ρα^ σοι	HHLHHLH	HHLHLLH
-θύ_μα^τ'	Τὰ^ γὰρ πα^ρόντα^ θύ_μα^τ' οὐδὲν ἄλλο πλὴν γένειόν τ' ἐστὶ^ καὶ κέρα_τα^.	LHLHLHLHLHLHLHHHLHLHL	LLLHLLLHLH-HLHHHLHLLL
-κέρα_τα^.	Τὰ^ γὰρ πα^ρόντα^ θύ_μα^τ' οὐδὲν ἄλλο πλὴν γένειόν τ' ἐστὶ^ καὶ κέρα_τα^.	LHLHLHLHLHLHLHHHLHLHL	LLLHLLLHLH-HLHHHLHLLL
-λά^θῃ	μή σε λά^θῃ θεῶν τις ταύτῃ περῶν.	HLLHLHHHHLH	HLHHLHLHHLH
-πολυ^ά_νορα^	Τά^χα^ δὴ πολυ^ά_νορα^ τάνδε πόλιν	LLHLLHLLHLLH	LLHLLLLLHLLL
-ὡδί_.	τύπτων γε τοῦτον ὡδί_.	HHLHLHH	HHLHLHL
-Μα_νῆς	Μα_νῆς γά^ρ ἐστι^ δειλός.	HHLHLHH	LHLHLHH
-μαντι^κὰ^	τά^ τε μουσί^χ' ὁμοῦ τά^ τε μαντι^κὰ^ καὶ τὰ^ θα^λάττι^'. Ἔπειτα^ δ' ὅπως φρονί^μως	LLHLLHLLHLLHLLHLLHLLHLLH	LLHLLHLLH-LHLLLLLHLLHLLH
-πράγμα^τ'	Πολλὰ^ δὴ καὶ καινὰ^ καὶ θαυμάστ' ἐπεπτόμεσθα^ καὶ δεινὰ^ πράγμα^τ' εἴδομεν.	HLHHHLHHHLHLHLHHLHLHLH	HLHHHLHH-LHLHLHHL-HHLH
-ἀ_εὶ	Τοῦτο τοῦ μὲν ἦρος ἀ_εὶ	HLHLHLHH	HLHLHLLH
-ξυ^να_ριστῶσι^	ἔνθα^ τοῖς ἥρωσι^ν ἄνθρωποι ξυ^να_ριστῶσι^ καὶ ξύ^νεισι^ πλὴν τῆς ἑσπέρας.	HLHHHLHHHLHHHLHLHLHHHLH	HLHHHLHHHLL-HLHLHLHHHLH
-τἀ_πὶ^	γυμνὸς ἦν πληγεὶς ὑ^π' αὐτοῦ πάντα^ τἀ_πὶ^ δεξι^ά_.	HLHHHLHHHLHLHLH	HLHHHLHHLLLLH-L
-δεξι^ά_.	γυμνὸς ἦν πληγεὶς ὑ^π' αὐτοῦ πάντα^ τἀ_πὶ^ δεξι^ά_.	HLHHHLHHHLHLHLH	HLHHHLHHLLLLH-L
-δεξι^ά_.	γυμνὸς ἦν πληγεὶς ὑ^π' αὐτοῦ πάντα^ τἀ_πὶ^ δεξι^ά_.	HLHHHLHHHLHLHLH	HLHHHLHHLLLLH-L
-Σκι^ά_ποσιν	Πρὸς δὲ τοῖς Σκι^ά_ποσιν λίμνη τι^ς ἔστ', ἄ^λουτος οὗ ψυ_χα^γωγεῖ Σωκρά^της.	HLHLHLHHHLHLHLHHLHHHLH	HLH-LLLHHLHLHLHHLHHHLH
-Σκι^ά_ποσιν	Πρὸς δὲ τοῖς Σκι^ά_ποσιν λίμνη τι^ς ἔστ', ἄ^λουτος οὗ ψυ_χα^γωγεῖ Σωκρά^της.	HLHLHLHHHLHLHLHHLHHHLH	HLH-LLLHHLHLHLHHLHHHLH
-προὔλι^πε,	Ἔνθα^ καὶ Πείσανδρος ἦλθε δεόμενος ψυ_χὴν ἰ^δεῖν ἣ ζῶντ' ἐκεῖνον προὔλι^πε,	HLHHHLHLLLLHHHLHHHLHHHLH	HLHHHLHLLLLHHHLHHHLHHH-L
-τρυ_γῶσι^	οἳ θερίζουσίν τε καὶ σπείρουσι^ καὶ τρυ_γῶσι^ ταῖς γλώτταισι^ συ_κά^ζουσί^ τε·	HLHHHLHHHLHHHLHHHLHLHLL	HLHHLLHHHLHLHLHHHLLHHLL
-συ_κά^ζουσί^	οἳ θερίζουσίν τε καὶ σπείρουσι^ καὶ τρυ_γῶσι^ ταῖς γλώτταισι^ συ_κά^ζουσί^ τε·	HLHHHLHHHLHHHLHHHLHLHLL	HLHHLLHHHLHLHLHHHLLHHLL
-Φί^λιπποι.	βάρβα^ροι δ' εἰσὶν γένους, Γοργί^αι τε καὶ Φί^λιπποι. Κἀ_πὸ τῶν ἐγγλωττογαστόρων ἐκείνων τῶν Φι^λίππων	HLHHHLHHLHLHLHHHLHHHLHLHLHHHLHH	LLHHLLHHLHLHLHHLLHHHL-LHLHHH-HH
-Ἀττι^κῆς	παντα^χοῦ τῆς Ἀττι^κῆς ἡ γλῶττα^ χωρὶς τέμνεται.	HLHHHLHHHLHHHLH	HLHHH-HHHLHLHLH
-ξυ^νεκοίμι^σαν	Μοῖραι ξυ^νεκοίμι^σαν	HHLLHLH	HHLLH-L
-ὑ^μεναίῳ.	ἐν τοιῷδ' ὑ^μεναίῳ.	LHHLLHH	HHHHLHH
-Τουτὶ_	Τουτὶ_ μέντοι θαυμαστόν,	HHHHHHL	HLHHH-H
-εὐά_γητον	ἀρθῶμεν φα^νεραὶ δροσερὰν φύ^σι^ν εὐά_γητον	HHHLLHLLHLLHHHH	HHHLLHLLHLLHLHH
-βα^ρυ^α_χέος	πατρὸς ἀ^π' Ὠκεα^νοῦ βα^ρυ^α_χέος	HLLHLLHLLHLL	-LLHLLHLLLLH
-ἔπι^	ὑψηλῶν ὀρέων κορυ^φὰ_ς ἔπι^ δενδροκόμους, ἵ^να^ τηλεφα^νεῖς σκοπι^ὰς ἀ^φορώμεθα^	HHHLLHLLHLLHLLHLLHLLHLLHLLHLL	HHHLLHLLHL-HLLHLHHLLHLLHLLHLL
-ἵ^να^	ὑψηλῶν ὀρέων κορυ^φὰ_ς ἔπι^ δενδροκόμους, ἵ^να^ τηλεφα^νεῖς σκοπι^ὰς ἀ^φορώμεθα^	HHHLLHLLHLLHLLHLLHLLHLLHLLHLL	HHHLLHLLHL-HLLHLHHLLHLLHLLHLL
-ἀ_κά^μα^τον	ὄμμα^ γὰ^ρ αἰθέρος ἀ_κά^μα^τον σελα^γεῖται	HLLHLLHLLHLLHH	HLLHLLLLLHLLHH
-ὄμβρι^ον	ἀλλ' ἀ^ποσεισά^μεναι νέφος ὄμβρι^ον	HLLHLLHLLHLL	HLLHLLHLLH-H
-σέβα^ς	οὗ σέβα^ς ἀρρήτων ἱ^ερῶν, ἵ^να^ μυστοδόκος δόμος ἐν τελεταῖς ἁ^γί^αις ἀ^να^δείκνυ^ται·	HLLHHHLLHLLHLLHLLHLLHLLHLLHLL	HLHHHHLLHLH-LLHLLHLLHLLHLLHLH
-ἵ^να^	οὗ σέβα^ς ἀρρήτων ἱ^ερῶν, ἵ^να^ μυστοδόκος δόμος ἐν τελεταῖς ἁ^γί^αις ἀ^να^δείκνυ^ται·	HLLHHHLLHLLHLLHLLHLLHLLHLLHLL	HLHHHHLLHLH-LLHLLHLLHLLHLLHLH
-τρι^αίνης	τόν τε μεγασθενῆ τρι^αίνης τα^μί^αν, γῆς τε καὶ ἁλμυ^ρᾶς θα^λάσσης ἄ^γρι^ον μοχλευτήν·	HLLHLHLHHLLHHLLHLHLHHLLHLHH	HLL-LH-HHLLHHLHHLHL-H-LH-HH
-ὑψι^κέρα_τα^	ὑψι^κέρα_τα^ πέτραν·	HLLHLHH	LLLLL-H
-πολι^οῦχος	ἥ τ' ἐπι^χώρι^ος ἡμετέρα_ θεὸς αἰγί^δος ἡνί^οχος, πολι^οῦχος Ἀ^θά_να_·	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL
-πολι^οῦχος	ἥ τ' ἐπι^χώρι^ος ἡμετέρα_ θεὸς αἰγί^δος ἡνί^οχος, πολι^οῦχος Ἀ^θά_να_·	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL
-Ἀ^θά_να_·	ἥ τ' ἐπι^χώρι^ος ἡμετέρα_ θεὸς αἰγί^δος ἡνί^οχος, πολι^οῦχος Ἀ^θά_να_·	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL
-Ἀ^θά_να_·	ἥ τ' ἐπι^χώρι^ος ἡμετέρα_ θεὸς αἰγί^δος ἡνί^οχος, πολι^οῦχος Ἀ^θά_να_·	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL
-Δι^όνυ_σος.	κωμαστὴς Δι^όνυ_σος.	HHHLLHH	H-H-LLH
-Δι^όνυ_σος.	κωμαστὴς Δι^όνυ_σος.	HHHLLHH	H-H-LLH
-δι^ά^θρει	φρόντιζε δὴ καὶ δι^ά^θρει πάντα^ τρόπον τε σαυτὸν	HHLHHLLHHLLHLHH	HHLHH-LHLLLHLHH
-ὡδὶ_	μι_μούμενος καὶ τοῖν ποδοῖν ὡδὶ_ πα^ρενσα^λεύων	HHLHHHLHHHLHLHH	HHLHHHLHHLLHLHH
-τουτονὶ_	βληχώμενοι σὲ τουτονὶ_ πεινῶντα^ κα^τα^λα^βόντες,	HHLHLHLHHHLLLLHH	HHLHLHLLHHLLLLHH
-γρυ_λίζοντες	ὑ_μεῖς δὲ γρυ_λίζοντες ὑ^πὸ φι^ληδί^ας	HHLHHHLLLLHLH	HH-LHHLLL-HLH
-φι^ληδί^ας	ὑ_μεῖς δὲ γρυ_λίζοντες ὑ^πὸ φι^ληδί^ας	HHLHHHLLLLHLH	HH-LHHLLL-HLH
-μολύ_νουσάν	καὶ μαγγα^νεύουσαν μολύ_νουσάν τε τοὺς ἑταίρους	HHLHHHLHHHLHLHH	HHLHHLLLHLLHLHH
-τὸνχθιζι^νὸν	τά^χα^ δ' ἂν δι^ὰ^ τὸνχθιζι^νὸν ἄνθρωπον, ὃς ἡμᾶς δι^έδυ_ πως	LLHLLHHLLHHLLHHLLHH	LLLLLHH-LHHLLHH-LHH
-ἴ^σως	εἶτ' ἴ^σως κεῖται πυ^ρέττων.	HLHHHLHH	HHHHHLHH
-ἁ_νήρ.	ἔστι^ γὰρ τοιοῦτος ἁ_νήρ.	HLHHHLHH	HLLHHLLH
-τἀ_πὶ^	ἔσθι^ε, μηδ' ἀ^γα^νάκτει. καὶ γὰ^ρ ἀ^νὴρ πα^χὺ^ς ἥκει τῶν προδόντων τἀ_πὶ^ Θρᾴκης·	HLLHLLHHHLLHLLHHHLHHHLHH	HLLHLLLHHLLHLLHHHLHHL-HH
-πα_πί^α^·	μὰ^ Δί^', ἀλλ' ἰσχά^δα^ς, ὦ πα_πί^α^· ἥδι^ον γά^ρ— οὐκ ἂν μὰ^ Δί^', εἰ κρέμαισθέ γ' ὑ_μεῖς.	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH
-πα_πί^α^·	μὰ^ Δί^', ἀλλ' ἰσχά^δα^ς, ὦ πα_πί^α^· ἥδι^ον γά^ρ— οὐκ ἂν μὰ^ Δί^', εἰ κρέμαισθέ γ' ὑ_μεῖς.	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH
-ἥδι^ον	μὰ^ Δί^', ἀλλ' ἰσχά^δα^ς, ὦ πα_πί^α^· ἥδι^ον γά^ρ— οὐκ ἂν μὰ^ Δί^', εἰ κρέμαισθέ γ' ὑ_μεῖς.	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH
-τἄ_ρα^	μὰ^ Δί^' οὔ τἄ_ρα^ προπέμψω σε τὸ λοιπόν.	LLHHLLHHLLHH	LLHLLLHHLLHH
-νυ_ν,	ἄ^γε νυ_ν, ὦ πά^τερ, ἢν μὴ τὸ δι^καστήρι^ον ἅρχων	LLHHLLHHLLHHLLHH	LLLHLLHHLL-H-LHH
-δι^καστήρι^ον	ἄ^γε νυ_ν, ὦ πά^τερ, ἢν μὴ τὸ δι^καστήρι^ον ἅρχων	LLHHLLHHLLHHLLHH	LLLHLLHHLL-H-LHH
-ἄ_ριστον;	κα^θί^σῃ νῦν, πόθεν ὠνησόμεθ' ἄ_ριστον; ἔχεις ἐλπί^δα^ χρηστήν τι^να^ νῷν ἢ πόρον Ἕλλας ἱερόν;	LLHHLLHHLLHHLLHHLLHHLLHH	LLHHLLHHLLL-LLHHLLHHLLHHLLHHLLH
-θυ_λά^κι^ον,	ἀ^νόνητον ἄ^ρ', ὦ θυ_λά^κι^ον, σ' εἶχον ἄ^γαλμα^.	LLHLLHHLLHHLLHL	LLHLLHHL-HHLLLL
-κἀ_ποκλείων	κἀ_ποκλείων τῇ θύ^ρᾳ; λέξον· πρὸς εὔνους γὰρ φρά^σεις.	HLHHHLHHHLHHHLH	L-HHHLHHHLHHLLH
-ἁ_νὴρ	τοῦτ' ἐτόλμησ' ὁ μι^α^ρὸς χα^νεῖν, ὁ Δημολογοκλέων ὅδ', ὅτι^ λέγεις σύ^ τι^ περὶ^ τῶν νεῶν ἀ^ληθές; οὐ γὰ^ρ ἄν ποθ' οὗτος ἁ_νὴρ τοῦτ' ἐτόλμησεν λέγειν, εἰ μὴ ξυ^νωμότης τι^ς ἦν.	HLHHLLLHLHLHLLLLHLLLLHLLLLHLHLHLHLHLHLHHHLHHHLHHHLHLHLH	HLHHLLLHLHLHLL-LHLLLLHLLLLHLHLHLHLLLHLLHHLHHHLHHHLHLHLH
-δι^α^τρα^γεῖν	δι^α^τρα^γεῖν τοίνυν κρά^τιστόν ἐστί^ μοι τὸ δίκτυ^ον.	LLLHHHLHLHLHLHLH	--LHHLLLLHLHLHLH
-δέδι^θι^,	μηδέν, ὦ τᾶν, δέδι^θι^, μηδέν· ὡς ἐγὼ τοῦτόν γ', ἐὰν γρύξῃ τι^, ποιήσω δα^κεῖν τὴν καρδί^αν καὶ τὸν περὶ ψυ_χῆς δρόμον δρα^μεῖν, ἵ^ν' εἰδῇ μὴ πα^τεῖν τὰ^ ταῖν θεαῖν ψηφίσμα^τα^.	HLHHLLLHLHLHHHLHHHLHHHLHHHLHHHLHHHLHLHLHHHLHLHLHHHLL	HLHHL-LHLHLHHHLLHHLHHHLHHHLHHHLLHHLHLHLHHHLHLHLHHLLL
-γὰρ	τόνδε λέγειν. ὁρᾷς γὰρ ὥς σοι μέγα^ς ἐστὶ^ν ἁ_γὼν	HLLHLHH	HLLHLHLHHLLHLLH
-ὁδί_	τί^ γάρ φα^θ' ὑ_μεῖς, ἢν ὁδί_ με τῷ λόγῳ κρα^τήσῃ;	LHLHHHLHLHLHLHH	LLLHHHLLLHLHLHH
-εἰμι_.	κα^λῶς γὰ^ρ ᾔδειν ὡς ἐγὼ ταύτῃ κρά^τιστός εἰμι_.	LHLHHHLHHHLHLHH	LHLHHHLHHHLLLHL
-πράγμα^θ',	νενουθέτηκεν αὑτὸν ἐς τὰ^ πράγμα^θ', οἷς	LHLHLHLHLHLH	LHLHLHLHL-HH
-Πύ_θι^',	ὦ Φοῖβ' Ἄ^πολλον Πύ_θι^', ἐπ' ἀ^γα^θῇ τύ^χῃ	HHLHHHLLLLHLH	HHLHHL-LLLHLH
-Πύ_θι^',	ὦ Φοῖβ' Ἄ^πολλον Πύ_θι^', ἐπ' ἀ^γα^θῇ τύ^χῃ	HHLHHHLLLLHLH	HHLHHL-LLLHLH
-νεα^νι^κὴν	νεα^νι^κὴν σχεῖν· ὡς ἐγὼ τοὐμὸν νομίζω	LLLHHHLHHHLHH	LH-HHHLHHHLHH
-νεα^νι^κὴν	νεα^νι^κὴν σχεῖν· ὡς ἐγὼ τοὐμὸν νομίζω	LLLHHHLHHHLHH	LH-HHHLHHHLHH
-νεα^νι^ῶν	γῆρα^ς εἶναι κρεῖττον ἢ πολλῶν κι^κίννους νεα^νι^ῶν καὶ} [σχῆμα^ κεὐρυ^πρωκτί^αν.	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH
-κεὐρυ^πρωκτί^αν.	γῆρα^ς εἶναι κρεῖττον ἢ πολλῶν κι^κίννους νεα^νι^ῶν καὶ} [σχῆμα^ κεὐρυ^πρωκτί^αν.	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH
-ἂ^ν	τά^χα^ δ' ἂ^ν ἴ^σως οὐκ ἐθέλοι·	LLLLHHLLH	LLLHHHLLH
-ἀ^εί.	φύ^σεως, ἣν ἔχοι τι^ς, ἀ^εί.	LHHLHLLH	LLHHLHLLH
-φι^λοπα^τρί^αν	τυ^χὼν ἄ^πεισιν δι^ὰ^ τὴν φι^λοπα^τρί^αν καὶ σοφί^αν	LHLHHLLHLLLLHHLLL	LHLHLLLH-L-LHHLLH
-Φι^λοκλέωνος.	ὁ παῖς ὁ Φι^λοκλέωνος.	LHLLLLHL	LHL--LHH
-Ἀ_γι^δῶς	Ἀ_γι^δῶς τὸ φῶς· ὁρῶ	HLHLHLH	L-HLHLH
-Ἀ_γι^δῶς	Ἀ_γι^δῶς τὸ φῶς· ὁρῶ	HLHLHLH	L-HLHLH
-ἄ_λι^ον,	ϝ' ὥτ' ἄ_λι^ον, ὅνπερ ἇμι_ν	HHLLHLHH	HL-LHLHL
-ἄ_λι^ον,	ϝ' ὥτ' ἄ_λι^ον, ὅνπερ ἇμι_ν	HHLLHLHH	HL-LHLHL
-Ἀ_γι^δὼ	Ἀ_γι^δὼ μαρτύ_ρεται	HLHHHLH	L-HHLLH
-Ἀ_γι^δὼ	Ἀ_γι^δὼ μαρτύ_ρεται	HLHHHLH	L-HHLLH
-μαρτύ_ρεται	Ἀ_γι^δὼ μαρτύ_ρεται	HLHHHLH	L-HHLLH
-νι^ν	οὔτε μωμήσθαι νι^ν ἁ_ κλεννὰ_ χορα_γὸς	HLHHHLHHHLHH	HLHHH-HHLLLH
-κλεννὰ_	οὔτε μωμήσθαι νι^ν ἁ_ κλεννὰ_ χορα_γὸς	HLHHHLHHHLHH	HLHHH-HHLLLH
-χορα_γὸς	οὔτε μωμήσθαι νι^ν ἁ_ κλεννὰ_ χορα_γὸς	HLHHHLHHHLHH	HLHHH-HHLLLH
-ἁ^μῶς	οὐδ' ἁ^μῶς ἐῆι· δοκεῖ γὰ^ρ ἤμεν αὔτα_	HLHLHLHLHLHH	HHHLHLHLHLHL
-αὔτα_	οὐδ' ἁ^μῶς ἐῆι· δοκεῖ γὰ^ρ ἤμεν αὔτα_	HLHLHLHLHLHH	HHHLHLHLHLHL
-στά_σειεν	ἐκπρεπὴς τὼς ὥπερ αἴ τι^ς ἐν βοτοῖς στά_σειεν ἵππον	HLHHHLHLHLHHHLHH	HLHHHLHLHLHLHLHH
-πα_γὸν	πα_γὸν ἀ^εθλοφόρον κα^να^χά_ποδα^	HLLHLLHLLHLL	LLL-LLHLLLLL
-κα^να^χά_ποδα^	πα_γὸν ἀ^εθλοφόρον κα^να^χά_ποδα^	HLLHLLHLLHLL	LLL-LLHLLLLL
-ἁ_γὼ	ἁ_γὼ δι^καιῶν μὴ πα^ρ' ἀγγέλων, τέκνα^,	HHLHHHLHLHHL	LHLHHHLHLH-L
-κα^τοικτί_ρων	εἴην τοιάνδε μὴ οὐ κα^τοικτί_ρων ἕδρα_ν.	HHLHLLHLHHHLH	HHHHLHHLHLH-H
-θα_κεῖ,	ἀ^γοραῖσι^ θα_κεῖ, πρός τε Παλλά^δος δι^πλοῖς	LLHLHHHLHLHLH	LLHLLHHLHLH-H
-Θουκυ_δί^δης	Θουκυ_δί^δης Ἀ^θηναῖος ξυ^νέγρα^ψε τὸν πόλεμον τῶν Πελοποννησί^ων 	HHLHLHHHLHHLHLLHHLLHHLH	HLLHLHHHL-LLHLLHHLLHHLH
-Καλλι^όπη	Καλλι^όπη φα^έθοντα^, τὸν Εὐ_ρυ^φά^εσσα^ βοῶπι_ς  	HLLHLLHLLHLLHLLHH	H-LHLLHLLHLLHLLHL
-Ὑ^περί_ων	γῆμε γὰ^ρ Εὐ_ρυ^φά^εσσα^ν ἀ^γακλειτὴν Ὑ^περί_ων	HLLHLLHLLHHHLLHH	HLLHLLHLLLHHLLLH
-κα_λὸν	τηλαυγές· κα_λὸν δὲ περὶ^ χροῒ^ λάμπεται ἔσθος	HHHHHLLHLLHLLHH	HHHLHLLLLLHLHHH
-ἡμι^θέων	ἡμι^θέων ὧν ἔργα^ θεοὶ θνητοῖσι^ν ἔδειξα^ν.	HLLHHHLLHHHLLHH	H-LHHHLLHHHLLHL
-ἰ_τέα^ν	Ἐγκέλα^δον ἰ_τέα^ν ἐς μέσην θενὼν δορὶ^	HLLLHLLHLHLHLL	HLLLHLHHLHLHLL
+failed_syllable	failed_word	gold_line	gold_pattern	predicted_pattern
+τι	Χρι_στι^α_νῶν	οἶδ'ὅπωςπρὸςτὰ_ςκέλσουκα^τὰ^χρι_στι^α_νῶνἐνσυγγράμμα^σι^	HLHHHHHLHHLHHHHHLL	HLHHHHHLL--HHHHHLL
+πι	πι^θα^νότητα^	καὶταῖςκα^τηγορί^αιςμηδὲπι^θα^νότητα^εἰςτὸδύ^να^σθαίτι^	HHLHLLHHLLLLHLHLLHHL	HHLHLLHHL-LLHLHLLLHL
+δι	ἐνδιδόντος.	αὐτὰ_ςἐνδιδόντοςπερὶ^δὲτοῦἰησοῦὅτι^ἐσι^ώπα_	HHHHHHLLLHHHHLLLLHH	HHH-HHLLLHLHHLLLLHH
+ρἰ	ἰ_σοδυ^να^μοῦντα^	πα^ρα^θέσθαιτὰ^γὰ^ρἰ_σοδυ^να^μοῦντα^αὐτῷὁμάρκοςἔγραψεν	LLHHLLHLLLHLHHLHLHHH	LLHHLLLLLLHLHHLHL-HH
+σι	λέξι^ς·	ἔχειδ'οὕτωςἡτοῦματθαίουλέξι^ςὁδὲἀρχι^ερεὺς	LHHHHHHHHHHLLHLLH	LHHHHHHHHHLLLH-LH
+χι	ἀρχι^ερεὺς	ἔχειδ'οὕτωςἡτοῦματθαίουλέξι^ςὁδὲἀρχι^ερεὺς	LHHHHHHHHHHLLHLLH	LHHHHHHHHHLLLH-LH
+ρι	συ^νέδρι^ον	καὶτὸσυ^νέδρι^ονἐζήτουνψευδομαρτυ^ρί^α_νκα^τὰ^τοῦἰησοῦ	HLLHLLHHHHLHLLHLLHHHH	HLL--LHHHHLHLLHLLHLHH
+σι	σι^δήρῳ	σι^δήρῳκαὶἀ^πα^θὴςτὸσῶμα^πλασσόμενοςεἶτα^	LHHHLLHLHHHLLLHL	-HHHLLHLLL-LLLHL
+σα	'σχί^σα^ς	κα^τα^δὺ_ςἄτρωτοςὑ^πὸγῆν'σχί^σα^ςὀρθῷποδὶ^γᾶν	LLHHHLLLHLLHHLLH	LLH-HLLLHLHHHLLH
+λι	ἀ^πολι^όρκητος	πα^λαίεινἀ^ήττητόςἐστι^καὶπερι^τειχι^ζόμενοςἀ^πολι^όρκητος	LHHLHHLHLHLLHHLLLLLLHHH	LHHLHHLHLHLLHLLLLLL-HHH
+νά	ἀ^νά^λωτος,	καὶπωλούμενοςὑ^πὸτῶνπολεμί^ωνἀ^νά^λωτοςοὐθὲν	HHHLLLLHLLLHLLHLHH	HHHLLLLHLLLHLHHLHH
+ρι	Εὐρι_πί^δου	ὁεὐρι_πί^δουἰ^όλα_οςἐξἀ^δρα^νοῦςκαὶπα^ρήλι^κοςεὐχῇ	LHHLHLLHLHHLHHLHLLHH	LH-LHLLLLH-LHHLHLLHH
+λα	Ἰ^όλα_ος	ὁεὐρι_πί^δουἰ^όλα_οςἐξἀ^δρα^νοῦςκαὶπα^ρήλι^κοςεὐχῇ	LHHLHLLHLHHLHHLHLLHH	LH-LHLLLLH-LHHLHLLHH
+κα	κα^τ'	ἀ^ρετὴνκαὶγέγονενἐκῥυ_σοῦκαὶὠχροῦκαὶκα^τ'αἰσχύ^λον	LLHHLLLHHHHHHHHHLH	LLHHLLL-HHHHHHLHLH
+τἀ	ἀ^πὸ	ζεὺςμὲνἀ^φίκτωρἐπί^δοιπροφρόνωςστόλονἡμέτεροννάιονἀρθέντ'ἀ^πὸπροστομί^ωνλεπτοψα^μά^θωννείλουδί_α_νδὲλι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH
+σα	λεπτοψα^μά^θων	ζεὺςμὲνἀ^φίκτωρἐπί^δοιπροφρόνωςστόλονἡμέτεροννάιονἀρθέντ'ἀ^πὸπροστομί^ωνλεπτοψα^μά^θωννείλουδί_α_νδὲλι^ποῦσαι	HLLHHLLHLLHLLHLLHHLLHHLLHLLHHHLLHHHHHLLHH	HLLHHLLH-LHLLHLLHHLHHL-HLLHHHLLHHHHHLLHH
+σα	φυξα_νορί^αν,	ἀλλ'αὐτογενεῖφυξα_νορί^ανγά^μοναἰγύπτουπαίδωνἀ^σεβῆτ'ὀνοταζόμεναιδι^ά^νοια^ν	HHLLHHHLLHLLHHHHHLLHLLHLLHLLHH	HHLLHHLLLHLLHHHHHLLHLLHLLHLLHL
+δα	Κρονί^δα_ο	εἰπέθεά_κρονί^δα_οδι^άκτοροναἴθοποςαὐγῆς	HLLHLLHLLHLLHLLHH	HLL-LLLL-HLLHLLHH
+δι	δι^άκτορον	εἰπέθεά_κρονί^δα_οδι^άκτοροναἴθοποςαὐγῆς	HLLHLLHLLHLLHLLHH	HLL-LLLL-HLLHLLHH
+πυ	πυ^ρὸς	βάκχουδισσοτόκοιοτὸνἐκπυ^ρὸςὑγρὸνἀ^είρα_ς	HHHLLHLLHLLHLLHH	HH-LLHLLHHL-LLHH
+νι	πότνι^α^	ἄ^ρσενι^γαστρὶ^λόχευσεπα^τὴρκαὶπότνι^α^μήτηρ	HLLHLLHLLHHHLLHH	LLL-LLHLLHH--LHH
+κύ	ἐγκύ_μονι^	ἄσπορονὄγκονἄ^πι^στονἔχωνἐγκύ_μονι^κόρσῃ	HLLHLLHLLHHHLLHH	-LLHLLLLLHHLLLHH
+τι	τι^νάξα^τε	ἄ^ξα^τέμοινάρθηκα^τι^νάξα^τεκύ^μβα^λα^μοῦσαι	HLLHHHLLHLLHLLHH	LLLHHHL-HLLLLLHH
+δι	Δι^ονύ_σου:	καὶπα^λά^μῃδότεθύρσονἀ^ειδομένουδι^ονύ_σου	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLH-LLH
+νύ	Δι^ονύ_σου:	καὶπα^λά^μῃδότεθύρσονἀ^ειδομένουδι^ονύ_σου	HLLHLLHLLHLLHLLHH	HLLHLLHLLHLLH-LLH
+γι	Γι^γά^ντων:	φρικτὰ^δρα^κοντοκόμωνἐδα^ΐ^ζετοφῦλα^γι^γά^ντων	HLLHLLHLLHLLHLLHH	HLLHLLHLLLLLHL-HH
+τύ	Κρα^τύ_λος	κρα^τύ_λοςφησὶ^νὅδεὦσώκρα^τεςὀνόμα^τοςὀρθότητα^εἶναιἑκάστῳτῶνὄντωνφύ^σειπεφυ_κυῖα^νκαὶοὐτοῦτοεἶναιὄνομα^ὃἄ^ντι^νεςσυ^νθέμενοικα^λεῖνκα^λῶσι^τῆςαὑτῶνφωνῆςμόρι^ονἐπι^φθεγγόμενοιἀλλὰ^ὀρθότητά^τι^να^τῶνὀνομά^τωνπεφυ_κέναικαὶἕλλησι^καὶβα^ρβά^ροιςτὴναὐτὴνἅ^πα_σι^ν	LHHHLLLHHLLLLLHHLHLHHLHHHHHLHLHHHHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHHLHHHHLHH	LLHHLLLHHLLLLLLHLHLHHL-HHHHLHLHHLHHHLHHLLLLHLHHLLHLHLHLHHHHHLLLLHHLLHHLHLHLLLHLLLHLHLHHHHLHLLHHHHLHL
+τύ	Κρα^τύ_λος	ἐρωτῶοὖναὐτὸνἐγὼεἰαὐτῷκρα^τύ_λοςτῇἀ^ληθείᾳὄνομα^ἐστὶ^νἢοὔὁδὲὁμολογεῖ	LHHHHLLHHHHLHHHLHHHLLLHLHHLLLLLH	LHHHHLLHHHHLLHHLHHHLLLHLHHLLLLLH
+τύ	Κρα^τύ_λου	εἰοὖνπῃἔχειςσυ^μβα^λεῖντὴνκρα^τύ_λουμα^ντεία_νἡδέωςἂ^νἀ^κούσαιμι^	HHHLHHLHHLHHHHHHLHLLHHL	HHHLHLLHHLLHLHHHLHLLHHL
+ρι	Πρι^ά^μοιο	δὴτότετρῶεςἔμιμνονἀ^νὰ^πρι^ά^μοιοπόληα^	HLLHLLHLLHLLHLLHL	HL-HLLHLLL-LHLLHL
+ρα	θρα^σύφρονος	δειδι^ότεςμένοςἠῢ^θρα^σύφρονοςαἰα^κί^δα_ο	HLLHLLHLLHLLHLLHL	HLLHLLH-H-LLHLLLL
+δα	Αἰα^κί^δα_ο:	δειδι^ότεςμένοςἠῢ^θρα^σύφρονοςαἰα^κί^δα_ο	HLLHLLHLLHLLHLLHL	HLLHLLH-H-LLHLLLL
+νὰ	ἀ^νὰ^	ἰ_ληδὸνπτώσσουσαιἀ^νὰ^ῥωπήι^α^πυκνά^	HHHHHLLHHHLLHL	HHHHHHLLHHL-L
+νά	πυκνά^:	ἰ_ληδὸνπτώσσουσαιἀ^νὰ^ῥωπήι^α^πυκνά^	HHHHHLLHHHLLHL	HHHHHHLLHHL-L
+ρι	ὄβρι^μου	ὥςοἱἀ^νὰ^πτολί^εθρονὑ^πέτρεσα^νὄβρι^μουἄ^νδρα^	HLLHLLHLLHLLHLLHL	HHLLLL-LL-LL--HHL
+ἀ	δι^᾽	ἄλλουςθ᾽ὡςἐδά^ϊξεδι^᾽ἀ_κα^μά^τοιοθα^λάσσης	HHHLLHLLHLLHLLHH	HHHLLHLLLLLHLL-H
+νι	ἀ^νι_ηρὸν	ἀμφὶ^δ᾽ἄ^ρα^σφί^σι^πένθοςἀ^νι_ηρὸνπεπότητο	HLLHLLHLLHHHLLHL	HLLLLLHLL-HHLLHL
+πυ	πυ^ρὶ^	ὡςἤδηστονόεντι^κα^ταιθομένηςπυ^ρὶ^τροίης	HHHLLHLLHLLHLLHH	HHHLLHLLHLLHHLHH
+τι	πνεύμα^τι^	ὄμμα^σι^νωθρὰ^βλέπουσα^τὰ^δ᾿ἠύτεπνεύμα^τι^φύλλα^	HLLHLLHLLHHHLLHL	HLLHLLHLLHL-HLLLL
+ρί	πρί^ων	ἀλλ’αὐτὸςἔφερεπάντα^χὠπρί^ωνἀ^πῆν	HHLLLLHLHLHLH	HHLLLLLLHHHLH
+σα	Εἴσα^γ’,	ὁδ’ἀ^νεῖπενεἴσα^γ’ὦθέογνι^τὸνχορόν	LLHLHLHLHLHLH	LLHLHHHL-LHLH
+κα	κα^τέσχε	ἐπεὶοὐδὲκλεομένηςὃςαὐτὴνκα^τέσχεπρῶτος	LHLLLLHLHHLHLHH	LHH-LLLHLHHLH-HH
+σι	ἐξι^πώκα^τον.	ὡςἐμοῦγετὼξύ^λωτὸνὦμονἐξι^πώκα^τον	HLHLHLHLHLHLHLL	HLHLHLHLHLH-HLH
+λά	ἀ^ποσβεσθὲν	μήμ'ἀ^ποσβεσθὲνλά^θῃπρὸςτῇτελευτῇτῆςὁδοῦ	HLHHHLHHHLHHHLH	HLHHHHHHHLHHHLH
+σἀ	ἀρήξομεν;	ἢπότ'αὐτῇμᾶλλονἢνῦνὦλά^χηςἀρήξομεν	HLHHHLHHHLHHHLH	HLHHHLHHHLHLHLH
+νι	Νι_κοδί^κη,	πέτουπέτουνι_κοδί^κηπρὶ^νἐμπεπρῆσθαικα^λύ^κηντεκαὶκρί^τυλλανπερι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH
+ρί	Κρί^τυλλαν	πέτουπέτουνι_κοδί^κηπρὶ^νἐμπεπρῆσθαικα^λύ^κηντεκαὶκρί^τυλλανπερι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH
+ρι	περι^φυ_σήτω	πέτουπέτουνι_κοδί^κηπρὶ^νἐμπεπρῆσθαικα^λύ^κηντεκαὶκρί^τυλλανπερι^φυ_σήτω	LHLHHLLHLHLHHLLHLHLHHLLHHH	LHLH-LLHLH-HHLLHLHHHLL-HHH
+α	κνεφαία_	νυνδὴγὰ^ρἐμπλησα^μένητὴνὑ^δρί^ανκνεφαία_	HHLHHLLHHLLHLHH	HHLHHLLHH-LHLHL
+ἀ	ἀ_ρα^μένη,	ἀ_ρα^μένηταῖσι^νἐμαῖςδημότι^σινκα_ομέναις	HLLHHLLHHLLHHLLH	LLLHHLLHHL-LLLLH
+τι	δημότι^σιν	ἀ_ρα^μένηταῖσι^νἐμαῖςδημότι^σινκα_ομέναις	HLLHHLLHHLLHHLLH	LLLHHLLHHL-LLLLH
+κα	κα_ομέναις	ἀ_ρα^μένηταῖσι^νἐμαῖςδημότι^σινκα_ομέναις	HLLHHLLHHLLHHLLH	LLLHHLLHHL-LLLLH
+τα	τυ_φογέροντα_ς	ἤκουσα^γὰρτυ_φογέροντα_ςἄνδρα^ςἔρρεινστελέχηφέροντα^ςὥσπερβα^λα^νεύσοντας	HHLHHLLHHHLHHLLHLHLHHLLHHL	HHLLHLLHLLLHHLLHLHLHHLLHHL
+πυ	πυ^ρὶ^	ὡςπυ^ρὶ^χρὴτὰςμυ^σα^ρὰςγυ^ναῖκα^ςἀνθρα^κεύειν	HLLHHLLHLHLHLHH	HHLHHLLHLHLHLHH
+ά	θεά_,	ἅ_ςὦθεά_μήποτ'ἐγὼπιμπρα^μένα_ςἴ^δοιμι^	HHLHHLLHHLLHLHL	HHLLHLLHHLLHLHL
+φα	χρυ_σολόφα_	ἐφ'οἷσπερὦχρυ_σολόφα_	LHLHHLLH	LHLHHLLL
+ρι	κα^μα^τήρι^ος.	οὐδὲγόνα^τ'ἂνκόποςἕλοιμεκα^μα^τήρι^ος	HLLLHLLLHLLLHLL	HLLLLLLLHLLLH-H
+ὶ	τουτῳὶ_	ἀλλ'ἐπα^ποδυ^ώμεθ'ὦνδρεςτουτῳὶ_τῷπρά_γμα^τι^	HLLLLHLHLHLHHHLL	HLLLLHLHHHHLH-LL
+πά	ἐξεπά_ρωσιν	τὰςθεοῖςἐχθρὰςγυ^ναῖκα^ςἐξεπά_ρωσινδόλῳ	HLHHHLHLHLHHHLH	HLHHHLHLHLLHLLH
+κἀ	κἀ_κα^νηφόρουν	κἀ_κα^νηφόρουνποτ'οὖσα^παῖςκα^λὴ'χουσ'ἰσχά^δωνὁρμα^θόν	HLHLHLHLHLHHHLHHLH	LLHLHLHLHLHH-LHHLH
+κἀ	κἀ_πι^δώσειν	κἀ_πι^δώσεινμοιδοκεῖτὸχρῆμα^μᾶλλον	HLHHHLHLHLHL	L-HHHLH-HLHH
+πι	κἀ_πι^δώσειν	κἀ_πι^δώσεινμοιδοκεῖτὸχρῆμα^μᾶλλον	HLHHHLHLHLHL	L-HHHLH-HLHH
+ρι	Λειψύ^δρι^ον	ἀλλ'ἄ^γετελευκόποδεςοἵπερἐπὶ^λειψύ^δρι^ον	HLLLHLLLHLLLHLLL	HLLLHLLLHLLLH--H
+κἀ	κἀ_ναπτερῶσαι	νῦνδεῖνῦνἀ^νηβῆσαιπά^λινκἀ_ναπτερῶσαι	HHHLHHHLHHHLHH	HHHLHHHLLLHLHH
+κἀ	κἀ_ποσείσασθαι	πᾶντὸσῶμα^κἀ_ποσείσασθαιτὸγῆραςτόδε	HLHLHLHHHLHHLL	HLLLLLH-HLHLLL
+σἂ	ἂ^ν	ὡςἂ^νὄζωμενγυ^ναικῶναὐτοδὰξὠργισμένων	HLHHHLHHHLHHHLH	HHHHHLHHHLHH-LH
+να	ἵ^να^	νῦνπρὸςἔμ'ἴ^τωτι^ςἵ^να^μήποτεφά^γῃσκόροδα^	HLLLHLLLHLLLHLLL	HLLLHLLHHLLLHLLL
+κἀ	Κἀ_γὼ	κἀ_γὼβούλομαιμῦθόντι^ν'ὑ_μῖνἀντι^λέξαιτῷμελα^νί^ωνι^	HHHLHHHLHHHLHHHLLLHL	LHHLHHH-HHH-HHHLLLHL
+τι	τι^ν'	κἀ_γὼβούλομαιμῦθόντι^ν'ὑ_μῖνἀντι^λέξαιτῷμελα^νί^ωνι^	HHHLHHHLHHHLHHHLLLHL	LHHLHHH-HHH-HHHLLLHL
+τι	ἀντι^λέξαι	κἀ_γὼβούλομαιμῦθόντι^ν'ὑ_μῖνἀντι^λέξαιτῷμελα^νί^ωνι^	HHHLHHHLHHHLHHHLLLHL	LHHLHHH-HHH-HHHLLLHL
+δύ	δύ^'	δεῖταιλα^βεῖνμνᾶςἢδύ^'ἢτρεῖςὡςἔσω'στὶνκἄ_χομενβαλλάντι^α^	HHLHHHLHHHLHHHLHHHLL	HHLHHHHHHHLHHLLHLLLL
+κἄ	κἄ_χομεν	δεῖταιλα^βεῖνμνᾶςἢδύ^'ἢτρεῖςὡςἔσω'στὶνκἄ_χομενβαλλάντι^α^	HHLHHHLHHHLHHHLHHHLL	HHLHHHHHHHLHHLLHLLLL
+τι	Ἑστι^ᾶν	ἑστι^ᾶνδὲμέλλομενξένουςτι^νὰςκα^ρυστί^ουςἄνδραςκα^λούςτεκἀ_γα^θούς	HLHLHLHLHLHLHLHHHLHLHLH	H-HLHLHLHLLL-LHLLLHLLLH
+κἀ	κἀ_γα^θούς.	ἑστι^ᾶνδὲμέλλομενξένουςτι^νὰςκα^ρυστί^ουςἄνδραςκα^λούςτεκἀ_γα^θούς	HLHLHLHLHLHLHLHHHLHLHLH	H-HLHLHLHLLL-LHLLLHLLLH
+χὶ	οὐχὶ^	καὶμηδὲνοὕτωςεὖσεσημάνθαιτὸμὴοὐχὶ^τοὺςῥύ^πουςἀ^νασπά^σαι	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH
+σἀ	ἀ^νασπά^σαι,	καὶμηδὲνοὕτωςεὖσεσημάνθαιτὸμὴοὐχὶ^τοὺςῥύ^πουςἀ^νασπά^σαι	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH
+πά	ἀ^νασπά^σαι,	καὶμηδὲνοὕτωςεὖσεσημάνθαιτὸμὴοὐχὶ^τοὺςῥύ^πουςἀ^νασπά^σαι	HHLHHHLHHHLHLHLHLHLH	HHLHHHLHHHLHHLHLHL-LH
+τἂ	ἂ^ν	χἄττ'ἂ^νἔνδονᾖφορεῖν	HLHLHLH	HHHLHLH
+πυ	πυ_ρί^δι^α^	ἔστι^πα^ρ'ἐμοῦλα^βεῖνπυ_ρί^δι^α^λεπτὰ^μέν	HLLLHLHHLLLHLL	HLLLHLHLLLLHLH
+νι	χοίνι^κος	ὁδ'ἄρτοςἀ^πὸχοίνι^κοςἰ^δεῖνμά^λα^νεα_νί^ας	LHLLLHLLLHLLLHLH	LHLLLH-LLHLHLHLH
+λα	μά^λα^	ὁδ'ἄρτοςἀ^πὸχοίνι^κοςἰ^δεῖνμά^λα^νεα_νί^ας	LHLLLHLLLHLLLHLH	LHLLLH-LLHLHLHLH
+μα	Μα_νῆς	καὶκωρύ^κουςὡςλήψεταιπυ_ρούςὁμα_νῆςδ'οὑμὸςαὐτοῖςἐμβα^λεῖ	HHLHHHLHHHLHHHLHHHLH	HHLHHHLHHHLLHHLHHHLH
+χύ	αἰσχύ^νην	ἡμῖνδ'ἂ^ναἰσχύ^νηνφέροι	HHLHLHLH	HHLHHHLH
+δύ	βρα^δύ_νειν	ὥστ'εἰκὸςἡμᾶςμὴβρα^δύ_νεινἔστ'ἐπα^να^μενούσας	HHLHHHLHHHLLLLHH	HHLHHHLLHHLLLLH-
+κι	σκι^ᾶς	ἀλλ'εἶα^δεῦρ'ἐπὶσκι^ᾶςἐλθοῦσα^πρὸςτὸτειχί^ον	HHLHLHLHHHLHLHLL	HHLHLL-HHHLHLHLH
+δυ	βρά^δυ_ν'·	καὶμὴβρά^δυ_ν'ὡςτήνδεκαὶδὴτὴνστρα^τηγὸνἡμῶν	HHLHHHLHHHLHLHH	HHLLHHLHHHLHLHH
+ρἄ	ἄ_κουσαι	χαὖταιγὰ^ρἄ_κουσαιπά^λαιτὸσχῆμα^τοῦτ'ἔχουσιν	HHLHHHLHHHLHLHH	HHLLHHLHHHLHLHL
+δί	Δί^α,	οἰμώζωνἄ^ρα^νὴδί^ασποδήσεις	HHHLLHLHLHH	HHHLLHHHLHH
+τἀ	τἀ_πὶ^	οὐγὰρτἀ_πὶ^χα^ριξένηςτά^δ'ἐστίν	HHHLLHLHLHH	HLLLLHLHLHL
+θα	δημοκρα^τούμεθα_.	ἔστι^δί^καιονεἰδημοκρα^τούμεθα_	HLLHLHHLLHLH	HLLHLHH-LHLL
+ἱ	ἱ_κετεύω,	εἰρημέν'ἐστίνσὺ^δέμοιφίλτα^τονὢἱ_κετεύω	HHLHHLLHHLLHLHH	HHLHLLLHHLLHHLHH
+τι	τι^νάσσων	πολύ^καρπονμὲντι^νάσσων	LLHHHLHH	LLLHH--H
+κἀ	κἀ_πισκώπτων	κἀ_πισκώπτων	HHHH	L-HH
+σἀ	ἀ_ρεῖς	ἀλλ'ἔμβα_χὤπωςἀ_ρεῖς	HHHHHHH	HHHHHLH
+ρυ	Θωρυ^κί^ων	κἂνθωρυ^κί^ωνμὴβούληται	HHLLHHHHH	HHHLHHHHH
+νι	ταινι^οῦσθαι.	παίσαντα^καὶσκώψαντα^νι_κήσαντα^ταινι^οῦσθαι	HHLHHHLHHHLHLHH	HLLHHHLHHLLH-HH
+κἀ	κἀ_π'	κἀ_π'εὐτελείᾳτόδετὸσανδα^λίσκον	HHLHHLLLHLHH	LHLHHLLLHLLH
+μυ	μεμυ^ήμεθ'	ὅσοιμεμυ^ήμεθ'εὐσεβῆτεδι^ήγομεν	LHLLHLHLHLLHLH	LHLHHLHLHL-HLH
+δι	δι^ήγομεν	ὅσοιμεμυ^ήμεθ'εὐσεβῆτεδι^ήγομεν	LHLLHLHLHLLHLH	LHLHHLHLHL-HLH
+ρι	περι^πεπλευκότος,	ταῦτα^μὲνπρὸςἀνδρόςἐστι^νοῦνἔχοντοςκαὶφρέναςκαὶπολλὰ^περι^πεπλευκότος	HLHLHLHLHLHHHLHHHLLLLHLH	HLHLHLHLHLHHHLLHHLL--HLH
+ρα	Θηρα_μένους.	δεξι^οῦπρὸςἀνδρόςἐστι^καὶφύ^σειθηρα_μένους	HLHLHLHLHLHHHLH	HLHLHLHLHLHHLLH
+μι	Μι^λησί^οις	οὐγὰ^ρἂνγέλοιονἦνεἰξανθί^αςμὲνδοῦλοςὢνἐνστρώμα^σινμι^λησί^οις	HLHLHLHHHLHHHLHHHLHLHLH	HLLLHLHHHLHHHLHHHLL-HLH
+νἁ	ἁ^μί^δ',	ἀ^να^τετραμμένοςκυ^νῶνὀρχηστρί^δ'εἶτ'ᾔτησενἁ^μί^δ'ἐγὼδὲπρὸςτοῦτονβλέπων	LLLHLHLHHHLHHHLLLLHLHHHLH	LL-HLHLHHHLHHHLHLLH-HHHLH
+πσι	τέρψι^ν	μοῦσα^χορῶνἱ^ερῶνἐπί^βηθι^καὶἔλθ'ἐπὶ^τέρψι^νἀ^οιδᾶςἐμᾶς	HLLHLLHLLHLLHLLHLLHHLH	HLLHLLHLLHLHHLLH-LHHLH
+α	Θρῃκί^α_	θρῃκί^α_χελι_δὼν	HLHLHH	HLLLHH
+νι	ἀ^ηδόνι^ον	ἐπὶ^βάρβα^ρονἑζομένηπέτα^λοντρύζειδ'ἐπί^κλαυτονἀ^ηδόνι^οννόμονὡςἀ^πολεῖταικἂ_νἴ^σαιγένωνται	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHHHLHLHH	LLLLLHLLHLLHHHL-HLLHL-HLLHLLHHHLHLHH
+δι	ἐνδι^α^τρίψει·	χρόνονἐνδι^α^τρίψειἰ^δὼνδὲτά^δ'οὐκεἰρηνι^κὸςἔσθ'ἵ^να^μήποτεκἀ_ποδυ^θῇμεθύ^ωνἄ^νευξύ^λουβα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH
+να	ἵ^να^	χρόνονἐνδι^α^τρίψειἰ^δὼνδὲτά^δ'οὐκεἰρηνι^κὸςἔσθ'ἵ^να^μήποτεκἀ_ποδυ^θῇμεθύ^ωνἄ^νευξύ^λουβα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH
+κἀ	κἀ_ποδυ^θῇ	χρόνονἐνδι^α^τρίψειἰ^δὼνδὲτά^δ'οὐκεἰρηνι^κὸςἔσθ'ἵ^να^μήποτεκἀ_ποδυ^θῇμεθύ^ωνἄ^νευξύ^λουβα^δίζων	LLHLLHLLHLLHHHLLHLLHLLHLLHLLHLHLHLHH	LLH--LHLHLLHHHLLHLHHLLLLLHLLHLHLHLHH
+κἂ	ἂ^ν	ἡνί^κ'ἂ^νὀξύ^λα^λόνπερἴ^δῃθήγοντοςὀδόντα^	HLLHLLHLLHHHLLHL	HLHHLLHLLHHHLLHL
+νι	πα^ραξόνι^α	σκινδα^λά^μωντεπα^ραξόνι^ασμι_λευμα^τοεργοῦ	HLLHLLHLLHHHLLHH	HLLHLLHL-L-HLLHH
+μι	σμι_λευμα^τοεργοῦ	σκινδα^λά^μωντεπα^ραξόνι^ασμι_λευμα^τοεργοῦ	HLLHLLHLLHHHLLHH	HLLHLLHL-L-HLLHH
+βά	ἱπποβά_μονα^.	ῥήμα^θ'ἱπποβά_μονα^	HLHLHLL	HHHLLLL
+φι	λοφι^ᾶς	φρίξαςδ'αὐτοκόμουλοφι^ᾶςλα^σι^αύχενα^χαίταν	HHHLLHLLHLLHLLHH	LHHLLHL-HL-HLLHH
+σι	λα^σι^αύχενα^	φρίξαςδ'αὐτοκόμουλοφι^ᾶςλα^σι^αύχενα^χαίταν	HHHLLHLLHLLHLLHH	LHHLLHL-HL-HLLHH
+νι	ἐπισκύ^νι^ον	δεινὸνἐπισκύ^νι^ονξυ^νά^γωνβρυ_χώμενοςἥσει	HLLHLLHLLHHHLLHH	HLLLL-HLLHHHLLHH
+φυ	φυ^σήμα^τι^.	γηγενεῖφυ^σήμα^τι^	HLHLHLL	HLHHHLL
+δα	γεννά^δα_,	ἀλλ'ὅπωςὦγεννά^δα_	HLHHHLH	HLHHHLL
+δύ	ἐπα^ναστρέφειν	ὁδ'ἐπα^ναστρέφεινδύ^νηταικἀ_περείδεσθαιτορῶς	LLLHLHLHHHLHHHLH	LLL-LHHHHLLHHHLH
+κἀ	δύ^νηται	ὁδ'ἐπα^ναστρέφεινδύ^νηταικἀ_περείδεσθαιτορῶς	LLLHLHLHHHLHHHLH	LLL-LHHHHLLHHHLH
+χἄ	χἄ_τεραι	εἰσβολαὶγά^ρεἰσι^πολλαὶχἄ_τεραισοφισμά^των	HLHLHLHHHLHLHLH	HLHLHLHHLLHLLLH
+κἀ	κἀ_ποκινδυ^νεύετον	τά^τεπα^λαιὰ^καὶτὰ^καινά^κἀ_ποκινδυ^νεύετονλεπτόντι^καὶσοφὸνλέγειν	LLLHLHLHLHLHLHLHHHLHLHLH	LLLHLHLHLLLHHHLHHHLHLHLH
+δυ	κἀ_ποκινδυ^νεύετον	τά^τεπα^λαιὰ^καὶτὰ^καινά^κἀ_ποκινδυ^νεύετονλεπτόντι^καὶσοφὸνλέγειν	LLLHLHLHLHLHLHLHHHLHLHLH	LLLHLHLHLLLHHHLHHHLHLHLH
+σι	δεξι^ά_·	βιβλί^οντ'ἔχωνἕκαστοςμανθά^νειτὰ^δεξι^ά_	HLHLHLHHHLHLHLH	-LHLHL-HLLHLH-L
+ά	δεξι^ά_·	βιβλί^οντ'ἔχωνἕκαστοςμανθά^νειτὰ^δεξι^ά_	HLHLHLHHHLHLHLH	-LHLHL-HLLHLH-L
+ρα	Πά^ρα^	πά^ρα^δὲπολλοῖσινμα^θεῖν	LLLHHHLH	LHLHHLLH
+λι	πα^ρα^λι^πόντα^	τά^τεμέγιστα^πα^ρα^λι^πόντα^	LLLHLLLLHL	LLLLLLL-HL
+τι	στι^βά^δα^ς	πράγμα^τά^τεκαὶστι^βά^δα^ςἃ_ςἔλα^χεφορμί^ων	HLLLHLLLHLLLHLH	HLLLH-LHHLLLHLH
+δα	στι^βά^δα^ς	πράγμα^τά^τεκαὶστι^βά^δα^ςἃ_ςἔλα^χεφορμί^ων	HLLLHLLLHLLLHLH	HLLLH-LHHLLLHLH
+πα	παλίγκοτος	μὴγένῃπαλίγκοτοςἀντιβολοῦσινἡμῖνὥστετήνδεμὴλα^βεῖν	HLHHLHLHLH	HLHLHLLHLLHLHHHLHLHLH
+πύ	ἀ^νερπύ^σαι.	δαιμόνι^α^βουλόμενοςεἰςἀ^γρὸνἀ^νερπύ^σαι	HLLLHLLLHLLLHLH	HLLLHLLLH-LLHHH
+γι	γεωργικὸν	πᾶσι^νὁπόσοιγεωργικὸνβίονἐτρίβομενμόνηγὰ^ρἡμᾶςὠφέλεις	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH
+ρί	ἐτρίβομεν·	πᾶσι^νὁπόσοιγεωργικὸνβίονἐτρίβομενμόνηγὰ^ρἡμᾶςὠφέλεις	HLLLHLHHLHHHLH	HLLLHLHLHLL-HLHLHLHHHLH
+κἀ	κἀ_δά^πα^να^	πολλὰ^γὰ^ρἐπάσχομενπρίνποτ'ἐπὶ^σοῦγλυ^κέα^κἀ_δά^πα^να^καὶφί^λα_	HLLLHLHHLLLHLLLHLLLHLH	HLLL-LHLLLLHLLLLLLLHLH
+λι	ἀμπέλι^α^	ὥστεσὲτά^τ'ἀμπέλι^α^καὶτὰ^νέα^συ_κί^δι^α^τἄλλα^θ'ὁπόσ'ἐστὶ^φυ^τὰ^προσγελά^σεταιλα^βόντ'ἄσμενα^	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLL	HLLLHL-LHLLHHL-LHLLLHLLLHLLLHLH-LL
+α	νέα^	ὥστεσὲτά^τ'ἀμπέλι^α^καὶτὰ^νέα^συ_κί^δι^α^τἄλλα^θ'ὁπόσ'ἐστὶ^φυ^τὰ^προσγελά^σεταιλα^βόντ'ἄσμενα^	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLL	HLLLHL-LHLLHHL-LHLLLHLLLHLLLHLH-LL
+δι	συ_κί^δι^α^	ὥστεσὲτά^τ'ἀμπέλι^α^καὶτὰ^νέα^συ_κί^δι^α^τἄλλα^θ'ὁπόσ'ἐστὶ^φυ^τὰ^προσγελά^σεταιλα^βόντ'ἄσμενα^	HLLLHLLLHLLLHLLLHLLLHLLLHLLLHLHHLL	HLLLHL-LHLLHHL-LHLLLHLLLHLLLHLH-LL
+κἀ	κἀ_πεμπίπτω	κἀ_πεμπίπτωκαὶσπουδάζω	HHHHHHHH	LHHHHHHH
+τι	ἀντι^βολῇ	ἀντι^βολῇμετὰ^τῶνπαίδωνχορεῦσαιμήθ'ὑ^πά^κουεμήτ'ἔλθῃςσυ^νέρι_θοςαὐτοῖςἀλλὰ^νόμιζεπάντας	HLLHLLHHHLHHHLLHLHHHLLHLHHHLLHLHL	H-LHLLHHHLHHHLLHLHHHLLHLHHHLLHLLL
+να	να_νοφυ^εῖς,	να_νοφυ^εῖςσφυ^ρά^δωνἀ^ποκνήσμα^τα^μηχα^νοδί_φας	HLLHLLHLLHLLHLLHH	LLLHHLHL-HLLHLLLH
+σφυ	σφυ^ρά^δων	να_νοφυ^εῖςσφυ^ρά^δωνἀ^ποκνήσμα^τα^μηχα^νοδί_φας	HLLHLLHLLHLLHLLHH	LLLHHLHL-HLLHLLLH
+δί	μηχα^νοδί_φας.	να_νοφυ^εῖςσφυ^ρά^δωνἀ^ποκνήσμα^τα^μηχα^νοδί_φας	HLLHLLHLLHLLHLLHH	LLLHHLHL-HLLHLLLH
+δα	δα_μώμα^τα^	τοιά^δεχρὴχα^ρί^τωνδα_μώμα^τα^καλλι^κόμων	HLLHLLHHHLLHLLH	HH-HLLHLHLLH-LH
+λι	καλλι^κόμων	τοιά^δεχρὴχα^ρί^τωνδα_μώμα^τα^καλλι^κόμων	HLLHLLHHHLLHLLH	HH-HLLHLHLLH-LH
+ρύ	γηρύ_σαντος	πικροτά^τηνὄπα^γηρύ_σαντοςἤκουσ'ἡνί^κα^τῶντρα^γῳδῶντὸνχορὸνεἶχονἁ_δελφόςτεκαὶαὐτόςἄμφω	HLLHLLHHHLHHHLLHLHHHLLHLHHHLLHLHH	-LLHLLHLHLHHHLLHLHHHLLHLHHHLHHLHH
+τι	βα^τι^δοσκόποι	γοργόνεςὀψοφά^γοιβα^τι^δοσκόποιἅρπυιαι	HLLHLLHLLHLLHHH	HLLHLLHL-HLHHHH
+γρα	γρα_οσόβαι	γρα_οσόβαιμι^α^ροίτρα^γομάσχα^λοιἰχθυ^ολῦμαι	HLLHLLHLLHLLHLLHH	LLLHLLHLL-LHHLLHH
+ὰ	θεὰ_	μοῦσα^θεὰ_μετ'ἐμοῦξύμπαιζετὴνἑορτήν	HLLHLLHHHLHLHH	HLLLLLHHHLHLHH
+νι	Εὐδαιμονι^κῶς	εὐδαιμονι^κῶςγ'ὁπρεσβύ_τηςὅσα^γ'ὧδ'ἰ^δεῖντὰ^νῦντά^δεπράττει	HHLLHLHHHLLHLHLHLLHH	HHL-H-HLHLLHLHLHL-HH
+βύ	πρεσβύ_της,	εὐδαιμονι^κῶςγ'ὁπρεσβύ_τηςὅσα^γ'ὧδ'ἰ^δεῖντὰ^νῦντά^δεπράττει	HHLLHLHHHLLHLHLHLLHH	HHL-H-HLHLLHLHLHL-HH
+τα	ὄντα_;	τί^δῆτ'ἐπειδὰννυμφί^ονμ'ὁρᾶτελαμπρὸνὄντα_	LHLHHHLHLHLHLHH	LHLHLHLHLHLHLHL
+κι	κι^νεῖν	ἅ^παντα^ςὄντα^ςἀσφα^λῶςκι^νεῖντεκαὶκα^θεύδειν	LHLHLHLHLHLHLHH	LLLHLLLHHHLHLHH
+μι	εἰμι_.	ὅταντρυ^γᾶτ'εἴσεσθεπολλῷμᾶλλονοἷόςεἰμι_	LHLHHHLHHHLHLHH	LLLHHHLHHHLHLHL
+τρυ	Τρυ^γαῖος	πολλῶνγὰ^ρὑ_μῖνἄ_ξι^οςτρυ^γαῖοςἁθμονεὺςἐγώ	HHLHHHLHLHLHLHLH	HHLHHLLHHHL-LHLH
+νυ	νυ_ν	ἄγ'ἐπείγετένυ_νἐνὅσῳσοβα^ρὰ_	LLHLLHLLHLLH	LLHLLLLLHLLL
+ρὰ	σοβα^ρὰ_	ἄγ'ἐπείγετένυ_νἐνὅσῳσοβα^ρὰ_	LLHLLHLLHLLH	LLHLLLLLHLLL
+βι	μετα^βι^βάζει.	εἰςἀ^γα^θὰ^μετα^βι^βάζει	HLLLLLLHH	HLLLLL-LH
+ρὶ	δευρὶ_	σχίζαςδευρὶ_τι^θέναιτα^χέως	HHHHLLHLLH	LHHLLLHLLH
+σα	σχίζα^	ἡσχίζα^γοῦνἐνημμένητὸνστιλβί^δηνπι^έζει	HHLHLHLHHHLHLHH	HLHHLHLHHHLHLHH
+φι	φι^ληδῶ	οὐγὰρφι^ληδῶμά^χαις	HHLHHLH	HL-HHLH
+τἂ	ἂ^ν	ἐκκέαςτῶνξύ^λωνἅττ'ἂ^νᾖδα_νότα^τα^τοῦθέρους	HLHHLHHLHHLLLHLH	HL-HLHHHHLLLLHLH
+δα	δα_νότα^τα^	ἐκκέαςτῶνξύ^λωνἅττ'ἂ^νᾖδα_νότα^τα^τοῦθέρους	HLHHLHHLHHLLLHLH	HL-HLHHHHLLLLHLH
+να	ἐκπεπρεμνισμένα_	ἐκπεπρεμνισμένα_	HLHHLH	H-H-LL
+χἄ	χἄ_μα^	χἄ_μα^τὴνθρᾷττανκυ^νῶν	HLHHHLH	LHHHHLH
+μα	χἄ_μα^	χἄ_μα^τὴνθρᾷττανκυ^νῶν	HLHHHLH	LHHHHLH
+κἀ	κἀ_πέχω	ἐσθί^ωκἀ_πέχω	HLHHLH	HLHLLH
+χἄ	χἄ_μα^	χἄ_μα^φήμ'ὧραιφί^λαικαὶτοῦθύ^μουτρί^βωνκυ^κῶμαι	HLHHHLHHHLHLHLHH	LHHHHLHHHLHHHLHH
+μα	χἄ_μα^	χἄ_μα^φήμ'ὧραιφί^λαικαὶτοῦθύ^μουτρί^βωνκυ^κῶμαι	HLHHHLHHHLHLHLHH	LHHHHLHHHLHHHLHH
+ρί	τρί^βων	χἄ_μα^φήμ'ὧραιφί^λαικαὶτοῦθύ^μουτρί^βωνκυ^κῶμαι	HLHHHLHHHLHLHLHH	LHHHHLHHHLHHHLHH
+ρι	δι^καστήρι^',	καὶτέληκαὶγρα^φαὶκαὶδι^καστήρι^'ὦβορβοροτά^ραξι^καὶτὴνπόλι^νἅ^πα_σα^νἡμῶνἀ^να^τετυρβα^κώς	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	HLHHLHHL-HHHHLLLHLHHLLLHLHHLLLHLH
+κἀ	κἀ_πὸ	κἀ_πὸτῶνπετρῶνἄ^νωθεντοὺςφόρουςθυννοσκοπῶν	HLHLHLHHHLHHHLH	LLH-HLHHHLHHHLH
+πι	ἔπι^θι^	καὶτὸπρᾶγμ'ἦνἄ^ρ'οὐφαῦλονὧδ'uἄλλ'ἔπι^θι^καὶστρόβειμηδὲνὀλί^γονπόεινῦνγὰ^ρἔχεταιμέσος	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH
+θι	ἔπι^θι^	καὶτὸπρᾶγμ'ἦνἄ^ρ'οὐφαῦλονὧδ'uἄλλ'ἔπι^θι^καὶστρόβειμηδὲνὀλί^γονπόεινῦνγὰ^ρἔχεταιμέσος	HLHHLHHLHHLHHLLLHLHHLLLHLHHLLLHLH	H-HHLHHLHHLLLHLHHLLLHLHHLLLHLH
+τί	Κρα^τί_νου	εἴσεμὴμι_σῶγενοίμηνἐνκρα^τί_νουκῴδι^ον	HLHHHLHHHLHHHLH	HLHHHLHHHLLHH-H
+δι	κῴδι^ον	εἴσεμὴμι_σῶγενοίμηνἐνκρα^τί_νουκῴδι^ον	HLHHHLHHHLHHHLH	HLHHHLHHHLLHH-H
+δί	τρα^γῳδί^ᾳ.	καὶδι^δασκοίμηνπροσᾴδεινμορσί^μουτρα^γῳδί^ᾳ	HLHHHLHHHLHLHLH	HLLHHLHHHLHLHHH
+πί	πυ_ροπί_πην,	τὸνοὐλί^ουτ'ἂ^νοἴομαιγέροντα^πυ_ροπί_πην	LHLHLHLHLHLHLHH	LHLHLHLHLHLLLLH
+πρυ	λαμπρυ_νομένων	μειρα^κί^ωνθ'ἅ^μιλλα^λαμπρυ_νομένωνἐνἅρμα^σιν	HLLHLHLHHLLHLHLH	HLLHLHLHLLLHLLLL
+νι	Σουνι^ά^ρα_τε,	δεῦρ'ἔλθ'εἰςχορόνὦχρυ_σοτρί^αιν'ὦδελφί_νωνμεδέωνσουνι^ά^ρα_τε	HHHLLHHLLHHHHHLLHHLLHL	HHHLLHH-LHHHHHLLHH-HLL
+ά	Σουνι^ά^ρα_τε,	δεῦρ'ἔλθ'εἰςχορόνὦχρυ_σοτρί^αιν'ὦδελφί_νωνμεδέωνσουνι^ά^ρα_τε	HHHLLHHLLHHHHHLLHHLLHL	HHHLLHH-LHHHHHLLHH-HLL
+ρα	Σουνι^ά^ρα_τε,	δεῦρ'ἔλθ'εἰςχορόνὦχρυ_σοτρί^αιν'ὦδελφί_νωνμεδέωνσουνι^ά^ρα_τε	HHHLLHHLLHHHHHLLHHLLHL	HHHLLHH-LHHHHHLLHH-HLL
+λι	πολι^οῦχε	ὦπολι^οῦχεπαλλά^ςὦτῆςἱ^ερωτά^τηςἁ^πα_σῶνπολέμῳτεκαὶποηταῖςδυ^νά^μειθ'ὑ^περφερούσηςμεδέουσα^χώρας	HLLHLHLHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH	HL-HLHHHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH
+λά	Παλλά^ς,	ὦπολι^οῦχεπαλλά^ςὦτῆςἱ^ερωτά^τηςἁ^πα_σῶνπολέμῳτεκαὶποηταῖςδυ^νά^μειθ'ὑ^περφερούσηςμεδέουσα^χώρας	HLLHLHLHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH	HL-HLHHHHLLHLHLHHLLHLHLHHLLHLHLHHLLHLHH
+πά	πά_σῃ	νῦνοὖνδεῦροφά^νηθι^δεῖγὰρτοῖςἀνδρά^σι^τοῖσδεπά_σῃτέχνῃπορί^σαισενί_κηνεἴπερποτὲκαὶνῦν	HHHLLHLHHHHLLHLHHHHLLHLHHHHLLHH	HHHLLHLHLHLLLHLLH-HLLHLHHHHLLHH
+νι	ἀ^γωνι^εῖ	ἀλλ'ὅπωςἀ^γωνι^εῖφρόντιζετἀ_πί^λοιπ'ἄ^ριστα^συμμά^χουςδ'ἡμᾶςἔχωνεὔνουςἐπίστα^σαιπά^λαι	HLHLHLHHHLHLHLHLHLHHHLHHHLHLHLH	HLHLH-HHHLLLHLHLLLHHHLHHHL-LHLH
+τἀ	τἀ_πί^λοιπ'	ἀλλ'ὅπωςἀ^γωνι^εῖφρόντιζετἀ_πί^λοιπ'ἄ^ριστα^συμμά^χουςδ'ἡμᾶςἔχωνεὔνουςἐπίστα^σαιπά^λαι	HLHLHLHHHLHLHLHLHLHHHLHHHLHLHLH	HLHLH-HHHLLLHLHLLLHHHLHHHL-LHLH
+κά	κά^λων	νῦνδήσεπάντα^δεῖκά^λωνἐξι_έναισεαυτοῦ	HHLHLHLHHHLHLHH	HHLLLHHHHHLHLHH
+ρι	θούρι^ον	καὶλῆμα^θούρι^ονφορεῖνκαὶλόγουςἀ^φύκτους	HHLHLHLHHLHLHH	HHLH-HLHHLHLLH
+δρα	ἄνδρα_.	πρὸςταῦθ'ὅπωςἔξειπολὺςκαὶλαμπρὸςεἰςτὸνἄνδρα_	HHLHLHLHHHLHLHH	HHLHHHLLHHLHLHL
+ρύ	τορύ_νη.	ὡςεἰμὴ'γένεθ'οὗτοςἐντῇπόλειμέγα^ςοὐκἂ^νἤστηνσκεύειδύ^οχρησί^μωδοῖδυξοὐδὲτορύ_νη	HHHLLHLHHLHLLHLHHHHLLHLHHHHLLHH	HHHLLHLHHLHLLHLHHHHL-HLHHHHLLLH
+δί	δεδί^α_σί^	ἀρχήνὅτεπάντεςἄνθρωποιδεδί^α_σί^σ'ὥσπερἄνδρα^τύ^ραννον	HHLLHLHHHLLHLHLHLLHL	HHLLHLHHHLHHLHLHLLLH
+σἂ	ἂ^ν	τούτωνὃςἂ^νᾖπα^χύς	HHLLHLH	HHLHHLL
+κἄ	κἄ_μ'	αὐτοὺςπερι^έρχομαιτοὺςοἰομένουςφρονεῖνκἄ_μ'ἐξα^πα^τύλλειν	HHLLHLHHHLLHLHHHLLHH	HHLLHLHHHLLHLHLHLLLH
+λυ	Λυ_σίστρα^τον,	μηδὲνεἰςλυ_σίστρα^τον	HLHHHLH	HLHL-LH
+τι	ἀ^νέστι^ον	μηδὲθούμαντιντὸνἀ^νέστι^οναὖ	HLHHHLLHLLH	HLHHLLLH-LH
+πυ	Πυ_θῶνι^	πυ_θῶνι^δί_ᾳμὴκα^κῶςπένεσθαι	HHLHHHLHLHH	LHLHHHLHLHH
+γά	γάρ	φα_σὶ^μὲνγάραὐτὸνἐρεπτόμενον	HLHHHLLHLLH	HLHLHLLHLLH
+ρύ	βα^ρύ_νεται,	καὶπα^λαιῷλακρα^τείδῃτὸσκέλοςβα^ρύ_νεται	HLHHHLHHHLHLHLH	HLHH-LHHHLHLLLH
+δι	Δι_ωκτέος	οἴχεταιδι_ωκτέοςδέμὴγὰ^ρἐγχά^νοιποτὲ	HLHHHLHLHLHLHLL	HLHLHLHLHLHLHLL
+να	ἵ^να^	κοὐκἀ^νήσωπρὶ^νἂνσχοῖνοςαὐτοῖσι^νἀντεμπα^γῶκαὶσκόλοψὀξύ^ςὀδυ^νηρόςἐπί^κωποςἵ^να^μήποτεπα^τῶσι^νἔτι^τὰ_ςἐμὰ_ςἀμπέλους	HLHHLHHLHHLHHLHHLHHLLLHLLLHLLLHLLLHLLLHLHHLH	HLHHLHHLHHLHHLHHLHHLLLHLLLHLLHHLLLHLLLHLHHLH
+τὶ	τουτὶ_	ἡρά^κλειςτουτὶ_τί^ἐστι^τὴνχύ^τρανσυντρίψετε	HLHHHLHLHLHHHLL	H-HHLLHLH-HHHLL
+μι	μι^α^ρὰ_	σὲμὲνοὖνκα^τα^λεύσομενὦμι^α^ρὰ_κεφα^λή	LLHLLHLLHLLHLLH	LLHLLHLLH-LLLLH
+ρὰ	μι^α^ρὰ_	σὲμὲνοὖνκα^τα^λεύσομενὦμι^α^ρὰ_κεφα^λή	LLHLLHLLHLLHLLH	LLHLLHLLH-LLLLH
+σα	ἠκούσα^τ';	ἀντὶ^δ'ὧνἐσπεισά^μηνἠκούσα^τ'ἀλλ'ἀ^κούσα^τε	HLHHHLHHHLHLHLL	HLHHHLHHHHHLHLL
+φι	φι^λανθρα^κέα_;	ἀ^πολεῖςἄ^ρ'ὁμήλι^κα^τόνδεφι^λανθρα^κέα_	LLHLLHLLHLLHLLH	LLHLLHLLHL-HLLL
+α	φι^λανθρα^κέα_;	ἀ^πολεῖςἄ^ρ'ὁμήλι^κα^τόνδεφι^λανθρα^κέα_	LLHLLHLLHLLHLLH	LLHLLHLLHL-HLLL
+ί	Οὑτοιί_	οὑτοιί_σοιχα^μαίκαὶσὺ^κα^τά^θουπά^λιντὸξί^φος	HLHHLHHLLLHLHHLH	HHLHLHHLLLHLLHLH
+νἁ	ἁ_γὼν	ὡςσκῆψι^νἁ_γὼνοὗτοςοὐκεἰσδέξεται	HHLHHHLHHHLH	HHLLHHLHHHLH
+ρὰ	φλεγυ^ρὰ_	δεῦρομοῦσ'ἐλθὲφλεγυ^ρὰ_πυ^ρὸςἔχουσα^μένος	HLHHLLLHLLLHLLL	HLHH-LLLHLLHLLH
+πυ	πυ^ρὸς	δεῦρομοῦσ'ἐλθὲφλεγυ^ρὰ_πυ^ρὸςἔχουσα^μένος	HLHHLLLHLLLHLLL	HLHH-LLLHLLHLLH
+λα	ἀ^νήλα^τ'	οἷονἐξἀνθρά^κωνπρι_νί^νωνφέψα^λοςἀ^νήλα^τ'ἐρεθιζόμενοςοὐρί^ᾳῥι_πί^δι^	HLHHLHHLHHLLLHLLLHLLLHLHHLL	HLHHLHHLHHLLLHHLLHLLLHLH-LL
+ρι	ῥι_πί^δι^,	οἷονἐξἀνθρά^κωνπρι_νί^νωνφέψα^λοςἀ^νήλα^τ'ἐρεθιζόμενοςοὐρί^ᾳῥι_πί^δι^	HLHHLHHLHHLLLHLLLHLLLHLHHLL	HLHHLHHLHHLLLHHLLHLLLHLH-LL
+κἂ	ἂ^ν	ἡνί^κ'ἂ^νἐπανθρα^κί^δεςὦσι^πα^ρα^κείμεναι	HLLLHLLLHLLLHLH	HLHLHLLLHLLLHLH
+α	Θα^σί^αν	οἱδὲθα^σί^ανἀ^να^κυ^κῶσι^λι^πα^ράμπυ^κα^	HLLLHLLLHLLLHLL	HLLLLLLLHL-LHLL
+λι	λι^πα^ράμπυ^κα^,	οἱδὲθα^σί^ανἀ^να^κυ^κῶσι^λι^πα^ράμπυ^κα^	HLLLHLLLHLLLHLL	HLLLLLLLHL-LHLL
+τἀ	τἀ_γορᾷ	οὐδ'ἐντυ^χὼνἐντἀ_γορᾷπρόσεισί^σοιβα^δίζων	HHLHHHLHLHLHLHH	HHLHHLLHLHLHLHH
+ρι	τρι^ά_κονθ'	πλεῖνἢτρι^ά_κονθ'ἡμέραςτοῦμηνὸςἑκάστου	HHLHHHLHHHLLHH	HH-LHHLHHHLL-H
+ά	τρι^ά_κονθ'	πλεῖνἢτρι^ά_κονθ'ἡμέραςτοῦμηνὸςἑκάστου	HHLHHHLHHHLLHH	HH-LHHLHHHLL-H
+θύ	ὑ^πευθύ_νους	κρα_τὴρκα^κῶντριπτὴρδι^κῶνφαίνεινὑ^πευθύ_νουςλυ^χνοῦχοςκαὶκύ^λιξτὰ^πρά_γμα^τ'ἐγκυ^κᾶσθαι	HHLHHHLHHHLHHHLHHHLHLHLHLHH	HHLHHHLHHHLHLH-HHHLHL-LHLHH
+τα	κα^τα_γείη	ἰσχυ_ρόνἐστι^νὦγά^θ'ὥστ'οὐκἂνκα^τα_γείηποτ'εἴπερἐκποδῶνκα^τωκά^ρα_κρέμαιτο	HHLHLHLHHHLHHHLHLHLHLHLHLHL	-HLHLHLHHLLLHHLHLHLHLHL-LHL
+γά	ἠργά^σα^το	ἠργά^σα^τοπάντα^κα^κά^κἀ_νέτρεπεκἀξέχει	HLLLHLLLHLLLHLH	HHLLLLLLL-LLHLH
+κἀ	κἀ_νέτρεπε	ἠργά^σα^τοπάντα^κα^κά^κἀ_νέτρεπεκἀξέχει	HLLLHLLLHLLLHLH	HHLLLLLLL-LLHLH
+κἀ	κἀ_μά^χετο	κἀ_μά^χετοκαὶπροσέτι^πολλὰ^προκα^λουμένου	HLLLHLLLHLLLHLH	LLLLHLLLHLLLHLH
+λα	μεγά^λα^	ἐπτέρωταίτ'ἐπὶ^τὸδεῖπνονἅ^μα^καὶμεγά^λα^δὴφρονεῖ	HLHHLLLHLLLHLLLHLH	HLHHLLLHLLLHLLHHLH
+τι	γερόντι^ον	ἢπά^νυ^γερόντι^ονἴ^σωςνενόμι^κάςμεσύ^	HLLLHLLLHLLLHLL	HLLLH-LHHLLLLLL
+νἴ	ἴ^σως	ἢπά^νυ^γερόντι^ονἴ^σωςνενόμι^κάςμεσύ^	HLLLHLLLHLLLHLL	HLLLH-LHHLLLLLL
+α	νέα^	εἶτα^πα^ρὰ^τόνδενέα^μοσχί^δι^α^συκί^δων	HLLLHLLLHLLLHLH	HLLLHLLHHL-LHLH
+δι	μοσχί^δι^α^	εἶτα^πα^ρὰ^τόνδενέα^μοσχί^δι^α^συκί^δων	HLLLHLLLHLLLHLH	HLLLHLLHHL-LHLH
+δί	ὁδί_,	καὶτὸτρί^τονἡμερί^δοςὄσχονὁγέρωνὁδί_	HLLLHLLLHLLLHLH	H-LLHLLLHLLLHLL
+τι	δειπνητι^κῶς	ἤκουσα^ςὡςμα^γειρι^κῶςκομψῶςτεκαὶδειπνητι^κῶςαὑτῷδι^α_κονεῖται	HHLHLHLHHHLHHHLHHHLHLHH	HHLHLHLHHHLHHH-HHH-LLHH
+δι	δι^α_κονεῖται;	ἤκουσα^ςὡςμα^γειρι^κῶςκομψῶςτεκαὶδειπνητι^κῶςαὑτῷδι^α_κονεῖται	HHLHLHLHHHLHHHLHHHLHLHH	HHLHLHLHHHLHHH-HHH-LLHH
+α	δι^α_κονεῖται;	ἤκουσα^ςὡςμα^γειρι^κῶςκομψῶςτεκαὶδειπνητι^κῶςαὑτῷδι^α_κονεῖται	HHLHLHLHHHLHHHLHHHLHLHH	HHLHLHLHHHLHHH-HHH-LLHH
+λι	λι^μῷ	ἀ^ποκτενεῖςλι^μῷ'μὲκαὶτοὺςγείτοναςκνί_σῃτεκαὶφωνῇτοιαῦτα^λάσκων	LHLHLHLHHHLHHHLHHHLHLHH	LHLHHHLHHHLLLHLHHHHHL-H
+κνί	κνί_σῃ	ἀ^ποκτενεῖςλι^μῷ'μὲκαὶτοὺςγείτοναςκνί_σῃτεκαὶφωνῇτοιαῦτα^λάσκων	LHLHLHLHHHLHHHLHHHLHLHH	LHLHHHLHHHLLLHLHHHHHL-H
+α	ξυγγρα^φέα_,	ἀντί^μα^χοντὸνψα^κά^δοςξυγγρα^φέα_τὸνμελέωνποιητήν	HLLHHLLHHLLHHLLHLHH	HLLHHLLHHLLLHLLHHHH
+σι	ἀ^νόσι^ά^	προδεδόμεθ'ἀ^νόσι^ά^τ'ἐπά^θομεν	LLLLLLLLLLLL	LLLLLL-LLLLH
+ἰ	ἰ^ώ·	ἰ^ὼἰ^ώ	LHLH	HHHH
+πι	ἔπι^θ'	ἔπα^γ'ἔπι^θ'ἐπί^φερεπολέμι^ον	LLLLLLLLLLLL	LLL-LLLLLLLH
+πα	Πα_νὶ^	πα_νὶ^νόμουςἱ^εροὺςἀ^να^φαίνω	HLLHLLHLLHH	LLLHLLHLLHH
+μα	χορεύμα^τ'	σεμνά^τεμητρὶ^χορεύμα^τ'ὀρείᾳ	HLLHLLHLLHH	HLLHLLHHLHH
+μι	συμμι^γῆ	συμμι^γῆβοὴνὁμοῦπτεροῖσι^κρέκοντεςἴ^ακχονἀ^πόλλω	HLHLHLHLHLLHLLHLLHH	L-HLHLHLHLLHLLHLLHH
+ρι	αἰθέρι^ον	δι^ὰ^δ'αἰθέρι^οννέφοςἦλθεβοά_	LLHLLHLLHLLH	LLHL-HLLHLLL
+ά	βοά_·	δι^ὰ^δ'αἰθέρι^οννέφοςἦλθεβοά_	LLHLLHLLHLLH	LLHL-HLLHLLL
+λα	ποικί^λα^	πτῆξεδὲφῦλά^τεποικί^λα^θηρῶν	HLLHLLHLLHH	HLLHLLHLHHH
+δι	προσόδι^α^	προσόδι^α^μεγά^λα^σεμνὰ^προσι^έναιθεοῖσι^νἅ^μα^δὲπροσέτι^χά^ρι^τοςἕνεκα^προβά^τι^όντι^θύ_ειν	LLLLLLLHLLLLHLHLLLLLLLLLLLLLLLLHLHH	LL-LLLHHLLLLHLHLLL-LLLLLLLLLLL-HLHH
+λα	μεγά^λα^	προσόδι^α^μεγά^λα^σεμνὰ^προσι^έναιθεοῖσι^νἅ^μα^δὲπροσέτι^χά^ρι^τοςἕνεκα^προβά^τι^όντι^θύ_ειν	LLLLLLLHLLLLHLHLLLLLLLLLLLLLLLLHLHH	LL-LLLHHLLLLHLHLLL-LLLLLLLLLLL-HLHH
+τι	προβά^τι^όν	προσόδι^α^μεγά^λα^σεμνὰ^προσι^έναιθεοῖσι^νἅ^μα^δὲπροσέτι^χά^ρι^τοςἕνεκα^προβά^τι^όντι^θύ_ειν	LLLLLLLHLLLLHLHLLLLLLLLLLLLLLLLHLHH	LL-LLLHHLLLLHLHLLL-LLLLLLLLLLL-HLHH
+πυ	Πυ_θι^ὰς	ἴ^τωἴ^τωἴ^τωδὲπυ_θι^ὰςβοά_συ^ναυλείτωδὲχαῖρι^ςᾠδᾷ	LHLHLHLHLHLHLHHHLHLHH	LHLHLHLL-HLLLHHHLHLHH
+θι	Πυ_θι^ὰς	ἴ^τωἴ^τωἴ^τωδὲπυ_θι^ὰςβοά_συ^ναυλείτωδὲχαῖρι^ςᾠδᾷ	LHLHLHLHLHLHLHHHLHLHH	LHLHLHLL-HLLLHHHLHLHH
+ά	βοά_,	ἴ^τωἴ^τωἴ^τωδὲπυ_θι^ὰςβοά_συ^ναυλείτωδὲχαῖρι^ςᾠδᾷ	LHLHLHLHLHLHLHHHLHLHH	LHLHLHLL-HLLLHHHLHLHH
+τἄ	τἄ_ρα^	εἶτ'αὖθι^ςαὖτἄ_ρα^σοι	HHLHHLH	HHLHLLH
+θύ	θύ_μα^τ'	τὰ^γὰρπα^ρόντα^θύ_μα^τ'οὐδὲνἄλλοπλὴνγένειόντ'ἐστὶ^καὶκέρα_τα^	LHLHLHLHLHLHLHHHLHLHL	LLLHLLLHLH-HLHHHLHLLL
+ρα	κέρα_τα^.	τὰ^γὰρπα^ρόντα^θύ_μα^τ'οὐδὲνἄλλοπλὴνγένειόντ'ἐστὶ^καὶκέρα_τα^	LHLHLHLHLHLHLHHHLHLHL	LLLHLLLHLH-HLHHHLHLLL
+λά	λά^θῃ	μήσελά^θῃθεῶντιςταύτῃπερῶν	HLLHLHHHHLH	HLHHLHLHHLH
+ά	πολυ^ά_νορα^	τά^χα^δὴπολυ^ά_νορα^τάνδεπόλιν	LLHLLHLLHLLH	LLHLLLLLHLLL
+δί	ὡδί_.	τύπτωνγετοῦτονὡδί_	HHLHLHH	HHLHLHL
+μα	Μα_νῆς	μα_νῆςγά^ρἐστι^δειλός	HHLHLHH	LHLHLHH
+τι	μαντι^κὰ^	τά^τεμουσί^χ'ὁμοῦτά^τεμαντι^κὰ^καὶτὰ^θα^λάττι^'ἔπειτα^δ'ὅπωςφρονί^μως	LLHLLHLLHLLHLLHLLHLLHLLH	LLHLLHLLH-LHLLLLLHLLHLLH
+μα	πράγμα^τ'	πολλὰ^δὴκαὶκαινὰ^καὶθαυμάστ'ἐπεπτόμεσθα^καὶδεινὰ^πράγμα^τ'εἴδομεν	HLHHHLHHHLHLHLHHLHLHLH	HLHHHLHH-LHLHLHHL-HHLH
+σἀ	ἀ_εὶ	τοῦτοτοῦμὲνἦροςἀ_εὶ	HLHLHLHH	HLHLHLLH
+να	ξυ^να_ριστῶσι^	ἔνθα^τοῖςἥρωσι^νἄνθρωποιξυ^να_ριστῶσι^καὶξύ^νεισι^πλὴντῆςἑσπέρας	HLHHHLHHHLHHHLHLHLHHHLH	HLHHHLHHHLL-HLHLHLHHHLH
+τἀ	τἀ_πὶ^	γυμνὸςἦνπληγεὶςὑ^π'αὐτοῦπάντα^τἀ_πὶ^δεξι^ά_	HLHHHLHHHLHLHLH	HLHHHLHHLLLLH-L
+σι	δεξι^ά_.	γυμνὸςἦνπληγεὶςὑ^π'αὐτοῦπάντα^τἀ_πὶ^δεξι^ά_	HLHHHLHHHLHLHLH	HLHHHLHHLLLLH-L
+ά	δεξι^ά_.	γυμνὸςἦνπληγεὶςὑ^π'αὐτοῦπάντα^τἀ_πὶ^δεξι^ά_	HLHHHLHHHLHLHLH	HLHHHLHHLLLLH-L
+σκι	Σκι^ά_ποσιν	πρὸςδὲτοῖςσκι^ά_ποσινλίμνητι^ςἔστ'ἄ^λουτοςοὗψυ_χα^γωγεῖσωκρά^της	HLHLHLHHHLHLHLHHLHHHLH	HLH-LLLHHLHLHLHHLHHHLH
+ά	Σκι^ά_ποσιν	πρὸςδὲτοῖςσκι^ά_ποσινλίμνητι^ςἔστ'ἄ^λουτοςοὗψυ_χα^γωγεῖσωκρά^της	HLHLHLHHHLHLHLHHLHHHLH	HLH-LLLHHLHLHLHHLHHHLH
+λι	προὔλι^πε,	ἔνθα^καὶπείσανδροςἦλθεδεόμενοςψυ_χὴνἰ^δεῖνἣζῶντ'ἐκεῖνονπροὔλι^πε	HLHHHLHLLLLHHHLHHHLHHHLH	HLHHHLHLLLLHHHLHHHLHHH-L
+ρυ	τρυ_γῶσι^	οἳθερίζουσίντεκαὶσπείρουσι^καὶτρυ_γῶσι^ταῖςγλώτταισι^συ_κά^ζουσί^τε	HLHHHLHHHLHHHLHHHLHLHLL	HLHHLLHHHLHLHLHHHLLHHLL
+συ	συ_κά^ζουσί^	οἳθερίζουσίντεκαὶσπείρουσι^καὶτρυ_γῶσι^ταῖςγλώτταισι^συ_κά^ζουσί^τε	HLHHHLHHHLHHHLHHHLHLHLL	HLHHLLHHHLHLHLHHHLLHHLL
+κἀ	Φί^λιπποι.	βάρβα^ροιδ'εἰσὶνγένουςγοργί^αιτεκαὶφί^λιπποικἀ_πὸτῶνἐγγλωττογαστόρωνἐκείνωντῶνφι^λίππων	HLHHHLHHLHLHLHHHLHHHLHLHLHHHLHH	LLHHLLHHLHLHLHHLLHHHL-LHLHHH-HH
+τι	Ἀττι^κῆς	παντα^χοῦτῆςἀττι^κῆςἡγλῶττα^χωρὶςτέμνεται	HLHHHLHHHLHHHLH	HLHHH-HHHLHLHLH
+μι	ξυ^νεκοίμι^σαν	μοῖραιξυ^νεκοίμι^σαν	HHLLHLH	HHLLH-L
+δὑ	ὑ^μεναίῳ.	ἐντοιῷδ'ὑ^μεναίῳ	LHHLLHH	HHHHLHH
+τὶ	Τουτὶ_	τουτὶ_μέντοιθαυμαστόν	HHHHHHL	HLHHH-H
+ά	εὐά_γητον	ἀρθῶμενφα^νεραὶδροσερὰνφύ^σι^νεὐά_γητον	HHHLLHLLHLLHHHH	HHHLLHLLHLLHLHH
+α	βα^ρυ^α_χέος	πατρὸςἀ^π'ὠκεα^νοῦβα^ρυ^α_χέος	HLLHLLHLLHLL	-LLHLLHLLLLH
+πι	ἔπι^	ὑψηλῶνὀρέωνκορυ^φὰ_ςἔπι^δενδροκόμουςἵ^να^τηλεφα^νεῖςσκοπι^ὰςἀ^φορώμεθα^	HHHLLHLLHLLHLLHLLHLLHLLHLLHLL	HHHLLHLLHL-HLLHLHHLLHLLHLLHLL
+να	ἵ^να^	ὑψηλῶνὀρέωνκορυ^φὰ_ςἔπι^δενδροκόμουςἵ^να^τηλεφα^νεῖςσκοπι^ὰςἀ^φορώμεθα^	HHHLLHLLHLLHLLHLLHLLHLLHLLHLL	HHHLLHLLHL-HLLHLHHLLHLLHLLHLL
+σἀ	ἀ_κά^μα^τον	ὄμμα^γὰ^ραἰθέροςἀ_κά^μα^τονσελα^γεῖται	HLLHLLHLLHLLHH	HLLHLLLLLHLLHH
+βρι	ὄμβρι^ον	ἀλλ'ἀ^ποσεισά^μεναινέφοςὄμβρι^ον	HLLHLLHLLHLL	HLLHLLHLLH-H
+βα	σέβα^ς	οὗσέβα^ςἀρρήτωνἱ^ερῶνἵ^να^μυστοδόκοςδόμοςἐντελεταῖςἁ^γί^αιςἀ^να^δείκνυ^ται	HLLHHHLLHLLHLLHLLHLLHLLHLLHLL	HLHHHHLLHLH-LLHLLHLLHLLHLLHLH
+να	ἵ^να^	οὗσέβα^ςἀρρήτωνἱ^ερῶνἵ^να^μυστοδόκοςδόμοςἐντελεταῖςἁ^γί^αιςἀ^να^δείκνυ^ται	HLLHHHLLHLLHLLHLLHLLHLLHLLHLL	HLHHHHLLHLH-LLHLLHLLHLLHLLHLH
+ρι	τρι^αίνης	τόντεμεγασθενῆτρι^αίνηςτα^μί^ανγῆςτεκαὶἁλμυ^ρᾶςθα^λάσσηςἄ^γρι^ονμοχλευτήν	HLLHLHLHHLLHHLLHLHLHHLLHLHH	HLL-LH-HHLLHHLHHLHL-H-LH-HH
+ρα	ὑψι^κέρα_τα^	ὑψι^κέρα_τα^πέτραν	HLLHLHH	LLLLL-H
+λι	πολι^οῦχος	ἥτ'ἐπι^χώρι^οςἡμετέρα_θεὸςαἰγί^δοςἡνί^οχοςπολι^οῦχοςἀ^θά_να_	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL
+σἀ	πολι^οῦχος	ἥτ'ἐπι^χώρι^οςἡμετέρα_θεὸςαἰγί^δοςἡνί^οχοςπολι^οῦχοςἀ^θά_να_	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL
+θά	Ἀ^θά_να_·	ἥτ'ἐπι^χώρι^οςἡμετέρα_θεὸςαἰγί^δοςἡνί^οχοςπολι^οῦχοςἀ^θά_να_	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL
+να	Ἀ^θά_να_·	ἥτ'ἐπι^χώρι^οςἡμετέρα_θεὸςαἰγί^δοςἡνί^οχοςπολι^οῦχοςἀ^θά_να_	HLLHLLHLLHLLHLLHLLHLLHLLHH	HLLHLLHLLHLLHLLHLLHL-HLHLL
+δι	Δι^όνυ_σος.	κωμαστὴςδι^όνυ_σος	HHHLLHH	H-H-LLH
+νυ	Δι^όνυ_σος.	κωμαστὴςδι^όνυ_σος	HHHLLHH	H-H-LLH
+δι	δι^ά^θρει	φρόντιζεδὴκαὶδι^ά^θρειπάντα^τρόποντεσαυτὸν	HHLHHLLHHLLHLHH	HHLHH-LHLLLHLHH
+δὶ	ὡδὶ_	μι_μούμενοςκαὶτοῖνποδοῖνὡδὶ_πα^ρενσα^λεύων	HHLHHHLHHHLHLHH	HHLHHHLHHLLHLHH
+νὶ	τουτονὶ_	βληχώμενοισὲτουτονὶ_πεινῶντα^κα^τα^λα^βόντες	HHLHLHLHHHLLLLHH	HHLHLHLLHHLLLLHH
+ρυ	γρυ_λίζοντες	ὑ_μεῖςδὲγρυ_λίζοντεςὑ^πὸφι^ληδί^ας	HHLHHHLLLLHLH	HH-LHHLLL-HLH
+φι	φι^ληδί^ας	ὑ_μεῖςδὲγρυ_λίζοντεςὑ^πὸφι^ληδί^ας	HHLHHHLLLLHLH	HH-LHHLLL-HLH
+λύ	μολύ_νουσάν	καὶμαγγα^νεύουσανμολύ_νουσάντετοὺςἑταίρους	HHLHHHLHHHLHLHH	HHLHHLLLHLLHLHH
+σι	τὸνχθιζι^νὸν	τά^χα^δ'ἂνδι^ὰ^τὸνχθιζι^νὸνἄνθρωπονὃςἡμᾶςδι^έδυ_πως	LLHLLHHLLHHLLHHLLHH	LLLLLHH-LHHLLHH-LHH
+τἴ	ἴ^σως	εἶτ'ἴ^σωςκεῖταιπυ^ρέττων	HLHHHLHH	HHHHHLHH
+σἁ	ἁ_νήρ.	ἔστι^γὰρτοιοῦτοςἁ_νήρ	HLHHHLHH	HLLHHLLH
+τἀ	τἀ_πὶ^	ἔσθι^εμηδ'ἀ^γα^νάκτεικαὶγὰ^ρἀ^νὴρπα^χὺ^ςἥκειτῶνπροδόντωντἀ_πὶ^θρᾴκης	HLLHLLHHHLLHLLHHHLHHHLHH	HLLHLLLHHLLHLLHHHLHHL-HH
+πα	πα_πί^α^·	μὰ^δί^'ἀλλ'ἰσχά^δα^ςὦπα_πί^α^ἥδι^ονγά^ροὐκἂνμὰ^δί^'εἰκρέμαισθέγ'ὑ_μεῖς	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH
+α	πα_πί^α^·	μὰ^δί^'ἀλλ'ἰσχά^δα^ςὦπα_πί^α^ἥδι^ονγά^ροὐκἂνμὰ^δί^'εἰκρέμαισθέγ'ὑ_μεῖς	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH
+δι	ἥδι^ον	μὰ^δί^'ἀλλ'ἰσχά^δα^ςὦπα_πί^α^ἥδι^ονγά^ροὐκἂνμὰ^δί^'εἰκρέμαισθέγ'ὑ_μεῖς	LLHHLLHHLLHLHLHHLLHLHLHH	LLH-LLHLLHH-HLHLLLHLHLHH
+τἄ	τἄ_ρα^	μὰ^δί^'οὔτἄ_ρα^προπέμψωσετὸλοιπόν	LLHHLLHHLLHH	LLHLLLHHLLHH
+νυ	νυ_ν,	ἄ^γενυ_νὦπά^τερἢνμὴτὸδι^καστήρι^ονἅρχων	LLHHLLHHLLHHLLHH	LLLHLLHHLL-H-LHH
+ρι	δι^καστήρι^ον	ἄ^γενυ_νὦπά^τερἢνμὴτὸδι^καστήρι^ονἅρχων	LLHHLLHHLLHHLLHH	LLLHLLHHLL-H-LHH
+θἄ	ἄ_ριστον;	κα^θί^σῃνῦνπόθενὠνησόμεθ'ἄ_ριστονἔχειςἐλπί^δα^χρηστήντι^να^νῷνἢπόρονἕλλαςἱερόν	LLHHLLHHLLHHLLHHLLHHLLHH	LLHHLLHHLLL-LLHHLLHHLLHHLLHHLLH
+κι	θυ_λά^κι^ον,	ἀ^νόνητονἄ^ρ'ὦθυ_λά^κι^ονσ'εἶχονἄ^γαλμα^	LLHLLHHLLHHLLHL	LLHLLHHL-HHLLLL
+κἀ	κἀ_ποκλείων	κἀ_ποκλείωντῇθύ^ρᾳλέξονπρὸςεὔνουςγὰρφρά^σεις	HLHHHLHHHLHHHLH	L-HHHLHHHLHHLLH
+σἁ	ἁ_νὴρ	τοῦτ'ἐτόλμησ'ὁμι^α^ρὸςχα^νεῖνὁδημολογοκλέωνὅδ'ὅτι^λέγειςσύ^τι^περὶ^τῶννεῶνἀ^ληθέςοὐγὰ^ρἄνποθ'οὗτοςἁ_νὴρτοῦτ'ἐτόλμησενλέγεινεἰμὴξυ^νωμότηςτι^ςἦν	HLHHLLLHLHLHLLLLHLLLLHLLLLHLHLHLHLHLHLHHHLHHHLHHHLHLHLH	HLHHLLLHLHLHLL-LHLLLLHLLLLHLHLHLHLLLHLLHHLHHHLHHHLHLHLH
+δι	δι^α^τρα^γεῖν	δι^α^τρα^γεῖντοίνυνκρά^τιστόνἐστί^μοιτὸδίκτυ^ον	LLLHHHLHLHLHLHLH	--LHHLLLLHLHLHLH
+δι	δέδι^θι^,	μηδένὦτᾶνδέδι^θι^μηδένὡςἐγὼτοῦτόνγ'ἐὰνγρύξῃτι^ποιήσωδα^κεῖντὴνκαρδί^ανκαὶτὸνπερὶψυ_χῆςδρόμονδρα^μεῖνἵ^ν'εἰδῇμὴπα^τεῖντὰ^ταῖνθεαῖνψηφίσμα^τα^	HLHHLLLHLHLHHHLHHHLHHHLHHHLHHHLHHHLHLHLHHHLHLHLHHHLL	HLHHL-LHLHLHHHLLHHLHHHLHHHLHHHLLHHLHLHLHHHLHLHLHHLLL
+γὰ	γὰρ	τόνδελέγεινὁρᾷςγὰρὥςσοιμέγα^ςἐστὶ^νἁ_γὼν	HLLHLHH	HLLHLHLHHLLHLLH
+δί	ὁδί_	τί^γάρφα^θ'ὑ_μεῖςἢνὁδί_μετῷλόγῳκρα^τήσῃ	LHLHHHLHLHLHLHH	LLLHHHLLLHLHLHH
+μι	εἰμι_.	κα^λῶςγὰ^ρᾔδεινὡςἐγὼταύτῃκρά^τιστόςεἰμι_	LHLHHHLHHHLHLHH	LHLHHHLHHHLLLHL
+μα	πράγμα^θ',	νενουθέτηκεναὑτὸνἐςτὰ^πράγμα^θ'οἷς	LHLHLHLHLHLH	LHLHLHLHL-HH
+πύ	Πύ_θι^',	ὦφοῖβ'ἄ^πολλονπύ_θι^'ἐπ'ἀ^γα^θῇτύ^χῃ	HHLHHHLLLLHLH	HHLHHL-LLLHLH
+θι	Πύ_θι^',	ὦφοῖβ'ἄ^πολλονπύ_θι^'ἐπ'ἀ^γα^θῇτύ^χῃ	HHLHHHLLLLHLH	HHLHHL-LLLHLH
+α	νεα^νι^κὴν	νεα^νι^κὴνσχεῖνὡςἐγὼτοὐμὸννομίζω	LLLHHHLHHHLHH	LH-HHHLHHHLHH
+νι	νεα^νι^κὴν	νεα^νι^κὴνσχεῖνὡςἐγὼτοὐμὸννομίζω	LLLHHHLHHHLHH	LH-HHHLHHHLHH
+α	νεα^νι^ῶν	γῆρα^ςεἶναικρεῖττονἢπολλῶνκι^κίννουςνεα^νι^ῶνκαὶσχῆμα^κεὐρυ^πρωκτί^αν	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH
+τί	κεὐρυ^πρωκτί^αν.	γῆρα^ςεἶναικρεῖττονἢπολλῶνκι^κίννουςνεα^νι^ῶνκαὶσχῆμα^κεὐρυ^πρωκτί^αν	HLHHHLHHHLHHLLLHHLHLHLH	HLHHHLHHHLLHLHLHHHLH-HLH
+νἴ	ἂ^ν	τά^χα^δ'ἂ^νἴ^σωςοὐκἐθέλοι	LLLLHHLLH	LLLHHHLLH
+σἀ	ἀ^εί.	φύ^σεωςἣνἔχοιτι^ςἀ^εί	LHHLHLLH	LLHHLHLLH
+φι	φι^λοπα^τρί^αν	τυ^χὼνἄ^πεισινδι^ὰ^τὴνφι^λοπα^τρί^ανκαὶσοφί^αν	LHLHHLLHLLLLHHLLL	LHLHLLLH-L-LHHLLH
+φι	Φι^λοκλέωνος.	ὁπαῖςὁφι^λοκλέωνος	LHLLLLHL	LHL--LHH
+ἀ	Ἀ_γι^δῶς	ἀ_γι^δῶςτὸφῶςὁρῶ	HLHLHLH	L-HLHLH
+γι	Ἀ_γι^δῶς	ἀ_γι^δῶςτὸφῶςὁρῶ	HLHLHLH	L-HLHLH
+τἄ	ἄ_λι^ον,	ϝ'ὥτ'ἄ_λι^ονὅνπερἇμι_ν	HHLLHLHH	HL-LHLHL
+λι	ἄ_λι^ον,	ϝ'ὥτ'ἄ_λι^ονὅνπερἇμι_ν	HHLLHLHH	HL-LHLHL
+ἀ	Ἀ_γι^δὼ	ἀ_γι^δὼμαρτύ_ρεται	HLHHHLH	L-HHLLH
+γι	Ἀ_γι^δὼ	ἀ_γι^δὼμαρτύ_ρεται	HLHHHLH	L-HHLLH
+τύ	μαρτύ_ρεται	ἀ_γι^δὼμαρτύ_ρεται	HLHHHLH	L-HHLLH
+νι	νι^ν	οὔτεμωμήσθαινι^νἁ_κλεννὰ_χορα_γὸς	HLHHHLHHHLHH	HLHHH-HHLLLH
+νὰ	κλεννὰ_	οὔτεμωμήσθαινι^νἁ_κλεννὰ_χορα_γὸς	HLHHHLHHHLHH	HLHHH-HHLLLH
+ρα	χορα_γὸς	οὔτεμωμήσθαινι^νἁ_κλεννὰ_χορα_γὸς	HLHHHLHHHLHH	HLHHH-HHLLLH
+δἁ	ἁ^μῶς	οὐδ'ἁ^μῶςἐῆιδοκεῖγὰ^ρἤμεναὔτα_	HLHLHLHLHLHH	HHHLHLHLHLHL
+τα	αὔτα_	οὐδ'ἁ^μῶςἐῆιδοκεῖγὰ^ρἤμεναὔτα_	HLHLHLHLHLHH	HHHLHLHLHLHL
+στά	στά_σειεν	ἐκπρεπὴςτὼςὥπεραἴτι^ςἐνβοτοῖςστά_σειενἵππον	HLHHHLHLHLHHHLHH	HLHHHLHLHLHLHLHH
+πα	πα_γὸν	πα_γὸνἀ^εθλοφόρονκα^να^χά_ποδα^	HLLHLLHLLHLL	LLL-LLHLLLLL
+χά	κα^να^χά_ποδα^	πα_γὸνἀ^εθλοφόρονκα^να^χά_ποδα^	HLLHLLHLLHLL	LLL-LLHLLLLL
+ἁ	ἁ_γὼ	ἁ_γὼδι^καιῶνμὴπα^ρ'ἀγγέλωντέκνα^	HHLHHHLHLHHL	LHLHHHLHLH-L
+τί	κα^τοικτί_ρων	εἴηντοιάνδεμὴοὐκα^τοικτί_ρωνἕδρα_ν	HHLHLLHLHHHLH	HHHHLHHLHLH-H
+θα	θα_κεῖ,	ἀ^γοραῖσι^θα_κεῖπρόςτεπαλλά^δοςδι^πλοῖς	LLHLHHHLHLHLH	LLHLLHHLHLH-H
+κυ	Θουκυ_δί^δης	θουκυ_δί^δηςἀ^θηναῖοςξυ^νέγρα^ψετὸνπόλεμοντῶνπελοποννησί^ων	HHLHLHHHLHHLHLLHHLLHHLH	HLLHLHHHL-LLHLLHHLLHHLH
+λι	Καλλι^όπη	καλλι^όπηφα^έθοντα^τὸνεὐ_ρυ^φά^εσσα^βοῶπι_ς	HLLHLLHLLHLLHLLHH	H-LHLLHLLHLLHLLHL
+ρί	Ὑ^περί_ων	γῆμεγὰ^ρεὐ_ρυ^φά^εσσα^νἀ^γακλειτὴνὑ^περί_ων	HLLHLLHLLHHHLLHH	HLLHLLHLLLHHLLLH
+κα	κα_λὸν	τηλαυγέςκα_λὸνδὲπερὶ^χροῒ^λάμπεταιἔσθος	HHHHHLLHLLHLLHH	HHHLHLLLLLHLHHH
+μι	ἡμι^θέων	ἡμι^θέωνὧνἔργα^θεοὶθνητοῖσι^νἔδειξα^ν	HLLHHHLLHHHLLHH	H-LHHHLLHHHLLHL
+α	ἰ_τέα^ν	ἐγκέλα^δονἰ_τέα^νἐςμέσηνθενὼνδορὶ^	HLLLHLLHLHLHLL	HLLLHLHHLHLHLL

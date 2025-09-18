@@ -21,7 +21,7 @@ def extract_syllables(text):
     
     return syllables
 
-def word_and_syll_baselines():
+def word_and_syll_baselines(print_output=False):
     input_dir = "norma-syllabarum-graecarum/final"
     
     all_words = []
@@ -30,14 +30,12 @@ def word_and_syll_baselines():
     for filename in sorted(os.listdir(input_dir)):
         if filename.endswith('.txt'):
             filepath = os.path.join(input_dir, filename)
-            print(f"Processing {filename}...")
             
             with open(filepath, 'r', encoding='utf-8') as f:
                 text = f.read()
                 
                 # Extract words
                 words = word_list(text)
-                print(words)
                 all_words.extend(words)
                 
                 # Extract syllables
@@ -47,31 +45,31 @@ def word_and_syll_baselines():
     # Count frequencies
     word_counts = Counter(all_words)
     syllable_counts = Counter(all_syllables)
-    
-    print(f"\nBASELINE STATISTICS:")
-    print("=" * 50)
-    print(f"Total unique words: {len(word_counts)}")
-    print(f"Total word instances: {len(all_words)}")
-    print(f"Total unique syllables: {len(syllable_counts)}")
-    print(f"Total syllable instances: {len(all_syllables)}")
-    
-    print(f"\nTop 20 most common words:")
-    print("-" * 40)
-    for i, (word, count) in enumerate(word_counts.most_common(20), 1):
-        percentage = (count / len(all_words)) * 100
-        print(f"{i:2d}. {word:15s} - {count:5d} times ({percentage:.2f}%)")
-    
-    print(f"\nTop 20 most common syllables:")
-    print("-" * 40)
-    for i, (syllable, count) in enumerate(syllable_counts.most_common(20), 1):
-        percentage = (count / len(all_syllables)) * 100
-        print(f"{i:2d}. {syllable:15s} - {count:5d} times ({percentage:.2f}%)")
-    
-    print(f"\nBaseline counts saved to:")
-    print(f"- baseline_word_counts.txt")
-    print(f"- baseline_syllable_counts.txt")
+    if print_output:
+        print(f"\nBASELINE STATISTICS:")
+        print("=" * 50)
+        print(f"Total unique words: {len(word_counts)}")
+        print(f"Total word instances: {len(all_words)}")
+        print(f"Total unique syllables: {len(syllable_counts)}")
+        print(f"Total syllable instances: {len(all_syllables)}")
+        
+        print(f"\nTop 20 most common words:")
+        print("-" * 40)
+        for i, (word, count) in enumerate(word_counts.most_common(20), 1):
+            percentage = (count / len(all_words)) * 100
+            print(f"{i:2d}. {word:15s} - {count:5d} times ({percentage:.2f}%)")
+        
+        print(f"\nTop 20 most common syllables:")
+        print("-" * 40)
+        for i, (syllable, count) in enumerate(syllable_counts.most_common(20), 1):
+            percentage = (count / len(all_syllables)) * 100
+            print(f"{i:2d}. {syllable:15s} - {count:5d} times ({percentage:.2f}%)")
 
-    return word_counts, syllable_counts
+    # Convert Counters to regular dictionaries
+    word_dict = dict(word_counts)
+    syllable_dict = dict(syllable_counts)
+
+    return word_dict, syllable_dict
 
 if __name__ == "__main__":
-    word_and_syll_baselines()
+    word_and_syll_baselines(print_output=True)
