@@ -6,6 +6,8 @@ Testing macronized and unmacronized rule-based scansion against Hypotactic
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 import re
+import signal
+import sys
 import torch
 from torch.nn.functional import softmax
 from tqdm import tqdm
@@ -16,48 +18,27 @@ from syllagreek_utils import preprocess_greek_line, syllabify_joined
 
 print("Imports complete.")
 
+def handle_sigint(sig, frame):
+    print("\nInterrupted with Ctrl+C. Exiting cleanly...")
+    sys.exit(0)
+
+signal.signal(signal.SIGINT, handle_sigint)
+
+def load_macronizer(model_path="./macronizer_mini"):
+    tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=True, local_files_only=True)
+    dtype = torch.bfloat16 if torch.cuda.is_available() else torch.float32
+    model = AutoModelForTokenClassification.from_pretrained(model_path, torch_dtype=dtype, local_files_only=True)
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device).eval()
+    return model, tokenizer, device
+
+model, tokenizer, device = load_macronizer()
+
 def macronizer_scan(line):
 
-  # -------- Load Model and Tokenizer (RoBERTa) --------
-  model_path = "Ericu950/macronizer_mini"
-  tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=True)
-  # Use bfloat16 on CUDA if available; fall back to float32 on CPU
-  dtype = torch.bfloat16 if torch.cuda.is_available() else torch.float32
-  model = AutoModelForTokenClassification.from_pretrained(model_path, torch_dtype=dtype)
-
-  device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-  model.to(device)
-  model.eval()
-
-  # -------- Preprocess and Syllabify --------
   tokens = preprocess_greek_line(line)
   syllables = syllabify_joined(tokens)
 
-  # -------- Tokenize Input (pre-split syllables) --------
-  inputs = tokenizer(
-      syllables,
-      is_split_into_words=True,
-      return_tensors="pt",
-      truncation=True,
-      max_length=512,         # RoBERTa typical max length
-      padding="max_length"    # keep if your model expects fixed length
-  )
-  print("Tokenization complete.")
-
-  # RoBERTa doesn't use token_type_ids, but remove if present to be safe
-  if "token_type_ids" in inputs:
-      del inputs["token_type_ids"]
-
-  inputs = {k: v.to(device) for k, v in inputs.items()}
-
-  # -------- Predict --------
-  with torch.no_grad():
-      outputs = model(**inputs)
-      logits = outputs.logits  # [batch, seq_len, num_labels]
-      probs = softmax(logits, dim=-1)
-      pred_ids = torch.argmax(probs, dim=-1).squeeze(0).cpu().tolist()
-
-  # -------- Tokenize Input (pre-split syllables) --------
   tokenized = tokenizer(
       syllables,
       is_split_into_words=True,
@@ -73,7 +54,7 @@ def macronizer_scan(line):
 
   inputs = {k: v.to(device) for k, v in tokenized.items()}
 
-  # -------- Predict --------
+  # -------- Run inference to get pred_ids --------
   with torch.no_grad():
       outputs = model(**inputs)
       logits = outputs.logits  # [batch, seq_len, num_labels]
@@ -82,7 +63,7 @@ def macronizer_scan(line):
 
   # -------- Align Predictions with Syllables (first subtoken per word) --------
   # Preferred: use BatchEncoding.word_ids(batch_index=0)
-  word_ids = tokenized.word_ids(batch_index=0)   # <-- FIX: no () on a list; this is a method on BatchEncoding
+  word_ids = tokenized.word_ids(batch_index=0)
 
   aligned_preds = []
   seen = set()
@@ -288,14 +269,20 @@ def compare_predicted_scansion_with_gold(txt_files, debug=False):
   return failed_lines, failed_lines_baseline, total_lines
 
 
-# Kör jämförelsen på hela eller valfri del av hypotactic
-dir_path = os.path.expanduser("~/git/hypotactic/hypotactic_txts_greek/")
-txt_files = [os.path.join(dir_path, f) for f in os.listdir(dir_path) if f.endswith('.txt')]
-#txt_files = [os.path.join(dir_path, "cleanthes.txt")]
+if __name__ == "__main__":
+    try:
+        # Kör jämförelsen på hela eller valfri del av hypotactic
+        dir_path = "hypotactic/hypotactic_txts_greek/"
+        txt_files = [os.path.join(dir_path, f) for f in os.listdir(dir_path) if f.endswith('.txt')]
+        #txt_files = [os.path.join(dir_path, "cleanthes.txt")]
 
-failed_lines, failed_lines_baseline, total_lines = compare_predicted_scansion_with_gold(txt_files, debug=False)
-print(f"Macronized: Failed {failed_lines} out of {total_lines}, {failed_lines / total_lines}")
-print(f"Unmacronized baseline: Failed {failed_lines_baseline} out of {total_lines}, {failed_lines_baseline / total_lines}")
-with open("macronizer_benchmark_hypotactic.txt", "w", encoding="utf-8") as out_file:
-  out_file.write(f"Macronized: Failed {failed_lines} out of {total_lines}, {failed_lines / total_lines}\n")
-  out_file.write(f"Unmacronized baseline: Failed {failed_lines_baseline} out of {total_lines}, {failed_lines_baseline / total_lines}\n")
+        failed_lines, failed_lines_baseline, total_lines = compare_predicted_scansion_with_gold(txt_files, debug=False)
+        print(f"Macronized: Failed {failed_lines} out of {total_lines}, {failed_lines / total_lines}")
+        print(f"Unmacronized baseline: Failed {failed_lines_baseline} out of {total_lines}, {failed_lines_baseline / total_lines}")
+        with open("macronizer_benchmark_hypotactic.txt", "w", encoding="utf-8") as out_file:
+            out_file.write(f"Macronized: Failed {failed_lines} out of {total_lines}, {failed_lines / total_lines}\n")
+            out_file.write(f"Unmacronized baseline: Failed {failed_lines_baseline} out of {total_lines}, {failed_lines_baseline / total_lines}\n")
+    except KeyboardInterrupt:
+        # Fallback if signal handler didn’t catch it
+        print("\nInterrupted. Exiting...")
+        sys.exit(0)
